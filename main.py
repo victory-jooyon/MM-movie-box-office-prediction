@@ -1,3 +1,4 @@
+import os
 import argparse
 import time
 
@@ -29,6 +30,9 @@ def main():
     # Load model
     model = SomeModel().to(args.device)
     model = nn.DataParallel(model)
+
+    if args.resume is not None:
+        model.load_state_dict(torch.load(os.path.join(args.weight_dir, args.resume + '.pt'), map_location=args.device))
 
     # Load criterion & optimizer
     criterion = nn.MSELoss()
@@ -62,6 +66,9 @@ def parse_args():
 
     args, _ = parser.parse_known_args()
     args.device = torch.device(args.device if torch.cuda.is_available() else 'cpu')
+
+    os.makedirs(args.weight_dir, exist_ok=True)
+    os.makedirs(args.data_dir, exist_ok=True)
 
     return args
 
