@@ -7,10 +7,10 @@ import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import DataLoader
 
-from .model.model import SomeModel
-from .dataset import MovieDataset
-from .trainer import Trainer
-from .evaluation.evaluate import Evaluator
+from network.network import MultimodalPredictionModel
+from data.dataset import MovieDataset
+from trainer import Trainer
+from evaluate import Evaluator
 
 
 def main():
@@ -20,15 +20,15 @@ def main():
     args = parse_args()
 
     # Load dataset
-    train_loader = DataLoader(MovieDataset(mode='train'), args.batch_size,
+    train_loader = DataLoader(MovieDataset(mode='train'), batch_size=args.batch_size,
                               shuffle=True, num_workers=args.num_workers)
-    valid_loader = DataLoader(MovieDataset(mode='valid'), args.batch_size,
+    valid_loader = DataLoader(MovieDataset(mode='valid'), batch_size=32,
                               shuffle=False, num_workers=args.num_workers)
-    test_loader = DataLoader(MovieDataset(mode='test'), args.batch_size,
+    test_loader = DataLoader(MovieDataset(mode='test'), batch_size=32,
                              shuffle=False, num_workers=args.num_workers)
 
     # Load model
-    model = SomeModel().to(args.device)
+    model = MultimodalPredictionModel().to(args.device)
     model = nn.DataParallel(model)
 
     if args.resume is not None:
@@ -53,7 +53,7 @@ def main():
 def parse_args():
     parser = argparse.ArgumentParser('Multimodal box office prediction')
     parser.add_argument('--epochs', default=30, type=int, help='Total epochs to train')
-    parser.add_argument('--batch_size', default=8, type=int, help='Batch size')
+    parser.add_argument('--batch_size', default=4, type=int, help='Batch size')
     parser.add_argument('--valid_interval', default=1, type=int, help='Validation interval')
     parser.add_argument('--lr', default=0.0001, type=float, help='Train learning rate')
     parser.add_argument('--num_workers', default=4, type=int, help='Number of workers for loader')
@@ -62,13 +62,11 @@ def parse_args():
     parser.add_argument('--weight_dir', default='./weight', type=str, help='Weight save/load directory')
     parser.add_argument('--resume', default=None, type=str, choices=['best', 'last', None],
                         help='Where to resume')
-    parser.add_argument('--data_dir', default='./data', type=str, help='Data save/load directory')
 
     args, _ = parser.parse_known_args()
     args.device = torch.device(args.device if torch.cuda.is_available() else 'cpu')
 
     os.makedirs(args.weight_dir, exist_ok=True)
-    os.makedirs(args.data_dir, exist_ok=True)
 
     return args
 

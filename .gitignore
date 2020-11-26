@@ -136,3 +136,5 @@ dmypy.json
 
 # Mac OS X
 .DS_Store
+
+data/add_review.py
