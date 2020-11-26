@@ -27,8 +27,9 @@ class Trainer:
             for i, data in enumerate(pbar):
                 # Load data
                 poster, review, overview, true_revenue = data
-                poster, review = poster.to(self.args.device), review.to(self.args.device)
-                overview, true_revenue = overview.to(self.args.device), true_revenue.to(self.args.device)
+                poster, true_revenue = poster.to(self.args.device), true_revenue.to(self.args.device)
+                for key in overview.keys():
+                    overview[key], review[key] = overview[key].to(self.args.device), review[key].to(self.args.device)
 
                 # Forward model & Get loss
                 pred_revenue = self.model(overview, poster, review)

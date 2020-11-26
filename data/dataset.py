@@ -19,13 +19,18 @@ class MovieDataset(Dataset):
             movie_data = json.load(f)
         self.ids, self.poster_urls, self.reviews, self.overviews, self.revenues = [], [], [], [], []
         for data in tqdm(movie_data, total=len(movie_data), desc=f'Loading {mode} dataset'):
-            if not data['tmdb']['reviews']:
-                continue
+            # if not data['tmdb']['reviews']:
+            #     continue
+            # self.ids.append(data['id'])
+            # self.poster_urls.append(data['tmdb']['poster'])
+            # self.overviews.append(data['tmdb']['overview'])
+            # self.reviews.append(data['tmdb']['reviews'][0])
+            # self.revenues.append(int(data['revenue']))
             self.ids.append(data['id'])
-            self.poster_urls.append(data['tmdb']['poster'])
-            self.overviews.append(data['tmdb']['overview'])
-            self.reviews.append(data['tmdb']['reviews'][0])
-            self.revenues.append(int(data['revenue']))
+            self.poster_urls.append(data['poster'])
+            self.overviews.append(data['overview'])
+            self.reviews.append(data['review'])
+            self.revenues.append(data['revenue'])
 
         # Split data
         total_len = len(self.ids)
@@ -71,9 +76,7 @@ class MovieDataset(Dataset):
         revenue = self.revenues[idx]
 
         # Preprocess data
-        print(url)
-        res = requests.get(url, stream=True)
-        print(res.status_code, type(res.status_code))
+        res = requests.get('https://image.tmdb.org/t/p/original' + url, stream=True)
         image = Image.open(BytesIO(res.content))
         image = self.image_process(image)
         review, review_len = self.get_tokenized(review)
