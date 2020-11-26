@@ -77,10 +77,10 @@ class MovieDataset(Dataset):
 
         # Preprocess data
         res = requests.get('https://image.tmdb.org/t/p/original' + url, stream=True)
-        image = Image.open(BytesIO(res.content))
+        image = Image.open(BytesIO(res.content)).convert('RGB')
         image = self.image_process(image)
         review, review_len = self.get_tokenized(review)
         overview, overview_len = self.get_tokenized(overview)
-        revenue = torch.tensor(revenue)
+        revenue = torch.tensor(revenue, dtype=torch.float32).unsqueeze(-1)
 
         return image, review, overview, revenue

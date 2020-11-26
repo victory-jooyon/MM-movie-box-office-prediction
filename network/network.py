@@ -24,7 +24,7 @@ class MultimodalPredictionModel(nn.Module):
         imdb_feature = self.imdb(imdb_tok)
 
         # [feature_size * 3]
-        total_feature = torch.cat((tmdb_feature, poster_feature, imdb_feature), dim=0)
+        total_feature = torch.cat((tmdb_feature, poster_feature, imdb_feature), dim=1)
 
         # [1]
         output = self.fc(total_feature)
