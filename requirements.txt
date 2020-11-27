@@ -1,0 +1,6 @@
+torch==1.7.0
+scikit-image==0.17.2
+tqdm==4.53.0
+bpython==0.20.1
+transformers==3.5.1
+torchvision==0.8.1
