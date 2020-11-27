@@ -3,6 +3,7 @@ import requests
 from io import BytesIO
 from PIL import Image
 from tqdm import tqdm
+import numpy as np
 
 import torch
 from torch.utils.data import Dataset
@@ -10,6 +11,7 @@ import torchvision.transforms as transforms
 
 from transformers import BertTokenizer
 
+revenues_mean, revenues_std = 0, 1
 
 class MovieDataset(Dataset):
     def __init__(self, mode='train'):
@@ -31,6 +33,12 @@ class MovieDataset(Dataset):
             self.overviews.append(data['overview'])
             self.reviews.append(data['review'])
             self.revenues.append(data['revenue'])
+
+        global revenues_mean, revenues_std
+        revenues_mean = np.array(self.revenues).mean()
+        revenues_std = np.array(self.revenues).std()
+        self.revenues_mean = revenues_mean
+        self.revenues_std = revenues_std
 
         # Split data
         total_len = len(self.ids)
@@ -82,5 +90,10 @@ class MovieDataset(Dataset):
         review, review_len = self.get_tokenized(review)
         overview, overview_len = self.get_tokenized(overview)
         revenue = torch.tensor(revenue, dtype=torch.float32).unsqueeze(-1)
+        revenue = (revenue - self.revenues_mean) / self.revenues_std
 
         return image, review, overview, revenue
+
+def get_stats():
+    global revenues_mean, revenues_std
+    return revenues_mean, revenues_std

@@ -49,10 +49,14 @@ class Trainer:
             if epoch % self.args.valid_interval == 0:
                 valid_loss = self.validation.evaluate(f'Epoch {epoch} validation')
                 if valid_loss < best_loss:
+                    best_loss = valid_loss
+                    best_epoch = epoch
                     torch.save(self.model.state_dict(), os.path.join(self.args.weight_dir, 'best_checkpoint.pt'))
+                    print(f'Best Checkpoint Saved at {best_epoch}')
                 self.writer.add_scalar('Loss/valid', valid_loss, epoch)
 
         torch.save(self.model.state_dict(), os.path.join(self.args.weight_dir, 'last_checkpoint.pt'))
+        self.writer.close()
         print('Train end!')
 
 

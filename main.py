@@ -8,7 +8,7 @@ import torch.optim as optim
 from torch.utils.data import DataLoader
 
 from network.network import MultimodalPredictionModel
-from data.dataset import MovieDataset
+from data.dataset import MovieDataset, get_stats
 from trainer import Trainer
 from evaluate import Evaluator
 
@@ -26,6 +26,8 @@ def main():
                               shuffle=False, num_workers=args.num_workers)
     test_loader = DataLoader(MovieDataset(mode='test'), batch_size=32,
                              shuffle=False, num_workers=args.num_workers)
+    revenues_mean, revenues_std = get_stats()
+    print(f'Dataset Loaded | Mean Revenue: {revenues_mean}, Std.: {revenues_std}')
 
     # Load model
     model = MultimodalPredictionModel().to(args.device)
