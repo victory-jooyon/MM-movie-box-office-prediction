@@ -30,7 +30,7 @@ def main():
     print(f'Dataset Loaded | Mean Revenue: {revenues_mean}, Std.: {revenues_std}')
 
     # Load model
-    model = MultimodalPredictionModel().to(args.device)
+    model = MultimodalPredictionModel(ablation=args.ablation).to(args.device)
     model = nn.DataParallel(model)
 
     if args.resume is not None:
@@ -59,6 +59,8 @@ def parse_args():
     parser.add_argument('--valid_interval', default=1, type=int, help='Validation interval')
     parser.add_argument('--lr', default=0.0001, type=float, help='Train learning rate')
     parser.add_argument('--num_workers', default=4, type=int, help='Number of workers for loader')
+    parser.add_argument('--ablation', default=None, type=str, choices=['poster', 'tmdb', 'imdb', None],
+                        help='Where to use single feature for prediction')
     parser.add_argument('--device', default='cuda:0', type=str, help='Training device: cpu/cuda/cuda:0,1,...')
 
     parser.add_argument('--weight_dir', default='./weight', type=str, help='Weight save/load directory')

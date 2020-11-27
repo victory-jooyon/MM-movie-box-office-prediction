@@ -10,6 +10,7 @@ from torch.utils.data import Dataset
 import torchvision.transforms as transforms
 
 from transformers import BertTokenizer
+from table_bert import TableBertModel, Table, Column
 
 revenues_mean, revenues_std = 0, 1
 
@@ -17,22 +18,29 @@ class MovieDataset(Dataset):
     def __init__(self, mode='train'):
         super(Dataset, self).__init__()
         # Read data from json
-        with open('./data/all_data.json', 'r', encoding='utf-8') as f:
+        with open('./data/validated_data.json', 'r', encoding='utf-8') as f:
             movie_data = json.load(f)
-        self.ids, self.poster_urls, self.reviews, self.overviews, self.revenues = [], [], [], [], []
+        self.ids, self.poster_urls, self.overviews, self.revenues = [], [], [], []
+        self.genres, self.directors, self.actors, self.years = [], [], [], []
+
         for data in tqdm(movie_data, total=len(movie_data), desc=f'Loading {mode} dataset'):
-            # if not data['tmdb']['reviews']:
-            #     continue
-            # self.ids.append(data['id'])
-            # self.poster_urls.append(data['tmdb']['poster'])
-            # self.overviews.append(data['tmdb']['overview'])
-            # self.reviews.append(data['tmdb']['reviews'][0])
-            # self.revenues.append(int(data['revenue']))
-            self.ids.append(data['id'])
-            self.poster_urls.append(data['poster'])
-            self.overviews.append(data['overview'])
-            self.reviews.append(data['review'])
-            self.revenues.append(data['revenue'])
+            self.ids.append(int(data['id']))
+            self.poster_urls.append(data['tmdb']['poster'])
+            self.overviews.append(data['tmdb']['overview'])
+            self.revenues.append(int(data['revenue']))
+            # try:
+            #     self.genres.append(data['imdb']['genre'])
+            # except KeyError:
+            #     self.genres.append('None')
+            # try:
+            #     self.directors.append(data['imdb']['director'])
+            # except KeyError:
+            #     self.directors.append('None')
+            # if data['imdb']['main_actor']:
+            #     self.actors.append(data['imdb']['main_actor'])
+            # else:
+            #     self.actors.append('None')
+            # self.years.append(data['imdb']['release_year'])
 
         global revenues_mean, revenues_std
         revenues_mean = np.array(self.revenues).mean()
@@ -53,9 +61,12 @@ class MovieDataset(Dataset):
 
         self.ids = self.ids[split_range]
         self.poster_urls = self.poster_urls[split_range]
-        self.reviews = self.reviews[split_range]
         self.overviews = self.overviews[split_range]
         self.revenues = self.revenues[split_range]
+        # self.genres = self.genres[split_range]
+        # self.directors = self.directors[split_range]
+        # self.actors = self.actors[split_range]
+        # self.years = self.years[split_range]
 
         # Preprocessor
         self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
@@ -80,19 +91,20 @@ class MovieDataset(Dataset):
 
     def __getitem__(self, idx):
         # Get data
-        url, review, overview = self.poster_urls[idx], self.reviews[idx], self.overviews[idx]
+        url, overview = self.poster_urls[idx], self.overviews[idx]
+        # genre, director, actor, year = self.genres[idx], self.directors[idx], self.actors[idx], self.years[idx]
         revenue = self.revenues[idx]
 
         # Preprocess data
-        res = requests.get('https://image.tmdb.org/t/p/original' + url, stream=True)
+        res = requests.get(url, stream=True)
         image = Image.open(BytesIO(res.content)).convert('RGB')
         image = self.image_process(image)
-        review, review_len = self.get_tokenized(review)
+
         overview, overview_len = self.get_tokenized(overview)
         revenue = torch.tensor(revenue, dtype=torch.float32).unsqueeze(-1)
         revenue = (revenue - self.revenues_mean) / self.revenues_std
 
-        return image, review, overview, revenue
+        return image, overview, revenue
 
 def get_stats():
     global revenues_mean, revenues_std

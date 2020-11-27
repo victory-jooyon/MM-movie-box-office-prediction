@@ -26,13 +26,13 @@ class Trainer:
             total_loss, total_data = 0, 0
             for i, data in enumerate(pbar):
                 # Load data
-                poster, review, overview, true_revenue = data
+                poster, overview, true_revenue = data
                 poster, true_revenue = poster.to(self.args.device), true_revenue.to(self.args.device)
                 for key in overview.keys():
-                    overview[key], review[key] = overview[key].to(self.args.device), review[key].to(self.args.device)
+                    overview[key] = overview[key].to(self.args.device)
 
                 # Forward model & Get loss
-                pred_revenue = self.model(overview, poster, review)
+                pred_revenue = self.model(overview, poster)
                 loss = self.criterion(pred_revenue, true_revenue)
 
                 # Backpropagation
