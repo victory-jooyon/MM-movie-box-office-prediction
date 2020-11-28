@@ -35,14 +35,13 @@ class MovieDataset(Dataset):
 
             #self.imdb_text = [f"{t} released at {y}. {d}" for t, y, d in zip(self.title, self.release_year, self.description)]
             imdb = []
-            for key in ['title', 'genre', 'release_year', 'description']:
+            for key in ['release_year', 'genre', 'director', 'main_actor']:
                 if key in data['imdb']:
                     imdb.append(data['imdb'][key])
                 else:
                     imdb.append(' ')
 
-            #imdb_text = "year is {}, genre is {}, director is {}, actor is {}".format(*imdb)
-            imdb_text = "{}, {}, released at {}. {}".format(*imdb)
+            imdb_text = "year is {}, genre is {}, director is {}, actor is {}".format(*imdb)
             self.imdb_text.append(imdb_text)
 
             #self.release_year.append(int(data['imdb']['release_year']))
