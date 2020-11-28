@@ -22,12 +22,17 @@ class MovieDataset(Dataset):
             movie_data = json.load(f)
         self.ids, self.poster_urls, self.overviews, self.revenues = [], [], [], []
         self.genres, self.directors, self.actors, self.years = [], [], [], []
+        self.release_year, self.genre, self.director, self.main_actor = [], [], [], []
 
         for data in tqdm(movie_data, total=len(movie_data), desc=f'Loading {mode} dataset'):
             self.ids.append(int(data['id']))
             self.poster_urls.append(data['tmdb']['poster'])
             self.overviews.append(data['tmdb']['overview'])
             self.revenues.append(int(data['revenue']))
+            self.release_year.append(int(data['imdb']['release_year']))
+            self.genre.append(data['imdb']['genre'])
+            self.director.append(int(data['imdb']['director']))
+            self.main_actor.append(int(data['imdb']['main_actor']))
             # try:
             #     self.genres.append(data['imdb']['genre'])
             # except KeyError:
@@ -42,6 +47,8 @@ class MovieDataset(Dataset):
             #     self.actors.append('None')
             # self.years.append(data['imdb']['release_year'])
 
+        self.imdb_text = [f"year is {y}, genre is {g}, director is {d}, actor is {a}"
+                          for y, g, d, a in zip(self.release_year, self.genre, self.director, self.main_actor)]
         global revenues_mean, revenues_std
         revenues_mean = np.array(self.revenues).mean()
         revenues_std = np.array(self.revenues).std()
@@ -63,6 +70,7 @@ class MovieDataset(Dataset):
         self.poster_urls = self.poster_urls[split_range]
         self.overviews = self.overviews[split_range]
         self.revenues = self.revenues[split_range]
+        self.imdb_text = self.imdb_text[split_range]
         # self.genres = self.genres[split_range]
         # self.directors = self.directors[split_range]
         # self.actors = self.actors[split_range]
@@ -104,7 +112,10 @@ class MovieDataset(Dataset):
         revenue = torch.tensor(revenue, dtype=torch.float32).unsqueeze(-1)
         revenue = (revenue - self.revenues_mean) / self.revenues_std
 
-        return image, overview, revenue
+        # process imdb data
+        imdb, _ = self.get_tokenized(self.imdb_text[idx])
+
+        return image, overview, revenue, imdb
 
 def get_stats():
     global revenues_mean, revenues_std
