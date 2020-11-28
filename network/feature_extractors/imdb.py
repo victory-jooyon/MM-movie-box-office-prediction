@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from transformers import BertTokenizer, BertModel
+from transformers import BertModel
 
 
 class IMDBFeatureExtractor(nn.Module):

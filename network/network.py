@@ -13,7 +13,7 @@ class MultimodalPredictionModel(nn.Module):
         self.imdb = IMDBFeatureExtractor(feature_size)
         self.ablation = ablation
 
-        fc_size = feature_size * 2 if ablation is None else feature_size
+        fc_size = feature_size * 3 if ablation is None else feature_size
         self.fc = nn.Sequential(nn.Linear(fc_size, hidden_layer_size),
                                 nn.ReLU(),
                                 nn.Dropout(),

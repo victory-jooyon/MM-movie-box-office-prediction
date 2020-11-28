@@ -51,10 +51,13 @@ def main():
           f'Time elapsed: {time.time() - t0:.4f}\n'
           f'Test Loss: {test_loss}')
 
+    if args.show_example:
+        evaluator.predict_example()
+
 
 def parse_args():
     parser = argparse.ArgumentParser('Multimodal box office prediction')
-    parser.add_argument('--epochs', default=30, type=int, help='Total epochs to train')
+    parser.add_argument('--epochs', default=10, type=int, help='Total epochs to train')
     parser.add_argument('--batch_size', default=4, type=int, help='Batch size')
     parser.add_argument('--valid_interval', default=1, type=int, help='Validation interval')
     parser.add_argument('--lr', default=0.0001, type=float, help='Train learning rate')
@@ -66,10 +69,15 @@ def parse_args():
     parser.add_argument('--weight_dir', default='./weight', type=str, help='Weight save/load directory')
     parser.add_argument('--resume', default=None, type=str, choices=['best', 'last', None],
                         help='Where to resume')
+    parser.add_argument('--show_example', action='store_true', help='Whether to show example')
 
     args, _ = parser.parse_known_args()
     args.device = torch.device(args.device if torch.cuda.is_available() else 'cpu')
 
+    if args.ablation is not None:
+        args.weight_dir = os.path.join(args.weight_dir, args.ablation)
+    else:
+        args.weight_dir = os.path.join(args.weight_dir, 'main')
     os.makedirs(args.weight_dir, exist_ok=True)
 
     return args

@@ -21,34 +21,27 @@ class MovieDataset(Dataset):
         with open('./data/validated_data.json', 'r', encoding='utf-8') as f:
             movie_data = json.load(f)
         self.ids, self.poster_urls, self.overviews, self.revenues = [], [], [], []
-        self.genres, self.directors, self.actors, self.years = [], [], [], []
-        self.release_year, self.genre, self.director, self.main_actor = [], [], [], []
+        self.imdb_text = []
 
         for data in tqdm(movie_data, total=len(movie_data), desc=f'Loading {mode} dataset'):
+            if data['revenue'] == '0':
+                continue
             self.ids.append(int(data['id']))
             self.poster_urls.append(data['tmdb']['poster'])
             self.overviews.append(data['tmdb']['overview'])
             self.revenues.append(int(data['revenue']))
-            self.release_year.append(int(data['imdb']['release_year']))
-            self.genre.append(data['imdb']['genre'])
-            self.director.append(int(data['imdb']['director']))
-            self.main_actor.append(int(data['imdb']['main_actor']))
-            # try:
-            #     self.genres.append(data['imdb']['genre'])
-            # except KeyError:
-            #     self.genres.append('None')
-            # try:
-            #     self.directors.append(data['imdb']['director'])
-            # except KeyError:
-            #     self.directors.append('None')
-            # if data['imdb']['main_actor']:
-            #     self.actors.append(data['imdb']['main_actor'])
-            # else:
-            #     self.actors.append('None')
-            # self.years.append(data['imdb']['release_year'])
 
-        self.imdb_text = [f"year is {y}, genre is {g}, director is {d}, actor is {a}"
-                          for y, g, d, a in zip(self.release_year, self.genre, self.director, self.main_actor)]
+            # Build imdb text
+            imdb = []
+            for key in ['release_year', 'genre', 'director', 'main_actor']:
+                if key in data['imdb']:
+                    imdb.append(data['imdb'][key])
+                else:
+                    imdb.append(' ')
+
+            imdb_text = "year is {}, genre is {}, director is {}, actor is {}".format(*imdb)
+            self.imdb_text.append(imdb_text)
+
         global revenues_mean, revenues_std
         revenues_mean = np.array(self.revenues).mean()
         revenues_std = np.array(self.revenues).std()
@@ -71,10 +64,6 @@ class MovieDataset(Dataset):
         self.overviews = self.overviews[split_range]
         self.revenues = self.revenues[split_range]
         self.imdb_text = self.imdb_text[split_range]
-        # self.genres = self.genres[split_range]
-        # self.directors = self.directors[split_range]
-        # self.actors = self.actors[split_range]
-        # self.years = self.years[split_range]
 
         # Preprocessor
         self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
@@ -94,13 +83,11 @@ class MovieDataset(Dataset):
         inputs = self.tokenizer(text, padding='max_length', max_length=256, truncation=True)
         for key in inputs:
             inputs[key] = torch.tensor(inputs[key])
-        length = inputs['attention_mask'].sum().item()
-        return inputs, length
+        return inputs
 
     def __getitem__(self, idx):
         # Get data
         url, overview = self.poster_urls[idx], self.overviews[idx]
-        # genre, director, actor, year = self.genres[idx], self.directors[idx], self.actors[idx], self.years[idx]
         revenue = self.revenues[idx]
 
         # Preprocess data
@@ -108,12 +95,12 @@ class MovieDataset(Dataset):
         image = Image.open(BytesIO(res.content)).convert('RGB')
         image = self.image_process(image)
 
-        overview, overview_len = self.get_tokenized(overview)
+        overview = self.get_tokenized(overview)
         revenue = torch.tensor(revenue, dtype=torch.float32).unsqueeze(-1)
         revenue = (revenue - self.revenues_mean) / self.revenues_std
 
         # process imdb data
-        imdb, _ = self.get_tokenized(self.imdb_text[idx])
+        imdb = self.get_tokenized(self.imdb_text[idx])
 
         return image, overview, revenue, imdb
 

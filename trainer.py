@@ -30,7 +30,6 @@ class Trainer:
                 poster, true_revenue = poster.to(self.args.device), true_revenue.to(self.args.device)
                 for key in overview.keys():
                     overview[key] = overview[key].to(self.args.device)
-                for key in imdb.keys():
                     imdb[key] = imdb[key].to(self.args.device)
 
                 # Forward model & Get loss
