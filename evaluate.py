@@ -82,9 +82,9 @@ class Evaluator:
                 loss = self.criterion(pred_revenue, revenue)
 
             print(f'Evaluate with example {example["title"]}:\n'
-                  f'Loss: {loss.item()}\n'
-                  f'Predicted Revenue: {(pred_revenue.item() * revenue_std) + revenue_mean}\n'
-                  f'Real Revenue: {example["revenue"]}\n\n')
+                  f'Loss: {loss.item():.4f}\n'
+                  f'Predicted Revenue: {int((pred_revenue.item() * revenue_std) + revenue_mean)}\n'
+                  f'Real Revenue: {int(example["revenue"])}\n\n')
         print('Evaluation Finished')
 
     example = [
@@ -131,5 +131,34 @@ class Evaluator:
             'director': 'Chris Buck, Jennifer Lee',
             'main_actor': 'Chris Bell',
             'revenue': 1274219009,
+        },
+        {
+            'id': 546554,
+            'title': 'Knives Out',
+            'poster': 'https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rthGOcMZgUUaWN4FGSTd3n3ovg.jpg',
+            'overview': "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th "
+                        "birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to "
+                        "investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a "
+                        "web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely "
+                        "death.",
+            'genre': 'Mystery, Comedy, Drama, Crime',
+            'release_year': 2019,
+            'director': 'Rian Johnson',
+            'main_actor': 'Daniel Craig',
+            'revenue': 309232797,
+        },
+        {
+            'id': 138,
+            'title': "Ocean's Eleven",
+            'poster': "https://image.tmdb.org/t/p/original/v5D7K4EHuQHFSjveq8LGxdSfrGS.jpg",
+            "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his "
+                        "next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more "
+                        "than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his "
+                        "chances of reconciling with ex-wife, Tess.",
+            "genre": "Crime, Thriller",
+            "director": "Steven Soderbergh",
+            "release_year": "2001",
+            "main_actor": "George Clooney",
+            'revenue': 450717150,
         }
     ]

@@ -32,38 +32,18 @@ class MovieDataset(Dataset):
             self.revenues.append(int(data['revenue']))
 
             # Build imdb text
-
-            #self.imdb_text = [f"{t} released at {y}. {d}" for t, y, d in zip(self.title, self.release_year, self.description)]
             imdb = []
-            for key in ['release_year', 'genre', 'director', 'main_actor']:
+            for key in ['release_year', 'genre_num', 'director_num', 'main_actor_num']:
                 if key in data['imdb']:
                     imdb.append(data['imdb'][key])
                 else:
                     imdb.append(' ')
 
-            imdb_text = "year is {}, genre is {}, director is {}, actor is {}".format(*imdb)
+            budget = data['tmdb']['budget']
+
+            # imdb_text = "year is {}, genre is {}, director is {}, actor is {}".format(*imdb, budget)
+            imdb_text = data['revenue']
             self.imdb_text.append(imdb_text)
-
-            #self.release_year.append(int(data['imdb']['release_year']))
-            #self.genre.append(data['imdb']['genre'])
-            #self.director.append(int(data['imdb']['director']))
-            #self.main_actor.append(int(data['imdb']['main_actor']))
-            #self.title.append(data['imdb']['title'])
-            #self.description.append(data['imdb']['description'])
-
-            # try:
-            #     self.genres.append(data['imdb']['genre'])
-            # except KeyError:
-            #     self.genres.append('None')
-            # try:
-            #     self.directors.append(data['imdb']['director'])
-            # except KeyError:
-            #     self.directors.append('None')
-            # if data['imdb']['main_actor']:
-            #     self.actors.append(data['imdb']['main_actor'])
-            # else:
-            #     self.actors.append('None')
-            # self.years.append(data['imdb']['release_year'])
 
         global revenues_mean, revenues_std
         revenues_mean = np.array(self.revenues).mean()
