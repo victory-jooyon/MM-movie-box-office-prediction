@@ -10,7 +10,6 @@ from torch.utils.data import Dataset
 import torchvision.transforms as transforms
 
 from transformers import BertTokenizer
-from table_bert import TableBertModel, Table, Column
 
 revenues_mean, revenues_std = 0, 1
 
@@ -20,8 +19,9 @@ class MovieDataset(Dataset):
         # Read data from json
         with open('./data/validated_data.json', 'r', encoding='utf-8') as f:
             movie_data = json.load(f)
-        self.ids, self.poster_urls, self.overviews, self.revenues = [], [], [], []
+        self.ids, self.poster_urls, self.overviews = [], [], []
         self.imdb_text = []
+        self.revenues, self.budgets = [], []
 
         for data in tqdm(movie_data, total=len(movie_data), desc=f'Loading {mode} dataset'):
             if data['revenue'] == '0':
@@ -39,7 +39,7 @@ class MovieDataset(Dataset):
                 else:
                     imdb.append(' ')
 
-            budget = data['tmdb']['budget']
+            self.budgets.append(int(data['tmdb']['budget']))
 
             # imdb_text = "year is {}, genre is {}, director is {}, actor is {}".format(*imdb, budget)
             imdb_text = data['revenue']
@@ -66,6 +66,7 @@ class MovieDataset(Dataset):
         self.poster_urls = self.poster_urls[split_range]
         self.overviews = self.overviews[split_range]
         self.revenues = self.revenues[split_range]
+        self.budgets = self.budgets[split_range]
         self.imdb_text = self.imdb_text[split_range]
 
         # Preprocessor
@@ -91,7 +92,7 @@ class MovieDataset(Dataset):
     def __getitem__(self, idx):
         # Get data
         url, overview = self.poster_urls[idx], self.overviews[idx]
-        revenue = self.revenues[idx]
+        revenue, budget = self.revenues[idx], self.budgets[idx]
 
         # Preprocess data
         res = requests.get(url, stream=True)
@@ -99,13 +100,22 @@ class MovieDataset(Dataset):
         image = self.image_process(image)
 
         overview = self.get_tokenized(overview)
-        revenue = torch.tensor(revenue, dtype=torch.float32).unsqueeze(-1)
-        revenue = (revenue - self.revenues_mean) / self.revenues_std
+
+        # revenue = torch.tensor(revenue, dtype=torch.float32).unsqueeze(-1)
+        # revenue = (revenue - self.revenues_mean) / self.revenues_std
+        profit_ratio = float(revenue - budget) / budget
+        if profit_ratio < 0:
+            success = 0
+        elif profit_ratio < 1:
+            success = 1
+        else:
+            success = 2
+        success = torch.tensor(success, dtype=torch.float32).unsqueeze(-1)
 
         # process imdb data
         imdb = self.get_tokenized(self.imdb_text[idx])
 
-        return image, overview, revenue, imdb
+        return image, overview, success, imdb
 
 def get_stats():
     global revenues_mean, revenues_std

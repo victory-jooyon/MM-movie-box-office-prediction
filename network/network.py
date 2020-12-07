@@ -17,7 +17,7 @@ class MultimodalPredictionModel(nn.Module):
         self.fc = nn.Sequential(nn.Linear(fc_size, hidden_layer_size),
                                 nn.ReLU(),
                                 nn.Dropout(),
-                                nn.Linear(hidden_layer_size, 1))
+                                nn.Linear(hidden_layer_size, 3))
 
     def forward(self, tmdb_tok, poster_input, imdb_tok):
         # [feature_size]

@@ -37,7 +37,7 @@ def main():
         model.load_state_dict(torch.load(os.path.join(args.weight_dir, args.resume + '.pt'), map_location=args.device))
 
     # Load criterion & optimizer
-    criterion = nn.MSELoss()
+    criterion = nn.CrossEntropyLoss()
     optimizer = optim.Adam(model.parameters(), lr=args.lr, weight_decay=1E-4)
 
     # Run train
