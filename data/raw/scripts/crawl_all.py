@@ -74,7 +74,7 @@ if __name__ == '__main__':
 
     all_data = []
     last_update = 0
-    for i, k in tqdm(enumerate(keys)):
+    for i, k in enumerate(tqdm(keys)):
         tmdb_url = f"https://api.themoviedb.org/3/find/{k}?api_key={TMDB_API_KEY}&language=en-US&external_source=imdb_id"
         tmdb_res = json.loads(requests.get(tmdb_url).text)
         rs = tmdb_res['movie_results']
