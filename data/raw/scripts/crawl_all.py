@@ -1,3 +1,4 @@
+import argparse
 import csv
 import json
 import os
@@ -6,9 +7,6 @@ import pathlib
 import requests
 from tqdm import tqdm
 
-
-TMDB_API_KEY = os.environ.get('TMDB_API_KEY')
-RAW_DIR = pathlib.Path().absolute().parent
 
 # basic_tsv = open(f'{RAW_DIR}/csv/title.basics.tsv')
 # basic_reader = csv.DictReader(basic_tsv, delimiter='\t')
@@ -56,109 +54,123 @@ RAW_DIR = pathlib.Path().absolute().parent
 # with open('../json/imdb_data.json', 'w', encoding='utf-8') as f:
 #     json.dump(filtered_movies, f, indent=4)
 
-with open('../json/imdb_data.json', 'r', encoding='utf-8') as f:
-    filtered_movies = json.load(f)
 
-keys = filtered_movies.keys()
-all_data = []
-last_update = 0
-for k in tqdm(keys):
-    tmdb_url = f"https://api.themoviedb.org/3/find/{k}?api_key={TMDB_API_KEY}&language=en-US&external_source=imdb_id"
-    tmdb_res = json.loads(requests.get(tmdb_url).text)
-    rs = tmdb_res['movie_results']
-    if rs:
-        r = rs[0]
-    try:
-        tmdb_id = r['id']
-        main_genre = r['genre_ids'][0] if r['genre_ids'] else None
-        overview = r.get('overview')
-        if not overview:
-            continue
-        poster_path = r.get('poster_path')
-        if poster_path:
-            poster_url = "https://image.tmdb.org/t/p/original" + poster_path
-        else:
-            continue
-        vote_count = r.get('vote_count')
-        vote_average = r.get('vote_average')
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser('Crawling')
 
-        all_url = f"https://api.themoviedb.org/3/movie/{tmdb_id}?api_key={TMDB_API_KEY}&language=en-US"
-        all_res = json.loads(requests.get(all_url).text)
-        production_companies = all_res.get('production_companies')
-        production_countries = all_res.get('production_countries')
-        genres = all_res.get('genres')
-        budget = all_res.get('budget', 0)
-        revenue = all_res.get('revenue', 0)
-        if budget == 0 or revenue == 0:
-            continue
+    TMDB_API_KEY = os.environ.get('TMDB_API_KEY')
+    RAW_DIR = pathlib.Path().absolute().parent
 
-        review_url = f"https://api.themoviedb.org/3/movie/{tmdb_id}/reviews?api_key={TMDB_API_KEY}&language=en-US"
-        review_res = json.loads(requests.get(review_url).text)
-        review = review_res['results']
-        if review:
-            review = review[0]['content']
-        else:
-            review = None
+    parser.add_argument('--start', default=0, type=int, help='IMDB starting point (total 4175405 data)')
+    parser.add_argument('--jsonfile', default=f'{RAW_DIR}/json/imdb_data.json', type=str, help='IMDB starting point (total 4175405 data)')
 
-        imdb_id = all_res.get('imdb_id')
-        if not imdb_id:
-            continue
+    args, _ = parser.parse_known_args()
 
-        imdb_data = filtered_movies.get(imdb_id)
-        if not imdb_data:
-            continue
+    with open(args.jsonfile, 'r', encoding='utf-8') as f:
+        filtered_movies = json.load(f)
 
-        title = imdb_data.get('title')
+    keys = filtered_movies.keys()
+    keys = keys[args.start:]
 
-        release_year = imdb_data.get('release_year')
-        if not release_year:
-            continue
+    all_data = []
+    last_update = 0
+    for k in tqdm(keys):
+        tmdb_url = f"https://api.themoviedb.org/3/find/{k}?api_key={TMDB_API_KEY}&language=en-US&external_source=imdb_id"
+        tmdb_res = json.loads(requests.get(tmdb_url).text)
+        rs = tmdb_res['movie_results']
+        if rs:
+            r = rs[0]
+        try:
+            tmdb_id = r['id']
+            main_genre = r['genre_ids'][0] if r['genre_ids'] else None
+            overview = r.get('overview')
+            if not overview:
+                continue
+            poster_path = r.get('poster_path')
+            if poster_path:
+                poster_url = "https://image.tmdb.org/t/p/original" + poster_path
+            else:
+                continue
+            vote_count = r.get('vote_count')
+            vote_average = r.get('vote_average')
 
-        main_actor = imdb_data.get('main_actor')
-        if not main_actor:
-            continue
+            all_url = f"https://api.themoviedb.org/3/movie/{tmdb_id}?api_key={TMDB_API_KEY}&language=en-US"
+            all_res = json.loads(requests.get(all_url).text)
+            production_companies = all_res.get('production_companies')
+            production_countries = all_res.get('production_countries')
+            genres = all_res.get('genres')
+            budget = all_res.get('budget', 0)
+            revenue = all_res.get('revenue', 0)
+            if budget == 0 or revenue == 0:
+                continue
 
-        director = imdb_data.get('director')
-        if not director:
-            continue
+            review_url = f"https://api.themoviedb.org/3/movie/{tmdb_id}/reviews?api_key={TMDB_API_KEY}&language=en-US"
+            review_res = json.loads(requests.get(review_url).text)
+            review = review_res['results']
+            if review:
+                review = review[0]['content']
+            else:
+                review = None
 
-        main_genre = imdb_data.get('main_genre')
-        if not main_genre:
-            continue
+            imdb_id = all_res.get('imdb_id')
+            if not imdb_id:
+                continue
 
-        data = {
-            "id": tmdb_id,
-            "imdb": {
-                "imdb_id": imdb_id,
-                "title": title,
-                "director": director,
-                "release_year": release_year,
-                "main_actor": main_actor,
-                "main_genre": main_genre,
-            },
-            "tmdb": {
-                "tmdb_id": tmdb_id,
-                "overview": overview,
-                "budget": budget,
-                "genres": genres,
-                "poster": poster_url,
-                "production_companies": production_companies,
-                "production_countries": production_countries,
-                "vote_average": vote_average,
-                "vote_count": vote_count,
-                "review": review,
-            },
-            "revenue": revenue,
-        }
-        all_data.append(data)
+            imdb_data = filtered_movies.get(imdb_id)
+            if not imdb_data:
+                continue
 
-        if len(all_data) // 1000 == (last_update + 1):
-            print('all_data len:', len(all_data))
-            with open(f'../../json/crawled_data_{len(all_data)}.json', 'w', encoding='utf-8') as f:
-                json.dump(all_data, f, indent=4)
-            last_update += 1
+            title = imdb_data.get('title')
 
-    except Exception as e:
-        print(r, 'error:', e)
+            release_year = imdb_data.get('release_year')
+            if not release_year:
+                continue
+
+            main_actor = imdb_data.get('main_actor')
+            if not main_actor:
+                continue
+
+            director = imdb_data.get('director')
+            if not director:
+                continue
+
+            main_genre = imdb_data.get('main_genre')
+            if not main_genre:
+                continue
+
+            data = {
+                "id": tmdb_id,
+                "imdb": {
+                    "imdb_id": imdb_id,
+                    "title": title,
+                    "director": director,
+                    "release_year": release_year,
+                    "main_actor": main_actor,
+                    "main_genre": main_genre,
+                },
+                "tmdb": {
+                    "tmdb_id": tmdb_id,
+                    "overview": overview,
+                    "budget": budget,
+                    "genres": genres,
+                    "poster": poster_url,
+                    "production_companies": production_companies,
+                    "production_countries": production_countries,
+                    "vote_average": vote_average,
+                    "vote_count": vote_count,
+                    "review": review,
+                },
+                "revenue": revenue,
+            }
+            all_data.append(data)
+
+            if len(all_data) // 1000 == (last_update + 1):
+                print('all_data len:', len(all_data))
+                with open(f'{RAW_DIR}/../json/crawled_data_{len(all_data)}.json', 'w', encoding='utf-8') as f:
+                    json.dump(all_data, f, indent=4)
+                last_update += 1
+
+        except Exception as e:
+            print(r, 'error:', e)
 
 
