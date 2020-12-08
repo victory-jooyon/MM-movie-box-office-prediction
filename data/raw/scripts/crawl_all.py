@@ -172,7 +172,10 @@ if __name__ == '__main__':
                 print('all_data len:', len(all_data))
                 with open(f'{RAW_DIR}/../json/crawled_data_{args.start}-{args.start+i}_{len(all_data)}.json', 'w', encoding='utf-8') as f:
                     json.dump(all_data, f, indent=4)
+                filename = f'{RAW_DIR}/../json/crawled_data_{args.start}-{args.start+i}_{len(all_data)}.json'
                 last_update += 1
+                print(f"Saved at {filename}")
+                break
 
         except Exception as e:
             print(k, r, 'error:', e)
