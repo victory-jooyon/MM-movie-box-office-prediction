@@ -80,6 +80,10 @@ if __name__ == '__main__':
         rs = tmdb_res['movie_results']
         if rs:
             r = rs[0]
+        else:
+            r = None
+            continue
+
         try:
             tmdb_id = r['id']
             main_genre = r['genre_ids'][0] if r['genre_ids'] else None
@@ -171,6 +175,6 @@ if __name__ == '__main__':
                 last_update += 1
 
         except Exception as e:
-            print(r, 'error:', e)
+            print(k, r, 'error:', e)
 
 
