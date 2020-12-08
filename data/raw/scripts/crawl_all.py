@@ -70,7 +70,7 @@ if __name__ == '__main__':
         filtered_movies = json.load(f)
 
     keys = filtered_movies.keys()
-    keys = keys[args.start:]
+    keys = list(keys)[args.start:]
 
     all_data = []
     last_update = 0
