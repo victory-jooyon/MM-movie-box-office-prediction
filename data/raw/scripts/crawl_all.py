@@ -74,7 +74,7 @@ if __name__ == '__main__':
 
     all_data = []
     last_update = 0
-    for k in tqdm(keys):
+    for i, k in tqdm(enumerate(keys)):
         tmdb_url = f"https://api.themoviedb.org/3/find/{k}?api_key={TMDB_API_KEY}&language=en-US&external_source=imdb_id"
         tmdb_res = json.loads(requests.get(tmdb_url).text)
         rs = tmdb_res['movie_results']
@@ -164,9 +164,9 @@ if __name__ == '__main__':
             }
             all_data.append(data)
 
-            if len(all_data) // 1000 == (last_update + 1):
+            if i // 10000 == (last_update + 1):
                 print('all_data len:', len(all_data))
-                with open(f'{RAW_DIR}/../json/crawled_data_{len(all_data)}.json', 'w', encoding='utf-8') as f:
+                with open(f'{RAW_DIR}/../json/crawled_data_{args.start + (i-1)*10000}_{len(all_data)}.json', 'w', encoding='utf-8') as f:
                     json.dump(all_data, f, indent=4)
                 last_update += 1
 
