@@ -7,7 +7,6 @@ import torch
 import torchvision.transforms as transforms
 
 from transformers import BertTokenizer
-# from data.dataset import get_stats
 
 class Evaluator:
     def __init__(self, args, model, loader, criterion):

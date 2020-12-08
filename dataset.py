@@ -4,8 +4,6 @@ import requests
 from io import BytesIO
 from PIL import Image
 from tqdm import tqdm
-import matplotlib.pyplot as plt
-import numpy as np
 
 import torch
 from torch.utils.data import Dataset
@@ -15,12 +13,13 @@ from transformers import BertTokenizer
 
 
 class MovieDataset(Dataset):
-    def __init__(self, mode='train', thres=(0, 1)):
+    def __init__(self, mode='train', thres=(0, 1), seed=0):
         super(Dataset, self).__init__()
         # Read data from json
         with open('./data/validated_data.json', 'r', encoding='utf-8') as f:
             movie_data = json.load(f)
         self.data_low, self.data_mid, self.data_high = [], [], []
+        random.seed(seed)
 
         for data in tqdm(movie_data, total=len(movie_data), desc=f'Loading {mode} dataset'):
             if data['revenue'] == '0' or data['tmdb']['budget'] == '0':
