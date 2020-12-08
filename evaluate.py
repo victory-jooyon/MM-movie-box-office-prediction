@@ -7,7 +7,7 @@ import torch
 import torchvision.transforms as transforms
 
 from transformers import BertTokenizer
-from data.dataset import get_stats
+# from data.dataset import get_stats
 
 class Evaluator:
     def __init__(self, args, model, loader, criterion):
@@ -19,25 +19,27 @@ class Evaluator:
     def evaluate(self, mode=''):
         self.model.eval()
         pbar = tqdm(self.loader, total=len(self.loader), desc=mode)
-        total_loss, n_data = 0, 0
+        total_loss, total_acc, n_data = 0, 0, 0
         for i, data in enumerate(pbar):
             # Load data
-            poster, overview, true_revenue, imdb = data
-            poster, true_revenue = poster.to(self.args.device), true_revenue.to(self.args.device)
+            poster, overview, success, imdb = data
+            poster, success = poster.to(self.args.device), success.to(self.args.device)
             for key in overview.keys():
                 overview[key] = overview[key].to(self.args.device)
                 imdb[key] = imdb[key].to(self.args.device)
 
             # Forward model & Get loss
             with torch.no_grad():
-                pred_revenue = self.model(overview, poster, imdb)
-                loss = self.criterion(pred_revenue, true_revenue)
+                pred_success = self.model(overview, poster, imdb)
+                loss = self.criterion(pred_success, success)
 
+            total_acc += torch.eq(torch.argmax(pred_success, dim=1), success).to(torch.float32).sum().item()
             total_loss += loss.item()
             n_data += poster.shape[0]
 
         avg_loss = float(total_loss) / n_data
-        print(f'{mode}: Average Loss: {avg_loss}')
+        avg_acc = total_acc / n_data
+        print(f'{mode}: Average Loss: {avg_loss:.6f} | Average Acc: {avg_acc:.6f}')
         return avg_loss
 
     def predict_example(self):
@@ -56,7 +58,7 @@ class Evaluator:
                 inputs[key] = torch.tensor(inputs[key]).unsqueeze(0).to(device)
             return inputs
 
-        revenue_mean, revenue_std = get_stats()
+        # revenue_mean, revenue_std = get_stats()
 
         self.model.eval()
         for example in self.example:
