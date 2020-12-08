@@ -1,0 +1,539 @@
+[
+    {
+        "id": 696048,
+        "imdb": {
+            "imdb_id": "tt12240368",
+            "title": "Go! Go! Cory Carson: The Chrissy",
+            "director": "nm9685503",
+            "release_year": "2020",
+            "main_actor": "nm11209754",
+            "main_genre": "Animation"
+        },
+        "tmdb": {
+            "tmdb_id": 696048,
+            "overview": "The Carson kids win a talent show with a dance that Cory created. But when \"The Chrissy\" catches on, his little sister gets all of the attention.",
+            "budget": 50000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ghGUAAy0qmv6AhBZvMiVO7QShUc.jpg",
+            "production_companies": [
+                {
+                    "id": 107169,
+                    "logo_path": null,
+                    "name": "Tonko House",
+                    "origin_country": ""
+                },
+                {
+                    "id": 106612,
+                    "logo_path": "/ygHUNIBl4C8KjYI25iDVOtdaGwr.png",
+                    "name": "Superprod",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 144322,
+                    "logo_path": null,
+                    "name": "Kuku Studios",
+                    "origin_country": ""
+                },
+                {
+                    "id": 144323,
+                    "logo_path": null,
+                    "name": "vtech",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "JP",
+                    "name": "Japan"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 4,
+            "review": null
+        },
+        "revenue": 34
+    },
+    {
+        "id": 208763,
+        "imdb": {
+            "imdb_id": "tt1224378",
+            "title": "Viy",
+            "director": "nm1897071",
+            "release_year": "2014",
+            "main_actor": "nm0002076",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 208763,
+            "overview": "Early 18th century. Cartographer Jonathan Green undertakes a scientific voyage from Europe to the East. Having passed through Transylvania and crossed the Carpathian Mountains, he finds himself in a small village lost in impassible woods. Nothing but chance and heavy fog could bring him to this cursed place. People who live here do not resemble any other people which the traveler saw before that. The villagers, having dug a deep moat to fend themselves from the rest of the world, share a naive belief that they could save themselves from evil, failing to understand that evil has made its nest in their souls and is waiting for an opportunity to gush out upon the world.",
+            "budget": 26000000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/q0o9JQDp6PHY4zK0Aw1NHpyQyeo.jpg",
+            "production_companies": [
+                {
+                    "id": 74107,
+                    "logo_path": "/bzWURboFPnv8EfXIfnxILVOMyGC.png",
+                    "name": "Russian Film Group",
+                    "origin_country": "RU"
+                },
+                {
+                    "id": 135340,
+                    "logo_path": null,
+                    "name": "Marinsgroup",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "RU",
+                    "name": "Russia"
+                },
+                {
+                    "iso_3166_1": "UA",
+                    "name": "Ukraine"
+                },
+                {
+                    "iso_3166_1": "CZ",
+                    "name": "Czech Republic"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 187,
+            "review": "This movie is probably quite unknown by most people. I certainly had never heard of it when I stumbled on it. It is a quite entertaining little fantasy / supernatural / crime movie though. I am actually not sure what to classify at as. It starts of as a fantasy movie but is it really?\r\n\r\nThe cinematics of this movie is very good. For me it was the main part contributing to the enjoyment. The small world of these villagers is cinematically beautiful, dirty and gritty at the same time. The characters themselves with their enormous moustaches and weirdly cut hair are great. The special effects will perhaps not win any awards but they were good nonetheless. I especially liked the transformation scene during the meal somewhere in the middle of the movie.\r\n\r\nThe story is a bit of a roller coaster ride and sometimes it felt a bit disjointed. It was not really obvious why one scene or event was followed by another at all times. But then, taking into account the later events in the movie it was perhaps ment to be a bit disjointed and \u201cdreamy\u201d and I have to confess that I was extremely tired when watching this movie.\r\n\r\nThe ending was a bit of a surprise. This is where the movie kind of went from a fantasy movie to more of a crime story. I have to say that I did not really see that coming until it was about to fall in my lap.\r\n\r\nThere are definitely worse ways of spending two hours in the evening, especially if you like movies that are not the typical mainstream Hollywood fare."
+        },
+        "revenue": 34592118
+    },
+    {
+        "id": 12569,
+        "imdb": {
+            "imdb_id": "tt1225822",
+            "title": "Extract",
+            "director": "nm0431918",
+            "release_year": "2009",
+            "main_actor": "nm0000867",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 12569,
+            "overview": "The owner of a factory that produces flavor extracts, Joel Reynold seems to have it all, but really doesn't. What's missing is sexual attention from his wife, Suzie. Joel hatches a convoluted plan to get Suzie to cheat on him, thereby clearing the way for Joel to have an affair with Cindy, an employee. But what Joel doesn't know is that Cindy is a sociopathic con artist, and a freak workplace accident clears the way for her to ruin Joel forever.",
+            "budget": 8000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
+            "production_companies": [
+                {
+                    "id": 14,
+                    "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+                    "name": "Miramax",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 373,
+            "review": null
+        },
+        "revenue": 10848783
+    },
+    {
+        "id": 32823,
+        "imdb": {
+            "imdb_id": "tt1226229",
+            "title": "Get Him to the Greek",
+            "director": "nm0831557",
+            "release_year": "2010",
+            "main_actor": "nm1706767",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 32823,
+            "overview": "Pinnacle records has the perfect plan to get their sinking company back on track: a comeback concert in LA featuring Aldous Snow, a fading rockstar who has dropped off the radar in recent years. Record company intern Aaron Green is faced with the monumental task of bringing his idol, out of control rock star Aldous Snow, back to LA for his comeback show.",
+            "budget": 40000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/6g0li87w8LIK77QRUtOkQkM6bD7.jpg",
+            "production_companies": [
+                {
+                    "id": 10105,
+                    "logo_path": "/bN4tiAS8oNlHhIqq66KBPQ1Ekqh.png",
+                    "name": "Apatow Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7295,
+                    "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+                    "name": "Relativity Media",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 158,
+                    "logo_path": "/6SHlNIype9zmyEMRsBtoueUtLsq.png",
+                    "name": "Spyglass Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.9,
+            "vote_count": 1221,
+            "review": "Russell Brand gives a good performance. Everything else is quite forgettable."
+        },
+        "revenue": 90029656
+    },
+    {
+        "id": 41110,
+        "imdb": {
+            "imdb_id": "tt1226236",
+            "title": "Io sono l'amore",
+            "director": "nm0345174",
+            "release_year": "2009",
+            "main_actor": "nm0842770",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 41110,
+            "overview": "Emma left Russia to live with her husband in Italy. Now a member of a powerful industrial family, she is the respected mother of three, but feels unfulfilled. One day, Antonio, a talented chef and her son's friend, makes her senses kindle.",
+            "budget": 3600000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/vKVipEFm8S3xEFWLAzzyLy3zUG3.jpg",
+            "production_companies": [
+                {
+                    "id": 2683,
+                    "logo_path": "/mOL2WcHtox2urbUf1oJvjw7kz01.png",
+                    "name": "Rai Cinema",
+                    "origin_country": "IT"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IT",
+                    "name": "Italy"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 7.1,
+            "vote_count": 210,
+            "review": null
+        },
+        "revenue": 12014663
+    },
+    {
+        "id": 12201,
+        "imdb": {
+            "imdb_id": "tt1226273",
+            "title": "Edge of Darkness",
+            "director": "nm0132709",
+            "release_year": "2010",
+            "main_actor": "nm0000154",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 12201,
+            "overview": "As a seasoned homicide detective, Thomas Craven has seen the bleakest side of humanity. But nothing prepares him for the toughest investigation of his life: the search for his only daughter Emma's killer. Now, he is on a personal mission to uncover the disturbing secrets surrounding her murder, including corporate corruption, government collusion and Emma's own mysterious life.",
+            "budget": 80000000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/pvHjp1vEFmp5FquSCPQ2O95tIZJ.jpg",
+            "production_companies": [
+                {
+                    "id": 152,
+                    "logo_path": null,
+                    "name": "Icon Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3281,
+                    "logo_path": "/8tMybAieh64uzvm8knSjXOFX8Qc.png",
+                    "name": "GK Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 288,
+                    "logo_path": "/wdmwQuV4R1MIr8A78izZkC184uC.png",
+                    "name": "BBC Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 1019,
+            "review": null
+        },
+        "revenue": 81126522
+    },
+    {
+        "id": 23963,
+        "imdb": {
+            "imdb_id": "tt1226681",
+            "title": "Pontypool",
+            "director": "nm0567680",
+            "release_year": "2008",
+            "main_actor": "nm0565569",
+            "main_genre": "Fantasy"
+        },
+        "tmdb": {
+            "tmdb_id": 23963,
+            "overview": "When disc jockey Grant Mazzy reports to his basement radio station in the Canadian town of Pontypool, he thinks it's just another day at work. But when he hears reports of a virus that turns people into zombies, Mazzy barricades himself in the radio booth and tries to figure out a way to warn his listeners about the virus and its unlikely mode of transmission.",
+            "budget": 1500000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/vysuZow689YtkIwHwjEQiFSsLHv.jpg",
+            "production_companies": [
+                {
+                    "id": 12975,
+                    "logo_path": null,
+                    "name": "Ponty Up Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 12976,
+                    "logo_path": null,
+                    "name": "Shadow Shows",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                }
+            ],
+            "vote_average": 6.4,
+            "vote_count": 379,
+            "review": "Upon watching this film for a second time I realized just how much it reminded me of the famous \"War of the Worlds\" radio broadcast Orson Welles aired in 1939. With just the medium of radio he successfully created an atmosphere of panic so real people listening (who had not caught the beginning where it stated that the following was a radio drama) fled their homes thinking aliens from Mars had invaded Grovers Mill, New Jersey!\r\n\r\n\"Pontypool\" takes place almost exclusively inside a small radio station in the town of Pontypool, Ontario Canada. What starts out as an ordinary day slowly morphs into an extraordinary situation told almost entirely through eye witness call ins, a weather reporters sky view, and eventually the towns doctor who has a preposterous yet undeniably believable theory as to what is going on.\r\n\r\nDirector Bruce McDonald and writer Tony Burgess expertly create an atmosphere of frustration, disbelief, and panic all within the confines of a single set. Never once did I feel limited by not seeing what was going on outside. Like the aforementioned \"War of the Worlds\" radio drama, the situation unfolds by audio reports coupled with the unexpected entrance of the doctor.\r\n\r\nFor blood and gore fans there is a scene that is both shocking and heartbreaking. But this film is generally not for that audience... unless they have good imaginations and can be taken in by \"eyewitness\" accounts of brutality.\r\n\r\nThe other part of the tale that is refreshing is that the antagonism that is affecting the outside world is not a virus nor is it the dead come back to life. No... it is something... as the doctor explains... preposterous yet undeniably believable.\r\n\r\nThe casting of Stephen McHattie as the past his prime but not ready to go quietly DJ was a masterstroke. He brings to life Grant Mazzy in a way I cannot imagine another doing as perfectly. He mixes a jaded world view with pathos, anger, humor, and a just the right touch of madness as all around him slides into madness.\r\n\r\nIt is to be noted that in the IMDB trivia section, the writer admits to being heavily influenced by Orson Welles legendary radio drama when conceiving first the book, then radio broadcast, and finally film. It shows, as stated, and it shows gloriously."
+        },
+        "revenue": 32000
+    },
+    {
+        "id": 48289,
+        "imdb": {
+            "imdb_id": "tt1226753",
+            "title": "The Debt",
+            "director": "nm0006960",
+            "release_year": "2010",
+            "main_actor": "nm0000545",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 48289,
+            "overview": "Rachel Singer is a former Mossad agent who tried to capture a notorious Nazi war criminal \u2013 the Surgeon of Birkenau \u2013 in a secret Israeli mission that ended with his death on the streets of East Berlin. Now, 30 years later, a man claiming to be the doctor has surfaced, and Rachel must return to Eastern Europe to uncover the truth. Overwhelmed by haunting memories of her younger self and her two fellow agents, the still-celebrated heroine must relive the trauma of those events and confront the debt she has incurred.",
+            "budget": 20000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/6SL1UiUmIi7JNO1U9pFdO748Unz.jpg",
+            "production_companies": [
+                {
+                    "id": 9217,
+                    "logo_path": null,
+                    "name": "Pioneer Pictures",
+                    "origin_country": "HU"
+                },
+                {
+                    "id": 14,
+                    "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+                    "name": "Miramax",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5374,
+                    "logo_path": "/8dgIXEObpRYixczGSpyW9rgnN53.png",
+                    "name": "Marv Films",
+                    "origin_country": "GB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 536,
+            "review": null
+        },
+        "revenue": 45636368
+    },
+    {
+        "id": 451915,
+        "imdb": {
+            "imdb_id": "tt1226837",
+            "title": "Beautiful Boy",
+            "director": "nm0886976",
+            "release_year": "2018",
+            "main_actor": "nm0136797",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 451915,
+            "overview": "After he and his first wife separate, journalist David Sheff struggles to help their teenage son, who goes from experimenting with drugs to becoming devastatingly addicted to methamphetamine.",
+            "budget": 25000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/i7gsLrNxpSf8NF5IZIrcOEfMyA3.jpg",
+            "production_companies": [
+                {
+                    "id": 81,
+                    "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+                    "name": "Plan B Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 6831,
+                    "logo_path": "/ojg8jqsVLGDvuJowOkZQZVV42AA.png",
+                    "name": "Big Indie Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.5,
+            "vote_count": 1290,
+            "review": "Inspired by a father and son\u2019s dual memoirs (Beatiful Boy and Tweak, respectively), Felix Van Groeningen\u2019s heartfelt adaptation portrays the relationship between David (Steve Carell) and Nic Sheff (Timoth\u00e9e Chalamet), as both struggle through the latter\u2019s drug addiction.\r\n\r\nThere are about a billion reasons to see this movie: 1) Basically everyone in the cast has been nominated for an Oscar (save for Maura Tierney, who has a Golden Globe and two Emmy noms); 2) Timoth\u00e9e Chalamet; 3) The memoirs are incredible (and not super expensive on Amazon, so you can catch up before the movie comes out); 4) It sets the scene for a quasi Office reunion between Carell and Amy Ryan (who played Holly Flax).\r\n\r\nBut perhaps the most significant \u2014 and overlooked \u2014 reason is this: director Felix Van Groeningen\u2019s 2012 film The Broken Circle Breakdown is, in my humble opinion, one of the best movies of all time (and available to stream on Amazon, who I promise I don\u2019t work for). Stakes are high"
+        },
+        "revenue": 7649973
+    }
+]

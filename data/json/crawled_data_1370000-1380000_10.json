@@ -1,0 +1,595 @@
+[
+    {
+        "id": 34418,
+        "imdb": {
+            "imdb_id": "tt1183917",
+            "title": "Teen Patti",
+            "director": "nm1636742",
+            "release_year": "2010",
+            "main_actor": "nm0000821",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 34418,
+            "overview": "A professor uses the three-card game to prove his probability thesis. He involves some of his students on his research and later realizes it was a big mistake",
+            "budget": 1000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/AswMnBevN0MYxAFqvSX3CFg5U9f.jpg",
+            "production_companies": [
+                {
+                    "id": 110794,
+                    "logo_path": null,
+                    "name": "Hinduja Ventures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 31136,
+                    "logo_path": null,
+                    "name": "Serendipity Films",
+                    "origin_country": "BE"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 4.2,
+            "vote_count": 5,
+            "review": null
+        },
+        "revenue": 3900000
+    },
+    {
+        "id": 769191,
+        "imdb": {
+            "imdb_id": "tt11852364",
+            "title": "My Religious Family",
+            "director": "nm11376520",
+            "release_year": "2020",
+            "main_actor": "nm11376520",
+            "main_genre": "Animation"
+        },
+        "tmdb": {
+            "tmdb_id": 769191,
+            "overview": "A narrator discusses his life growing up in a religious family.",
+            "budget": 10,
+            "genres": [],
+            "poster": "https://image.tmdb.org/t/p/original/m76WDkpFb5hF0yngfNhhQtlJm6Y.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 100
+    },
+    {
+        "id": 39806,
+        "imdb": {
+            "imdb_id": "tt1185344",
+            "title": "Princess Ka'iulani",
+            "director": "nm0285436",
+            "release_year": "2009",
+            "main_actor": "nm0452963",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 39806,
+            "overview": "Lush scenery and gorgeous photography highlight this bio of Princess Ka'iulani (Q'Orianka Kilcher), a 19th-century Hawaiian princess raised in England but determined to maintain her people's independence from aggressive American businessmen. After being sent to England as a child by her Scottish father, Ka'iulani returns to Hawaii and becomes a political activist who fights to retain her throne, even though she must leave her English paramour.",
+            "budget": 9000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/6uNzMCSiNswlZ08TvZjS8ybgmuB.jpg",
+            "production_companies": [
+                {
+                    "id": 7274,
+                    "logo_path": null,
+                    "name": "Island Film Group",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7275,
+                    "logo_path": null,
+                    "name": "Trailblazer Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7276,
+                    "logo_path": null,
+                    "name": "Screen East",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 32,
+            "review": null
+        },
+        "revenue": 771499
+    },
+    {
+        "id": 13477,
+        "imdb": {
+            "imdb_id": "tt1185416",
+            "title": "When in Rome",
+            "director": "nm0425756",
+            "release_year": "2010",
+            "main_actor": "nm0068338",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 13477,
+            "overview": "After fishing out coins from a water fountain in Italy, cynical New Yorker Beth Harper finds herself being wooed by several ardent suitors. As she deals with the attention, Beth tries to figure out whether a charming reporter really loves her.",
+            "budget": 55000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/pteIGpJpgh2aUh3jMqZnomB1rw1.jpg",
+            "production_companies": [
+                {
+                    "id": 8299,
+                    "logo_path": null,
+                    "name": "Krasnoff Foster Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 9195,
+                    "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+                    "name": "Touchstone Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 66966,
+                    "logo_path": null,
+                    "name": "Film Production Consultants",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 912,
+            "review": null
+        },
+        "revenue": 43042835
+    },
+    {
+        "id": 14071,
+        "imdb": {
+            "imdb_id": "tt1185420",
+            "title": "Dostana",
+            "director": "nm1160374",
+            "release_year": "2008",
+            "main_actor": "nm0045393",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 14071,
+            "overview": "Two straight guys who pretend to be a gay couple to secure a posh Miami apartment fall for their gorgeous roommate. Hilarity ensures as Kunal and Sameer strive to convince everyone they are gay while secretly trying to win Neha's heart.",
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/obwjlgNI2NFZupMuJBbKgH3IhQp.jpg",
+            "production_companies": [
+                {
+                    "id": 19146,
+                    "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+                    "name": "Dharma Productions",
+                    "origin_country": "IN"
+                },
+                {
+                    "id": 109823,
+                    "logo_path": null,
+                    "name": "Black Dog Jib Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 96,
+            "review": null
+        },
+        "revenue": 20000000
+    },
+    {
+        "id": 24613,
+        "imdb": {
+            "imdb_id": "tt1185442",
+            "title": "Kurbaan",
+            "director": "nm1028832",
+            "release_year": "2009",
+            "main_actor": "nm1167985",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 24613,
+            "overview": "When a handsome young Indian couple (Saif Ali Khan and Kareena Kapoor) moves into the suburbs to claim their stake in the American dream, they are shocked to discover that they've become enmeshed in a secretive terrorist plot. But as tensions escalate, the bride begins to wonder if her husband has told her everything he knows.",
+            "budget": 7700000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/eLG5R5pgVpTMFQbVeGhcUu1xSH1.jpg",
+            "production_companies": [
+                {
+                    "id": 2320,
+                    "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+                    "name": "UTV Motion Pictures",
+                    "origin_country": "IN"
+                },
+                {
+                    "id": 19146,
+                    "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+                    "name": "Dharma Productions",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 4.6,
+            "vote_count": 25,
+            "review": null
+        },
+        "revenue": 6600000
+    },
+    {
+        "id": 12180,
+        "imdb": {
+            "imdb_id": "tt1185834",
+            "title": "Star Wars: The Clone Wars",
+            "director": "nm1396048",
+            "release_year": "2008",
+            "main_actor": "nm1782667",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 12180,
+            "overview": "Set between Episode II and III, The Clone Wars is the first computer animated Star Wars film. Anakin and Obi Wan must find out who kidnapped Jabba the Hutt's son and return him safely. The Seperatists will try anything to stop them and ruin any chance of a diplomatic agreement between the Hutts and the Republic.",
+            "budget": 8500000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/veee7dll1xMwK14dGt0xsQekYYs.jpg",
+            "production_companies": [
+                {
+                    "id": 1,
+                    "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
+                    "name": "Lucasfilm Ltd.",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 108270,
+                    "logo_path": "/b34gQGmEWBm1NapuqEjBD6oNbWj.png",
+                    "name": "Lucasfilm Animation",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "SG",
+                    "name": "Singapore"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 1201,
+            "review": "Not nearly so bad as I had been led to believe, though even I had to question a lot of the choices that were made dialogue-wise. A lot of the lines were confronting-ly bad. Otherwise, I found it inoffensive. Perhaps my lowered expectations and non-theatrical experience is the reason for this.\r\n\r\n_Final rating:\u2605\u2605 - Had some things that appeal to me, but a poor finished product._"
+        },
+        "revenue": 68282844
+    },
+    {
+        "id": 125238,
+        "imdb": {
+            "imdb_id": "tt1186025",
+            "title": "S.O.S Svartskj\u00e6r",
+            "director": "nm0639021",
+            "release_year": "2008",
+            "main_actor": "nm3333237",
+            "main_genre": "Family"
+        },
+        "tmdb": {
+            "tmdb_id": 125238,
+            "overview": "Marit found a sea lion-baby and the got friends, on one day she looked for the sea lion she found a packet of drugs.",
+            "budget": 1936708,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/igMzGLM4KHpzB7bbzMIvOhTGkjh.jpg",
+            "production_companies": [
+                {
+                    "id": 46564,
+                    "logo_path": null,
+                    "name": "NRK Aktivum",
+                    "origin_country": ""
+                },
+                {
+                    "id": 235,
+                    "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+                    "name": "Nordisk Film",
+                    "origin_country": "DK"
+                },
+                {
+                    "id": 5241,
+                    "logo_path": null,
+                    "name": "FilmFondet Fuzz",
+                    "origin_country": "NO"
+                },
+                {
+                    "id": 133577,
+                    "logo_path": null,
+                    "name": "Nordisk Film Production AS",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "NO",
+                    "name": "Norway"
+                }
+            ],
+            "vote_average": 5.0,
+            "vote_count": 4,
+            "review": null
+        },
+        "revenue": 1840042
+    },
+    {
+        "id": 51284,
+        "imdb": {
+            "imdb_id": "tt1186366",
+            "title": "Morfiy",
+            "director": "nm0049326",
+            "release_year": "2008",
+            "main_actor": "nm2420643",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 51284,
+            "overview": "The year is 1917. We are in the Russian countryside. It is the middle of freezing winter. A pale young, newly educated doctor arrives. Having to deal with one medical challenge after another he soon becomes the center of everyone's attention. To soothe the impressions of human suffering he turns to morphine.",
+            "budget": 3600000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/3exrwjWq5q1to2URY9OOmpUwsKr.jpg",
+            "production_companies": [
+                {
+                    "id": 318,
+                    "logo_path": "/q0UG4oZERwIywJdDPF4lRlvdYGW.png",
+                    "name": "CTB Film Company",
+                    "origin_country": "RU"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "RU",
+                    "name": "Russia"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 30,
+            "review": null
+        },
+        "revenue": 766075
+    },
+    {
+        "id": 22832,
+        "imdb": {
+            "imdb_id": "tt1186367",
+            "title": "Ninja Assassin",
+            "director": "nm0574625",
+            "release_year": "2009",
+            "main_actor": "nm1713653",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 22832,
+            "overview": "Ninja Assassin follows Raizo, one of the deadliest assassins in the world. Taken from the streets as a child, he was transformed into a trained killer by the Ozunu Clan, a secret society whose very existence is considered a myth. But haunted by the merciless execution of his friend by the Clan, Raizo breaks free from them and vanishes. Now he waits, preparing to exact his revenge.",
+            "budget": 40000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/eQdtVLcwloJ1oqVSdfxazZBYHtX.jpg",
+            "production_companies": [
+                {
+                    "id": 923,
+                    "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+                    "name": "Legendary Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1786,
+                    "logo_path": "/joLFuCWg9e2lweYnFQtRPJKSLlI.png",
+                    "name": "Dark Castle Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1885,
+                    "logo_path": "/xlvoOZr4s1PygosrwZyolIFe5xs.png",
+                    "name": "Silver Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 450,
+                    "logo_path": null,
+                    "name": "Anarchos Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 69582,
+                    "logo_path": null,
+                    "name": "Rocklock Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 264,
+                    "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+                    "name": "Studio Babelsberg",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 45198,
+                    "logo_path": "/9z46Z8Px88a30wkr7G0QUDbbtt2.png",
+                    "name": "Deutscher Filmf\u00f6rderfonds",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 451,
+                    "logo_path": "/g1GRk1SdwxNwg5J3aXtrqTaXo8k.png",
+                    "name": "Medienboard Berlin-Brandenburg",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 131534,
+                    "logo_path": null,
+                    "name": "Hermanas Wachowski",
+                    "origin_country": ""
+                },
+                {
+                    "id": 131535,
+                    "logo_path": null,
+                    "name": "Legendary Pictures",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.4,
+            "vote_count": 888,
+            "review": "An over the top Ninja action film with visceral bloody scenes. Humdrum story but goofily entertaining.\r\n\r\nRaizo has been trained by the Ozunu clan to be a Ninja assassin since childhood but has turned his back on them.\r\n\r\nRaizo teams up with a Europol investigator Mika to go after his former master to get revenge for the killing of his friend."
+        },
+        "revenue": 60462347
+    }
+]

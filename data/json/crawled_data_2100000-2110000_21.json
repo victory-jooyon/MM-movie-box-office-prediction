@@ -1,0 +1,1280 @@
+[
+    {
+        "id": 196867,
+        "imdb": {
+            "imdb_id": "tt1823664",
+            "title": "Annie",
+            "director": "nm0323239",
+            "release_year": "2014",
+            "main_actor": "nm4832920",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 196867,
+            "overview": "Annie is a young, happy foster kid who's also tough enough to make her way on the streets of New York in 2014. Originally left by her parents as a baby with the promise that they'd be back for her someday, it's been a hard knock life ever since with her mean foster mom Miss Hannigan. But everything's about to change when the hard-nosed tycoon and New York mayoral candidate Will Stacks\u2014advised by his brilliant VP and his shrewd and scheming campaign advisor\u2014makes a thinly-veiled campaign move and takes her in. Stacks believes he's her guardian angel, but Annie's self-assured nature and bright, sun-will-come-out-tomorrow outlook on life just might mean it's the other way around.",
+            "budget": 65000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/33WsmnE5M2SSGrZCQW4dlr2D5WG.jpg",
+            "production_companies": [
+                {
+                    "id": 95063,
+                    "logo_path": null,
+                    "name": "Marcy Media",
+                    "origin_country": ""
+                },
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7291,
+                    "logo_path": "/eo8YnSO7wpUHVEprnMDOUcalhFD.png",
+                    "name": "Olive Bridge Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 34,
+                    "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+                    "name": "Sony Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 907,
+                    "logo_path": "/ca5SWI5uvU985f8Kbb4xc8AmVWH.png",
+                    "name": "Overbrook Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.2,
+            "vote_count": 1002,
+            "review": "Not for the lack of effort, but <em>'Annie'</em> isn't good.\r\n\r\nI've admittedly never seen the original musical, not that I think that's necessary anyway. I like the cast, while the songs are alright - if cringey. Everything else is either slow, predictable or straight up boring. It might've, perhaps, worked better as a flat out drama - though then they'd get hate for changing things, I guess.\r\n\r\nAs noted, the onscreen talent stopped this from falling far down my ratings. Jamie Foxx and Rose Byrne are two actors I enjoy, I found them satisfactory in this - could've been better, could've been worse. Quvenzhan\u00e9 Wallis is more than decent in the lead, while David Zayas is solid.\r\n\r\nCameron Diaz is, however, truly awful - and that's coming from someone who likes Diaz; she's very good in films like <em>'Shrek'</em>, <em>'Knight and Day'</em> and <em>'Bad Teacher'</em> but this is certainly the worst I've seen from her - it's a shame that she went out with this as well as the dreadful and overall inferior <em>'Sex Tape'</em>.\r\n\r\nDespite me rating (most of) the cast themselves, I don't think the casting itself is anything praisable. Foxx, Byrne and Diaz are not three actors I'd immediately think of if I was making a musical - a few of their songs are a tad ropey.\r\n\r\nPoor, all in all."
+        },
+        "revenue": 133821816
+    },
+    {
+        "id": 198184,
+        "imdb": {
+            "imdb_id": "tt1823672",
+            "title": "Chappie",
+            "director": "nm0088955",
+            "release_year": "2015",
+            "main_actor": "nm1663205",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 198184,
+            "overview": "Every child comes into the world full of promise, and none more so than Chappie: he is gifted, special, a prodigy. Like any child, Chappie will come under the influence of his surroundings\u2014some good, some bad\u2014and he will rely on his heart and soul to find his way in the world and become his own man. But there's one thing that makes Chappie different from any one else: he is a robot.",
+            "budget": 49000000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/hpnuXlKKWznTgbheGe4iQXzkuwJ.jpg",
+            "production_companies": [
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2531,
+                    "logo_path": "/pC2iDCDCvV85vOBP7a5Ukxuc0Du.png",
+                    "name": "MRC",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 34034,
+                    "logo_path": null,
+                    "name": "LStar Capital",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 31076,
+                    "logo_path": null,
+                    "name": "Simon Kinberg Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 28788,
+                    "logo_path": null,
+                    "name": "Genre Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 18209,
+                    "logo_path": null,
+                    "name": "Alpha Core",
+                    "origin_country": ""
+                },
+                {
+                    "id": 53638,
+                    "logo_path": null,
+                    "name": "Ollin Studio",
+                    "origin_country": ""
+                },
+                {
+                    "id": 34,
+                    "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+                    "name": "Sony Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "MX",
+                    "name": "Mexico"
+                },
+                {
+                    "iso_3166_1": "ZA",
+                    "name": "South Africa"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 6021,
+            "review": "> Its a sci-fi age and robot rules.\r\n\r\nIt came as a little surprise. Obviously I was looking for this film, but not expected to reach at this level. The film was really brilliant despite the influence of plenty of other films. Yes, the ideas were borrowed from the movies like 'Short Circuit', 'I, Robot', 'RoboCop', Real Steel', \"Bicentennial Man', 'Transcendence', et cetera. But that did not bother me at all. I would call it an inspiration to make a new product out that already existed.\r\n\r\nIt was not completely depended on Dev Patel's role, otherwise woulda been a disaster. Its the Hugh Jackman, eventhough his character was not on the frontline, because of his presence, the movie was filled with some exciting and thrilling moment. His role was pretty much same to 'Real Steal', but showed in a different shade.\r\n\r\nSilly concept, even dialogues were so stupid. I don't know, maybe because of the South African accent. But the screenplay was very good. Fast and gets the point quickly than wasting time for buildups. One of the best robot movie and it will be remembered. Looks like the sequel will be more furious and going to be an action packed item, if there will be one. Worth to watch it at least once.\r\n\r\n7.5/10"
+        },
+        "revenue": 104399548
+    },
+    {
+        "id": 284054,
+        "imdb": {
+            "imdb_id": "tt1825683",
+            "title": "Black Panther",
+            "director": "nm3363032",
+            "release_year": "2018",
+            "main_actor": "nm1569276",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 284054,
+            "overview": "King T'Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+            "budget": 200000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+            "production_companies": [
+                {
+                    "id": 420,
+                    "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+                    "name": "Marvel Studios",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2,
+                    "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+                    "name": "Walt Disney Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.4,
+            "vote_count": 16420,
+            "review": "The reviews for _Black Panther_ are all essentially saying the same thing: This is a great movie because it's so different from anything we've seen before, not just in the MCU but in the superhero genre overall, the villain is fantastic and _Black Panther_ is just a new and totally innovative film. Allow me to disagree (almost) entirely. _Black Panther_ is a great film, not because it breaks the mould, but because Marvel Studios has a successful pattern and _Black Panther_ adheres to it completely. Obviously the importance of a lead who is not just black but actually African is not to be understated, we have the least white cast of any superhero movie to date and they absolutely killed it, all very important socio-political stuff, to be sure. But the bones of _Black Panther_, the plot, the script, the events, the turns, all of that, it's a carbon copy of what's worked 17 times before. It works again, don't get me wrong, _Black Panther_ truly was an experience, both important and fantastic, but to say it re-invented the wheel here, is, to me, an outright lie.\r\n\r\n_Final rating:\u2605\u2605\u2605\u00bd - I really liked it. Would strongly recommend you give it your time._"
+        },
+        "revenue": 1346739107
+    },
+    {
+        "id": 222899,
+        "imdb": {
+            "imdb_id": "tt1826590",
+            "title": "About Last Night",
+            "director": "nm0684336",
+            "release_year": "2014",
+            "main_actor": "nm0366389",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 222899,
+            "overview": "A modern reimagining of the classic romantic comedy, this contemporary version closely follows new love for two couples as they journey from the bar to the bedroom and are eventually put to the test in the real world.",
+            "budget": 12500000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/z3dVYQtxXldDawz7d15wqt2PQLe.jpg",
+            "production_companies": [
+                {
+                    "id": 7291,
+                    "logo_path": "/eo8YnSO7wpUHVEprnMDOUcalhFD.png",
+                    "name": "Olive Bridge Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1309,
+                    "logo_path": "/gdsheJrD3lznh3O2qEPBDn54Anq.png",
+                    "name": "Rainforest Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3287,
+                    "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+                    "name": "Screen Gems",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 389,
+            "review": null
+        },
+        "revenue": 49002684
+    },
+    {
+        "id": 132759,
+        "imdb": {
+            "imdb_id": "tt1826660",
+            "title": "Dukhless",
+            "director": "nm1213790",
+            "release_year": "2012",
+            "main_actor": "nm1572716",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 132759,
+            "overview": "It's a story of 29-year-old top-manager Max who is really sure he is absolutely successful. All his life is around earning and spending money. But one day he meet a girl who is from another, real, world. And his own world starts to crash down.",
+            "budget": 2800000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/yIhbu2grjFeeAPHS8NReo5WVMCW.jpg",
+            "production_companies": [
+                {
+                    "id": 3451,
+                    "logo_path": "/53lT8VOQ9JDiPGYLvjgO42Av58I.png",
+                    "name": "Art Pictures Studio",
+                    "origin_country": "RU"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "RU",
+                    "name": "Russia"
+                }
+            ],
+            "vote_average": 5.9,
+            "vote_count": 56,
+            "review": null
+        },
+        "revenue": 13218980
+    },
+    {
+        "id": 212769,
+        "imdb": {
+            "imdb_id": "tt1828959",
+            "title": "Make Your Move",
+            "director": "nm0012137",
+            "release_year": "2013",
+            "main_actor": "nm2625538",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 212769,
+            "overview": "A pair of star-crossed dancers in New York find themselves at the center of a bitter rivalry between their brothers' underground dance clubs.",
+            "budget": 15000000,
+            "genres": [
+                {
+                    "id": 10402,
+                    "name": "Music"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/aQ3isQnlHt5Gm5Mo3FgkxXQDlRv.jpg",
+            "production_companies": [
+                {
+                    "id": 6680,
+                    "logo_path": "/gffokPQO60FZn83IbBtN0Qr0esL.png",
+                    "name": "Serendipity Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7036,
+                    "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+                    "name": "CJ Entertainment",
+                    "origin_country": "KR"
+                },
+                {
+                    "id": 99961,
+                    "logo_path": "/gtBic6gQQHp9LyfBfhF17XqZXJE.png",
+                    "name": "SM Entertainment",
+                    "origin_country": "KR"
+                },
+                {
+                    "id": 99962,
+                    "logo_path": null,
+                    "name": "Robert Cort Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "KR",
+                    "name": "South Korea"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 63,
+            "review": null
+        },
+        "revenue": 1583687
+    },
+    {
+        "id": 109099,
+        "imdb": {
+            "imdb_id": "tt1829012",
+            "title": "Passion",
+            "director": "nm0000361",
+            "release_year": "2012",
+            "main_actor": "nm1046097",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 109099,
+            "overview": "The rivalry between the manipulative boss of an advertising agency and her talented prot\u00e9g\u00e9e escalates from stealing credit to public humiliation to murder.",
+            "budget": 20000000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/zJk2mrF73SUNywbfu51HuD9XCn6.jpg",
+            "production_companies": [
+                {
+                    "id": 1905,
+                    "logo_path": null,
+                    "name": "Integral Film",
+                    "origin_country": ""
+                },
+                {
+                    "id": 8997,
+                    "logo_path": null,
+                    "name": "SBS Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 83,
+                    "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+                    "name": "France 2 Cin\u00e9ma",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "ES",
+                    "name": "Spain"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 5.3,
+            "vote_count": 274,
+            "review": null
+        },
+        "revenue": 713616
+    },
+    {
+        "id": 75896,
+        "imdb": {
+            "imdb_id": "tt1830786",
+            "title": "Rascals",
+            "director": "nm0223522",
+            "release_year": "2011",
+            "main_actor": "nm0222426",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 75896,
+            "overview": "Two rival con-men attempt to outdo each other to woo a wealthy woman.",
+            "budget": 6500000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/qmxNVBW0Yl4pVeo6jjVFlMS7RJC.jpg",
+            "production_companies": [
+                {
+                    "id": 126364,
+                    "logo_path": null,
+                    "name": "Rupali Aum Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 121602,
+                    "logo_path": null,
+                    "name": "Sanjay Dutt Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 3.9,
+            "vote_count": 13,
+            "review": null
+        },
+        "revenue": 7100000
+    },
+    {
+        "id": 62796,
+        "imdb": {
+            "imdb_id": "tt1831829",
+            "title": "William & Kate",
+            "director": "nm0743093",
+            "release_year": "2011",
+            "main_actor": "nm2569832",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 62796,
+            "overview": "William &amp; Kate is the first of two unrelated American television films about the relationship between Prince William and Catherine \"Kate\" Middleton (now The Duke and Duchess of Cambridge), directed by Mark Rosman and written by Nancey Silvers. The film was a ratings success, despite the negative reception from critics. The second film William &amp; Catherine: A Royal Romance was produced by a different company and released in August 2011.",
+            "budget": 20,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 10770,
+                    "name": "TV Movie"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/hj1T9U1NtlI9l2X2lNs04VbsfDe.jpg",
+            "production_companies": [
+                {
+                    "id": 7242,
+                    "logo_path": null,
+                    "name": "SevenOne International",
+                    "origin_country": ""
+                },
+                {
+                    "id": 114962,
+                    "logo_path": null,
+                    "name": "Silverscreen Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 11505,
+                    "logo_path": null,
+                    "name": "The K\u00f6nigsberg Company",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [],
+            "vote_average": 5.7,
+            "vote_count": 96,
+            "review": null
+        },
+        "revenue": 15
+    },
+    {
+        "id": 60243,
+        "imdb": {
+            "imdb_id": "tt1832382",
+            "title": "Jodaeiye Nader az Simin",
+            "director": "nm1410815",
+            "release_year": "2011",
+            "main_actor": "nm1818216",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 60243,
+            "overview": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+            "budget": 5000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/wQVvASmpm8jGhJBQU20OkoMcNzi.jpg",
+            "production_companies": [
+                {
+                    "id": 84797,
+                    "logo_path": null,
+                    "name": "Asghar Farhadi Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 84798,
+                    "logo_path": null,
+                    "name": "Dreamlab Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 84799,
+                    "logo_path": null,
+                    "name": "MPA APSA Academy Film Fund",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IR",
+                    "name": "Iran"
+                }
+            ],
+            "vote_average": 8.0,
+            "vote_count": 1059,
+            "review": "Great movie around and simple yet neat story with great characters, script and performances.\r\n\r\nYou can totally believe the story is just happening at your building stairs."
+        },
+        "revenue": 24426169
+    },
+    {
+        "id": 44977,
+        "imdb": {
+            "imdb_id": "tt1833673",
+            "title": "Dhoom:3",
+            "director": "nm1715502",
+            "release_year": "2013",
+            "main_actor": "nm0451148",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 44977,
+            "overview": "To avenge his father's death, a circus entertainer trained in magic and acrobatics turns thief to take down a corrupt bank in Chicago. Two cops from Mumbai are assigned to the case.",
+            "budget": 19500000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/9kP1PystrNvfJMnhFGCcNdbNi4B.jpg",
+            "production_companies": [
+                {
+                    "id": 1569,
+                    "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+                    "name": "Yash Raj Films",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 176,
+            "review": "Dhoom 3 is the third of the well acclaimed blockbuster \"Dhoom\" action series. The movie stars renowned Bollywood stars Aamir Khan and Abhishek Bachchan in a legendary battle between a vigilante and a no-nonsense policeman. The film opens in the 1990\u2019s to a show known as The Great Indian Circus. The show starred flashy dancers, dangerous stunts and most importantly a young magician established as the Iqbal Khan\u2019s (the owner) son Sahir.  The show was under a great deal of pressure from its lender as it was unable to make payments on its loan.  Per the banker\u2019s demand, the show was ordered to be shut down and Iqbal Khan committed suicide immediately.\r\n\tThe film then fast forwards to present day, Sahir (Aamir Khan) is an adult and has formulated a plot to avenge his father\u2019s death by planning and executing robberies against the bank that once closed his father\u2019s circus. After one robbery, ACP Jai Dixit (Abhishek Bachchan) is summoned on the case. After a case of cat and mouse, epic chase scenes, and another robbery Jai learns the truth behind Sahir\u2019s robberies. An epic plot twist reveals that Sahir is actually a twin to his autistic brother Samar which explains the inherit \u201cmagic\u201d behind Sahir\u2019s avoiding the police during the chase. Undercover police work and a fifteen minute police chase later the film fittingly ends when Sahir and Samar apparently commit suicide by jumping off a bridge much like their father did. The film lives up to the hype led by the precursor movies in the series, giving the viewers epic action scenes, major plot twists and countless dance numbers that Bollywood film patrons love so much. \r\n   This action film has same intrinsic values and plot as the iconic film Deewaar. The motives of both Sahir and Vijay can be ascribed to the underlying resentment and anger of  young men, or the proverbial \u201cangry young man\u201d made so famous by Deewar\u2019s leading man, Amitabh Bachchan. The young men both took it upon themselves to seek their own justice against what they deemed was unfair and unjust to their family. Both films stress the increased importance on family values that one would see in any other typical megahit Bollywood film. The basic plot of Dhoom 3 is the revenge of the twin sons against the bank for being the cause of their father's death, albeit indirectly.  In Deewaar, Vijay\u2019s father is victimized by a corrupt businessman and leaves town, leaving the family to fend for themselves, and Vijay spends his formative teen years and early adulthood fighting for his rights.  The impact of the victimization of the fathers on the children was evident in both films. The endings are also both inherently tragic as both angry young men die in pursuit of their own justices because they operated outside the law. Historically, in Bollywood rivalries and traditions are multi-generational and these two movies are no exceptions. \u201c[Vijay]\u2026 unlike hard core villains, values family relationships\u2026 he is an exemplary older brother (as a child he worked so hard so that his brother could be educated\u201d (Thomas). In both films the villain is not one true villain but rather someone who is fighting for their own justice having experienced one in the past. \u201c\u2026 he [Vijay] is also good enough to be the focal hero\u201d (Thomas). This runs a direct parallel to Sahir as the triumph of the law (Abhishek Bachchan) over the criminal (Aamir Khan), even if the crime is strangely understandable and maybe justifiable.  There have been rumors of Dhoom 4 and a potential leading villain role of Shah Rukh Khan as well.  We will just have to wait and see."
+        },
+        "revenue": 91000000
+    },
+    {
+        "id": 50581,
+        "imdb": {
+            "imdb_id": "tt1835948",
+            "title": "Edge of the Empire",
+            "director": "nm0437747",
+            "release_year": "2010",
+            "main_actor": "nm2262867",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 50581,
+            "overview": "\"Edge Of The Empire\" is based on a 1973 novel by Sanya Pholprasit. Set in southern Mongolia over 1,000 years ago, a small tribe called Tai was a colony under the power of the Great Han who enslaved them. Oppressed by the Han, the Tai unites to strike back for their freedom, justice, and country. This Thai historical epic revolves around heroes who sacrificed themselves to fight against the invasion of intruders and sought for the freedom of the country.",
+            "budget": 4000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/w4C8Wr4GTPYNc13RbGWVrRnViSK.jpg",
+            "production_companies": [
+                {
+                    "id": 79496,
+                    "logo_path": null,
+                    "name": "Kantana Laboratories Co.",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "TH",
+                    "name": "Thailand"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 4,
+            "review": null
+        },
+        "revenue": 100000
+    },
+    {
+        "id": 69785,
+        "imdb": {
+            "imdb_id": "tt1836912",
+            "title": "Shaitan",
+            "director": "nm2349060",
+            "release_year": "2011",
+            "main_actor": "nm3202701",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 69785,
+            "overview": "Five substance-abusing friends decide to fake a kidnapping in order to bribe a police constable for covering-up a hit-and-run accident.",
+            "budget": 1700000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4X9wr1tnwPY0MPlf3MHtJBggdlA.jpg",
+            "production_companies": [
+                {
+                    "id": 11870,
+                    "logo_path": null,
+                    "name": "Anurag Kashyap Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 78591,
+                    "logo_path": "/iQajpTydnc01XAqPnTURHAMZfWr.png",
+                    "name": "Bohra Bros Productions",
+                    "origin_country": "IN"
+                },
+                {
+                    "id": 12865,
+                    "logo_path": null,
+                    "name": "Getaway Films Private Limited",
+                    "origin_country": "IN"
+                },
+                {
+                    "id": 6808,
+                    "logo_path": "/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png",
+                    "name": "Viacom 18 Motion Pictures",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 34,
+            "review": null
+        },
+        "revenue": 6100000
+    },
+    {
+        "id": 157843,
+        "imdb": {
+            "imdb_id": "tt1837636",
+            "title": "Queen of the Desert",
+            "director": "nm0001348",
+            "release_year": "2015",
+            "main_actor": "nm0000173",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 157843,
+            "overview": "A chronicle of Gertrude Bell's life, a traveler, writer, archaeologist, explorer, cartographer, and political attach\u00e9 for the British Empire at the dawn of the twentieth century.",
+            "budget": 15000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/9WrxqWttzNiEgKGIm3mDteu6jmq.jpg",
+            "production_companies": [
+                {
+                    "id": 6692,
+                    "logo_path": "/2Wd2CodKtgB4XyAQH4ez8qnZuqg.png",
+                    "name": "Benaroya Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5113,
+                    "logo_path": "/qd5ru3vUvGb6dhXSzkHn7EQoX2D.png",
+                    "name": "120dB Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 95937,
+                    "logo_path": null,
+                    "name": "Palmyra Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 24049,
+                    "logo_path": "/zOHQ0A3PpNoLLeAxRZwSqNV3nPr.png",
+                    "name": "Sierra/Affinity",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 63369,
+                    "logo_path": null,
+                    "name": "Elevated Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "MA",
+                    "name": "Morocco"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 183,
+            "review": "> The woman who knew every inch of the middle-east!\r\n\r\nIt is a kind of female version of 'Lawrence of Arabia', the lead actress herself told that. A biographical drama of a British woman who had played an important role in many middle-eastern affairs during the early 1900s. After the tragic death of the man she was madly in love, the young Gertrude Bell decides to travel across the middle-east to write about it and to do some archaeological research and other stuffs. After the decades of travel on all the corners of the region, what she achieved was the film disclosed in an inspiring way.\r\n\r\nI love this director's films and filmmaking style. It is his first time since last 6 years, but not good as I expected. It is a bit of both, documentary and feature film. Awesomely shot, I loved the camera work and actors too did so well. Nicole Kidman was brilliant, might be her best for portraying in a real life character. Yet something was missing from the film. Maybe the film came at the wrong time, should have been made at least 15 years ago. Otherwise, it is an Oscar worthy product.\r\n\r\nThis film is worth watching for the beautiful desert landscapes and obviously for Kidman. The issue with the story is the focus which completely relied on Kidman's role. She was everywhere and leaving blank on the other end. Something like showing what she accomplished was the notion, so in perspective, it could have made a better documentary film. Some people might like it, especially if you're from the middle-east. But don't expect I would recommend it, because I won't. Whatever I said the film was not bad, just a 50-50 kind.\r\n\r\n5/10"
+        },
+        "revenue": 1592853
+    },
+    {
+        "id": 162903,
+        "imdb": {
+            "imdb_id": "tt1837703",
+            "title": "The Fifth Estate",
+            "director": "nm0174374",
+            "release_year": "2013",
+            "main_actor": "nm1212722",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 162903,
+            "overview": "A look at the relationship between WikiLeaks founder Julian Assange and his early supporter and eventual colleague Daniel Domscheit-Berg, and how the website's growth and influence led to an irreparable rift between the two friends.",
+            "budget": 28000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/vXP51R7yp7pfSXuzWk3LkVTDZwP.jpg",
+            "production_companies": [
+                {
+                    "id": 6735,
+                    "logo_path": "/6yyByQrmTAgJv0QzZ1Eh1jiGX4R.png",
+                    "name": "Participant Media",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7294,
+                    "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+                    "name": "Reliance Entertainment",
+                    "origin_country": "IN"
+                },
+                {
+                    "id": 9195,
+                    "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+                    "name": "Touchstone Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 10039,
+                    "logo_path": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+                    "name": "Anonymous Content",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7,
+                    "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+                    "name": "DreamWorks Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                },
+                {
+                    "iso_3166_1": "BE",
+                    "name": "Belgium"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 689,
+            "review": "Oh, I wonder how soon they will make a film about our time and everything that happens with data security now? It\u2019s just a nightmare, my guy insisted that I delete Telegram and download Utopia p2p, because Telegrams are often tried to be hacked. But Cumberbatch is handsome"
+        },
+        "revenue": 8555008
+    },
+    {
+        "id": 137321,
+        "imdb": {
+            "imdb_id": "tt1837709",
+            "title": "Winter's Tale",
+            "director": "nm0326040",
+            "release_year": "2014",
+            "main_actor": "nm0268199",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 137321,
+            "overview": "A burglar falls for an heiress as she dies in his arms. When he learns that he has the gift of reincarnation, he sets out to save her.",
+            "budget": 60000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/dwDAUpidqVEql6w1o51VIPlMtbG.jpg",
+            "production_companies": [
+                {
+                    "id": 433,
+                    "logo_path": null,
+                    "name": "Weed Road Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 79,
+                    "logo_path": "/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
+                    "name": "Village Roadshow Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 1020,
+            "review": null
+        },
+        "revenue": 30800231
+    },
+    {
+        "id": 103332,
+        "imdb": {
+            "imdb_id": "tt1839492",
+            "title": "Ruby Sparks",
+            "director": "nm0206760",
+            "release_year": "2012",
+            "main_actor": "nm0200452",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 103332,
+            "overview": "Calvin is a young novelist who achieved phenomenal success early in his career but is now struggling with his writing \u2013 as well as his romantic life. Finally, he makes a breakthrough and creates a character named Ruby who inspires him. When Calvin finds Ruby, in the flesh, sitting on his couch about a week later, he is completely flabbergasted that his words have turned into a living, breathing person.",
+            "budget": 8000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/sTkrd0PJJA468EHOsv242785sOb.jpg",
+            "production_companies": [
+                {
+                    "id": 2570,
+                    "logo_path": null,
+                    "name": "Bona Fide Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 43,
+                    "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+                    "name": "Fox Searchlight Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.1,
+            "vote_count": 1117,
+            "review": "Interesting comedy from Zoe Kazan which will catch your attention.\r\n\r\nThe cast is well chosen with a main character cat to the size of Dano. A good movie but nothing very special."
+        },
+        "revenue": 9128263
+    },
+    {
+        "id": 79464,
+        "imdb": {
+            "imdb_id": "tt1839596",
+            "title": "Rockstar",
+            "director": "nm1665004",
+            "release_year": "2011",
+            "main_actor": "nm1633541",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 79464,
+            "overview": "An uninhibited youth woos the hottest about-to-be-married college girl. He rises to become a rock-star - then self-destructs.",
+            "budget": 10920000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10402,
+                    "name": "Music"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/h7w2tl1FJXnqeIA6nB6AN3B9Aa0.jpg",
+            "production_companies": [
+                {
+                    "id": 3653,
+                    "logo_path": "/dEpilNgoW7tElN3xacXckHxGXbo.png",
+                    "name": "Eros International",
+                    "origin_country": "IN"
+                },
+                {
+                    "id": 5670,
+                    "logo_path": null,
+                    "name": "Shree Ashtavinayak Cine Vision",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 7.1,
+            "vote_count": 105,
+            "review": null
+        },
+        "revenue": 19660000
+    },
+    {
+        "id": 214086,
+        "imdb": {
+            "imdb_id": "tt1839642",
+            "title": "The Face of Love",
+            "director": "nm1242062",
+            "release_year": "2013",
+            "main_actor": "nm0000906",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 214086,
+            "overview": "A widow falls for a guy who bears a striking resemblance to her late husband.",
+            "budget": 4000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/fpCHgbltugwZpoTfXsyKxL6Ersa.jpg",
+            "production_companies": [
+                {
+                    "id": 1092,
+                    "logo_path": "/dU2S6qBrsMkBFFkAbcUnJ7p3Izh.png",
+                    "name": "Mockingbird Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.2,
+            "vote_count": 92,
+            "review": null
+        },
+        "revenue": 350006
+    },
+    {
+        "id": 157350,
+        "imdb": {
+            "imdb_id": "tt1840309",
+            "title": "Divergent",
+            "director": "nm1139726",
+            "release_year": "2014",
+            "main_actor": "nm0940362",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 157350,
+            "overview": "In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
+            "budget": 85000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/lmIh6aeCQXA4sLt58l6qB1o54BE.jpg",
+            "production_companies": [
+                {
+                    "id": 491,
+                    "logo_path": "/rUp0lLKa1pr4UsPm8fgzmnNGxtq.png",
+                    "name": "Summit Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 14440,
+                    "logo_path": null,
+                    "name": "Red Wagon Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 10084,
+            "review": "I should probably mention right away that I have not read the book-trilogy that this movie is based on. Given the content matter I might actually have liked the books. The movie? Well to me the movie was a rather mediocre one. As the blurb states the story is set in a dystopian future but we do not really get to know how they got there except the standard explanation that \u201cthere was a war\u201d. The world is a bizarre mixture of primitive post-apocalypse living and modern, futuristic tech. The division of people into factions\u2026well to me it felt pretty dumb to begin with and the idea that some people could not possibly fit into more than one faction was absolutely ludicrous to me. How the hell was it supposed to keep peace by deliberately factioning people against each other?\r\n\r\nOkay, trying to get over these gripes, what about the rest of the movie. Well it was okayish I guess. It did give me the same feeling as when reading a young-adult book and I would say that this movie is most suitable for a younger audience. The story is rather predictable. There is the initial training part where Tris of course gets a few friends and in particular befriends one of her tutors. Not surprisingly there is also the obligatory jerk. The one thing that makes the movie a bit out of the ordinary are the induced dream sequences which are not too bad.\r\n\r\nLater in the movie Tris starts to discover the plot of the bad guys and of course goes off to save the day. Again these part are simple and predictable. The ease by which Tris and a few of her friends manages to infiltrate the lab/headquarters of the baddies is rather unbelievable. It of course helps that it seems like it is only the good guys who can shoot straight or fight worth a damned with a few occasional exceptions when the script calls for it.\r\n\r\nThe movie is, as far as I understand it, based only on the first book in the trilogy so it is perhaps not very surprising that it ends with a lot of loose ends but, for Christ sake, they fight their way to stop the plot, taking down a lot of people on their way, and then they leave the chief mastermind of this despicable plot lying unconscious but alive on the floor just taking off. That just felt dumb!\r\n\r\nIt is not a bad bad movie but I do not understand the high ratings some people seem to give it."
+        },
+        "revenue": 288747895
+    },
+    {
+        "id": 83686,
+        "imdb": {
+            "imdb_id": "tt1840417",
+            "title": "The Words",
+            "director": "nm0460206",
+            "release_year": "2012",
+            "main_actor": "nm0177896",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 83686,
+            "overview": "The Words follows young writer Rory Jansen who finally achieves long sought after literary success after publishing the next great American novel. There's only one catch - he didn't write it. As the past comes back to haunt him and his literary star continues to rise, Jansen is forced to confront the steep price that must be paid for stealing another man's work, and for placing ambition and success above life's most fundamental three words.",
+            "budget": 6000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/gaugOXEtSKoMhwLaD4oHxlFzwMV.jpg",
+            "production_companies": [
+                {
+                    "id": 5490,
+                    "logo_path": "/xuJSR4dWsvkE194aemIJwflyNF2.png",
+                    "name": "CBS Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 12545,
+                    "logo_path": null,
+                    "name": "Also Known As Pictures",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 817,
+            "review": null
+        },
+        "revenue": 13231461
+    }
+]
