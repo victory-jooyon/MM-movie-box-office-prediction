@@ -1,0 +1,35 @@
+[
+    {
+        "id": 743320,
+        "imdb": {
+            "imdb_id": "tt0542912",
+            "title": "Raisin the Stakes: A Rock Opera in Three Acts",
+            "director": "nm0588087",
+            "release_year": "2002",
+            "main_actor": "nm0287182",
+            "main_genre": "Animation"
+        },
+        "tmdb": {
+            "tmdb_id": 743320,
+            "overview": "Students become intoxicated when they smoke raisins; Gandhi has a bad trip.",
+            "budget": 420,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10402,
+                    "name": "Music"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/fDEuZiqF5DKkupidIHSYcvu4rnc.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 4200
+    }
+]

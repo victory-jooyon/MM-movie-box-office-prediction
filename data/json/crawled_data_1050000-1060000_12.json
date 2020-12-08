@@ -1,0 +1,614 @@
+[
+    {
+        "id": 20002,
+        "imdb": {
+            "imdb_id": "tt1091229",
+            "title": "Chandni Chowk to China",
+            "director": "nm0012541",
+            "release_year": "2009",
+            "main_actor": "nm0474774",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 20002,
+            "overview": "Based in Delhi's Chandni Chowk, orphaned Sidhu is adopted by the owner of Bajrang Bali Parathas, known simply as Dada. Years later Sidhu has grown up and is an expert at slicing vegetables.",
+            "budget": 12000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/tGUVeDAsNArrogQBoV7jVhjkqHh.jpg",
+            "production_companies": [
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 11791,
+                    "logo_path": null,
+                    "name": "People Tree Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 98175,
+                    "logo_path": null,
+                    "name": "Ramesh Sippy Enterprises",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 4.5,
+            "vote_count": 46,
+            "review": null
+        },
+        "revenue": 17000000
+    },
+    {
+        "id": 13359,
+        "imdb": {
+            "imdb_id": "tt1091617",
+            "title": "Expelled: No Intelligence Allowed",
+            "director": "nm2021984",
+            "release_year": "2008",
+            "main_actor": "nm3083388",
+            "main_genre": "Documentary"
+        },
+        "tmdb": {
+            "tmdb_id": 13359,
+            "overview": "Pro-intelligent design scholars and scientists are often chastised, fired or denied tenured positions by those who believe in Darwin's theory of evolution.",
+            "budget": 3500000,
+            "genres": [
+                {
+                    "id": 99,
+                    "name": "Documentary"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/fQgNm7DK6DxfBuSfhQSjtGZYALf.jpg",
+            "production_companies": [
+                {
+                    "id": 2736,
+                    "logo_path": null,
+                    "name": "Premise Media Corporation",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 4.0,
+            "vote_count": 52,
+            "review": null
+        },
+        "revenue": 7700000
+    },
+    {
+        "id": 672125,
+        "imdb": {
+            "imdb_id": "tt10919132",
+            "title": "Love Mocktail",
+            "director": "nm9135703",
+            "release_year": "2020",
+            "main_actor": "nm11393929",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 672125,
+            "overview": "Love Mocktail is a 2020 Indian Kannada-language romantic drama film directed by Krishna in his director debut and jointly produced by Krishna, Milana Nagaraj. The film stars Krishna, Milana Nagaraj in the lead roles. The film was released on 31 January 2020.",
+            "budget": 266103,
+            "genres": [
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/bJqYDmyJffTk9ruvPt6B5WTPe9B.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 6.7,
+            "vote_count": 5,
+            "review": null
+        },
+        "revenue": 665258
+    },
+    {
+        "id": 551804,
+        "imdb": {
+            "imdb_id": "tt10919380",
+            "title": "Freaky",
+            "director": "nm0484907",
+            "release_year": "2020",
+            "main_actor": "nm0000681",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 551804,
+            "overview": "A mystical, ancient dagger causes a notorious serial killer to magically switch bodies with a 17-year-old girl.",
+            "budget": 5000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg",
+            "production_companies": [
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3172,
+                    "logo_path": "/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+                    "name": "Blumhouse Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 89115,
+                    "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
+                    "name": "Divide / Conquer",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.2,
+            "vote_count": 87,
+            "review": "'Freaky' succeeds when it sticks to the serial killer/swapped bodies storyline, but its need to add emotional depth to this horror-comedy and tack on an extended cheap ending weakens the whole film. Come for the deadly kills and big laughs, but maybe get up before the final 10.\r\n- Chris dos Santos\r\n\r\nRead Chris' full article...\r\nhttps://www.maketheswitch.com.au/article/review-freaky-get-your-freak-on"
+        },
+        "revenue": 5772505
+    },
+    {
+        "id": 39513,
+        "imdb": {
+            "imdb_id": "tt1092026",
+            "title": "Paul",
+            "director": "nm0609549",
+            "release_year": "2011",
+            "main_actor": "nm0670408",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 39513,
+            "overview": "For the past 60 years, a space-traveling smart-ass named Paul has been locked up in a top-secret military base, advising world leaders about his kind. But when he worries he\u2019s outlived his usefulness and the dissection table is drawing uncomfortably close, Paul escapes on the first RV that passes by his compound in Area 51. Fortunately, it contains the two earthlings who are most likely to rescue and harbor an alien on the run.",
+            "budget": 40000000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/bX8TP2qRWh2OcmeUHGn1ENDkCu6.jpg",
+            "production_companies": [
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7295,
+                    "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+                    "name": "Relativity Media",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 10163,
+                    "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+                    "name": "Working Title Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 443,
+                    "logo_path": "/deewJi8ncCh6Sc2STL91wvZ4O5X.png",
+                    "name": "Big Talk Productions",
+                    "origin_country": "GB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 3997,
+            "review": null
+        },
+        "revenue": 97552050
+    },
+    {
+        "id": 649288,
+        "imdb": {
+            "imdb_id": "tt10923940",
+            "title": "Lava",
+            "director": "nm1010731",
+            "release_year": "2019",
+            "main_actor": "nm1010731",
+            "main_genre": "Animation"
+        },
+        "tmdb": {
+            "tmdb_id": 649288,
+            "overview": "Deborah makes a living by drawing the skin of her clients. One night, her housemate invites her boyfriend and friend to their house. Sitting in the armchair, they consume the series of the moment, Gain of Clones, until, suddenly, the signal is cut off and the screen is dyed red while subliminal images float. No one remembers what happened the last two minutes. The answer will be in the enigmatic presence of giant cats that will later invade the city.",
+            "budget": 100,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/aEIIFRKlqtdsWyGdSmNoH1apZHt.jpg",
+            "production_companies": [
+                {
+                    "id": 29856,
+                    "logo_path": null,
+                    "name": "Crudo Films",
+                    "origin_country": "AR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AR",
+                    "name": "Argentina"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 100
+    },
+    {
+        "id": 630331,
+        "imdb": {
+            "imdb_id": "tt10931434",
+            "title": "Cin-Si Bozuk",
+            "director": "nm5047867",
+            "release_year": "2019",
+            "main_actor": "nm8497104",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 630331,
+            "overview": "An epic tale saga of 2 friends who want to have sex over the weekend with their girlfriends. But when an ancient force is unleashed, they have to face of with Pennywise, the black magicians and the bad guys with chainsaws.",
+            "budget": 46,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/xlJabG9kOlmZrP9hKq0DZ8oZDIX.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 5
+    },
+    {
+        "id": 71469,
+        "imdb": {
+            "imdb_id": "tt1093357",
+            "title": "The Darkest Hour",
+            "director": "nm0329755",
+            "release_year": "2011",
+            "main_actor": "nm0386472",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 71469,
+            "overview": "In Moscow, five young people lead the charge against an alien race which has attacked Earth via our power supply.",
+            "budget": 30000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/5Ao4qAFbjP7fcFOOdMNvQEnl0Yr.jpg",
+            "production_companies": [
+                {
+                    "id": 508,
+                    "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
+                    "name": "Regency Enterprises",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1038,
+                    "logo_path": "/o62j8ZNXmRTrq6ThviFWiL9zb8J.png",
+                    "name": "Bazelevs Production",
+                    "origin_country": "RU"
+                },
+                {
+                    "id": 3638,
+                    "logo_path": null,
+                    "name": "The Jacobson Company",
+                    "origin_country": ""
+                },
+                {
+                    "id": 10104,
+                    "logo_path": "/hNuGhsKVlmhnwSRcmOejDBDjh6w.png",
+                    "name": "New Regency Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 491,
+                    "logo_path": "/rUp0lLKa1pr4UsPm8fgzmnNGxtq.png",
+                    "name": "Summit Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "RU",
+                    "name": "Russia"
+                }
+            ],
+            "vote_average": 5.0,
+            "vote_count": 912,
+            "review": "**When the electric mist from the sky struck down.**\r\n\r\nThis film came five years ago, but I watched it now. A US-Russian collaboration product that's entirely takes place in Moscow. This is an alien invasion theme, but slightly different than those similar films. It never gives the reason, just the destructions like apocalypse on its way. That means it is about the survival. A group of Americans who are in the Moscow for different reasons joins the hands after people started to turn into ashes with the contact of the strange electric mist that came from the sky. So what's their plan now and whether they get out of it safely or not focused on the remaining film.\r\n\r\nSurely some people would enjoy it. It's not all bad if you are not expecting a masterpiece. I should have seen it in digital 3D for a better experience, even the normal watch is not that bad. The turns in the story were unpredictable, particularly the film characters, but the twist wasn't. They kept the open ending, and you know why is that. I liked the performances, not individually, but the overall everyone, including the Russians.\r\n\r\nThe film was also shorter, which means fast moving tale. The graphics were okay, especially those electric mist thing, but disappointed for not show the aliens other than for fractions of seconds during the fightbacks. Despite enjoyed watching it, I'm not in favour of it, because it's just one of those films that falls in the average category where the majority of those who watched it not happy for not detailing everything in the film.\r\n\r\n_4/10_"
+        },
+        "revenue": 64626786
+    },
+    {
+        "id": 11807,
+        "imdb": {
+            "imdb_id": "tt1093370",
+            "title": "Jab We Met",
+            "director": "nm1665004",
+            "release_year": "2007",
+            "main_actor": "nm1372788",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 11807,
+            "overview": "A depressed wealthy businessman and a spunky and care-free young woman embark on an unexpected journey that changes their lives.",
+            "budget": 2300000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/reEzvhfp85DTapHSPRzBULCXUuz.jpg",
+            "production_companies": [
+                {
+                    "id": 5670,
+                    "logo_path": null,
+                    "name": "Shree Ashtavinayak Cine Vision",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 7.4,
+            "vote_count": 161,
+            "review": null
+        },
+        "revenue": 4600000
+    },
+    {
+        "id": 20048,
+        "imdb": {
+            "imdb_id": "tt1093908",
+            "title": "Confessions of a Shopaholic",
+            "director": "nm0389591",
+            "release_year": "2009",
+            "main_actor": "nm0279545",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 20048,
+            "overview": "In the glamorous world of New York City, Rebecca Bloomwood is a fun-loving girl who is really good at shopping-a little too good, perhaps. She dreams of working for her favorite fashion magazine, but can't quite get her foot in the door-until ironically, she snags a job as an advice columnist for a financial magazine published by the same company.",
+            "budget": 40000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/6DH1iP06fcpjD7tppsTwcAyZfDR.jpg",
+            "production_companies": [
+                {
+                    "id": 9195,
+                    "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+                    "name": "Touchstone Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 130,
+                    "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+                    "name": "Jerry Bruckheimer Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.4,
+            "vote_count": 2062,
+            "review": null
+        },
+        "revenue": 108332743
+    },
+    {
+        "id": 673680,
+        "imdb": {
+            "imdb_id": "tt10942220",
+            "title": "Kabaddi Kabaddi Kabaddi",
+            "director": "nm6458915",
+            "release_year": "2019",
+            "main_actor": "nm5128494",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 673680,
+            "overview": "Kabaddi Kabaddi Kabaddi is a sequel movie of the hit 2013 movie Kabaddi and 2015 Kabaddi Kabaddi. This time the movie presents the conflict of same cast and inter cast marriage.",
+            "budget": 1753,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/jnU2IP5E8yDl00z4cDpBnHQoBJS.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 9907
+    },
+    {
+        "id": 17347,
+        "imdb": {
+            "imdb_id": "tt1094241",
+            "title": "Bride Flight",
+            "director": "nm0813786",
+            "release_year": "2008",
+            "main_actor": "nm0810722",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 17347,
+            "overview": "A romantic drama that charts the lives of three women from different backgrounds, forever changed when they emigrate to New Zealand as war brides.",
+            "budget": 6400000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/AuOqthWOWOeX72jnH7emYzu0vuS.jpg",
+            "production_companies": [
+                {
+                    "id": 790,
+                    "logo_path": "/k0MnHFovKIeev0ANR0Ww6HO6tfF.png",
+                    "name": "Samsa Film",
+                    "origin_country": "LU"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "NL",
+                    "name": "Netherlands"
+                },
+                {
+                    "iso_3166_1": "LU",
+                    "name": "Luxembourg"
+                }
+            ],
+            "vote_average": 7.0,
+            "vote_count": 21,
+            "review": null
+        },
+        "revenue": 2556911
+    }
+]

@@ -1,0 +1,427 @@
+[
+    {
+        "id": 38117,
+        "imdb": {
+            "imdb_id": "tt1152398",
+            "title": "Beastly",
+            "director": "nm1400426",
+            "release_year": "2011",
+            "main_actor": "nm1641117",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 38117,
+            "overview": "A curse transforms a handsome and arrogant young man into everything he detests in this contemporary retelling of Beauty and the Beast. Wealthy Kyle Kingson has everything a teenager could want in life, but he still gets off on humiliating the weaker and less attractive. When Kyle invites his misfit classmate Kendra to an environmental rally at their school, she questions his motivations but reluctantly accepts. Later, Kyle blows Kendra off, prompting the spurned goth girl to cast a dark spell on the swaggering egotist.",
+            "budget": 17000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/mlUx7nIzHQ2Q3y880OpOC2SDF4a.jpg",
+            "production_companies": [
+                {
+                    "id": 60600,
+                    "logo_path": null,
+                    "name": "Storefront Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 5490,
+                    "logo_path": "/xuJSR4dWsvkE194aemIJwflyNF2.png",
+                    "name": "CBS Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 54502,
+                    "logo_path": null,
+                    "name": "Mel's Cite du Cinema",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 2238,
+            "review": "A bloke has a curse placed on him where he learns that instead of being mean, he can be creepy.\r\n\r\nAbsolutely nobody on the planet would behave like a single one of these characters, and if that weren't the case, this movie would still suck. Gets the extra star for LisaGay Hamilton & Neil Patrick Harris who, though still ridiculous, are at least endearing.\r\n\r\n(Also he's way hotter as The Beast).\r\n\r\n_Final rating:\u2605\u00bd: - Boring/disappointing. Avoid if possible._"
+        },
+        "revenue": 43202283
+    },
+    {
+        "id": 43942,
+        "imdb": {
+            "imdb_id": "tt1152822",
+            "title": "Freakonomics",
+            "director": "nm1823216",
+            "release_year": "2010",
+            "main_actor": "nm0710447",
+            "main_genre": "Documentary"
+        },
+        "tmdb": {
+            "tmdb_id": 43942,
+            "overview": "Some of the world's most innovative documentary filmmakers will explore the hidden side of everything.",
+            "budget": 3000000,
+            "genres": [
+                {
+                    "id": 99,
+                    "name": "Documentary"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/uNO9svhhl5BqTlBN7ligl2uvttS.jpg",
+            "production_companies": [
+                {
+                    "id": 7367,
+                    "logo_path": null,
+                    "name": "Chad Troutwine Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7368,
+                    "logo_path": null,
+                    "name": "Green Film Company",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7369,
+                    "logo_path": null,
+                    "name": "Human Worldwide",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7370,
+                    "logo_path": null,
+                    "name": "Loki Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 78,
+            "review": null
+        },
+        "revenue": 103735
+    },
+    {
+        "id": 11322,
+        "imdb": {
+            "imdb_id": "tt1152836",
+            "title": "Public Enemies",
+            "director": "nm0000520",
+            "release_year": "2009",
+            "main_actor": "nm0000288",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 11322,
+            "overview": "Depression-era bank robber John Dillinger's charm and audacity endear him to much of America's downtrodden public, but he's also a thorn in the side of J. Edgar Hoover and the fledgling FBI. Desperate to capture the elusive outlaw, Hoover makes Dillinger his first Public Enemy Number One and assigns his top agent, Melvin Purvis, the task of bringing him in dead or alive.",
+            "budget": 80000000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ezFQaPf4cOEfsl39Me0gSV29d7V.jpg",
+            "production_companies": [
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7295,
+                    "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+                    "name": "Relativity Media",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 675,
+                    "logo_path": null,
+                    "name": "Forward Pass",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 11581,
+                    "logo_path": "/6K0xgnlb35PU31T2IH3deVGvTlX.png",
+                    "name": "Misher Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 11391,
+                    "logo_path": null,
+                    "name": "Tribeca Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 562,
+                    "logo_path": "/k3NsSdV854UX4zEReX1dl1Psxbb.png",
+                    "name": "Appian Way",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1778,
+                    "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+                    "name": "DENTSU",
+                    "origin_country": "JP"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 3052,
+            "review": null
+        },
+        "revenue": 214104620
+    },
+    {
+        "id": 659153,
+        "imdb": {
+            "imdb_id": "tt11529348",
+            "title": "5Gang: Un Altfel de Craciun",
+            "director": "nm4492031",
+            "release_year": "2019",
+            "main_actor": "nm10910451",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 659153,
+            "overview": "To keep the band together, Selly tries to earn money by making an appearance at the birthday party of a mobster's daughter - until he gets kidnapped.",
+            "budget": 1500000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/6ViwqeqOEQIjKfNCbhkE88zOuGK.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 8.6,
+            "vote_count": 90,
+            "review": null
+        },
+        "revenue": 1489573
+    },
+    {
+        "id": 33196,
+        "imdb": {
+            "imdb_id": "tt1153040",
+            "title": "Haeundae",
+            "director": "nm1082740",
+            "release_year": "2009",
+            "main_actor": "nm0351710",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 33196,
+            "overview": "A woman named Yeon-hee lives in Busan with her boyfriend Man-sik near Haeundae Beach. But, when they find out a tsunami will hit the city, They realize they only have 10 minutes to escape!!",
+            "budget": 16000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/1mE5jde5SJqUnZ58MAweW9GuhzK.jpg",
+            "production_companies": [
+                {
+                    "id": 5716,
+                    "logo_path": null,
+                    "name": "Polygon Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7036,
+                    "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+                    "name": "CJ Entertainment",
+                    "origin_country": "KR"
+                },
+                {
+                    "id": 10955,
+                    "logo_path": "/7uRzBHgr2ypR31zmdkbvuvk7ney.png",
+                    "name": "JK Film",
+                    "origin_country": "KR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "KR",
+                    "name": "South Korea"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 201,
+            "review": null
+        },
+        "revenue": 71641901
+    },
+    {
+        "id": 659731,
+        "imdb": {
+            "imdb_id": "tt11531530",
+            "title": "Varane Avashyamund",
+            "director": "nm4519806",
+            "release_year": "2020",
+            "main_actor": "nm0811794",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 659731,
+            "overview": "A divorced woman trying to get hired as a French tutor and teaching classical dance, and she has a daughter. Her brother Manuel also resides in a flat in Chennai. Their next door neighbours are Unnikrishnan, a retired Major who has a pet dog, Prabhakaran and Bibeesh who lives with a serial-actress aunt (not related by blood) and his young school going brother. The story revolves around the divorced mother and daughter finding happiness of love in their own ways. The film explores commonality of romantic love in different stages of life.",
+            "budget": 587640,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/pe9nETtwxj5MW17C5zHjlJU8Wm8.jpg",
+            "production_companies": [
+                {
+                    "id": 127162,
+                    "logo_path": null,
+                    "name": "Wayfarer Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 127163,
+                    "logo_path": null,
+                    "name": "M Star Entertainments",
+                    "origin_country": ""
+                },
+                {
+                    "id": 18125,
+                    "logo_path": "/bmM0Aa7RhdsJU4hrQWRyh8Chac5.png",
+                    "name": "Playhouse Release",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 7.1,
+            "vote_count": 17,
+            "review": null
+        },
+        "revenue": 4139731
+    },
+    {
+        "id": 21724,
+        "imdb": {
+            "imdb_id": "tt1153706",
+            "title": "Dance Flick",
+            "director": "nm1349040",
+            "release_year": "2009",
+            "main_actor": "nm0005541",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 21724,
+            "overview": "Street dancer, Thomas Uncles is from the wrong side of the tracks, but his bond with the beautiful Megan White might help the duo realize their dreams as they enter in the mother of all dance battles.",
+            "budget": 25,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10402,
+                    "name": "Music"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/zP4mmgmt0OzIz7Cjk4dgxG0SZJA.jpg",
+            "production_companies": [
+                {
+                    "id": 4,
+                    "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 746,
+                    "logo_path": "/kc7bdIVTBkJYy9aDK1QDDTAL463.png",
+                    "name": "MTV Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1608,
+                    "logo_path": null,
+                    "name": "Wayans Bros. Entertainment",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 4.6,
+            "vote_count": 163,
+            "review": null
+        },
+        "revenue": 32
+    }
+]

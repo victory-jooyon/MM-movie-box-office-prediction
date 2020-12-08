@@ -1,0 +1,256 @@
+[
+    {
+        "id": 38850,
+        "imdb": {
+            "imdb_id": "tt1139282",
+            "title": "Stolen Lives",
+            "director": "nm1981319",
+            "release_year": "2009",
+            "main_actor": "nm0358316",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 38850,
+            "overview": "A detective becomes obsessed with solving a child's 50-year-old murder, uncovering striking similarities between the case and his son's disappearance.",
+            "budget": 2000000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/naTLDr9sESO2A1fvaEP0NiTmejg.jpg",
+            "production_companies": [
+                {
+                    "id": 56010,
+                    "logo_path": null,
+                    "name": "Boy in the Box",
+                    "origin_country": ""
+                },
+                {
+                    "id": 826,
+                    "logo_path": null,
+                    "name": "Capitol Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 56011,
+                    "logo_path": null,
+                    "name": "2 Bridges Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 56012,
+                    "logo_path": null,
+                    "name": "A2 Entertainment Group",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 56,
+            "review": null
+        },
+        "revenue": 7306
+    },
+    {
+        "id": 11439,
+        "imdb": {
+            "imdb_id": "tt1139328",
+            "title": "The Ghost Writer",
+            "director": "nm0000591",
+            "release_year": "2010",
+            "main_actor": "nm0000191",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 11439,
+            "overview": "A writer stumbles upon a long-hidden secret when he agrees to help former British Prime Minister Adam Lang complete his memoirs on a remote island after the politician's assistant drowns in a mysterious accident.",
+            "budget": 45000000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/jloADdyw2jhlM9MupO3BhFUUzgD.jpg",
+            "production_companies": [
+                {
+                    "id": 355,
+                    "logo_path": null,
+                    "name": "R.P. Productions",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 264,
+                    "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+                    "name": "Studio Babelsberg",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 265,
+                    "logo_path": null,
+                    "name": "Runteam",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 83,
+                    "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+                    "name": "France 2 Cin\u00e9ma",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 1477,
+            "review": "Such an eerie and haunting movie\u2026 I expected just another political thriller, but this is so much more interesting\u2026\r\n\r\nThe remote setting, the media storm\u2026 the layered motivations of the characters, sexual, financial, political etc\u2026\r\n\r\nIt was also great to see cinematography that wasn\u2019t just close ups of talking heads, which is the norm for these kinds of movies\u2026\r\n\r\nI also liked the parallels to the real world, the Blair-esque prime minister, the Middle Eastern wars and such, but also that it really is it\u2019s own movie and is more concerned with painting a certain world than with commenting on current events\u2026"
+        },
+        "revenue": 60331447
+    },
+    {
+        "id": 13788,
+        "imdb": {
+            "imdb_id": "tt1139668",
+            "title": "The Unborn",
+            "director": "nm0333060",
+            "release_year": "2009",
+            "main_actor": "nm0951148",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 13788,
+            "overview": "A young woman fights the spirit that is slowly taking possession of her.",
+            "budget": 16000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/6SUuLwyk9wFKZDYsgdSahYs7HEf.jpg",
+            "production_companies": [
+                {
+                    "id": 134,
+                    "logo_path": null,
+                    "name": "Rogue Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2481,
+                    "logo_path": "/nVEP2IHCDOBOldgDL4SSufitN9.png",
+                    "name": "Platinum Dunes",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 423,
+                    "logo_path": "/uvA6e2O31qaonsbYd8tjvgqmNXh.png",
+                    "name": "Phantom Four",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7295,
+                    "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+                    "name": "Relativity Media",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.2,
+            "vote_count": 969,
+            "review": null
+        },
+        "revenue": 76514050
+    },
+    {
+        "id": 13310,
+        "imdb": {
+            "imdb_id": "tt1139797",
+            "title": "L\u00e5t den r\u00e4tte komma in",
+            "director": "nm0019247",
+            "release_year": "2008",
+            "main_actor": "nm2968765",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 13310,
+            "overview": "Set in 1982 in the suburb of Blackeberg, Stockholm, twelve-year-old Oskar is a lonely outsider, bullied at school by his classmates; at home, Oskar dreams of revenge against a trio of bullies. He befriends his twelve-year-old, next-door neighbor Eli, who only appears at night in the snow-covered playground outside their building.",
+            "budget": 4000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4hezTKTuZMp0l2ufihKwPgLmfLg.jpg",
+            "production_companies": [
+                {
+                    "id": 3576,
+                    "logo_path": null,
+                    "name": "EFTI",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "SE",
+                    "name": "Sweden"
+                }
+            ],
+            "vote_average": 7.5,
+            "vote_count": 1988,
+            "review": "OUTSTANDING"
+        },
+        "revenue": 10785801
+    }
+]

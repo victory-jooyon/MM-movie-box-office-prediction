@@ -1,0 +1,272 @@
+[
+    {
+        "id": 27936,
+        "imdb": {
+            "imdb_id": "tt1149361",
+            "title": "Micmacs \u00e0 tire-larigot",
+            "director": "nm0000466",
+            "release_year": "2009",
+            "main_actor": "nm0200702",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 27936,
+            "overview": "A man and his friends come up with an intricate and original plan to destroy two big weapons manufacturers.  Avid movie-watcher and video store clerk Bazil has had his life all but ruined by weapons of war. His father was killed by a landmine in Morocco and one fateful night a stray bullet from a nearby shootout embeds itself in his skull, leaving him on the verge of instantaneous death. Losing his job and his home, Bazil wanders the streets until he meets Slammer, a pardoned convict who introduces him to a band of eccentric junkyard dealers including Calculator, a math expert and statistician, Buster, a record-holder in human cannonball feats, Tiny Pete, an artistic craftsman of automatons, and Elastic Girl, a sassy contortionist. When chance reveals to Bazil the two weapons manufacturers responsible for building the instruments of his destruction, he constructs a complex scheme for revenge that his newfound family is all too happy to help set in motion.",
+            "budget": 33000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/e3pEeRGZUGdTFyVoMRC2RHhRqr8.jpg",
+            "production_companies": [
+                {
+                    "id": 7286,
+                    "logo_path": null,
+                    "name": "Epith\u00e8te Films",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 12000,
+                    "logo_path": null,
+                    "name": "Tapioca Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 12001,
+                    "logo_path": null,
+                    "name": "Warner Bros. Entertainment France",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 83,
+                    "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+                    "name": "France 2 Cin\u00e9ma",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 591,
+                    "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+                    "name": "France 3 Cin\u00e9ma",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 11620,
+                    "logo_path": "/f3hRdCaK1w9qH1Qs8nLd2L2bae1.png",
+                    "name": "OCS",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 11359,
+                    "logo_path": "/xnLJl11viWq9qajYs3zCNtjRk5c.png",
+                    "name": "France 2",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 11244,
+                    "logo_path": "/exk8IDzTxJtC0d92JmON90ff3tG.png",
+                    "name": "France 3",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 11246,
+                    "logo_path": "/4YZ5CQZkJa2FIKGtjLLoKhNOAIw.png",
+                    "name": "R\u00e9gion Ile-de-France",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 354,
+            "review": "Jeunet is faithful to his style. Nice and kind story, not close to Amelie but entertaining nevertheless.\r\n\r\nThe cast, in any case, is superb."
+        },
+        "revenue": 14000000
+    },
+    {
+        "id": 689652,
+        "imdb": {
+            "imdb_id": "tt11502802",
+            "title": "Tobulas Pasimatymas",
+            "director": "nm9829695",
+            "release_year": "2020",
+            "main_actor": "nm4817797",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 689652,
+            "overview": "A single music teacher - Lina meets famous TV-host Tomas. They make a deal - Lina goes on online dates and provides Tomas with funny stories from her dates for his show in exchange for a new piano for her school.",
+            "budget": 216000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/zLCRluX09lDenR98laHiSezhonH.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 3.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 947455
+    },
+    {
+        "id": 668742,
+        "imdb": {
+            "imdb_id": "tt11506284",
+            "title": "Padre no hay m\u00e1s que uno 2: La llegada de la suegra",
+            "director": "nm0782213",
+            "release_year": "2020",
+            "main_actor": "nm0782213",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 668742,
+            "overview": "The success of the Conchy virtual assistant (which was developed by Javier) has earned him a favorable spot in the parents chat room - until something unexpected ruins it all.",
+            "budget": 4000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/7MjODwcPV5tAEa1zlje9N4gReGS.jpg",
+            "production_companies": [
+                {
+                    "id": 29566,
+                    "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+                    "name": "Atresmedia",
+                    "origin_country": "ES"
+                },
+                {
+                    "id": 91991,
+                    "logo_path": "/ngEpBkH7nkFfyCCtvGhhIzPS1xF.png",
+                    "name": "Bowfinger",
+                    "origin_country": "ES"
+                },
+                {
+                    "id": 63520,
+                    "logo_path": null,
+                    "name": "Sony Pictures International Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "ES",
+                    "name": "Spain"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 66,
+            "review": null
+        },
+        "revenue": 14871307
+    },
+    {
+        "id": 12834,
+        "imdb": {
+            "imdb_id": "tt1151359",
+            "title": "Leaves of Grass",
+            "director": "nm0625789",
+            "release_year": "2009",
+            "main_actor": "nm0001570",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 12834,
+            "overview": "An Ivy League professor returns home, where his pot-growing twin brother has concocted a plan to take down a local drug lord.",
+            "budget": 9000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/kpKXJ6DvLSdc1BOsansl7ZWa84K.jpg",
+            "production_companies": [
+                {
+                    "id": 54855,
+                    "logo_path": null,
+                    "name": "Leaves Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 925,
+                    "logo_path": "/dIb9hjXNOkgxu4kBWdIdK8nM4w.png",
+                    "name": "Nu Image",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1843,
+                    "logo_path": null,
+                    "name": "Grand Army Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2297,
+                    "logo_path": null,
+                    "name": "Class 5 Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 54854,
+                    "logo_path": null,
+                    "name": "Langley Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1020,
+                    "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+                    "name": "Millennium Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 276,
+            "review": null
+        },
+        "revenue": 985117
+    }
+]
