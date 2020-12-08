@@ -62,6 +62,7 @@ if __name__ == '__main__':
     RAW_DIR = pathlib.Path().absolute().parent
 
     parser.add_argument('--start', default=0, type=int, help='IMDB starting point (total 4175405 data)')
+    parser.add_argument('--end', default=4175405, type=int, help='IMDB starting point (total 4175405 data)')
     parser.add_argument('--jsonfile', default=f'{RAW_DIR}/json/imdb_data.json', type=str, help='IMDB starting point (total 4175405 data)')
 
     args, _ = parser.parse_known_args()
@@ -70,11 +71,20 @@ if __name__ == '__main__':
         filtered_movies = json.load(f)
 
     keys = filtered_movies.keys()
-    keys = list(keys)[args.start:]
+    keys = list(keys)[args.start:args.end+1]
 
     all_data = []
     last_update = 0
     for i, k in enumerate(tqdm(keys)):
+
+        if i // 10000 == (last_update + 1):
+            print('all_data len:', len(all_data))
+            filename = f'{RAW_DIR}/../json/crawled_data_{args.start}-{args.start + i}_{len(all_data)}.json'
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(all_data, f, indent=4)
+            last_update += 1
+            print(f"Saved at {filename}")
+
         tmdb_url = f"https://api.themoviedb.org/3/find/{k}?api_key={TMDB_API_KEY}&language=en-US&external_source=imdb_id"
         tmdb_res = json.loads(requests.get(tmdb_url).text)
         rs = tmdb_res['movie_results']
@@ -168,16 +178,12 @@ if __name__ == '__main__':
             }
             all_data.append(data)
 
-            if i // 10000 == (last_update + 1):
-                print('all_data len:', len(all_data))
-                with open(f'{RAW_DIR}/../json/crawled_data_{args.start}-{args.start+i}_{len(all_data)}.json', 'w', encoding='utf-8') as f:
-                    json.dump(all_data, f, indent=4)
-                filename = f'{RAW_DIR}/../json/crawled_data_{args.start}-{args.start+i}_{len(all_data)}.json'
-                last_update += 1
-                print(f"Saved at {filename}")
-                break
-
         except Exception as e:
             print(k, r, 'error:', e)
 
-
+    print('all_data len:', len(all_data))
+    filename = f'{RAW_DIR}/../json/crawled_data_{args.start}-{args.start + i}_{len(all_data)}.json'
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(all_data, f, indent=4)
+    last_update += 1
+    print(f"Saved at {filename}")
