@@ -16,7 +16,7 @@ class MovieDataset(Dataset):
     def __init__(self, mode='train', thres=(0, 1), seed=0):
         super(Dataset, self).__init__()
         # Read data from json
-        with open('./data/validated_data.json', 'r', encoding='utf-8') as f:
+        with open('./data/json/crawled_data/crawled_data_all.json', 'r', encoding='utf-8') as f:
             movie_data = json.load(f)
         self.data_low, self.data_mid, self.data_high = [], [], []
         random.seed(seed)
@@ -31,7 +31,7 @@ class MovieDataset(Dataset):
 
             # Build imdb text
             imdb = []
-            for key in ['release_year', 'genre_num', 'director_num', 'main_actor_num']:
+            for key in ['release_year', 'main_genre', 'director', 'main_actor']:
                 if key in data['imdb']:
                     imdb.append(data['imdb'][key])
                 else:
