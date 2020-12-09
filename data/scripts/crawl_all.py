@@ -79,7 +79,7 @@ if __name__ == '__main__':
 
         if i // 10000 == (last_update + 1):
             print('all_data len:', len(all_data))
-            filename = f'{RAW_DIR}/../json/crawled_data_{args.start}-{args.start + i}_{len(all_data)}.json'
+            filename = f'{RAW_DIR}/json/crawled_data/crawled_data_{args.start}-{args.start + i}_{len(all_data)}.json'
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump(all_data, f, indent=4)
             last_update += 1
@@ -182,7 +182,7 @@ if __name__ == '__main__':
             print(k, r, 'error:', e)
 
     print('all_data len:', len(all_data))
-    filename = f'{RAW_DIR}/../json/crawled_data_{args.start}-{args.start + i}_{len(all_data)}.json'
+    filename = f'{RAW_DIR}/json/crawled_data/crawled_data_{args.start}-{args.start + i}_{len(all_data)}.json'
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(all_data, f, indent=4)
     last_update += 1
