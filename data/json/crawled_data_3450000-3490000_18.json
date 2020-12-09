@@ -1,0 +1,1000 @@
+[
+    {
+        "id": 578189,
+        "imdb": {
+            "imdb_id": "tt7390646",
+            "title": "Black and Blue",
+            "director": "nm1938064",
+            "release_year": "2019",
+            "main_actor": "nm0365140",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 578189,
+            "overview": "A fast-paced action thriller about a rookie cop who inadvertently captures the murder of a young drug dealer on her body cam. After realizing that the murder was committed by corrupt cops, she teams up with the one person from her community who is willing to help her as she tries to escape both the criminals out for revenge and the police who are desperate to destroy the incriminating footage.",
+            "budget": 12000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg",
+            "production_companies": [
+                {
+                    "id": 102809,
+                    "logo_path": null,
+                    "name": "Hidden Empire Film Group",
+                    "origin_country": ""
+                },
+                {
+                    "id": 84301,
+                    "logo_path": null,
+                    "name": "Royal Viking Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 3287,
+                    "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+                    "name": "Screen Gems",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 413,
+            "review": "Well made thriller with solid performances from Naomie Harris, Frank Grillo and even Tyrese Gibson. Not entirely predictable at least and kept me entertained throughout and didn't run out of gas as sometimes these type of thrillers do in the third act.\r\n\r\nA decent flick from Deon Taylor who also directed Traffik from a couple years back which I also enjoyed, mostly for Paula Patton. Probably worth a rental if you like the corrupt cop crime-thrillers. **3.75/5**"
+        },
+        "revenue": 22741061
+    },
+    {
+        "id": 491418,
+        "imdb": {
+            "imdb_id": "tt7401588",
+            "title": "Instant Family",
+            "director": "nm1890845",
+            "release_year": "2018",
+            "main_actor": "nm0000242",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 491418,
+            "overview": "When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.",
+            "budget": 48000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/dic3GdmMpxxfkCQfvZnasb5ZkSG.jpg",
+            "production_companies": [
+                {
+                    "id": 8537,
+                    "logo_path": null,
+                    "name": "Closest to the Hole Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 4,
+                    "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 119509,
+                    "logo_path": null,
+                    "name": "Leverage Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 100612,
+                    "logo_path": null,
+                    "name": "Paramount Pictures International",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.6,
+            "vote_count": 1708,
+            "review": "First of all, the acting in this film just perfect. In every scene, you can see and tell that all the actors and actresses were giving it their one hundred and ten percent. Mark Wahlberg and Rose Byrne played compelling characters that seemed like real people. I think any parent will be able to relate to them in one way or another. The kid actors did great, especially Isabela Moner who plays Lizzy. Just like how Mark and Rose played characters parents can relate to Isabela played a character that a majority of teens can relate to. I know I could easily relate to her. The pacing in the film was surprisingly great. I thought for a film like this they would want to rush some scenes but no. All the scenes seemed to have the perfect pacing in them and only a few of them were cut a bit too short but that didn\u2019t bother me too much. The humour in this film was placed in the right places and didn\u2019t seem forced. This film will take you on an emotional rollercoaster. At some parts, you\u2019ll be happy and laughing while in others trying to hold back tears. I also really enjoyed how the film felt like you were a fly on the wall during all the scenes. I think my only big problem with this film is when they tried to throw more conflict into the film. I won\u2019t say what they did but it was unnecessary and could have just been cut out of the film altogether. Also, the few scenes that should have been longer but weren\u2019t also kind of bugged me but didn\u2019t ruin my enjoyment of the film. In the end, this film is an excellent film for the whole family to go and see. I give Instant Family a 9.5/10."
+        },
+        "revenue": 14700000
+    },
+    {
+        "id": 474395,
+        "imdb": {
+            "imdb_id": "tt7424200",
+            "title": "Teen Titans Go! To the Movies",
+            "director": "nm1739338",
+            "release_year": "2018",
+            "main_actor": "nm0996651",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 474395,
+            "overview": "All the major DC superheroes are starring in their own films, all but the Teen Titans, so Robin is determined to remedy this situation by getting over his role as a sidekick and becoming a movie star. Thus, with a few madcap ideas and an inspirational song in their hearts, the Teen Titans head to Hollywood to fulfill their dreams.",
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/mFHihhE9hlvJEk2f1AqdLRaYHd6.jpg",
+            "production_companies": [
+                {
+                    "id": 2785,
+                    "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+                    "name": "Warner Bros. Animation",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 9993,
+                    "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+                    "name": "DC Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 429,
+                    "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+                    "name": "DC Comics",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.4,
+            "vote_count": 782,
+            "review": "I'm pretty sure this was ghostwritten by Jodie Foster.\r\n\r\n\"_The Teen Titans will never get a movie!_\" - Quote from a Teen Titans movie, the third released in as many years.\r\n\r\n_Final rating:\u2605\u00bd: - Boring/disappointing. Avoid where possible._"
+        },
+        "revenue": 28646544
+    },
+    {
+        "id": 585268,
+        "imdb": {
+            "imdb_id": "tt7430722",
+            "title": "War",
+            "director": "nm1893457",
+            "release_year": "2019",
+            "main_actor": "nm0004335",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 585268,
+            "overview": "Khalid, is entrusted with the task of eliminating Kabir, a former soldier turned rogue, as he engages in an epic battle with his mentor who had taught him everything.",
+            "budget": 27941858,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/cEyIyJhlfWFE4J9wJLQ8t2w9haP.jpg",
+            "production_companies": [
+                {
+                    "id": 1569,
+                    "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+                    "name": "Yash Raj Films",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 127,
+            "review": null
+        },
+        "revenue": 66293455
+    },
+    {
+        "id": 508713,
+        "imdb": {
+            "imdb_id": "tt7437508",
+            "title": "Juna",
+            "director": "nm9306758",
+            "release_year": "2017",
+            "main_actor": "nm9306759",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 508713,
+            "overview": "A dream shows Juna that she has only one last day to live. Ignorantly she initiated the process itself. The attempt to avert her fate failed. A story about the problem of artificial life.",
+            "budget": 200,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/7aTsGraUWFVijdfHPpHzMrQ1uRR.jpg",
+            "production_companies": [
+                {
+                    "id": 130742,
+                    "logo_path": null,
+                    "name": "NOT FROM L.A. PRODUTCION BERLIN",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 200
+    },
+    {
+        "id": 590034,
+        "imdb": {
+            "imdb_id": "tt7440448",
+            "title": "Ithu Kollam",
+            "director": "nm9240042",
+            "release_year": "2017",
+            "main_actor": "nm9240042",
+            "main_genre": "Musical"
+        },
+        "tmdb": {
+            "tmdb_id": 590034,
+            "overview": "A Boy from England visited Kerala , especially kollam district just to know about the place and his journey is portrayed in it",
+            "budget": 1000,
+            "genres": [
+                {
+                    "id": 10402,
+                    "name": "Music"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/h4BhVz5K98Guks7eJ75wZL7qsuH.jpg",
+            "production_companies": [
+                {
+                    "id": 116220,
+                    "logo_path": null,
+                    "name": "Blue Screen Pictures",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 1200
+    },
+    {
+        "id": 484641,
+        "imdb": {
+            "imdb_id": "tt7456310",
+            "title": "Anna",
+            "director": "nm0000108",
+            "release_year": "2019",
+            "main_actor": "nm7712734",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 484641,
+            "overview": "Beneath Anna Poliatova's striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world's most feared government assassins.",
+            "budget": 34000000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/pGHZ8f35ZcOOOS8GLUkZ3BK25zw.jpg",
+            "production_companies": [
+                {
+                    "id": 6896,
+                    "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+                    "name": "EuropaCorp",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 104,
+                    "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+                    "name": "Canal+",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 11620,
+                    "logo_path": "/f3hRdCaK1w9qH1Qs8nLd2L2bae1.png",
+                    "name": "OCS",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 356,
+                    "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+                    "name": "TF1 Films Production",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 22123,
+                    "logo_path": "/zPTy6QDAlCKGeAALZoFEL3QAlut.png",
+                    "name": "TF1",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 5076,
+                    "logo_path": null,
+                    "name": "TMC",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "RU",
+                    "name": "Russia"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 1388,
+            "review": "Decent enough 1980s-era espionage action-thriller that pretty much combines Atomic Blonde, Red Sparrow and Besson's La Femme Nikita. Sasha Luss in the lead was quite good and the fight scenes were well choreographed. The story isn't special but twists were good and it did keep me entertained thanks to a nice supporting cast, especially Helen Mirren. **3.5/5**"
+        },
+        "revenue": 31626978
+    },
+    {
+        "id": 459713,
+        "imdb": {
+            "imdb_id": "tt7465992",
+            "title": "Mahanati",
+            "director": "nm5645455",
+            "release_year": "2018",
+            "main_actor": "nm7146337",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 459713,
+            "overview": "Mahanati depicts the life and career of one of Telugu cinema's greatest and most iconic starlets, the first Indian female super star, Savitri.",
+            "budget": 4346100,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/5hwtlwoLdSpkoeusT0sf8qW5VFB.jpg",
+            "production_companies": [
+                {
+                    "id": 104527,
+                    "logo_path": null,
+                    "name": "Swapna Cinema",
+                    "origin_country": ""
+                },
+                {
+                    "id": 80065,
+                    "logo_path": "/9zMLq3789hC7qAPpbMl4TwaxJ69.png",
+                    "name": "Vyjayanthi Movies",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 7.4,
+            "vote_count": 25,
+            "review": null
+        },
+        "revenue": 11589600
+    },
+    {
+        "id": 479718,
+        "imdb": {
+            "imdb_id": "tt7468056",
+            "title": "Beomjoidosi",
+            "director": "nm9322578",
+            "release_year": "2017",
+            "main_actor": "nm3294000",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 479718,
+            "overview": "In Chinatown, law and order is turned upside down when a trio of feral Chinese gangsters arrive, start terrorizing civilians, and usurping territory. The beleaguered local gangsters team up with the police, lead by the badass loose cannon Ma Seok-do, to bring them down. Based on a true story.",
+            "budget": 5883687,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4vdYxsp8WHE8VG1Lt11Yosnn6yC.jpg",
+            "production_companies": [
+                {
+                    "id": 96989,
+                    "logo_path": null,
+                    "name": "Hong Film",
+                    "origin_country": "KR"
+                },
+                {
+                    "id": 91505,
+                    "logo_path": "/6ILCuHFX5QVtXuesPlywHXZIGt1.png",
+                    "name": "Megabox Plus M",
+                    "origin_country": "KR"
+                },
+                {
+                    "id": 84678,
+                    "logo_path": "/8pjrX8L669kQUdCqCCpv3uWOSBC.png",
+                    "name": "BA Entertainment",
+                    "origin_country": "KR"
+                },
+                {
+                    "id": 114520,
+                    "logo_path": null,
+                    "name": "Kiwi Media Group",
+                    "origin_country": "KR"
+                },
+                {
+                    "id": 81594,
+                    "logo_path": null,
+                    "name": "Michigan Venture Capital",
+                    "origin_country": "KR"
+                },
+                {
+                    "id": 88607,
+                    "logo_path": null,
+                    "name": "Union Investment Partners",
+                    "origin_country": "KR"
+                },
+                {
+                    "id": 129217,
+                    "logo_path": null,
+                    "name": "Team Gorilla",
+                    "origin_country": "KR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "KR",
+                    "name": "South Korea"
+                }
+            ],
+            "vote_average": 7.7,
+            "vote_count": 119,
+            "review": null
+        },
+        "revenue": 52946454
+    },
+    {
+        "id": 608440,
+        "imdb": {
+            "imdb_id": "tt7494122",
+            "title": "D\u00fczensiz D\u00fczenbazlar",
+            "director": "nm5589873",
+            "release_year": "2017",
+            "main_actor": "nm5642132",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 608440,
+            "overview": "A group of con-men try to take down a huge casino.",
+            "budget": 20,
+            "genres": [],
+            "poster": "https://image.tmdb.org/t/p/original/yApysmG3R2fPCi6GshNH5LfEI2t.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 753
+    },
+    {
+        "id": 481848,
+        "imdb": {
+            "imdb_id": "tt7504726",
+            "title": "The Call of the Wild",
+            "director": "nm0761498",
+            "release_year": "2020",
+            "main_actor": "nm0000148",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 481848,
+            "overview": "Buck is a big-hearted dog whose blissful domestic life is turned upside down when he is suddenly uprooted from his California home and transplanted to the exotic wilds of the Yukon during the Gold Rush of the 1890s. As the newest rookie on a mail delivery dog sled team\u2014and later its leader\u2014Buck experiences the adventure of a lifetime, ultimately finding his true place in the world and becoming his own master.",
+            "budget": 109000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/33VdppGbeNxICrFUtW2WpGHvfYc.jpg",
+            "production_companies": [
+                {
+                    "id": 787,
+                    "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+                    "name": "3 Arts Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 127928,
+                    "logo_path": "/qAh0Ofz47KVy0A3118rjHUx3usk.png",
+                    "name": "20th Century Studios",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 22213,
+                    "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+                    "name": "TSG Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.6,
+            "vote_count": 2093,
+            "review": "If you enjoy reading my Spoiler-Free reviews, please follow my blog @ https://www.msbreviews.com\r\n\r\nI couldn't catch The Call of the Wild when it premiered. Therefore, I didn't remember a single thing about it when I went to watch it yesterday at an empty screening (yei). Once again, I stayed away from trailers, but a few images popped up at the time. The CGI dog didn't look good at all. With reviews coming out and weeks passing by, I couldn't avoid concluding that most of the negative opinions are due to the \"distracting animation\". Knowing that the visuals would probably be disappointing compared with the story, I still watched it with moderate expectations.\r\n\r\nI'm genuinely surprised by so much negative feedback. I really enjoyed it, and it's one of my favorite films of the year, so far. Yes, it doesn't mean much, having in mind it's only March, and it will very likely not even receive an honorable mention by the year's end. Nevertheless, the supposedly distracting CGI dog (Buck) didn't bother me in the slightest. Buck might not be a perfect animated animal, but as long as people go in with the right mindset, the chances of enjoying the story are much higher.\r\n\r\nIt's an animated dog. Accept it, move on, and everything will flow a lot easier. I believe it belongs in that \"uncanny valley\" category. Something weird might work well for some people, and horribly for the rest. I didn't mind it at all, and I go as far as saying that a few moments are elevated exclusively due to the dog's expressions. I also defend that this movie needed the CGI dog instead of a real one. It's not an ordinary dog: Buck is stronger, bigger, taller, and he has a special wild instinct that home dogs lack.\r\n\r\nTo be clear: Buck isn't visually perfect. Sure, there are a few scenes where the CGI becomes too overwhelming and awkward. However, it doesn't detract from the heartfelt narrative. Buck is undoubtedly the main character. He has emotional conflicts, personal motivations, a distinct personality that changes along with his adventures, and a part of him that he needs to explore. The first half of the film is packed with action, fun, and a clear purpose. It's extremely captivating and entertaining, even if it follows the usual, predictable storylines. Good performances from Omar Sy (Perrault) and Cara Gee (Fran\u00e7oise) during this portion.\r\n\r\nThe second half is when Harrison Ford's character (John Thornton) finally comes in (he scarcely shows up until then). From now until the end, the movie employs a slower pace, focusing on Ford's reflection about his life, and Buck's journey to find the place where he ultimately belongs. Harrison Ford delivers such a subtle, emotional performance. I can't remember the last time I saw Ford so committed to a role. John possesses a devastating, tragic past, and Buck is able to bring some joy and fulfillment into his life. For a dog lover like myself, it's such a tear-inducing, genuine, heartwarming story.\r\n\r\nThe only aspect I truly dislike is, unfortunately, Dan Stevens's character (Hal). He's just an incredibly cliche, despicable \"villain\", who doesn't fit with the rest of the film. I love the actor, but his over-the-top display doesn't always work, and Hal suffers a lot from his exaggerated manners and expressions. In my opinion, he could have been completely removed from the movie, and it would have been a lot better. Totally unnecessary, and lazily written subplot, to be honest. Oh, and Karen Gillan (Mercedes)? I literally just discovered she was in the film as well...\r\n\r\nThe Call of the Wild is one of those movies that suffer from bad trailers. People either skip it or go in with a pre-defined negative mindset. It proves that the best (and only) way to judge a film is to simply watch it. CGI Buck isn't an animated work of art, sure, but he's far from being distracting or annoying. To be honest, I feel that he elevates a lot of emotional moments. Buck is exceptionally well-written, standing out as a complex and emotionally compelling protagonist. I laughed, I cried, and I felt entertained by all of his crazy adventures. Harrison Ford delivers his best performance of the last couple of years in a slower-paced second half of the movie, after a frenetic, action-heavy first half. Dan Stevens' character is definitely the worst aspect of the story. An unnecessary, cliche, horrible \"villain\" with no place in the narrative. All in all, I highly recommend giving this film a chance! Avoid its trailers, accept the fact that Buck is, indeed, an animated dog, and try to enjoy the genuinely heartfelt story at its core.\r\n\r\nRating: B+"
+        },
+        "revenue": 107604626
+    },
+    {
+        "id": 492611,
+        "imdb": {
+            "imdb_id": "tt7510346",
+            "title": "The Turning",
+            "director": "nm0797455",
+            "release_year": "2020",
+            "main_actor": "nm4496875",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 492611,
+            "overview": "A young woman quits her teaching job to be a private tutor (governess) for a wealthy young heiress who witnessed her parent's tragic death. Shortly after arriving, the girl's degenerate brother is sent home from his boarding school. The tutor has some strange, unexplainable experiences in the house and begins to suspect there is more to their story.",
+            "budget": 17000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/uiMHiHp9eAjJty8rddoUnL9G5fU.jpg",
+            "production_companies": [
+                {
+                    "id": 56,
+                    "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+                    "name": "Amblin Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7,
+                    "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+                    "name": "DreamWorks Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 829,
+                    "logo_path": "/mzpAmEQ5P1gFvdRoNyCk9q8ngiv.png",
+                    "name": "Vertigo Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 509,
+            "review": "If you enjoy reading my Spoiler-Free reviews, please follow my blog @\r\nhttps://www.msbreviews.com\r\n\r\nI... am... in shock. The Turning had tons of development issues, switching directors (Juan Carlos Fresnadillo was the first choice), cast, producers (Steven Spielberg was once responsible for the project), and who knows what else. It's yet another adaptation of the famous ghost story, Turn of the Screw by Henry James, so it was always going to be a challenging task to bring a horror flick with something unique that the others didn't possess. After so many changes, the film finally decided on Mackenzie Davis as the adult protagonist, and Finn Wolfhard and Brooklynn Prince as the young kids.\r\n\r\nThey replaced everything and everyone, except the people who are behind the main reason why this movie fails so miserably: the screenwriters. With all due respect to the Hayes brothers, but this is the worst kind of a bad film. It doesn't have a single redeemable quality about it. It's a movie about... nothing! It has no message, no purpose, no structure, and last but not least: there's no ending. I'm not joking, The Turning doesn't have an ending. It's like someone abruptly shouts \"roll credits\" way before any sort of payoff is delivered.\r\n\r\nThe whole film is a collection of repetitive, dull scenes that only vary in location. Scareless and predictable jump scare sequences spread throughout the entire runtime with no meaning or objective underneath. Close to ninety minutes of build-up to utterly nothing. This isn't one of those cases where the ending is just ambiguous, and people can interpret it in several ways. As baffling as it might sound, this monotonous, cliche, boring horror movie doesn't possess an ending. I have to repeat it, so you actually believe what I'm writing.\r\n\r\nEven if I simply ignore that last (nonexistent) act, the rest of the film is still awful. As the viewer, knowing more than the main character about what's happening or what's about to unravel is almost always a lousy aspect concerning the horror genre. Not only there's a lack of a scary or eerie environment, but the narrative raises dozens of logical questions that eventually get no answer. The movie actually starts reasonably okay, it got me slightly invested in Davis' character, but it quickly becomes one of the most yawning-inducing experiences I've had this year.\r\n\r\nUsually, I can turn to the acting to help me get through the hardest portions of the film. However, Mackenzie Davis (who I liked a lot in Terminator: Dark Fate) gradually starts to become uninteresting, and Finn Wolfhard delivers the worst performance I've ever seen from him. Brooklynn Prince is good for her age, but she's still a 9-year-old kid, so... you know. Barbara Marten is probably the best as Mrs. Grose, but just like the movie itself, she has no real impact on anything. Technically, the score is weird, and instead of elevating the scary sequences, it turns them into a rock concert. The editing also lacks consistency.\r\n\r\nHonestly, I thought that Fantasy Island was a safe bet for the \"Worst Movie of 2020\" prize, but The Turning just entered the race. As logically absurd as the former might be, at least it has an ending. It's a ridiculous one, but it's, in fact, an ending. The latter not only lacks a payoff to the ninety minutes of build-up, but it has absolutely no redeeming quality. Describing a film in a one-word sentence was never this easy: \"nothing\". It's a movie about nothing! No meaning, no message, no purpose, no logical sense. An extremely boring journey through a mansion with predictable jump scares, an awkward score, and disappointing acting. It's an emotionless story packed with unanswered questions, and no, it's not one of those \"ambiguous narrative\" cases. I definitely don't recommend it, unless you desire that frustration of watching an incomplete film.\r\n\r\nRating: F"
+        },
+        "revenue": 17500000
+    },
+    {
+        "id": 506863,
+        "imdb": {
+            "imdb_id": "tt7515456",
+            "title": "Hurricane",
+            "director": "nm0004541",
+            "release_year": "2018",
+            "main_actor": "nm3701064",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 506863,
+            "overview": "The story of the Polish fliers who found themselves fighting for the freedom of their own country in foreign skies. Seen through the eyes of a Polish fighter ace and adventurer, it tells how the Poles\u2014driven across Europe by the German war machine\u2014finally make their last stand. Flying Hurricanes for the RAF over Britain, they became a key component in the legend of \u2018The Few\u2019. Up against the might of the Luftwaffe they hoped that, by saving Great Britain from Nazi invasion, they were keeping the dream of a free Poland alive.",
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 10752,
+                    "name": "War"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/mTpmZORhYswd9YinB23wV9QE2cx.jpg",
+            "production_companies": [
+                {
+                    "id": 5056,
+                    "logo_path": "/kADFcjL04xe5HGBnlLjbfhliS2a.png",
+                    "name": "Head Gear Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 25954,
+                    "logo_path": null,
+                    "name": "Metrol Technology",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 104517,
+                    "logo_path": null,
+                    "name": "Prospect 3",
+                    "origin_country": ""
+                },
+                {
+                    "id": 21602,
+                    "logo_path": null,
+                    "name": "Stray Dog Films",
+                    "origin_country": "GB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 5.9,
+            "vote_count": 95,
+            "review": null
+        },
+        "revenue": 2137751
+    },
+    {
+        "id": 630514,
+        "imdb": {
+            "imdb_id": "tt7520068",
+            "title": "Kolej Havasi",
+            "director": "nm6622234",
+            "release_year": "2019",
+            "main_actor": "nm11454333",
+            "main_genre": "Documentary"
+        },
+        "tmdb": {
+            "tmdb_id": 630514,
+            "overview": "A documentary about Be\u015fikta\u015f and soccer.",
+            "budget": 420,
+            "genres": [],
+            "poster": "https://image.tmdb.org/t/p/original/vJORMN5jm5ucmH5EiRSaOsiWgrc.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 8.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 3
+    },
+    {
+        "id": 516516,
+        "imdb": {
+            "imdb_id": "tt7520532",
+            "title": "Bez menya",
+            "director": "nm1767417",
+            "release_year": "2018",
+            "main_actor": "nm4705505",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 516516,
+            "overview": "Two girls, who used to be in love with the same man, are starting to get texts and other mysterious messages after his death, and the only person, who could\u2019ve possibly sent them, is him. The messages from the gone man send two rivals to the south of the country, when they have two unravel the mystery of their mutual loved one, understand themselves and deal with their own past.",
+            "budget": 1504710,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/gfCq45v1aTHGrYPkA38d6EcgD8h.jpg",
+            "production_companies": [
+                {
+                    "id": 103055,
+                    "logo_path": null,
+                    "name": "\u0421\u0438\u043d\u0435\u0442\u0440\u0435\u0439\u043d",
+                    "origin_country": ""
+                },
+                {
+                    "id": 54307,
+                    "logo_path": "/c6zhUONn8UMP6vdDHXrxpGxuzh2.png",
+                    "name": "Mars Media Entertainment",
+                    "origin_country": "RU"
+                },
+                {
+                    "id": 76049,
+                    "logo_path": "/tam9pIV4QK1ZPwdxBgtVkK1WTYC.png",
+                    "name": "Cinema Fund",
+                    "origin_country": "RU"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "RU",
+                    "name": "Russia"
+                }
+            ],
+            "vote_average": 7.1,
+            "vote_count": 18,
+            "review": null
+        },
+        "revenue": 1671700
+    },
+    {
+        "id": 493141,
+        "imdb": {
+            "imdb_id": "tt7524414",
+            "title": "Beats",
+            "director": "nm2965282",
+            "release_year": "2019",
+            "main_actor": "nm10388731",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 493141,
+            "overview": "1994, a small town in central Scotland. Best mates Johnno and Spanner, despite being total opposites, have a deep bond. Now on the cusp of adulthood, life is destined to take them in different directions \u2013 Johnno\u2019s family are moving him to a new town and a better life, leaving Spanner behind to face a precarious future. But this summer is going to be different for them, and for the country.",
+            "budget": 25000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ePdzn7taDXD1cR8uZjYF8qRT3IR.jpg",
+            "production_companies": [
+                {
+                    "id": 98586,
+                    "logo_path": null,
+                    "name": "Rosetta Productions",
+                    "origin_country": "GB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 23,
+            "review": null
+        },
+        "revenue": 310827
+    },
+    {
+        "id": 526019,
+        "imdb": {
+            "imdb_id": "tt7545266",
+            "title": "Like a Boss",
+            "director": "nm0037708",
+            "release_year": "2020",
+            "main_actor": "nm1840504",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 526019,
+            "overview": "Two female friends with very different ideals decide to start a beauty company together. One is more practical, while the other wants to earn her fortune and live a lavish lifestyle.",
+            "budget": 29000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/yce0CZPWd0GGudksRJi8p4gDj1M.jpg",
+            "production_companies": [
+                {
+                    "id": 106497,
+                    "logo_path": null,
+                    "name": "Artists First",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 4,
+                    "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 397,
+            "review": "The dead of winter is the time studios like to shove their bottom-basement junk into theaters, bringing us movies that are instantly forgettable and brimming with mediocrity. The female-driven buddy comedy \u201cLike A Boss\u201d is a great example. This tolerable movie is perfectly fine for a mindless girls\u2019 night out, but it never sets its standards high enough to achieve much more. But why would it?\r\n\r\nBest friends Mia (Tiffany Haddish) and Mel (Rose Byrne) are living their best lives running a makeup company they\u2019ve built from the ground up. Things haven\u2019t been going so well on the financial front, and the women find themselves over their heads in debt. When cosmetics industry titan Claire Luna (Salma Hayek) presents them with a huge buyout offer, it puts a strain on their friendship that the two may not ever be able to repair.\r\n\r\nIf you\u2019re looking for a fun and insightful view at the real-life experience of female business owners, you won\u2019t find it here. What you will find is yet another male-written movie that feeds the narrative that the beauty industry equals female empowerment. It\u2019s not offensive, but it\u2019s a stale idea. How many movies can you count that use the old \u201cyou need makeup to feel pretty, but also never forget to be yourself!\u201d narrative? It\u2019s not offensive, but it\u2019s another Hollywood rubber stamp on what the industry thinks are the ingredients necessary for a movie that\u2019s supposed to be made for women.\r\n\r\nThe comedy is sometimes funny but mostly strained, as Haddish and Byrne are constantly struggling in an effort to sell the lousy one-liners. Their chemistry is terrific, but there\u2019s only so much these two talented ladies can do with such a lackluster script. Hayek is an over-the-top caricature who is given very little to do. Her shtick can be amusing in the right place at the right time, but it isn\u2019t here.\r\n\r\nThis isn\u2019t a terrible movie, but it\u2019s light years away from being an instant classic. In fact, this tired effort wouldn\u2019t even orbit the general conversation. But \u201cLike a Boss\u201d is still just barely good enough if you are a fan of the two leads or if you\u2019re looking for easy-to-swallow entertainment."
+        },
+        "revenue": 26925979
+    },
+    {
+        "id": 499701,
+        "imdb": {
+            "imdb_id": "tt7547410",
+            "title": "Dora and the Lost City of Gold",
+            "director": "nm0090386",
+            "release_year": "2019",
+            "main_actor": "nm5097044",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 499701,
+            "overview": "Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.",
+            "budget": 49000000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/xvYCZ740XvngXK0FNeSNVTJJJ5v.jpg",
+            "production_companies": [
+                {
+                    "id": 2348,
+                    "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+                    "name": "Nickelodeon Movies",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 96540,
+                    "logo_path": "/AgYjTNeIKOh0yvegPLSjq8EOsif.png",
+                    "name": "Paramount Players",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 10221,
+                    "logo_path": "/99VfWRgKasZoyK9UVB39gnYvFrZ.png",
+                    "name": "Walden Media",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 10950,
+                    "logo_path": "/6TdE9m9KgV2az7vNI8n95rQiYr3.png",
+                    "name": "Screen Queensland",
+                    "origin_country": "AU"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "AU",
+                    "name": "Australia"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 1102,
+            "review": "This is legit Indiana Jones/Tomb Raider/National Treasure for kids - nothing and no-one is sexualised and there\u2019s no violence, aside from the slapstick kind. Plus the humour is fantastic and friendly, and the film even pokes fun at the original TV show in a really great way. Everything is vibrant and exciting, and who doesn\u2019t love a monkey sidekick and a thieving fox? Dora is annoyingly positive every step of the way (don\u2019t worry, it\u2019s a thing) and she sings about everything from her backpack to pooping (don\u2019t be alarmed, I swear it\u2019s still a thing). \u2019Dora\u2019 also boasts great messages about fitting in and being yourself as only a teenager still rocking the same haircut, pink t-shirt and orange shorts can do.\r\n- Jess Fenton\r\n\r\nRead Jess' full article...\r\nhttps://www.maketheswitch.com.au/article/review-dora-and-the-lost-city-of-gold-dora-meets-indiana-jones-and-a-song-about-poop"
+        },
+        "revenue": 116826172
+    }
+]

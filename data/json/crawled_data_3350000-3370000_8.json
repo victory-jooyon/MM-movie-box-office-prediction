@@ -1,0 +1,484 @@
+[
+    {
+        "id": 489925,
+        "imdb": {
+            "imdb_id": "tt7014006",
+            "title": "Eighth Grade",
+            "director": "nm3102998",
+            "release_year": "2018",
+            "main_actor": "nm3220568",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 489925,
+            "overview": "Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school \u2014 the end of her thus far disastrous eighth grade year \u2014 before she begins high school.",
+            "budget": 2000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+            "production_companies": [
+                {
+                    "id": 258,
+                    "logo_path": null,
+                    "name": "Scott Rudin Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 41077,
+                    "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+                    "name": "A24",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.3,
+            "vote_count": 931,
+            "review": "I can't elevate _Eighth Grade_ to the status that my peers have, it just wasn't all that to me. But it was still very good, and very real, that tangible sort of youth that comes with dedication to the format.\r\n\r\n_Final rating:\u2605\u2605\u2605 - I liked it. Would personally recommend you give it a go._"
+        },
+        "revenue": 13539709
+    },
+    {
+        "id": 501590,
+        "imdb": {
+            "imdb_id": "tt7016254",
+            "title": "Synonymes",
+            "director": "nm2028715",
+            "release_year": "2019",
+            "main_actor": "nm10395866",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 501590,
+            "overview": "A young Israeli man absconds to Paris to flee his nationality, aided by his trusty Franco-Israeli dictionary.",
+            "budget": 2500000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4Jh2h0XsUBFxxeRgDUdfrDjVgFz.jpg",
+            "production_companies": [
+                {
+                    "id": 8997,
+                    "logo_path": null,
+                    "name": "SBS Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 94,
+                    "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+                    "name": "ARTE France Cin\u00e9ma",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "IL",
+                    "name": "Israel"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 64,
+            "review": null
+        },
+        "revenue": 242483
+    },
+    {
+        "id": 575094,
+        "imdb": {
+            "imdb_id": "tt7025388",
+            "title": "Abigail",
+            "director": "nm7204868",
+            "release_year": "2019",
+            "main_actor": "nm4121075",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 575094,
+            "overview": "A young girl Abigail lives in a city whose borders were closed many years ago because of an epidemic of a mysterious disease. Abby's father was one of the sick - and he was taken when she was six years old. Going against the authorities to find his father, Abby learns that her city is actually full of magic. And she discovers in herself extraordinary magical abilities.",
+            "budget": 7000000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/5Ggf38fEAhOCdgvfLOfUcfEQTQT.jpg",
+            "production_companies": [
+                {
+                    "id": 84554,
+                    "logo_path": null,
+                    "name": "Kinodanz",
+                    "origin_country": "RU"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "RU",
+                    "name": "Russia"
+                }
+            ],
+            "vote_average": 5.9,
+            "vote_count": 129,
+            "review": null
+        },
+        "revenue": 1940234
+    },
+    {
+        "id": 465136,
+        "imdb": {
+            "imdb_id": "tt7026672",
+            "title": "Every Day",
+            "director": "nm1302591",
+            "release_year": "2018",
+            "main_actor": "nm3886028",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 465136,
+            "overview": "16-year old Rhiannon falls in love with a mysterious spirit named \u201cA\u201d that inhabits a different body every day. Feeling an unmatched connection, Rhiannon and \u201cA\u201d work each day to find each other, not knowing what the next day will bring.",
+            "budget": 4900000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4UnME3icxSspwL0UoGZNSyyp7Xs.jpg",
+            "production_companies": [
+                {
+                    "id": 85510,
+                    "logo_path": null,
+                    "name": "FilmWave",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1785,
+                    "logo_path": "/wT6aIkuQTNuq8XFoDGACK8EyR6w.png",
+                    "name": "Likely Story",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 12075,
+                    "logo_path": null,
+                    "name": "Silver Reel",
+                    "origin_country": "CH"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.2,
+            "vote_count": 1752,
+            "review": null
+        },
+        "revenue": 6102076
+    },
+    {
+        "id": 484247,
+        "imdb": {
+            "imdb_id": "tt7040874",
+            "title": "A Simple Favor",
+            "director": "nm0082450",
+            "release_year": "2018",
+            "main_actor": "nm0447695",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 484247,
+            "overview": "Stephanie, a dedicated mother and popular vlogger, befriends Emily, a mysterious upper-class woman whose son Nicky attends the same school as Miles, Stephanie's son. When Emily asks her to pick Nicky up from school and then disappears, Stephanie undertakes an investigation that will dive deep into Emily's cloudy past.",
+            "budget": 20000000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/5EJWZQ8dh99hfgXP9zAD5Ak5Hrn.jpg",
+            "production_companies": [
+                {
+                    "id": 61791,
+                    "logo_path": "/f72ubyCeowgOQO7n4IZR18KN9Aq.png",
+                    "name": "Feigco Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 13240,
+                    "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+                    "name": "Bron Studios",
+                    "origin_country": "CA"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 2878,
+            "review": "First and foremost, this film feels like someone went to their local grocery store, grabbed a random three-dollar mystery novel off the checkout shelf, and decided to make it a movie with some extremely popular and attractive people. In other words, it's a silly mystery movie with crazy, zany twists and turns.\r\n\r\nSome of those twists and turns were easy enough to see coming, but some of them were straight out of left field. In addition to the entertaining twists, the film does a decent job of not taking itself seriously. The humor in the movie is peppered in during great moments. Some of it is cheesy, but if you're going to this film for a deep, thought-provoking film, don't.\r\n\r\nThe characters themselves are all extremely exaggerated. Lively's Emily is over-the-top sophisticated, crass, and private to the point where she won't allow pictures or even paintings of her face. Kendrick's Stephanie is bubbly, eager, awkward, and overly friendly. The rest of the cast fills in the needs around them, and while the cast is filled with one-note characters, they fulfill the needs well. Golding's Sean was my least favorite, but mainly because he doesn't have a defined archetype in a film filled with single-aspect characters.\r\n\r\nThe biggest issue with the film is the plot itself. Emily contradicts herself with the motive for her faking her own death. She tells Sean that she did it for him and for Nicky. Then she says she did it for her. On top of it all, she doesn't appear to have a plan to get the insurance money after it comes through. The film could have easily alleviated all of these issues with a quick scene or a line about fake passports for Emily and Nicky.\r\n\r\nAll in all, A Simple Favor is a fun romp filled with crazy twists and turns, humor, and great acting. Don't think too much about the film itself, and just go have some fun. It's definitely worth a getaway matinee."
+        },
+        "revenue": 97644617
+    },
+    {
+        "id": 468284,
+        "imdb": {
+            "imdb_id": "tt7048622",
+            "title": "L'insulte",
+            "director": "nm0234780",
+            "release_year": "2017",
+            "main_actor": "nm2316384",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 468284,
+            "overview": "After an emotional exchange between a Lebanese Christian and a Palestinian refugee escalates, the men end up in a court case that gets national attention.",
+            "budget": 3000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/w9mlrckg3ZU2rsAlKUbLD1CgBTk.jpg",
+            "production_companies": [
+                {
+                    "id": 89014,
+                    "logo_path": null,
+                    "name": "Ezekiel Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 6961,
+                    "logo_path": "/jx0fJd9hDsJomQOhlQMUEHDLe9c.png",
+                    "name": "Rouge International",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 858,
+                    "logo_path": "/6NwjE3AuYKMuGNJdAG8TzmhmioV.png",
+                    "name": "Tessalit Productions",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 11199,
+                    "logo_path": "/ursSXLOZaDxiZ84sEgfXbiFnYaa.png",
+                    "name": "SCOPE Pictures",
+                    "origin_country": "BE"
+                },
+                {
+                    "id": 26890,
+                    "logo_path": null,
+                    "name": "Douri Films",
+                    "origin_country": "LB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "LB",
+                    "name": "Lebanon"
+                }
+            ],
+            "vote_average": 7.6,
+            "vote_count": 305,
+            "review": null
+        },
+        "revenue": 1001305
+    },
+    {
+        "id": 463238,
+        "imdb": {
+            "imdb_id": "tt7063130",
+            "title": "Mehrunisa V Lub U",
+            "director": "nm3885999",
+            "release_year": "2017",
+            "main_actor": "nm1880408",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 463238,
+            "overview": "light comedy depicting prevalent social evils, general apathy of people and resolve of some to fight improve the life and surrounding around them.",
+            "budget": 280000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/3Q8aIxGz2mtArBo6owiR011qGCQ.jpg",
+            "production_companies": [
+                {
+                    "id": 73254,
+                    "logo_path": null,
+                    "name": "YNH Films",
+                    "origin_country": "PK"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "PK",
+                    "name": "Pakistan"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 1200000
+    },
+    {
+        "id": 523366,
+        "imdb": {
+            "imdb_id": "tt7080422",
+            "title": "Dragon Rider",
+            "director": "nm3014829",
+            "release_year": "2020",
+            "main_actor": "nm1032473",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 523366,
+            "overview": "An unlikely trio of heroes \u2013 a dragon, a boy and a forest brownie \u2013 embark on an epic adventure to find the \u201cRim of Heaven\u201d - the mythological safe haven for all dragons.",
+            "budget": 17830000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/7HFnV5JFTcOBr38zmxQjQQ8RATa.jpg",
+            "production_companies": [
+                {
+                    "id": 143396,
+                    "logo_path": null,
+                    "name": "Able & Baker",
+                    "origin_country": "ES"
+                },
+                {
+                    "id": 47,
+                    "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+                    "name": "Constantin Film",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 111372,
+                    "logo_path": "/AcGUKknJRR0oACxehbXFnCBg2fX.png",
+                    "name": "Cyborn",
+                    "origin_country": "BE"
+                },
+                {
+                    "id": 143397,
+                    "logo_path": null,
+                    "name": "Lumatic",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 100870,
+                    "logo_path": null,
+                    "name": "RISE PICTURES",
+                    "origin_country": "DE"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "BE",
+                    "name": "Belgium"
+                },
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "ES",
+                    "name": "Spain"
+                }
+            ],
+            "vote_average": 8.7,
+            "vote_count": 3,
+            "review": null
+        },
+        "revenue": 3175644
+    }
+]

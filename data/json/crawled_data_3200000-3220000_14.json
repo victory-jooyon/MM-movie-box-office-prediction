@@ -1,0 +1,888 @@
+[
+    {
+        "id": 451955,
+        "imdb": {
+            "imdb_id": "tt6367558",
+            "title": "L'amant double",
+            "director": "nm0654830",
+            "release_year": "2017",
+            "main_actor": "nm4297691",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 451955,
+            "overview": "Chlo\u00e9, a fragile young woman, falls in love with her psychoanalyst, Paul. A few months later she moves in with him, but soon discovers that her lover is concealing a part of his identity.",
+            "budget": 7110000,
+            "genres": [
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/r7va7VtatGdaMbURnKTkwiQlGrX.jpg",
+            "production_companies": [
+                {
+                    "id": 819,
+                    "logo_path": "/cEqVIluQuO1ubtID8RvOem4ZiIg.png",
+                    "name": "Mars Films",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 149,
+                    "logo_path": null,
+                    "name": "FOZ",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 57294,
+                    "logo_path": "/aBPcCUBeSULcYMjxHAKR5286qyh.png",
+                    "name": "Mandarin Cin\u00e9ma",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "BE",
+                    "name": "Belgium"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 319,
+            "review": "**_Not nearly as smart as it thinks it is_**\r\n \r\n> _His tone is both apologetic and defensive. Molly continues to stare at him, amazed. She sees again in her mind's eye that other Jonathan as as he'd materialised on the street - sees again the way he merely glanced at her, unseeing, uninterested, as he passed her by. As if they didn't know each other and were not lovers and of course they didn't know each other, were not lovers...Molly recalls speaking his name as if it were a magic talisman that might make things right: Jonathan. But the man's name was James._\r\n\r\n- Joyce Carol Oates; _Lives o__f the Twins_ (1987)\r\n\r\nFrom prolific French auteur Fran\u00e7ois Ozon (_Sous le sable_; _8 femmes_; _Frantz_), _L'amant double_ [_Double Lover_] is partly a study of sexual obsession, partly an oneiric mystery (think Neil Jordan's _In Dreams_), and partly a conventional thriller (more whoisit than whodunnit). \"Freely adapted\" from Joyce Carol Oates's 1987 novel _Lives of the Twins_ (published under the pseudonym Rosamond Smith), and written by Ozon and Philippe Piazzo, the film tells the story of Chlo\u00e9 (Marine Vacth), a woman with a fragile mental state, who falls passionately in love with her psychoanalyst, Paul (J\u00e9r\u00e9mie Renier). Within a few months, she has moved in, however, as time goes by, she slowly starts to learn of a significant part of his identity which he has been concealing.\r\n\r\nImagine, if you will, _Vertigo_ (1958) remade by someone like Gaspar No\u00e9 or Lars von Trier, and you'd be some way towards getting a handle on Ozon's latest; completely barmy (you know you're in strange territory when the second shot of a movie is, quite literally, an internal shot of a vagina). As one would expect from Ozon, the aesthetics are solid - the film is built upon an inventive visual style employing juxtaposition, pseudo-split screen, and copious amounts of shots with one person in the frame proper, and the person to whom they're talking only visible in reflection. The sound effects are also excellent and really jolt you out of your seat on a couple of occasions. Similarly, the acting is strong, with both Vacth and Renier unrecognisable in their respective roles.\r\n\r\nHowever, the melodramatic and self-congratulatory plot is an absolute mess. Many of Ozon's standard tropes are here; a dissection of the academic middle class/intelligentsia, an examination of the schism between appearance and reality, an attempt to elucidate the mind of a complex woman, a psychoanalytical bedrock, the mutability of identity etc. But it's all diffused through an utterly farcical narrative, which fails to get even the basics right. For example, sex is a central theme, but by the time we get to the fourth or fifth sex scene, it has completely lost its potency (compare, for example, Abdellatif Kechiche's infinitely superior _La vie d'Ad\u00e8le \u2013 Chapitres 1 & 2_, (2013) where sexuality is just as central, but which features only two sex scenes). The same goes for the increasingly ridiculous plot twists, once you get to three or four and you're still in the first half of the movie, you just stop caring. Ozon has always been hit and miss, for every _Sitcom_ (1998) and _Swimming Pool_ (2003), there's an _Angel_ (2007) and a _Ricky_ (2009), and _L'amant double_ is, in the end, a rather pointless film that seems to think it's saying something exceptionally profound about desire and identity. It isn't."
+        },
+        "revenue": 4248574
+    },
+    {
+        "id": 525661,
+        "imdb": {
+            "imdb_id": "tt6394270",
+            "title": "Bombshell",
+            "director": "nm0005366",
+            "release_year": "2019",
+            "main_actor": "nm0000234",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 525661,
+            "overview": "Bombshell is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.",
+            "budget": 32000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
+            "production_companies": [
+                {
+                    "id": 91390,
+                    "logo_path": null,
+                    "name": "Lighthouse Management + Media",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3574,
+                    "logo_path": "/j3iU6FoWplGPoO1Vxn8fFHX4VPE.png",
+                    "name": "Denver and Delilah Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 13240,
+                    "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+                    "name": "Bron Studios",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 13184,
+                    "logo_path": "/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png",
+                    "name": "Annapurna Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 53152,
+                    "logo_path": "/8XHHLy8GGTuHM9JMzYjGqxB6oPa.png",
+                    "name": "Creative Wealth Media Finance",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 1632,
+                    "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                    "name": "Lionsgate",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 100640,
+                    "logo_path": null,
+                    "name": "Endeavor Content",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 1675,
+            "review": "The best way to sum up \u2018Bombshell\u2019 is that it's a story that needs to be remembered and told, yet the film we got is good but not great. While all the acting is phenomenal - especially the leads - and makeup fantastic, the story, filmmaking and editing are uncreative and thus fail to hit the home run that this should have been. Having said that \u2018Bombshell\u2019 is still one to watch, if only to be reminded of what is still happening to women today - not just in Hollywood, but all around the world.\r\n- Chris dos Santos\r\n\r\nRead Chris' full article...\r\nhttps://www.maketheswitch.com.au/article/review-bombshell-an-important-yet-uninspired-look-at-fox-news-sex-scandal"
+        },
+        "revenue": 53774397
+    },
+    {
+        "id": 535544,
+        "imdb": {
+            "imdb_id": "tt6398184",
+            "title": "Downton Abbey",
+            "director": "nm0257554",
+            "release_year": "2019",
+            "main_actor": "nm1304386",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 535544,
+            "overview": "The beloved Crawleys and their intrepid staff prepare for the most important moment of their lives. A royal visit from the King and Queen of England will unleash scandal, romance and intrigue that will leave the future of Downton hanging in the balance.",
+            "budget": 20000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg",
+            "production_companies": [
+                {
+                    "id": 10146,
+                    "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+                    "name": "Focus Features",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 31807,
+                    "logo_path": null,
+                    "name": "Carnival Films & Television",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 10338,
+                    "logo_path": "/el2ap6lvjcEDdbyJoB3oKiYgXu9.png",
+                    "name": "Perfect World Pictures",
+                    "origin_country": "CN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 7.1,
+            "vote_count": 621,
+            "review": "\u2018Downton Abby\u2019s\u2019 transition to film isn't going to make it onto any worst film-to-TV adaptions lists, but it is a mediocre film that offers two hours of fun for fans of the show. If you\u2019re not a fan, there is absolutely no reason to see it. The film seems more like an extended TV special rather than a theatrical film, but fans won\u2019t be mad to see it on the big screen.\r\n- Chris dos Santos\r\n\r\nRead Chris' full article...\r\nhttps://www.maketheswitch.com.au/article/review-downton-abbey-transition-from-tv-to-film-not-as-classy-as-expected"
+        },
+        "revenue": 192094429
+    },
+    {
+        "id": 434126,
+        "imdb": {
+            "imdb_id": "tt6399490",
+            "title": "Armaan: Story of a Storyteller",
+            "director": "nm8692273",
+            "release_year": "2017",
+            "main_actor": "nm8692276",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 434126,
+            "overview": "The movie narrates a simple but the most indispensable message of life --- KARMA --- One should always only focus on his work/karma that he is destined to do - Hard work and perseverance are the keys to Success whereas people often go off track by focusing on taking revenge.",
+            "budget": 1800000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/qE2h2QLL2AfvfT5IyVNT00BVXEZ.jpg",
+            "production_companies": [
+                {
+                    "id": 85328,
+                    "logo_path": null,
+                    "name": "Happy Endings Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 74059,
+                    "logo_path": "/xbhsuxR7IkGrHrzrivMl5VmKUiy.png",
+                    "name": "Dhudiya Entertainment",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 9.3,
+            "vote_count": 4,
+            "review": null
+        },
+        "revenue": 7494
+    },
+    {
+        "id": 435410,
+        "imdb": {
+            "imdb_id": "tt6417204",
+            "title": "Shatamanam Bhavati",
+            "director": "nm11071153",
+            "release_year": "2017",
+            "main_actor": "nm2319565",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 435410,
+            "overview": "The anguish that negligent children can cause is depicted here from the parents' perspective.  Raghavaraju (Prakash Raj) is a farming landlord in Atreyapuram village of Andhra Pradesh. He lives with his wife Janakamma (Jayasudha), along with his son Bangararaju (Naresh) his wife, and his son Raju (Sharwanand). Raghavaraju lives in this ancestral house built by his forefathers consisting of many generations living in the same household as a Joint family. However with changing times Ragahvarju's NRI sons and NRI daughter live in the United States, Canada, and Australia as nuclear families. After a gap of 10 years, all his children arrive in the village during the holiday season of Makar Sankranti, under mysterious circumstances after they receive an email from Raghavaraju who expresses his wish to divorce his wife Janakamma. What happens next and the events leading to this mysterious situation, and how Raghavaraju conveys his midlife crisis to his children forms the crux of the story.",
+            "budget": 1200000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/jYlG2qUdmaeCerlbqyJwBYyeF7u.jpg",
+            "production_companies": [
+                {
+                    "id": 14464,
+                    "logo_path": null,
+                    "name": "Sri Venkateswara Creations",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 5.4,
+            "vote_count": 5,
+            "review": null
+        },
+        "revenue": 8100000
+    },
+    {
+        "id": 442064,
+        "imdb": {
+            "imdb_id": "tt6421110",
+            "title": "Proud Mary",
+            "director": "nm0619836",
+            "release_year": "2018",
+            "main_actor": "nm0378245",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 442064,
+            "overview": "Mary is a hit woman working for an organized crime family in Boston, whose life is completely turned around when she meets a young boy whose path she crosses when a professional hit goes bad.",
+            "budget": 14000000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/5luceoVMU2FzWuyty7mZFcSY5ZW.jpg",
+            "production_companies": [
+                {
+                    "id": 3287,
+                    "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+                    "name": "Screen Gems",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.5,
+            "vote_count": 335,
+            "review": "Taraji P. Henson smashed this roll! She plays a hit woman that has a bit of a guilty conscience for killing a boy's father.  She ends up taking the boy under her wing & giving him a better life. I wasn't sure what to think going into this movie, yet the storyline with the action made it enjoyable!"
+        },
+        "revenue": 21753365
+    },
+    {
+        "id": 465102,
+        "imdb": {
+            "imdb_id": "tt6423100",
+            "title": "Cycle",
+            "director": "nm8708048",
+            "release_year": "2011",
+            "main_actor": "nm8708050",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 465102,
+            "overview": "Written and directed by Moheen Reeyad, Cycle tells the story of an ordinary Bangladeshi married woman, who struggling to expresses her strong inclination to be free from some unexpected difficulties like darkwardness, backwardness, and religious domination etc. This original visualization about everyday life explores the joy and pain of pursuing your dreams. Actually, most of all women of Bangladesh are being presented as goods still now, are being dressed only for their husband by hook or by crook.",
+            "budget": 60,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4SPHIJXnI3eGC6S2bnMxAM1ZueO.jpg",
+            "production_companies": [
+                {
+                    "id": 92162,
+                    "logo_path": null,
+                    "name": "CDV",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "BD",
+                    "name": "Bangladesh"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 150
+    },
+    {
+        "id": 452416,
+        "imdb": {
+            "imdb_id": "tt6426832",
+            "title": "Puthan Panam",
+            "director": "nm1066396",
+            "release_year": "2017",
+            "main_actor": "nm0007123",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 452416,
+            "overview": "The sudden implementation of demonetisation rattles the country, and a few black money hoarders in Kerala are trying their best to save their void currencies by hook or crook. Kasaragod-based financier Nithyananda Shenoy also gets embroiled in it, and drawn into the scene are also a few underprivileged folk in Kochi. Dramatic situations surrounding the hotchpotch ensue, as each one tries to set their lives straight.",
+            "budget": 930000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/fUVpitEoSNOIWzXW6s8qj6lqG58.jpg",
+            "production_companies": [
+                {
+                    "id": 89018,
+                    "logo_path": null,
+                    "name": "3 Color Cinema",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 5.3,
+            "vote_count": 9,
+            "review": null
+        },
+        "revenue": 1400000
+    },
+    {
+        "id": 400157,
+        "imdb": {
+            "imdb_id": "tt6428676",
+            "title": "Wonder Park",
+            "director": "nm0113477",
+            "release_year": "2019",
+            "main_actor": "nm6029853",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 400157,
+            "overview": "A young girl named June with a big imagination makes an incredible discovery -- the amusement park of her dreams has come to life. Filled with the world's wildest rides operated by fun-loving animals, the excitement never ends. But when trouble hits, June and her misfit team of furry friends begin an unforgettable journey to save the park.",
+            "budget": 100000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/8KomINZhIuJeB4oB7k7tkq8tmE.jpg",
+            "production_companies": [
+                {
+                    "id": 2348,
+                    "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+                    "name": "Nickelodeon Movies",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 24955,
+                    "logo_path": "/bX3cYCRWdddXTgIcDEfNiVa8U4j.png",
+                    "name": "Paramount Animation",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5653,
+                    "logo_path": "/lJj4v0DWNy7f0jJKA26Bhz4yjgk.png",
+                    "name": "Ilion Animation Studios",
+                    "origin_country": "ES"
+                },
+                {
+                    "id": 4,
+                    "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "ES",
+                    "name": "Spain"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.4,
+            "vote_count": 424,
+            "review": "Really good watch, probably won't watch again, but can recommend.\r\n\r\nMore movies need to take a page out of this book.  I don't think we need to start with the \"dead relative\" trope, I'm not a fan of putting people in the fridge, and this makes me feel like I was supposed to feel like I did in \"Up!\", but it's just not the same.  My next biggest problem was looking at a pig and hearing Mila Kunis' voice: for whatever reason it was very distracting.\r\n\r\nSo what I mean when I say more movies should copy this is the formula it uses.  It quickly does some character development and world building for one universe that introduces the other, and the re-establishes the 2nd universe with more succinct character building, a show of adversity / antagonism, some light back story, and a quest to solve a mystery, drip feeding information to the audience.\r\n\r\nHonestly, if you're making a movie you can just start at the quest and the audience will catch up, especially if you have re-iterate the situation to other characters.  It won't be as charming, but you can fit more movie in, and thus more cool, fun stuff.\r\n\r\nI love the \"chim-pan-zombies\", I think it was an excellent idea.  This is one of those \"the story if a parallel for real life\" sort of things, so of course it's about a young person dealing with their emotions of a traumatic event, but I certainly found myself forgetting about it when they stopped actively reminding me what the movie was actually about.\r\n\r\nGreat movie pick, good for the whole family, and while I acknowledge the movie isn't for me, there is a good chance it's for you."
+        },
+        "revenue": 119559110
+    },
+    {
+        "id": 520900,
+        "imdb": {
+            "imdb_id": "tt6439020",
+            "title": "The Personal History of David Copperfield",
+            "director": "nm0406334",
+            "release_year": "2019",
+            "main_actor": "nm2353862",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 520900,
+            "overview": "A fresh and distinctive take on Charles Dickens\u2019 semi-autobiographical masterpiece, The Personal History of David Copperfield, set in the 1840s, chronicles the life of its iconic title character as he navigates a chaotic world to find his elusive place within it. From his unhappy childhood to the discovery of his gift as a storyteller and writer, David\u2019s journey is by turns hilarious and tragic, but always full of life, colour and humanity.",
+            "budget": 15600000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2epgo9k2Jrs7qrTL1Rork1mDSKT.jpg",
+            "production_companies": [
+                {
+                    "id": 7493,
+                    "logo_path": "/452FO4LcI6lA6bfgl6w1kQYRBlr.png",
+                    "name": "FilmNation Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 6705,
+                    "logo_path": "/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png",
+                    "name": "Film4 Productions",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 127929,
+                    "logo_path": "/fCB4AVYvxxDvqumgYqsN6ehyN3G.png",
+                    "name": "Searchlight Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 128,
+            "review": "If you enjoy reading my Spoiler-Free reviews, please follow my blog @\r\nhttps://www.msbreviews.com\r\n\r\nBased on Charles Dickens' novel, The Personal History of David Copperfield is the first Armando Ianucci's film I ever watched. I didn't really know much about this movie besides its stellar cast. I'm not the biggest fan of biographical works. Usually, I find them too constricted to the genre's formulas, and if I don't think the protagonist's life is remotely entertaining, then the whole film crumbles. Fortunately, it's not the case of this Ianucci's adaptation. It's one of the most pleasant surprises of the year, I finished it with a massive smile on my face.\r\n\r\nDavid Copperfield's life is portrayed in such a captivating, entertaining, genuine, heartfelt manner, but always maintaining this sort of lightness. There's always something positive coming out of even the worst of situations. Actually, I think that's the best message transmitted to the viewer: it doesn't matter how horrible your life might be at a particular moment, it will only get better if you don't give up, and if you surround yourself with true friends and family. Throughout the runtime, David shares his life with different families and friends, working and living in the poorest and wealthiest places.\r\n\r\nHis lifestyle changes drastically after each new significant development in his journey to become a writer, and it's such a joy to watch him grow up. From working like a slave in a factory and being homeless to living in a boathouse and eventually in a mansion like a true gentleman, David goes through all of the obstacles life throws at him, learning from them to become a better person. A really nice touch is the distinct names that people call him throughout his life, depending on where he lives/works and who's he talking to: Davy, Doady, Daisy, Trotwood\u2026 These might be merely different nicknames for David, but they mean much more. They're a tiny yet efficient detail that remarkably distinguishes his unique lifestyles.\r\n\r\nIanucci and Simon Blackwell do a terrific job with the screenplay, by offering Dev Patel an exceptional platform to shine. The whole cast delivers outstanding performances that elevate the movie in an invaluable way. Patel is an excellent protagonist, and I don't want to diminish his extraordinary display, but he's only as great as his counterparts. Tilda Swinton (Betsey Trotwood) and Hugh Laurie (Mr Dick) form a hilarious couple, deeply important to help David rise from the ground. Peter Capaldi brilliantly portrays Mr Micawber, a family man with immense debts, who teaches young David (impressively represented by Jairaj Varsani) how London works by escaping his creditors.\r\n\r\nDarren Boyd and Gwendoline Christie use their physical attributes to interpret the evil Murdstone brothers, who employ extreme, violent measures to educate David. Everyone involved in bringing the Peggotty family to life is as essential as the family's importance to the protagonist. Benedict Wong (Mr Wickfield) shows his funny side once again, as Morfydd Clark is charming enough as Dora Spenlow and Clara Copperfield. Aneurin Barnard (James Steerforth) becomes David's best friend, but his final arc doesn't quite fit the film, in my opinion, prolonging the latter for a few unnecessary extra minutes.\r\n\r\nSo, as you might have figured, every cast member has a vital role to play in some shape or form. All are incredibly fun to watch, making this two-hour flick flow tremendously well. Technically, the production and costume design are award-worthy. The XIX century streets, houses, and clothes are really immersive, creating a realistic environment, elevated even more by the subtle yet powerful score (Christopher Willis). Seamless editing (Mick Audsley, Peter Lambert) and impeccable cinematography (Zac Nicholson) also help the movie's pacing and even contribute for a few transition jokes.\r\n\r\nAll in all, The Personal History of David Copperfield is one of the most entertaining biographical works I've ever seen, as well as one of the most pleasant surprises of 2020. It's one of those films that leaves you with a huge smile, from ear to ear. As the viewer, watching David Copperfield's journey to becoming a writer is so captivating and fun, not only due to the humorous screenplay, but mainly because it's such an honest, emotional, genuine story. Only a few minutes in, and I already wanted him to succeed in life. My emotional attachment to the protagonist was so strong that I couldn't help myself drop a couple of tears by the end. I don't have enough words to describe how wonderful every cast member is and how important each role has in David's life. Dev Patel is an impressive lead, but his performance is elevated by the work of his counterparts. It's technically flawless, but the story and its characters make this movie an absolute delight to watch.\r\n\r\nDefinitely, one of the best films of the year, so don't you dare miss it!\r\n\r\nRating: A-"
+        },
+        "revenue": 11620337
+    },
+    {
+        "id": 489928,
+        "imdb": {
+            "imdb_id": "tt6443294",
+            "title": "Blaze",
+            "director": "nm0000160",
+            "release_year": "2018",
+            "main_actor": "nm5921082",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 489928,
+            "overview": "Re-imagining the life and times of Blaze Foley, the unsung songwriting Texas legend.",
+            "budget": 1200000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10402,
+                    "name": "Music"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/g3rMWJRP6rQO5qP9E6umeRq9hGA.jpg",
+            "production_companies": [
+                {
+                    "id": 97085,
+                    "logo_path": null,
+                    "name": "Ansgar Media",
+                    "origin_country": ""
+                },
+                {
+                    "id": 88582,
+                    "logo_path": null,
+                    "name": "Cinetic Media",
+                    "origin_country": ""
+                },
+                {
+                    "id": 97086,
+                    "logo_path": null,
+                    "name": "Village Studios",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 31,
+            "review": null
+        },
+        "revenue": 467306
+    },
+    {
+        "id": 470878,
+        "imdb": {
+            "imdb_id": "tt6450186",
+            "title": "I Can Only Imagine",
+            "director": "nm3401779",
+            "release_year": "2018",
+            "main_actor": "nm8722479",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 470878,
+            "overview": "Growing up in Texas, Bart Millard suffers physical and emotional abuse at the hands of his father. His childhood and relationship with his dad inspires him to write the hit song \"I Can Only Imagine\" as singer of the Christian band MercyMe.",
+            "budget": 7000000,
+            "genres": [
+                {
+                    "id": 10402,
+                    "name": "Music"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/veZszwMZu8d3WMU6TJX9sV5w1Y4.jpg",
+            "production_companies": [
+                {
+                    "id": 100855,
+                    "logo_path": null,
+                    "name": "Kevin Downes Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 54927,
+                    "logo_path": null,
+                    "name": "Mission Pictures International",
+                    "origin_country": ""
+                },
+                {
+                    "id": 49945,
+                    "logo_path": null,
+                    "name": "City on a Hill Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 100854,
+                    "logo_path": null,
+                    "name": "Imagine Rights",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 8533,
+                    "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+                    "name": "LD Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.4,
+            "vote_count": 255,
+            "review": "*Disclaimer: This isn't any sort of \"official\" review. This is just one ordinary movie-goer's opinion...\r\n\r\nLovely movie. \ud83d\ude0a\r\n\r\nI honestly wasn't expecting much, but I wanted to support MercyMe, and I always like to throw my support whenever a movie theater plays a good, clean movie like this one.\r\n\r\nI was actually quite amazed by the production. It had the look of a big budget film (I have no idea how much the budget was), and was lacking the cheese element prevalent in so many Christian movies. It was remarkably well cast, and I was particularly impressed by both guys who played Bart - the 11 year old Bart (Brody Rose), and the teenage/20something Bart (J Michael Finley). I also LOVED Trace Adkins as Brickell.\r\n\r\nI took my non-believer friend to it, because he likes MercyMe, and has enjoyed Bart's testimonies whenever I've taken him to a concert, and he liked the movie as well. He even teared up, and he is NOT an emotional guy! I cried too, but I'm an emotional girl! \ud83d\ude09\r\n\r\nI definitely recommend it. I'm not a person who enjoys going to the movie theater, and usually will only go in special circumstances. I think mainstream America playing a Christian movie in the theater is a special circumstance, and if you want to see more of this happening, I hope you'll go support it."
+        },
+        "revenue": 86026201
+    },
+    {
+        "id": 290859,
+        "imdb": {
+            "imdb_id": "tt6450804",
+            "title": "Terminator: Dark Fate",
+            "director": "nm1783265",
+            "release_year": "2019",
+            "main_actor": "nm0000157",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 290859,
+            "overview": "Decades after Sarah Connor prevented Judgment Day, a lethal new Terminator is sent to eliminate the future leader of the resistance. In a fight to save mankind, battle-hardened Sarah Connor teams up with an unexpected ally and an enhanced super soldier to stop the deadliest Terminator yet.",
+            "budget": 185000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg",
+            "production_companies": [
+                {
+                    "id": 574,
+                    "logo_path": "/iB6GjNVHs5hOqcEYt2rcjBqIjki.png",
+                    "name": "Lightstorm Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 82819,
+                    "logo_path": "/5Z8WWr0Lf1tInVWwJsxPP0uMz9a.png",
+                    "name": "Skydance Media",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 25,
+                    "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                    "name": "20th Century Fox",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 4,
+                    "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 81620,
+                    "logo_path": "/gNp4dfuBOXmVWdGKb63NfbFNbFi.png",
+                    "name": "Tencent Pictures",
+                    "origin_country": "CN"
+                },
+                {
+                    "id": 22213,
+                    "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+                    "name": "TSG Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 122144,
+                    "logo_path": null,
+                    "name": "Instituto de la Cinematograf\u00eda y de las Artes Audiovisuales (ICAA)",
+                    "origin_country": ""
+                },
+                {
+                    "id": 130088,
+                    "logo_path": null,
+                    "name": "Ministry of Finance of Spain",
+                    "origin_country": "ES"
+                },
+                {
+                    "id": 11408,
+                    "logo_path": null,
+                    "name": "Ministerio de Cultura",
+                    "origin_country": ""
+                },
+                {
+                    "id": 48581,
+                    "logo_path": "/yqf1h4IKBKBEAjUtrnp0FRVBv76.png",
+                    "name": "Hungarian National Film Fund",
+                    "origin_country": "HU"
+                },
+                {
+                    "id": 2735,
+                    "logo_path": null,
+                    "name": "Mid Atlantic Films",
+                    "origin_country": "HU"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CN",
+                    "name": "China"
+                },
+                {
+                    "iso_3166_1": "HU",
+                    "name": "Hungary"
+                },
+                {
+                    "iso_3166_1": "ES",
+                    "name": "Spain"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.5,
+            "vote_count": 3046,
+            "review": "Leaving \u2018Terminator: Dark Fate\u2019, I never felt like they managed to save the franchise, nor overwhelmingly glad this movie exists. It\u2019s an adequate addition in a messy franchise that never reaches the heights of the first two films but is just above the three films before it, and because of this a lot of people will like it much more than they should. It\u2019s not the \u2018Halloween\u2019 or even the \u2018X-Men: Days of Future Past\u2019 of the 'Terminator' franchise; it\u2019s a fine follow up, and sadly nothing more.\r\n- Chris dos Santos\r\n\r\nRead Chris' full article...\r\nhttps://www.maketheswitch.com.au/article/review-terminator-dark-fate-say-hasta-la-vista-you-wont-want-to-be-back"
+        },
+        "revenue": 261119292
+    },
+    {
+        "id": 496328,
+        "imdb": {
+            "imdb_id": "tt6452574",
+            "title": "Sanju",
+            "director": "nm0386246",
+            "release_year": "2018",
+            "main_actor": "nm1633541",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 496328,
+            "overview": "Sanju explores some of the most crucial chapters from movie star Sanjay Dutt\u2019s dramatic and controversial real life. It gives a lowdown on his tryst with drugs and his trials and tribulations in the Arms Acts case and the 1993 Mumbai blasts.",
+            "budget": 21918618,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/q1wkN4VQuBTj1AeyTLLz2w6awMA.jpg",
+            "production_companies": [
+                {
+                    "id": 44163,
+                    "logo_path": null,
+                    "name": "Rajkumar Hirani Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 44164,
+                    "logo_path": null,
+                    "name": "Vinod Chopra Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 3781,
+                    "logo_path": null,
+                    "name": "Vidhu Vinod Chopra Productions",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.5,
+            "vote_count": 118,
+            "review": null
+        },
+        "revenue": 67414985
+    }
+]

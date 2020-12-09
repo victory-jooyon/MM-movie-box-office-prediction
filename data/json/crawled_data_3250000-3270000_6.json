@@ -1,0 +1,316 @@
+[
+    {
+        "id": 493623,
+        "imdb": {
+            "imdb_id": "tt6588966",
+            "title": "Hichki",
+            "director": "nm5648841",
+            "release_year": "2018",
+            "main_actor": "nm8565406",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 493623,
+            "overview": "Hichki presents a positive and inspiring story about a woman who turns her biggest weakness into her biggest strength.",
+            "budget": 2000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/5kzB7YtvhBvkBywubJ81Qw0Lt8r.jpg",
+            "production_companies": [
+                {
+                    "id": 1569,
+                    "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+                    "name": "Yash Raj Films",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 7.5,
+            "vote_count": 75,
+            "review": null
+        },
+        "revenue": 25629954
+    },
+    {
+        "id": 445840,
+        "imdb": {
+            "imdb_id": "tt6597454",
+            "title": "Selfie",
+            "director": "nm0508277",
+            "release_year": "2017",
+            "main_actor": "nm8819741",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 445840,
+            "overview": "Bosco is the son of a minister arrested for corruption, misappropriation of public funds, money laundering and a lot more of economic crimes. Selfie is about the story of him since he's kicked out of his luxurious chalet until he tries to get a job at the headquarters of a left-wing political party.",
+            "budget": 11203,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/yUNw8dWOcLURVMqTmkHrROzBxkG.jpg",
+            "production_companies": [
+                {
+                    "id": 120536,
+                    "logo_path": null,
+                    "name": "GONITA FILMACCION",
+                    "origin_country": ""
+                },
+                {
+                    "id": 120537,
+                    "logo_path": null,
+                    "name": "II ACTO FILMS",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "ES",
+                    "name": "Spain"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 13,
+            "review": null
+        },
+        "revenue": 230258
+    },
+    {
+        "id": 456757,
+        "imdb": {
+            "imdb_id": "tt6620266",
+            "title": "Lakshyam",
+            "director": "nm8833128",
+            "release_year": "2017",
+            "main_actor": "nm1011348",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 456757,
+            "overview": "Vimal Kumar, a murder convict and Mustafa, a petty thief escape the clutches of police when the vehicle transporting them to jail meets with an accident. The duo, who get trapped in a forest, gradually get talking and discover more about each other and the way forward. What's awaiting them\u2026 handcuffs or a good future?",
+            "budget": 630000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/572NMxnDZZjSxkTtRNKbDKvL1Yw.jpg",
+            "production_companies": [
+                {
+                    "id": 90454,
+                    "logo_path": null,
+                    "name": "Vintage Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 90455,
+                    "logo_path": null,
+                    "name": "JT Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 4,
+            "review": null
+        },
+        "revenue": 540000
+    },
+    {
+        "id": 446021,
+        "imdb": {
+            "imdb_id": "tt6628394",
+            "title": "Bad Times at the El Royale",
+            "director": "nm1206844",
+            "release_year": "2018",
+            "main_actor": "nm0000313",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 446021,
+            "overview": "Lake Tahoe, 1969. Seven strangers, each one with a secret to bury, meet at El Royale, a decadent motel with a dark past. In the course of a fateful night, everyone will have one last shot at redemption.",
+            "budget": 32000000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/qExufIc4Rw0e4xdVZlhMdmEDGES.jpg",
+            "production_companies": [
+                {
+                    "id": 25,
+                    "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                    "name": "20th Century Fox",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 51964,
+                    "logo_path": null,
+                    "name": "Goddard Textiles",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 22213,
+                    "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+                    "name": "TSG Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 2384,
+            "review": "_Bad Times At The El Royale_ was exceptional. Through its preview period, I was hooked from the teaser trailer to the 24th TV Spot released. Drew Goddard knew how to make a wonderous and exciting thriller through its magnificent casting and so much more. All these trailers set high expectations which made me worry a little bit as I don\u2019t like getting myself too excited for movies because sometimes, I get very disappointed. But with this, it exceeded my high expectations. _Bad Times At The El Royale_ just crushed it and it felt riveting the whole time which is something that is hard to find in films nowadays.\r\n\r\nThe casting was incredibly on point for this with Dakota Johnson, Jeff Bridges, Jon Hamm, Lewis Pullman, Chris Hemsworth, Cailee Spaeny and Cynthia Erivo delivering Oscar-worthy performances. Both Lewis Pullman and Cailee Spaeny deserve a lot of recognition. They just both developed so well throughout and it just astounded me at the level that they could deliver. The best thing about all these wonderful and exciting characters were the connections they all had with each other whether it be a love/hate relationship. To avoid spoilers, I will not highlight who my favourite connection was but _Bad Times At The El Royale_ knew how to deliver excellent performances and wonderful connections.\r\n\r\nThe story was captivating in itself but what really accompanied this well-made film was its soundtrack which really packed quite a punch. Songs like This Old Heart Of Mine by The Isley Brothers, which was featured in the trailer and sung incredibly well by Cynthia Erivo, and Can\u2019t Take My Eyes Off You by Frankie Valli just fit in the most perfect ways. Movies like _Baby Driver_ and _Shaun Of The Dead_, both coincidentally directed by Edgar Wright, wouldn\u2019t have been what it was without its soundtrack, and it\u2019s unfortunate to say that _Bad Times At The El Royale_ would have suffered a bit without the \u201860s music. \r\n\r\nFortunately, nothing disappointed me at all with this movie because the height of intensity was just there without doing to much to establish it. Jon Hamm was most of the reason, along with Chris Hemsworth, that really helped make this such a great film. Drew Goddard produced beautiful camerawork and outstanding set design. It is truly one of the most brilliant films ever created and I\u2019ve only ever been astounded this much by _Searching_ as I kept feeling like I didn\u2019t know what was going to happen. And honestly, I didn\u2019t. But the big thing that would keep certain audiences away is the level of gore that I\u2019ve only ever seen in Tarantino films and _Brawl In Cell Block 99_. _Bad Times At The El Royale_ is a lot like Tarantino\u2019s _The Hateful Eight_ but it was done 10x better. Everything just seemed to click with me throughout the long runtime and I\u2019m glad I didn\u2019t give this a miss.\r\n\r\n_Bad Times At The El Royale_ is wonderful with unpredictable plot twists, exceptional casting and chemistry, a smartly written script and high intensity levels. I expect to see a lot of Oscar nominations for this movie as it deserves a lot of recognition whether it be surprising performances from the likes of Dakota Johnson and Lewis Pullman or fantastic costumes and design. _Bad Times At The El Royale_ just clicked with me 100% and could not lose my attention from the second I saw Nick Offerman walk into his hotel room. I paid attention to every second and enjoyed it so _Bad Times At The El Royale_ deserves a thrilling 10/10."
+        },
+        "revenue": 31882724
+    },
+    {
+        "id": 447332,
+        "imdb": {
+            "imdb_id": "tt6644200",
+            "title": "A Quiet Place",
+            "director": "nm1024677",
+            "release_year": "2018",
+            "main_actor": "nm1289434",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 447332,
+            "overview": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+            "budget": 17000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+            "production_companies": [
+                {
+                    "id": 29312,
+                    "logo_path": null,
+                    "name": "Sunday Night",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2481,
+                    "logo_path": "/nVEP2IHCDOBOldgDL4SSufitN9.png",
+                    "name": "Platinum Dunes",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 4,
+                    "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.3,
+            "vote_count": 9032,
+            "review": "This review contains **spoilers**.\r\nSo let\u2019s First get this out of The way I\u2019ve never been more frustrated, by people eating popcorn, fidgeting, & Coming in late. \r\n\r\nAnyways form the very start I had so many questions, how\u2019d they get here? Where\u2019d the Monster come from? Etc. And by the end I have no answers and even more questions. Are they gonna survive and kill all the Monsters? Is everyone else dead? Why\u2019d they think to have a baby? But that doesn\u2019t matter.\r\n\r\nWe\u2019re just tossed into this situation with no explanation to almost anything. The only things we really know is of course making lond sounds means you\u2019re likely gonna die. And High Pitch Sounds Hurts the Monster. \r\n\r\nWish is a smart Choice and come to think of it is kinda obvious, maybe a little too obvious. Like how\u2019d they never think about that? Either way. \r\n\r\nA quick note for surviving other then the soundproofing here and there. Why not have a sound bomb of sorts, you could just throw? That would have toldy saved the Dad from having to sacrifice him self. \r\n\r\nThat isn\u2019t to say they\u2019re stupid they had many Smart decisions such a The sand paths, the box for the baby (wish was kinda sad), the little sound proof room, the Radio, and the fireworks. And that\u2019s just the sound related stuff the Lights and Fires Where also Smart.\r\n\r\nOtherwise the cast give us some incredible performances and lots of good chemistry. It probably helps that John and Emily are a real couple. Speaking of wich John Krasinski has Written and Directed a very clever and suspenseful horror film. I\u2019ve never been more scared of corn in my life. Also had jumped at water. \r\n\r\nAnd the sound department specifically the Foley Artist have never shined greater in any film I have ever seen before. The sound is a way flipped from most horror films as it\u2019s when the music drops and everything goes quiet that the Monster attacks. But not in this case everytime the Monster comes it\u2019s a big moment.\r\n\r\nAlthough I have nothing against a R rating. In fact I\u2019m somethimes more likely to see a film because of a R rating, it shows they have gus and they are willing to take a risk. F*ck you MPAA!!! \r\n\r\nAnyways some times all kinds of unnecessary crap is put in a Film because they like oh yeah we\u2019re rated R. Although that\u2019s not always needed this Film proves a well done PG-13 can still be dark and brutal. Killing a Child with in the first 10ish minuets, is a little dark. Although come on that kid had it Coming as soon as he grab those batteries. there\u2019s almost a bit of blood maybe the MPAA is pulling back on some things. Probably not those F*ck you MPAA!!!\r\n\r\nOk sorry my review is getting to become rated R. \ud83d\ude06\r\n\r\nAlso I wanted to note for whatever reason I enjoy films where I can count the entire cast.\r\n\r\nAlong side Get Out it seems people form comedy make better Horror film Directors then most Horror film Directors. It definitely makes sense though it\u2019s all about that timing.\r\n\r\n\r\nIn Short It was a gripping film from start to finish. I\u2019d highly recommend to all Horror and Thriller Fans. Although because of spoilers in this review you probably already saw it. \r\n\r\n\r\nSo leave a comment and let\u2019s discuss.\r\n\r\nNo likes"
+        },
+        "revenue": 340677200
+    },
+    {
+        "id": 466501,
+        "imdb": {
+            "imdb_id": "tt6649794",
+            "title": "Sunday Holiday",
+            "director": "nm7834624",
+            "release_year": "2017",
+            "main_actor": "nm3981484",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 466501,
+            "overview": "Mr. Unni Mukundan who is very passionate about his first movie, coincidentally meets Mr. David Paul, a famous movie director. At the same time, the life experiences of Amal, who relocates himself to Cochin from Thalaserry, makes him undergo a total change in his vision of life due to his acquaintance with Nakutti and Rahul, the residents of 'Sargapournami' his home in Cochin. Sunday Holiday is a beautiful story that is replete with comedy.",
+            "budget": 625000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/tIm4kSnUVrHE8JGZQJBuHC5DhPf.jpg",
+            "production_companies": [
+                {
+                    "id": 88453,
+                    "logo_path": null,
+                    "name": "Maqtro Pictures",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 16,
+            "review": null
+        },
+        "revenue": 2200000
+    }
+]

@@ -1,0 +1,738 @@
+[
+    {
+        "id": 426543,
+        "imdb": {
+            "imdb_id": "tt5523010",
+            "title": "The Nutcracker and the Four Realms",
+            "director": "nm0002120",
+            "release_year": "2018",
+            "main_actor": "nm3237775",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 426543,
+            "overview": "When Clara\u2019s mother leaves her a mysterious gift, she embarks on a journey to four secret realms\u2014where she discovers her greatest strength could change the world.",
+            "budget": 120000000,
+            "genres": [
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/9vPDY8e7YxLwgVum7YZIUJbr4qc.jpg",
+            "production_companies": [
+                {
+                    "id": 2,
+                    "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+                    "name": "Walt Disney Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1557,
+                    "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+                    "name": "The Mark Gordon Company",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 1577,
+            "review": "Okay so this was not my first choice to see this movie but I admit I did it and I wasn't actually too pissed off  I did It made me smile and feel all christmasy like I totally recommend you don't count this out yet it's a great trip\r\nTo the cinema"
+        },
+        "revenue": 59522646
+    },
+    {
+        "id": 428495,
+        "imdb": {
+            "imdb_id": "tt5540188",
+            "title": "The Nile Hilton Incident",
+            "director": "nm0757975",
+            "release_year": "2017",
+            "main_actor": "nm0267241",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 428495,
+            "overview": "Cairo, 2011. A police officer investigates the murder of a woman in a luxurious hotel in the days leading up to the Egyptian revolution.",
+            "budget": 4250000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/cUlJRUlIYRPIVddaCRmh5Pk0ixS.jpg",
+            "production_companies": [
+                {
+                    "id": 94864,
+                    "logo_path": null,
+                    "name": "Atmo Production",
+                    "origin_country": "SE"
+                },
+                {
+                    "id": 2801,
+                    "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+                    "name": "Film i V\u00e4st",
+                    "origin_country": "SE"
+                },
+                {
+                    "id": 35210,
+                    "logo_path": null,
+                    "name": "Ostlicht Filmproduktion",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 29062,
+                    "logo_path": "/hwlA6f2HhaOJP1ZcrYL8f8g8UbJ.png",
+                    "name": "Final Cut for Real",
+                    "origin_country": "DK"
+                },
+                {
+                    "id": 50804,
+                    "logo_path": null,
+                    "name": "Nordsvensk Filmunderh\u00e5llning",
+                    "origin_country": "SE"
+                },
+                {
+                    "id": 2999,
+                    "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+                    "name": "SVT",
+                    "origin_country": "SE"
+                },
+                {
+                    "id": 108533,
+                    "logo_path": null,
+                    "name": "Scanbox",
+                    "origin_country": "SE"
+                },
+                {
+                    "id": 73539,
+                    "logo_path": "/fhLGxCgpAz7zWOoDz5g4FZMkFSs.png",
+                    "name": "Copenhagen Film Fund",
+                    "origin_country": "DK"
+                },
+                {
+                    "id": 2302,
+                    "logo_path": "/rPXEdpqwFycAY9ZgrAJXv13qcWW.png",
+                    "name": "Svenska Filminstitutet",
+                    "origin_country": "SE"
+                },
+                {
+                    "id": 850,
+                    "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
+                    "name": "Eurimages",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 2068,
+                    "logo_path": null,
+                    "name": "Mitteldeutsche Medienf\u00f6rderung",
+                    "origin_country": ""
+                },
+                {
+                    "id": 118,
+                    "logo_path": "/AiBorgNTCS1lT1FdFPYheax9jfF.png",
+                    "name": "Det Danske Filminstitut",
+                    "origin_country": "DK"
+                },
+                {
+                    "id": 26398,
+                    "logo_path": null,
+                    "name": "Den Vestdanske Filmpulje",
+                    "origin_country": "DK"
+                },
+                {
+                    "id": 73907,
+                    "logo_path": null,
+                    "name": "Chimney Group",
+                    "origin_country": "SE"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DK",
+                    "name": "Denmark"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "SE",
+                    "name": "Sweden"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 236,
+            "review": null
+        },
+        "revenue": 81089
+    },
+    {
+        "id": 404665,
+        "imdb": {
+            "imdb_id": "tt5548032",
+            "title": "Oppam",
+            "director": "nm0698184",
+            "release_year": "2016",
+            "main_actor": "nm0482320",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 404665,
+            "overview": "Jayaraman (Mohanlal) is born as a blind man but with heightened senses of smell, sound and touch. He is trained in the martial art of Kalaripayattu. He works as an elevator operator in an apartment where many reputed people live. One day he happens to encounter a murder in a flat. The killer escapes and Jayaraman is charged with the murder. To prove his innocence to the law, Jayaraman must now find and kill the true murderer.",
+            "budget": 1000000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/uPKPrjlzP5FEqy8wFvr5nuitFQP.jpg",
+            "production_companies": [
+                {
+                    "id": 16401,
+                    "logo_path": "/khS7G0KzBoCYcLs4xuNjpuZjntR.png",
+                    "name": "Aashirvad Cinemas",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 22,
+            "review": null
+        },
+        "revenue": 10000000
+    },
+    {
+        "id": 467940,
+        "imdb": {
+            "imdb_id": "tt5552744",
+            "title": "Run",
+            "director": "nm6507770",
+            "release_year": "2016",
+            "main_actor": "nm8015892",
+            "main_genre": "Horror"
+        },
+        "tmdb": {
+            "tmdb_id": 467940,
+            "overview": "A young woman has to stay one step ahead of a dark supernatural force.",
+            "budget": 600,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/3OLWkPg37CI8soXG4tK0mnL7Du9.jpg",
+            "production_companies": [
+                {
+                    "id": 92842,
+                    "logo_path": null,
+                    "name": "Death Vault Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 92843,
+                    "logo_path": null,
+                    "name": "Viral Films UK",
+                    "origin_country": ""
+                },
+                {
+                    "id": 92844,
+                    "logo_path": null,
+                    "name": "Dark Sun Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 92845,
+                    "logo_path": null,
+                    "name": "The Deadly Three",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 1000
+    },
+    {
+        "id": 412096,
+        "imdb": {
+            "imdb_id": "tt5559528",
+            "title": "Maanagaram",
+            "director": "nm7992231",
+            "release_year": "2017",
+            "main_actor": "nm3807965",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 412096,
+            "overview": "A handful of diverse characters find themselves in extraordinary situations that are interlinked with one another.",
+            "budget": 779000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/yhsAJRkZQ7oB6IO465ErYmVZMAo.jpg",
+            "production_companies": [
+                {
+                    "id": 63521,
+                    "logo_path": null,
+                    "name": "Potential Studios",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 7.3,
+            "vote_count": 30,
+            "review": null
+        },
+        "revenue": 1550000
+    },
+    {
+        "id": 684880,
+        "imdb": {
+            "imdb_id": "tt5559534",
+            "title": "Anowara",
+            "director": "nm2513556",
+            "release_year": "1967",
+            "main_actor": "nm2596180",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 684880,
+            "overview": "Anwara is a 1967 Bangladeshi film which stars Razzak and Suchonda in lead roles. It is one of the six films where Razzak and Suchonda shared screen time",
+            "budget": 47240,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/5zZLrz5kHuhrismz3d9gteNuN6t.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "BD",
+                    "name": "Bangladesh"
+                }
+            ],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 70860
+    },
+    {
+        "id": 511322,
+        "imdb": {
+            "imdb_id": "tt5563334",
+            "title": "The Good Liar",
+            "director": "nm0174374",
+            "release_year": "2019",
+            "main_actor": "nm0000545",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 511322,
+            "overview": "Career con man Roy sets his sights on his latest mark: recently widowed Betty, worth millions. And he means to take it all. But as the two draw closer, what should have been another simple swindle takes on the ultimate stakes.",
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/6kmxXfg3aSWrzUlEPt2L0YD4jz9.jpg",
+            "production_companies": [
+                {
+                    "id": 12,
+                    "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+                    "name": "New Line Cinema",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 13240,
+                    "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+                    "name": "Bron Studios",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 53152,
+                    "logo_path": "/8XHHLy8GGTuHM9JMzYjGqxB6oPa.png",
+                    "name": "Creative Wealth Media Finance",
+                    "origin_country": "CA"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 476,
+            "review": "If you enjoy reading my Spoiler-Free reviews, please follow my blog @\r\nhttps://www.msbreviews.com\r\n\r\nExquisite performances from two all-time greats: Ian McKellen and Helen Mirren. They carry the whole film on their shoulders, and it's mostly due to their extremely captivating displays that I genuinely enjoyed this movie. Unfortunately, its screenplay lacks believability and some creativity since the key components of the story are predictable from the get-go.\r\n\r\nRating: B"
+        },
+        "revenue": 33856058
+    },
+    {
+        "id": 385301,
+        "imdb": {
+            "imdb_id": "tt5565896",
+            "title": "Munafik",
+            "director": "nm3436850",
+            "release_year": "2016",
+            "main_actor": "nm8109868",
+            "main_genre": "Horror"
+        },
+        "tmdb": {
+            "tmdb_id": 385301,
+            "overview": "Adam is a Muslim medical practitioner who is unable to accept the fact that his wife is no longer in this world. When he agrees to treat a woman named Maria, strange and unsettling things start to happen.",
+            "budget": 393894,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2QCDn4Z8RTOwSo2WweeoexWfV8W.jpg",
+            "production_companies": [
+                {
+                    "id": 21361,
+                    "logo_path": null,
+                    "name": "Skop Productions Sdn. Bhd.",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "MY",
+                    "name": "Malaysia"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 15,
+            "review": null
+        },
+        "revenue": 1058591
+    },
+    {
+        "id": 415358,
+        "imdb": {
+            "imdb_id": "tt5571734",
+            "title": "Pink",
+            "director": "nm2287772",
+            "release_year": "2016",
+            "main_actor": "nm3966456",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 415358,
+            "overview": "Deepak is a lawyer suffering from bipolar disorder who experiences frequent mood swings. One night, Rajveer and his friends get drunk and try to molest Miss Arora and her two roommates leading to an accident. The film revolves around how Deepak fights the girls' case against these influential boys.",
+            "budget": 75000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/6xNhnyKm2M5FEOY7xv5iKiQ5P3.jpg",
+            "production_companies": [
+                {
+                    "id": 53252,
+                    "logo_path": null,
+                    "name": "Saraswati Entertainment Creations Limited",
+                    "origin_country": ""
+                },
+                {
+                    "id": 19144,
+                    "logo_path": null,
+                    "name": "Rising Sun Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 7.4,
+            "vote_count": 127,
+            "review": "**NO is a complete sentence in itself. Period.**\r\n\r\nThere are movies that have great plot lines, there are movies that have great actors who make the movie great, there are movies which have great directors. But this is a movie with a great message and one that our Indian society needs to listen, believe and enact upon.\r\n\r\nIncidents happen and are forgotten, people speak and they go quiet, mass movements are organized and they fade. But our mindset has not really changed. We still judge a woman's character by the way she dresses, the way she starts to feel comfortable with someone, by the time she steps in and out of home, by her choice of consuming alcohol or not, and the list can grow pretty long.\r\n\r\nPINK tries to make that exact same point that any sane society believes in, that we cannot have different set of rules to judge someone's character. One gender cannot be judged by some specific set of rules that do not apply to the other gender. In fact, it isn't even about the gender, judging anyone's character is a crime we all commit when none of us can measure our own selves with the same set of rules in the same scale of balance and come out of it pure and serene.\r\n\r\nNow, going towards the movie's review, this movie shouldn't be judged by it's story line, direction, editing, cinematography, or the acting. All of which were commendable in their own way so as to put through the point that the movie was trying to present to the audience precisely. Rather, it should be judged by the fact that our society deeply suffers from this disease of judging a woman's character and act with her in a manner according to the outcome of our judgement as we see fit. The part where Rajveer's character says that everybody present in the courtroom would feel the same way bout girls like these sums up the thought process of a great part of our society.\r\n\r\nAmitabh Bachchan's character's expressions in the end personifies the sorry state our country would feel at times like these. When we have to issue a manual about the woman's safety in our society. The points mentioned by Deepak Sehgal that should be there in the manual are cruel but true.\r\n\r\nI can go on and on about the greatness and seriousness of the point that the director has tried to put across, but it'd all be for nothing if we'd feel that it was another good movie that made a good point.\r\n\r\nWe need to change the way we grow up our boys and nurture them with the idea of respecting a woman's modesty and understand the firmness, completeness and absoluteness of the word NO. I wish dearly that I witness this change in our society in this lifetime where movies like PINK are no longer NECESSARY to make us realize that the way we treat women in our somewhat modern society, sometimes, is inhumane.\r\n\r\nGoing away from the preachy tone of this review I'd like to mention that the acting of all the characters, Amitabh Bachchan, Tapsee Pannu, and the other girls, Kirti and Andrea in fact, especially was just what was required, nothing less nothing more. It was believable and you could feel their helplessness. The direction by Aniruddha Roy Chaudhary was really good.\r\n\r\nAll in all, for me, this is more than your good , bad, average Bollywood movie. Seemed like a message to be thought and enacted upon, by Shoojit Sircar"
+        },
+        "revenue": 15020702
+    },
+    {
+        "id": 389015,
+        "imdb": {
+            "imdb_id": "tt5580036",
+            "title": "I, Tonya",
+            "director": "nm0318916",
+            "release_year": "2017",
+            "main_actor": "nm3053338",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 389015,
+            "overview": "Competitive ice skater Tonya Harding rises amongst the ranks at the U. S. Figure Skating Championships, but her future in the sport is thrown into doubt when her ex-husband intervenes.",
+            "budget": 11000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+            "production_companies": [
+                {
+                    "id": 82968,
+                    "logo_path": null,
+                    "name": "LuckyChap Entertainment",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 101831,
+                    "logo_path": "/l6x0SkRVp9ksGgRhboZbkI9w7PM.png",
+                    "name": "Clubhouse Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.5,
+            "vote_count": 4075,
+            "review": "I had zero expectations going into this as not much is known about the movie except for the cast - and obviously the story as it was a huge news event in the 90s - but it turned out to be a wildly entertaining albeit flawed biopic. The film settled on a style and tone that falls somewhere around the Coen brothers territory, but also gave me Christopher Guest vibes with its talking head moments and Paul Thomas Anderson level soundtrack use. It had a lot of cinematic elements, but overall it's a super accessible crowd pleaser.\r\n\r\nThere are two big problems I have with this film, however. Its soundtrack, while filled to the brim with classic songs, often felt out of place or completely unnecessary at times. For an iconic 90s story, having only 70s songs was an interesting choice. A lot of the songs played at strange moments as well and sometimes they were just too on-the-nose. For example, Supertramp's \"Goodbye Stranger\" plays as Jeff and Tonya separate for the first time. The other problem with this film involves the inclusion of the fourth wall breaking moments. This happens maybe 10 times throughout the film, but it didn't add anything and in fact distracted me from the story when it happened.\r\n\r\nThat said, what's great about this movie is how *truly* funny it is. I was expecting a few laughs because of the ridiculousness of the story, but the comedy here was really smart. It plays like a crime-gone-wrong Fargo-esque tale in its latter half and it works this way really well. The performances are strong especially from the always good Allison Janney (who is a huge scene stealer) and Margot Robbie. I've never seen Robbie give a performance like this before and I consider this her first big, meaty roll that allows her to use all of the acting bones in her body. She's funny, charming, brash, and you can tell she really committed herself to this role. Very impressed."
+        },
+        "revenue": 53939297
+    },
+    {
+        "id": 470044,
+        "imdb": {
+            "imdb_id": "tt5580266",
+            "title": "The Hate U Give",
+            "director": "nm0863387",
+            "release_year": "2018",
+            "main_actor": "nm3964350",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 470044,
+            "overview": "Raised in a poverty-stricken slum, a 16-year-old girl named Starr now attends a suburban prep school. After she witnesses a police officer shoot her unarmed best friend, she's torn between her two very different worlds as she tries to speak her truth.",
+            "budget": 23000000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg",
+            "production_companies": [
+                {
+                    "id": 12292,
+                    "logo_path": "/llGRXF5WYUW2fzXg0ebCoKMXjmT.png",
+                    "name": "Temple Hill Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 8.3,
+            "vote_count": 1386,
+            "review": null
+        },
+        "revenue": 34934009
+    },
+    {
+        "id": 399055,
+        "imdb": {
+            "imdb_id": "tt5580390",
+            "title": "The Shape of Water",
+            "director": "nm0868219",
+            "release_year": "2017",
+            "main_actor": "nm1020089",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 399055,
+            "overview": "An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.",
+            "budget": 19500000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+            "production_companies": [
+                {
+                    "id": 101082,
+                    "logo_path": null,
+                    "name": "Double Dare You Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 43,
+                    "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+                    "name": "Fox Searchlight Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 81023,
+                    "logo_path": null,
+                    "name": "Bull Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 22213,
+                    "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+                    "name": "TSG Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.3,
+            "vote_count": 9299,
+            "review": "Not just a love letter to the Creature from the Black Lagoon, but to cinema itself. Del Toro's _The Shape of Water_ is the \"Who is the real monster?\" question taken to the nth degree, with some some fascinating side-concepts that are explored just enough to be worthwhile. At the end of the day _The Shape of Water_, at its most stripped back, is a movie about fucking a fish. But it's the kind of movie about fucking a fish that should also probably win the Academy Award for Best Picture.\r\n\r\n_Final rating:\u2605\u2605\u2605\u00bd - I really liked it. Would strongly recommend you give it your time._"
+        },
+        "revenue": 194989655
+    },
+    {
+        "id": 399019,
+        "imdb": {
+            "imdb_id": "tt5592248",
+            "title": "The Beguiled",
+            "director": "nm0001068",
+            "release_year": "2017",
+            "main_actor": "nm0000173",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 399019,
+            "overview": "During the Civil War, at a Southern girls\u2019 boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.",
+            "budget": 10500000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/uQxfqFAqAvNK5b1wD11b2ycDAVg.jpg",
+            "production_companies": [
+                {
+                    "id": 90281,
+                    "logo_path": null,
+                    "name": "FR Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 70,
+                    "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+                    "name": "American Zoetrope",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 1649,
+            "review": "**The lust and the destruction!**\r\n\r\nI neither read the book, nor seen the original film. It was a small slice of the American civil war. But did not focused on the actual war. A fictional drama that followed an injured soldier who sheltered in a girls school was looked after well by the stayed back teachers and students. While he was recovering, fallen in love with one of the women. But everybody else too had a little crush on him since he's the one man around. That causes a bump, following a twist in the tale, all comes to halt.\r\n\r\nA simple and nice drama. Best picks for the roles. But Kristen Dunst did not sync-in with the rest of the girls. Nice clothings too, a perfect recreation of the mid 19th century. I enjoyed it, good for watching at once, but I bet those who watched both the version would go for the old one. Especially for Clint Eastwood. Though Colin Ferrell was not bad in this. Not the best film from Sofia Coppola compared with her others, definitely not worst either.\r\n\r\n**7/10**"
+        },
+        "revenue": 27397655
+    }
+]
