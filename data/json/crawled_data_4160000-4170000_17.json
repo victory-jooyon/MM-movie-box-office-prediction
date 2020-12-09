@@ -1,0 +1,768 @@
+[
+    {
+        "id": 599280,
+        "imdb": {
+            "imdb_id": "tt9876308",
+            "title": "Bar Wrestling 20: Ain't My First Rodeo Drive!",
+            "director": "\\N",
+            "release_year": "2018",
+            "main_actor": "nm9722231",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 599280,
+            "overview": "There are always companies that get attention for one thing or another. Bar Wrestling is the new company of Joey Ryan, founded last year and has so far 20 events under his belt. It stands out for being simply wrestling, in fact they still do not have titles, and as its name says, it is usually done in a bar (this is done in a theater). The fans are on the edge of the ring in a way very similar to how is Beyond Wrestling or the Irish OTT Wrestling.",
+            "budget": 8776,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/syWSSscxX429CLc54c40ygUTtRa.jpg",
+            "production_companies": [
+                {
+                    "id": 115910,
+                    "logo_path": "/urrDHmKuK94yZbS2hAtfn2351dc.png",
+                    "name": "Bar Wrestling",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 8.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 43327
+    },
+    {
+        "id": 599282,
+        "imdb": {
+            "imdb_id": "tt9876312",
+            "title": "Bar Wrestling 21: Breastlemania",
+            "director": "\\N",
+            "release_year": "2018",
+            "main_actor": "nm4964092",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 599282,
+            "overview": "A few weeks ago, Bar Wrestling announced that, in conjunction with October being Breast Cancer Awareness Month, they will be partnering with the Dr. Susan Love Research Foundation to present their upcoming event, Bar Wrestling 21: Breastlemania. View image on Twitter.",
+            "budget": 8799,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/jntkAcrjChif5DyYzGgSG19NmYb.jpg",
+            "production_companies": [
+                {
+                    "id": 115910,
+                    "logo_path": "/urrDHmKuK94yZbS2hAtfn2351dc.png",
+                    "name": "Bar Wrestling",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 9.0,
+            "vote_count": 2,
+            "review": null
+        },
+        "revenue": 44566
+    },
+    {
+        "id": 599284,
+        "imdb": {
+            "imdb_id": "tt9876352",
+            "title": "GWF Women Wrestling Revolution 10",
+            "director": "\\N",
+            "release_year": "2018",
+            "main_actor": "nm10523606",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 599284,
+            "overview": "Women's Wrestling Revolution 10. A new title holder, a new challenger and many debuts. 19:00: The action-packed finale and the great clash between the GWF World Champion and the winner of the Battlefield Match. A unique opportunity and a difficult challenge. The ultimate showdown between the biggest stars of the German Wrestling Federation.",
+            "budget": 8877,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ROFPArNDW3KEqdDRXmxbQDg8Bp.jpg",
+            "production_companies": [
+                {
+                    "id": 109041,
+                    "logo_path": "/qpOiTDvvvwgnopj3B6BUMrkt1C5.png",
+                    "name": "German Wrestling Federation",
+                    "origin_country": "DE"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                }
+            ],
+            "vote_average": 9.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 45332
+    },
+    {
+        "id": 592026,
+        "imdb": {
+            "imdb_id": "tt9876378",
+            "title": "Beyond Extreme Warfare Revenge",
+            "director": "\\N",
+            "release_year": "2018",
+            "main_actor": "nm8891976",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 592026,
+            "overview": "Cibernetico: 7 Man Army, Beyond came out on top. This time, Beyond Wrestling is hosting the festivities on December 16th with Extreme Warfare Revenge. The show will start at 5:00 PM Eastern. Will Beyond continue to rule the day, or will CHIKARA get revenge?",
+            "budget": 2889,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/8SKPhu4rpW4XwGP5pmz1xtjXP9v.jpg",
+            "production_companies": [
+                {
+                    "id": 116412,
+                    "logo_path": "/rcfY7xsRmnh2ncrILotaWsiXUnz.png",
+                    "name": "Beyond Wrestling",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 7785
+    },
+    {
+        "id": 661043,
+        "imdb": {
+            "imdb_id": "tt9877170",
+            "title": "Malang - Unleash the Madness",
+            "director": "nm1887138",
+            "release_year": "2020",
+            "main_actor": "nm3169069",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 661043,
+            "overview": "Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his way.",
+            "budget": 7907534,
+            "genres": [
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/oIeGf0gzgtPKL8HEzCJGhtvNqul.jpg",
+            "production_companies": [
+                {
+                    "id": 85334,
+                    "logo_path": null,
+                    "name": "LUV Films",
+                    "origin_country": "IN"
+                },
+                {
+                    "id": 8816,
+                    "logo_path": null,
+                    "name": "Northern Lights Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3522,
+                    "logo_path": "/d3u51JgEP5KwPfxS13ocqvtzZeX.png",
+                    "name": "T-Series",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 7.4,
+            "vote_count": 20,
+            "review": null
+        },
+        "revenue": 11136444
+    },
+    {
+        "id": 587962,
+        "imdb": {
+            "imdb_id": "tt9886928",
+            "title": "Queens Of Combat QOC 3",
+            "director": "\\N",
+            "release_year": "2014",
+            "main_actor": "nm10154137",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 587962,
+            "overview": "Queens of Combat 3 took place on Sunday November 30, 2014 in Ziggy in Winston Salem, North Carolina, Savannah Evans vs. Miss Diss Lexi Amanda Rodriguez vs. Mad Mary Dobson Sojo Jo Bolt and Dani Jacks vs. Jesse Kay and Roni Nicole with \"The Mean Mean\" Zane Riley Angelina Love against Neva Miki James against Tessa Blanchard Jessica Havok against LuFisto Luch Sisters (Mia Yim and Leva Bates) against the World's Cutest Team Team (Joey Ryan and Candace Lera).",
+            "budget": 6125,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/9izkORVpel1X35tSPNNSSMHoU5T.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 7.5,
+            "vote_count": 2,
+            "review": null
+        },
+        "revenue": 6125
+    },
+    {
+        "id": 587964,
+        "imdb": {
+            "imdb_id": "tt9886944",
+            "title": "Queens Of Combat 5",
+            "director": "\\N",
+            "release_year": "2015",
+            "main_actor": "nm9754091",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 587964,
+            "overview": "Queens of Combat 5 - Title Tournament Day 1 Mid Atlantic Sportatorium Gibsonville, NC 6/13/15 Solo Darling vs. Su Yung 1st Round Match of the Queens of Combat Title Tournament \"Hardcore\" Heather Owens vs. Chasity Taylor 1st Round Match of the Queens of Combat Title Tournament Santana Garrett vs. Mandy Leon 1st Round Match of the Queens of Combat Title Tournament Tessa Blanchard vs. Hania the Huntress 1st Round Match of the Queens of Combat Title Tournament Jenny Rose vs. Amanda Rodriguez 1st Round Match of the Queens of Combat Title Tournament Taeler Hendrix vs. Amy Love 1st Round Match of the Queens of Combat Title Tournament Jessicka Havok vs. Miss Diss Lexia 1st Round Match of the Queens of Combat Title Tournament LuFisto vs. Leva Bates 1st Round Match of the Queens of Combat Title Tournament.",
+            "budget": 6438,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/7Ii3e0K2pFbnFCXbpYzppaZMITA.jpg",
+            "production_companies": [
+                {
+                    "id": 115866,
+                    "logo_path": "/xcgTA3UcZk11PHT7Yh4XIkTHvZ5.png",
+                    "name": "Queens Of Combat",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 9.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 7666
+    },
+    {
+        "id": 587965,
+        "imdb": {
+            "imdb_id": "tt9886966",
+            "title": "Queens Of Combat QOC 6",
+            "director": "\\N",
+            "release_year": "2015",
+            "main_actor": "nm9803197",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 587965,
+            "overview": "Queens of Combat 6 - Title Day 2 Ziggy Winston-Salem, NC 6/14/15 Chania Hunter vs. Left Bates vs. \"Mad\" Mary Dobson The winner returns to the title tournament Santana Garrett - Soo Young Match of the 2nd round of the Title Queens tournament \u00bbMiss Diss Lexia, Roni Nicole and Hardcore\" Heather Owens with the Vile Handsome \"Zayn Riley vs. Amy Love, Chacy Taylor and Solo Darling Jenny Rose vs. Mandy Leon Tyler Hendricks vs. Amanda Rodriguez Match of the 2nd round of the title of the\" Kwins Battle \"tournament Match \"LuFisto\" - \"Tessa Blanchard\", match of the second rau Yes tournament \"Queens combat title\" Jessica Havok vs. \"Crazy\" Mary Dobson match of the 2nd round of the Tournament Queens Fight.",
+            "budget": 5550,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2amLihR4KusWcvm0ZDeWsWXKcg2.jpg",
+            "production_companies": [
+                {
+                    "id": 115866,
+                    "logo_path": "/xcgTA3UcZk11PHT7Yh4XIkTHvZ5.png",
+                    "name": "Queens Of Combat",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 7811
+    },
+    {
+        "id": 587982,
+        "imdb": {
+            "imdb_id": "tt9887172",
+            "title": "Queens Of Combat QOC 13",
+            "director": "\\N",
+            "release_year": "2016",
+            "main_actor": "nm1339113",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 587982,
+            "overview": "Queens of Combat presents its 13th release in front of a wild crowd at Fanfest NWA Legends in Charlotte, North Carolina, August 6, 2016. Queens of Combat 13 Ticket Hall of Hilton Charlotte University, North Carolina, August 6, 2016 Miss Miss Lexia vs. Samantha Heights Kennady Brink vs. Rachel Elaring Roni \"Big Bang\" Nicole vs. Arial Monroe Chokes Twister Daugthers (Jesse Belle and Isabella) Caramels (Savannah Evans and Devin Nicole) NO DQ - No Counts - Number of Falls Everywhere Malia Hosaka vs. Soo Young ThunderKitty vs. Neva vs. Solo Darling vs. Tessa Blanchard Queens Fight Championship Match Angelina Love vs. Tahler Hendricks (c).",
+            "budget": 8911,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/y9R3a4FDqn01wrBthUbxuW5vPNb.jpg",
+            "production_companies": [
+                {
+                    "id": 115866,
+                    "logo_path": "/xcgTA3UcZk11PHT7Yh4XIkTHvZ5.png",
+                    "name": "Queens Of Combat",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 11911
+    },
+    {
+        "id": 588011,
+        "imdb": {
+            "imdb_id": "tt9887186",
+            "title": "Queens Of Combat QOC 26 Heir To The Throne",
+            "director": "\\N",
+            "release_year": "2018",
+            "main_actor": "nm8272587",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 588011,
+            "overview": "Queens Of Combat presents the \"Heir to the Throne\" tournament to become the winner of contest No. 1. Held on September 8 at the QOC Arena in Charlotte, North Carolina. Thunderkitty opening vs Zed Zhan Savannah Evans vs Linzy Pike Chris Statlender vs Leini Luck Vanity vs Casey Catal Zoe Skye vs Brittany Blake Clara Sinclair vs Samantha Heights Angel Rose vs Madi Makks.",
+            "budget": 8222,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/sz5ZCJnnagiLssroZYYZeSYrLkg.jpg",
+            "production_companies": [
+                {
+                    "id": 115866,
+                    "logo_path": "/xcgTA3UcZk11PHT7Yh4XIkTHvZ5.png",
+                    "name": "Queens Of Combat",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 12342
+    },
+    {
+        "id": 588007,
+        "imdb": {
+            "imdb_id": "tt9887212",
+            "title": "Queens Of Combat QOC 25",
+            "director": "\\N",
+            "release_year": "2018",
+            "main_actor": "nm9663373",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 588007,
+            "overview": "Editor's Note: These are the same matches as in Queens of Combat Season 3, presented at www.WomensWrestlingNetwork.com, presented in the form of a live event * Madi Maxx Open Challenge Veda Scott vs. Samantha Heights Aja Perera vs. Rachel Bostic vs. Xia Bruxide vs. Angel Rose Hudson Envi, Nevae and Britney Blake vs. Savannah Evans, Penelope Ford and Maria Manik QOC Championship - NO DQ Su Jung (s) vs. Kimber Lee Held on May 19, 2018 in Hebron Hall in Charlotte, North Carolina.",
+            "budget": 9990,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/diTAAEci4921LeP2HYfEF7Wc41w.jpg",
+            "production_companies": [
+                {
+                    "id": 115866,
+                    "logo_path": "/xcgTA3UcZk11PHT7Yh4XIkTHvZ5.png",
+                    "name": "Queens Of Combat",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 11221
+    },
+    {
+        "id": 587983,
+        "imdb": {
+            "imdb_id": "tt9887228",
+            "title": "Queens Of Combat QOC 14",
+            "director": "\\N",
+            "release_year": "2016",
+            "main_actor": "nm5416908",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 587983,
+            "overview": "Queens of Combat 14 will be held on September 16, 2016 at Mid Atlantic Sportatorium in Gibsonville, North Carolina Ariel Monroe vs. D and D Muscle Factory Angela Rose (D'Arcy Dixon and Miss Diss Lexi) with Dastardly Handsome Zane Riley vs. Sexual Young Caramel ( Devin Nicole and Savannah Evans) Roni Nicole vs. Malia Hosaki 2 of 3 Falls Match: Kennadi Brink vs. Rachel Elaring Thundering Kitty vs. Chasiti Taylor Number 1 Opponent for the title of Queen of the Bout - Nicole Savoy vs. Su Jung.",
+            "budget": 8295,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/xV1bmpZMkZ6wDBQw92Nb5FwM16Y.jpg",
+            "production_companies": [
+                {
+                    "id": 115866,
+                    "logo_path": "/xcgTA3UcZk11PHT7Yh4XIkTHvZ5.png",
+                    "name": "Queens Of Combat",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 10999
+    },
+    {
+        "id": 587989,
+        "imdb": {
+            "imdb_id": "tt9887240",
+            "title": "Queens Of Combat QOC 16",
+            "director": "\\N",
+            "release_year": "2016",
+            "main_actor": "nm9663372",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 587989,
+            "overview": "Benton Winston-Salem Convention Center, North Carolina 11/27/16 Angel Rose vs Samantha Heights Kelly Klein and Deonna Purrazzo vs Miss Diss Lexia and Fei Jackson w / \"Sneaky Handsome\" Zayn Riley Thunderkitti vs Roni Nicole Neva vs Ariela Monoram Lera Leiceson and Solo Darling vs. Sexy Young Caramel (Devin Nicole and Savannah Evans) Laurel Von Ness vs. Rachel Elaring Jade vs. Kennady Brink Queens Queens Championship Match - Teler Hendricks \u00a9 against Soo Young.",
+            "budget": 8658,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/1FCj8ePl0lwpNwJhSJmwyl7yHBK.jpg",
+            "production_companies": [
+                {
+                    "id": 115866,
+                    "logo_path": "/xcgTA3UcZk11PHT7Yh4XIkTHvZ5.png",
+                    "name": "Queens Of Combat",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 116239,
+                    "logo_path": null,
+                    "name": "WrestleCade Entertainment",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 12311
+    },
+    {
+        "id": 587991,
+        "imdb": {
+            "imdb_id": "tt9887252",
+            "title": "Queens Of Combat QOC 17",
+            "director": "\\N",
+            "release_year": "2017",
+            "main_actor": "nm9625339",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 587991,
+            "overview": "Queens of Combat presents \"Tag Team Title Tournament Part 1\" held February 18, 2017 in Gibsonville, NC Thunderkitty vs. Daysia QoC Tag Tournament Round 1 D&D Muscle Factory w/Fitness Guru Zane Riley vs. Nevaeh and Rachel Ellering Davienne vs. Faye Jackson QoC Tag Tournament Round 1 Taeler Hendrix and Chelsea Green vs. Kiera Hogan and Aja Perera QoC Tag Tournament Round 1 The Fella Twins vs. Sexy Young Caramels Samantha Heights vs. Angel Rose Kennadi Brink vs. Britt Baker QoC Tag Tournament Round 1 The Sea Stars vs. The Lucha Sisters (Leva Bates and Jade).",
+            "budget": 7140,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/wkXaHO9GLd5MSAh1Jq5z9fDaFAY.jpg",
+            "production_companies": [
+                {
+                    "id": 115866,
+                    "logo_path": "/xcgTA3UcZk11PHT7Yh4XIkTHvZ5.png",
+                    "name": "Queens Of Combat",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 11232
+    },
+    {
+        "id": 587994,
+        "imdb": {
+            "imdb_id": "tt9887276",
+            "title": "Queens Of Combat QOC 19",
+            "director": "\\N",
+            "release_year": "2017",
+            "main_actor": "nm8272587",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 587994,
+            "overview": "QUEENS OF COMBAT 19 will once again delight us with its show, an invitation to stars from different federations and countries of the show will be held at the Benton Convention Center Winston-Salem, NC 11/26/17 Do not miss the main battle Su Yung Mickie Knuckles vs. Samantha Heights.",
+            "budget": 6682,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/kQvXtvZdVQszAEtUgDUhY3b0U1A.jpg",
+            "production_companies": [
+                {
+                    "id": 115866,
+                    "logo_path": "/xcgTA3UcZk11PHT7Yh4XIkTHvZ5.png",
+                    "name": "Queens Of Combat",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 2,
+            "review": null
+        },
+        "revenue": 9445
+    },
+    {
+        "id": 588003,
+        "imdb": {
+            "imdb_id": "tt9887296",
+            "title": "Queens Of Combat QOC 23",
+            "director": "\\N",
+            "release_year": "2018",
+            "main_actor": "nm8598467",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 588003,
+            "overview": "Filmed at the storied Mid-AtlanticSportatorium in Gibsonville, NC on the 24th of March, 2018. Madi Maxx vs. Renee Michelle Kiera Hogan vs. Isla Dawn vs. Veda Scott Nicole Pain vs. Leyla Hirsch Samantha Heights vs. Angel Rose The Riley Family (Maria Manic, Penelope Ford, Savannah Evans w/ Zane Riley) vs. Thick and Juicy (Willow Nightingale and Faye Jackson) and Jordynne Grace QOC Championship Cage Match Su Yung (c) vs. Hudson Envy.",
+            "budget": 11475,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/qzAyrspQxtjrPKRkkhR7wdLX91x.jpg",
+            "production_companies": [
+                {
+                    "id": 115866,
+                    "logo_path": "/xcgTA3UcZk11PHT7Yh4XIkTHvZ5.png",
+                    "name": "Queens Of Combat",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 11475
+    },
+    {
+        "id": 588005,
+        "imdb": {
+            "imdb_id": "tt9887316",
+            "title": "Queens Of Combat QOC 24",
+            "director": "\\N",
+            "release_year": "2018",
+            "main_actor": "nm4964092",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 588005,
+            "overview": "Editor's Note: These are the same matches as Queens of Combat Season 3 featured on www.WomensWrestlingNetwork.com presented in live event form* Madi Maxx vs. Samantha Heights Veda Scott vs. Brittany Blake Rachel Bostic vs. Aja Perera Savannah Evans vs. Hudson Envy Xia Brookside vs. Angel Rose QOC Tag Team Championship Ruthless Ambition (c) (Maria Manic and Penelope Ford) vs. Killer Death Machines (Neveah and Jessicka Havok).",
+            "budget": 6975,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4Ci8dUDAkaXx6PcgKRCc50Hu0rP.jpg",
+            "production_companies": [
+                {
+                    "id": 115866,
+                    "logo_path": "/xcgTA3UcZk11PHT7Yh4XIkTHvZ5.png",
+                    "name": "Queens Of Combat",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 8777
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "id": 533642,
+        "imdb": {
+            "imdb_id": "tt8663516",
+            "title": "Child's Play",
+            "director": "nm2209002",
+            "release_year": "2019",
+            "main_actor": "nm0001513",
+            "main_genre": "Horror"
+        },
+        "tmdb": {
+            "tmdb_id": 533642,
+            "overview": "Karen, a single mother, gifts her son Andy a Buddi doll for his birthday, unaware of its more sinister nature. A contemporary re-imagining of the 1988 horror classic.",
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/rpS7ROczWulqfaXG2klYapULXKm.jpg",
+            "production_companies": [
+                {
+                    "id": 87671,
+                    "logo_path": "/kEEGB5Z2XLYeR3AMt3Qds7vMnvM.png",
+                    "name": "KatzSmith Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 21,
+                    "logo_path": "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png",
+                    "name": "Metro-Goldwyn-Mayer",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 85465,
+                    "logo_path": null,
+                    "name": "Oddfellows Entertainment",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 41,
+                    "logo_path": "/AuAIlCWBrbhbUFFrJ6M9E3ihBoj.png",
+                    "name": "Orion Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 1183,
+            "review": "I'm not a fan of remakes but I will say and the 1988 Child's Play is great, but this updated version actually was not at all bad. Unlike The Hustle which was almost a scene-for-scene remake of Dirty Rotten Scoundrels, just gender-swapping the main characters, this one has its own 21st century spin and honestly, it mostly worked. The dark humor and horror really blended well with director Lars Klevberg avoiding the tired jump scares.\r\n\r\nAn added bonus, Mark Hamill made for a great voice as Chucky, though certainly Brad Dourif is still the best. Also doesn't hurt to have the lovely Aubrey Plaza, but does make me feel old seeing her play a mom... **3.75/5**"
+        },
+        "revenue": 44902237
+    }
+]

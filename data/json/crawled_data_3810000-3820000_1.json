@@ -1,0 +1,63 @@
+[
+    {
+        "id": 535292,
+        "imdb": {
+            "imdb_id": "tt8688634",
+            "title": "21 Bridges",
+            "director": "nm1047532",
+            "release_year": "2019",
+            "main_actor": "nm1569276",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 535292,
+            "overview": "An embattled NYPD detective, is thrust into a citywide manhunt for a pair of cop killers after uncovering a massive and unexpected conspiracy. As the night unfolds, lines become blurred on who he is pursuing, and who is in pursuit of him.",
+            "budget": 33000000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/bSN9SysoRBMwJKNkfOlQlCw2YQO.jpg",
+            "production_companies": [
+                {
+                    "id": 106544,
+                    "logo_path": null,
+                    "name": "AGBO",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 36209,
+                    "logo_path": "/doQEl9S1rg0l0NEtpkxf0N46OHQ.png",
+                    "name": "MWM Studios",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3393,
+                    "logo_path": null,
+                    "name": "Huayi Brothers",
+                    "origin_country": "HK"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 1050,
+            "review": "Andre Davis (Chadwick Boseman) is the NYPD detective tasked with the case of two criminals who kill several police officers during a drug heist. The deaths enrage an entire precinct, and the captain (J.K. Simmons) now has a bunch of trigger-happy cops thirsting for revenge. He decides to pair Andre with a DEA agent (Sienna Miller). But the incident also uncovers a conspiracy, and Andre doesn\u2019t know whom to trust. He has just one night to solve the case and catch the killers before they escape the city of Manhattan.\r\n\r\nChadwick Boseman\u2019s rendition of Andre Davis is intense, and the actor has a commanding on-screen presence as well. He continues to display a lot of range in his acting repertoire to prove, yet again, why he deserves to be a leading man. J.K. Simmons is perfectly cast as Captain McKenna, who makes you really care about why the police deaths matter so much to him and the rest of the cops. Sienna Miller is also impressive in a restrained performance as the DEA agent Frankie Burns. On the other side of the law, Taylor Kitsch and Stephan James make a strong pair. Kitsch plays Raymond Jackson, a sharpshooter who knows how to dispatch whoever is in his sights, and James plays Michael Trujillo, the brains of the operation, who needs to figure how to escape without getting arrested.\r\n\r\nAlthough the plot is neither new nor inventive in any way, it has an interesting setup with perspectives from both sides of the law. Director Brian Kirk shoots the film, particularly the action, well enough to keep the pace engaging throughout. The screenplay has the potential to explore different motivations, but the film barely scratches the surface of its subject matter. If you\u2019re familiar with the crime thriller genre, the chances are you\u2019ll predict the outcome because we\u2019ve seen this story play out many times before. Despite that, you\u2019ll still enjoy \u201821 Bridges\u2019, because the action combined with its competent cast and their performances make it highly watchable."
+        },
+        "revenue": 47088457
+    }
+]
