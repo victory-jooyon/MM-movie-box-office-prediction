@@ -1,0 +1,212 @@
+[
+    {
+        "id": 743974,
+        "imdb": {
+            "imdb_id": "tt8881326",
+            "title": "Jatrai Jatra",
+            "director": "nm8584662",
+            "release_year": "2019",
+            "main_actor": "nm6674416",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 743974,
+            "overview": "Jatrai Jatra is a Nepalese comedy drama film released in 2019 and is the sequel to the 2016 film Jatra. It is directed by Pradip Bhattarai. In the first film, the three main characters get arrested by the police and now in the sequel, they are released. The film's story revolves around them finding a bag of gold and its consequences.",
+            "budget": 84600,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/7dpNcBCFPuC7YX1uSLzqVbwXv9Q.jpg",
+            "production_companies": [
+                {
+                    "id": 140289,
+                    "logo_path": null,
+                    "name": "Shatkon Arts",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [],
+            "vote_average": 7.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 920000
+    },
+    {
+        "id": 630858,
+        "imdb": {
+            "imdb_id": "tt8902714",
+            "title": "The Reflection",
+            "director": "nm10076465",
+            "release_year": "2018",
+            "main_actor": "nm10076466",
+            "main_genre": "Horror"
+        },
+        "tmdb": {
+            "tmdb_id": 630858,
+            "overview": "A social worker recounts the case of Ella Jackson, a girl who sees a man standing behind her in the mirror",
+            "budget": 20,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/wnpjOC6EK6kTvVnmKu7S8RZbM9L.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AU",
+                    "name": "Australia"
+                }
+            ],
+            "vote_average": 8.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 1500
+    },
+    {
+        "id": 534313,
+        "imdb": {
+            "imdb_id": "tt8925540",
+            "title": "Racetime",
+            "director": "nm1902285",
+            "release_year": "2018",
+            "main_actor": "nm0050468",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 534313,
+            "overview": "A spectacular sled race through the village. Frankie-Four-Eyes and his team, including Sophie as the driver, take on the newcomers: the mysterious and conceited Zac and his athletic cousin Charlie.",
+            "budget": 3000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/iUlP6aUCyGh3aEEU0DmnFaJlAOg.jpg",
+            "production_companies": [
+                {
+                    "id": 20182,
+                    "logo_path": "/8q7vbukhNuX9a9EE7AqzeWZEmll.png",
+                    "name": "CarpeDiem Film & TV",
+                    "origin_country": "CA"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                }
+            ],
+            "vote_average": 5.3,
+            "vote_count": 17,
+            "review": null
+        },
+        "revenue": 12000000
+    },
+    {
+        "id": 546554,
+        "imdb": {
+            "imdb_id": "tt8946378",
+            "title": "Knives Out",
+            "director": "nm0426059",
+            "release_year": "2019",
+            "main_actor": "nm0185819",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 546554,
+            "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+            "budget": 40000000,
+            "genres": [
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+            "production_companies": [
+                {
+                    "id": 1632,
+                    "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                    "name": "Lionsgate",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2531,
+                    "logo_path": "/pC2iDCDCvV85vOBP7a5Ukxuc0Du.png",
+                    "name": "MRC",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 37871,
+                    "logo_path": null,
+                    "name": "T-Street Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 129014,
+                    "logo_path": null,
+                    "name": "Leonine",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.9,
+            "vote_count": 6164,
+            "review": "This is a crime thriller that\u2019s been a long time in the making. Mystery fans rejoice: \u2018Knives Out\u2019 is an impeccable cinematic achievement, laced with sardonic wit, division and conflict, and of course a perplexing puzzle. This is easily one of the most fun films of 2019 - it\u2019s both a brilliant piece of entertainment and beautifully crafted enigma. Sit back, relax, and try to crack the code.\r\n- Charlie David Page\r\n\r\nRead Charlie's full article...\r\nhttps://www.maketheswitch.com.au/article/review-knives-out-a-whodunnit-worthy-of-agatha-christies-hercule-poirot"
+        },
+        "revenue": 309232797
+    }
+]

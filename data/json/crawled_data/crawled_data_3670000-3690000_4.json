@@ -1,0 +1,169 @@
+[
+    {
+        "id": 523931,
+        "imdb": {
+            "imdb_id": "tt8235660",
+            "title": "Megalodon",
+            "director": "nm2406836",
+            "release_year": "2018",
+            "main_actor": "nm0000514",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 523931,
+            "overview": "A military vessel on the search for an unidentified submersible finds themselves face to face with a giant shark, forced to use only what they have on board to defend themselves from the monstrous beast.",
+            "budget": 130178,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 10770,
+                    "name": "TV Movie"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/hES2eVAbVt08JJTqgu3jmI34Yxx.jpg",
+            "production_companies": [
+                {
+                    "id": 1311,
+                    "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+                    "name": "The Asylum",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 166,
+            "review": null
+        },
+        "revenue": 5303
+    },
+    {
+        "id": 514847,
+        "imdb": {
+            "imdb_id": "tt8244784",
+            "title": "The Hunt",
+            "director": "nm0957505",
+            "release_year": "2020",
+            "main_actor": "nm2365811",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 514847,
+            "overview": "Twelve strangers wake up in a clearing. They don't know where they are\u2014or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport. But their master plan is about to be derailed when one of the hunted turns the tables on her pursuers.",
+            "budget": 14000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/fHCMPd1w8wcJmrplR3ebCl6nfFI.jpg",
+            "production_companies": [
+                {
+                    "id": 3172,
+                    "logo_path": "/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+                    "name": "Blumhouse Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 130530,
+                    "logo_path": null,
+                    "name": "White Rabbit Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 1524,
+            "review": "Liberal snooty types lashing out at conservative cronies and their right-wing leanings should have made for some enjoyably edgy satire, but 'The Hunt' is merely a by-the-numbers comedy-horror-suspense thriller that has a few punchy moments. But, if production company Blumhouse wants to remake a bunch of 90s Jean-Claude Van Damme action movies with Betty Gilpin in the lead role, I think I'd be down with that. I'd watch them, not in the theatres obviously, but late at night after a few beers.\r\n- Jake Watt\r\n\r\nRead Jake's full article...\r\nhttps://www.maketheswitch.com.au/article/review-the-hunt-blunt-lazy-and-undeserving-of-controversy"
+        },
+        "revenue": 8621288
+    },
+    {
+        "id": 696430,
+        "imdb": {
+            "imdb_id": "tt8259442",
+            "title": "Arrival",
+            "director": "nm9762310",
+            "release_year": "\\N",
+            "main_actor": "nm9762311",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 696430,
+            "overview": "After an alien escapes from a government facility, a town is sent into chaos trying to capture it.",
+            "budget": 10000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/56PZVQtSvrzdGCHv6AKHLljk7aR.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 10
+    },
+    {
+        "id": 654223,
+        "imdb": {
+            "imdb_id": "tt8262118",
+            "title": "Antep Fistigi",
+            "director": "nm1754495",
+            "release_year": "2018",
+            "main_actor": "nm10585720",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 654223,
+            "overview": "An epic adventure that takes place in Gaziantep with Ivana Sert.",
+            "budget": 2,
+            "genres": [],
+            "poster": "https://image.tmdb.org/t/p/original/kKAGP8DGdDSO8OEt1KpERfwv2Pp.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 10
+    }
+]
