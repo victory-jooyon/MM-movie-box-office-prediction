@@ -1,0 +1,777 @@
+[
+    {
+        "id": 332830,
+        "imdb": {
+            "imdb_id": "tt4557014",
+            "title": "Oru Vadakkan Selfie",
+            "director": "nm7222219",
+            "release_year": "2015",
+            "main_actor": "nm4028885",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 332830,
+            "overview": "Umesh, a loafer, leaves his home town and goes to Chennai to become a film-maker when his father asks him to manage their grocery store. A selfie that he takes in Chennai changes his life forever.",
+            "budget": 670000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/jkVR9ufZELPcgWViPGJ6D0Y5ss8.jpg",
+            "production_companies": [
+                {
+                    "id": 79808,
+                    "logo_path": "/9US6ZqnCrAH3sRAKTj2l8jiDixH.png",
+                    "name": "Cast N' Crew",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 6.2,
+            "vote_count": 26,
+            "review": null
+        },
+        "revenue": 4700000
+    },
+    {
+        "id": 347375,
+        "imdb": {
+            "imdb_id": "tt4560436",
+            "title": "Mile 22",
+            "director": "nm0000916",
+            "release_year": "2018",
+            "main_actor": "nm0000242",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 347375,
+            "overview": "An elite group of American operatives, aided by a top-secret tactical command team, must transport an asset who holds life-threatening information to an extraction point 22 miles away through the hostile streets of an Asian city.",
+            "budget": 35000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg",
+            "production_companies": [
+                {
+                    "id": 47729,
+                    "logo_path": "/5NRpQ7xxmODXAjt2pRWUFMLVzvP.png",
+                    "name": "STX Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 8537,
+                    "logo_path": null,
+                    "name": "Closest to the Hole Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 20153,
+                    "logo_path": null,
+                    "name": "Film 44",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 103673,
+                    "logo_path": null,
+                    "name": "The Hideaway Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CN",
+                    "name": "China"
+                },
+                {
+                    "iso_3166_1": "CO",
+                    "name": "Colombia"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 1481,
+            "review": "Whenever Iko Uwais is on screen kickin' ass, Mile 22 has something to offer you. All other moments of the movie are skippable at best. \r\n\r\n_Final rating:\u2605\u2605 - Had some things that appeal to me, but a poor finished product._"
+        },
+        "revenue": 66308758
+    },
+    {
+        "id": 337401,
+        "imdb": {
+            "imdb_id": "tt4566758",
+            "title": "Mulan",
+            "director": "nm0138927",
+            "release_year": "2020",
+            "main_actor": "nm1703577",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 337401,
+            "overview": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
+            "budget": 200000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+            "production_companies": [
+                {
+                    "id": 2,
+                    "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+                    "name": "Walt Disney Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 14714,
+                    "logo_path": "/oQHaOZEnPzlJACVTisV0FICrS82.png",
+                    "name": "China Film Group Corporation",
+                    "origin_country": "CN"
+                },
+                {
+                    "id": 103698,
+                    "logo_path": "/qS01bSMe274ecTdrgyO3BBvzfKK.png",
+                    "name": "Good Fear",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 89254,
+                    "logo_path": null,
+                    "name": "Jason T. Reed Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CN",
+                    "name": "China"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.2,
+            "vote_count": 3284,
+            "review": "If you enjoy reading my Spoiler-Free reviews, please follow my blog @\r\nhttps://www.msbreviews.com\r\n\r\nAs you might now, this remake is one of my most anticipated movies of 2020 (list here). I've at least \"liked\" almost every remake Disney has delivered so far, so I was incredibly excited that 1998's Mulan was getting the same treatment. Niki Caro made it clear this would be an entirely different version of the story we all know and love. A more realistic take on the Chinese tale, one that removes all songs and fan-favorite characters like Mushu, which instantly impacted expectations, varying tremendously from person to person. People who would love a remake quite similar to the original will enter the film already slightly discouraged. However, to everyone who complained about Disney copying their original IP, Mulan might be their best chance to like a remake from the studio.\r\n\r\nIn my opinion, a remake should have a bit of both. It must keep the original's essence and message while delivering something that distinguishes it from the former. Any remake must always prove the reasons behind its existence. It must have something that makes the viewers think: \"I like this part that's not in the original\". Aladdin has a new arc given to Jasmine. Beauty and the Beast provides Beast with a better-developed storyline. Even The Lion King, a remake that convinced many people to call it a shot-for-shot (it isn't), presents a groundbreaking visual experience that's incomparable to the original. Therefore, I was genuinely hyped for Mulan and what Niki Caro could bring with her more pragmatic cut...\r\n\r\nI can't deny it: I feel extremely disappointed. In my review of the original movie, I mention how epic and cinematic it feels. It was one of the aspects I looked forward to the most in this new version. Despite the beautiful set design and some painting-like shots, this is the first time a Disney's live-action remake loses to its original regarding its visuals. The 2D animation from more than twenty years ago feels superior in every single aspect. There's only one shot in the entire remake that I would put in the original, and I bet it would look and feel a lot more emotionally significant. The action sequences are unimaginative and incredibly disjointed. Except for a few great war moments, most action scenes are packed with excessive CGI, a badly employed HFR (high frame rate), and overediting.\r\n\r\nIn fact, the editing (David Coulson) is weirdly overworked throughout the entire runtime, cutting too much and omitting sequences that were supposed to significantly impact the narrative. From character-defining moments to simple connections between scenes, it feels like the film is hiding something. I constantly needed to rely on my knowledge of the original to remember why certain moments are meaningful to a character or to the story itself because this remake straight-up removes these moments without replacing them with something else. Even in chronological terms, it's clumsily put together, jumping from location to location without actually showing the characters moving from one place to another.\r\n\r\nFinally, as my last remark on the technical aspects, Harry Gregson-Williams' score is partially also a letdown. Like the rest of the movie, there are some nice touches and lovely homages to the songs everyone cherishes, especially Reflection. I had already mentalized myself to ignore the absence of songs because I believed Harry would find a way to replace them with a similarly grand score that I would definitely enjoy. However, Mulan's score fails not only to elevate a single battle sequence but also to deliver that cinematic atmosphere that I was looking forward to so much. I didn't get chills during the entire film. It didn't transform any big character moments. Maybe watching it on IMAX instead of at home might improve my opinion, but I doubt that.\r\n\r\nStory-wise, it's a mixed bag for me. Niki Caro promised a more realistic take, totally different from the original, and she undoubtedly accomplished that. This is the furthest from the original any Disney remake has been, by far. From the replacement of characters to an overall change to the main narrative, Mulan is more faithful to the original Chinese tale than the 1998's flick, but that doesn't mean it's better, much on the contrary. The essence and message are there but told through a distinct perspective, which some people will find hard to accept, especially hardcore fans of the original movie. However, I do believe that Hua Mulan still carries the characteristics that made me care about her.\r\n\r\nHer courage and bravery to go to war in order to save her father from certain death. Her love and devotion to her family, who she wants to honor. Hua Mulan doesn't want to just be the wife of some random man nor be imprisoned by dated stereotypes. This is all in the remake but told through the lenses of a protagonist who already has everything she needs to lead a nation. This is the main difference character-wise, but one that doesn't affect the nature of the original. However, it impacts the remake itself. While all of this sounds amazing, Mulan sort of contradicts itself by making her main character feel unique and different from everyone else, distancing her more from people than actually embracing her.\r\n\r\nLike I already mentioned above, this is an entirely altered version of the story everyone knows. I do welcome every change made, including the removal of Mushu, Cri-Kee, and all of the singing. However, if something's removed, something else has to replace it in some shape or form. Once again, I have mixed feelings. Some additions, like the introduction of Chi and the witch Xian Lang (Gong Li), are refreshing but poorly developed throughout the runtime. The vital energy force is connected to my issue with the \"be yourself\" message, while the character not only follows a predictable arc, but it diminishes Bori Khan's (Jason Scott Lee) menacing presence.\r\n\r\nThe ending feels remarkably underwhelming as well. Not only the climactic fight between Hua Mulan and Bori Khan fails to live up to expectations, but it's executed in a visually disheartening fashion. I expected this remake to feel grand, magnificent, epic, and cinematic, just like its original or even better. It's far from that. The acting could also be better. Liu Yifei is fantastic as Hua Mulan, Yoson An offers a subtle yet efficient interpretation of Chen Honghui, and the actors who portray Yao (Chen Tang), Ling (Jimmy Wong), and Chien-Po (Doua Moua) are also amusing. However, Donnie Yeng as Commander Tung and Jet Li as The Emperor are embarrassingly bland, while Jason Scott Lee is visually perfect casting as the main villain, but he's not able to shine.\r\n\r\nIn the end, Mulan is the most disappointing remake Disney has made so far and by far. Even though Niki Caro delivers the realistic, distinct take that was promised, its execution feels inferior to the original animated film in every single way. Technically and visually, it's the first live-action remake from the respective studio that loses in almost every aspect to the 2D animation from more than twenty years ago. The 1998's movie is far more epic and cinematic than its remake. The disjointed editing is overworked to the point of omitting and skipping through character-defining moments. The action scenes are packed with unnecessary CGI that takes away from the war set pieces, which also look small in scale. The musical score isn't able to replace the songs from the original, overflowing the film with a weirdly empty feeling. Despite Liu Yifei delivering a good performance as the protagonist as well as a few of her colleagues, the acting is pretty mediocre overall. Story-wise, it's a mixed bag. It's an undoubtedly unique version, the furthest that a Disney's remake has ever been from its original, which will instantly upset some and please others. I praise the courage and bravery in producing such a different version. There are dozens of new additions that I sincerely appreciate, but their execution lacks emotional impact, ultimately being decisions inferior to the ones of the original. The message and essence of the original are still present through another perspective, which is the best compliment I can give to an otherwise quite disappointing remake...\r\n\r\nRating: C-"
+        },
+        "revenue": 57000000
+    },
+    {
+        "id": 388399,
+        "imdb": {
+            "imdb_id": "tt4572514",
+            "title": "Patriots Day",
+            "director": "nm0000916",
+            "release_year": "2016",
+            "main_actor": "nm0000242",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 388399,
+            "overview": "In the aftermath of an unspeakable act of terror, Police Sergeant Tommy Saunders joins courageous survivors, first responders and investigators in a race against the clock to hunt down the Boston Marathon bombers before they strike again.",
+            "budget": 45000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/mIDxsJTrOC7NhgOo3GziiHyKfsQ.jpg",
+            "production_companies": [
+                {
+                    "id": 72441,
+                    "logo_path": null,
+                    "name": "TIK Films",
+                    "origin_country": "CN"
+                },
+                {
+                    "id": 5490,
+                    "logo_path": "/xuJSR4dWsvkE194aemIJwflyNF2.png",
+                    "name": "CBS Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 8537,
+                    "logo_path": null,
+                    "name": "Closest to the Hole Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 13778,
+                    "logo_path": null,
+                    "name": "Bluegrass Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 91797,
+                    "logo_path": null,
+                    "name": "Hutch Parker Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 8536,
+                    "logo_path": null,
+                    "name": "Leverage",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "HK",
+                    "name": "Hong Kong"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.0,
+            "vote_count": 1809,
+            "review": "**Terrorism has a religion and we all know which one!**\r\n\r\nOne of the best films recently I have seen. It was based on the real. About the 2013 Boston marathon bombing. This film was an eye opener for me. I mean all I knew was the marathon bombing, but I came to know that was only half, the other half was even more serious events that stretched for like a week after the original event.\r\n\r\nThe best part of the film was, there were no solo heroes in this story. Everybody contributed in some way to fight against the evil. The screenplay was shared by all the great actors, even small role ones equally. I loved how it all went on, as a team from different forces, but tackled the situation by joining the hands. I don't know it was only the film, but very impressive. That's patriotism!\r\n\r\nIn the opening, you could see different people from different places of Boston preparing for the big event. And then they all end up in the same place where a series of explosion goes up. Quickly the security agencies come together and investigate it. With a small clue, kicks starts the manhunt. This is the part I loved it. Hunting pisslam pigs are always so pleasure to watch.\r\n\r\nSuspense, thriller, the story was well paced and took forward with a wonderful ending. Awesome direction. Another hit in a single year alongside 'Deepwater Horizon'. Interesting, Wahlberg involved in both these films. I've also heard that the two screenplays was merged to make a single film. One was a drama and the other one was an action packed story. That's why it was well balanced between everything. From individual's story to together in the events. A must see film.\r\n\r\n_8.5/10_"
+        },
+        "revenue": 50548152
+    },
+    {
+        "id": 382614,
+        "imdb": {
+            "imdb_id": "tt4572792",
+            "title": "The Book of Henry",
+            "director": "nm1119880",
+            "release_year": "2017",
+            "main_actor": "nm0915208",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 382614,
+            "overview": "Susan, a single mother of two, works as a waitress in a small town. Her son, Henry, is an 11-year-old genius who not only manages the family finances but acts as emotional support for his mother and younger brother. When Henry discovers that the girl next door has a terrible secret, he implores Susan to take matters into her own hands.",
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg",
+            "production_companies": [
+                {
+                    "id": 737,
+                    "logo_path": "/dK1GZ1u4our8sJW0Sts1JHeNSLn.png",
+                    "name": "Sidney Kimmel Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 10138,
+                    "logo_path": "/r67HWrAbCShfwWREWo2MlXsSK3B.png",
+                    "name": "Double Nickel Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.5,
+            "vote_count": 878,
+            "review": null
+        },
+        "revenue": 4596705
+    },
+    {
+        "id": 347882,
+        "imdb": {
+            "imdb_id": "tt4573516",
+            "title": "Sleight",
+            "director": "nm2300570",
+            "release_year": "2016",
+            "main_actor": "nm3632976",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 347882,
+            "overview": "A young street magician is left to take care of his little sister after his mother's passing and turns to drug dealing in the Los Angeles party scene to keep a roof over their heads. When he gets into trouble with his supplier, his sister is kidnapped and he is forced to rely on both his sleight of hand and brilliant mind to save her.",
+            "budget": 250000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/eLk7yoWxK4S0xkV24YWoPKbIsbf.jpg",
+            "production_companies": [
+                {
+                    "id": 57537,
+                    "logo_path": "/xDWgR9hco6pRM69A4djcwaSpKHz.png",
+                    "name": "Diablo Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3172,
+                    "logo_path": "/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+                    "name": "Blumhouse Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.4,
+            "vote_count": 428,
+            "review": "Almost everything that happens in _Sleight_ made me think \"Oh, this is just like where this happens in that other, better, movie\". But the fact that it's original IP overall is refreshing, and just because someone else did it **better**, doesn't mean _Sleight_ doesn't do it very well.\r\n\r\n_Final rating:\u2605\u2605\u2605 - I liked it. Would personally recommend you give it a go._"
+        },
+        "revenue": 3914430
+    },
+    {
+        "id": 420814,
+        "imdb": {
+            "imdb_id": "tt4575576",
+            "title": "Christopher Robin",
+            "director": "nm0286975",
+            "release_year": "2018",
+            "main_actor": "nm0000191",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 420814,
+            "overview": "Christopher Robin, the boy who had countless adventures in the Hundred Acre Wood, has grown up and lost his way. Now it\u2019s up to his spirited and loveable stuffed animals, Winnie The Pooh, Tigger, Piglet, and the rest of the gang, to rekindle their friendship and remind him of endless days of childlike wonder and make-believe, when doing nothing was the very best something.",
+            "budget": 75000000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/fQYgljzKgkeGEukezaJsMWp7oq1.jpg",
+            "production_companies": [
+                {
+                    "id": 2,
+                    "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+                    "name": "Walt Disney Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 23644,
+                    "logo_path": null,
+                    "name": "2DUX\u00b2",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.4,
+            "vote_count": 1955,
+            "review": "Not only was that **so fuckin' cute**, I also absolutely support its Oscar nomination for visual effects. Owl and Rabbit were less stellar, but all of the stuffed animals, most especially Whinnie the Pooh, looked **incredible**.\r\n\r\n_Final rating:\u2605\u2605\u2605 - I liked it. Would personally recommend you give it a go._"
+        },
+        "revenue": 99138899
+    },
+    {
+        "id": 390051,
+        "imdb": {
+            "imdb_id": "tt4581576",
+            "title": "Aftermath",
+            "director": "nm1714255",
+            "release_year": "2017",
+            "main_actor": "nm0000216",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 390051,
+            "overview": "A fatal plane crash changes the lives of Roman and Jake forever. Roman loses his wife and daughter in the accident, while Jake loses his mind\u2014as he happens to be the air traffic controller who failed to avert the nightmare. Rage and revenge engulfs Roman and Jake finds himself swamped with guilt and regret.",
+            "budget": 10500000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/25oWTCGqIik4gUTMidx3L8DI4Bt.jpg",
+            "production_companies": [
+                {
+                    "id": 290,
+                    "logo_path": "/Q8mw2AOQQc8Qg0uNwLWq86DVZv.png",
+                    "name": "Ingenious Media",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 7503,
+                    "logo_path": "/3K8wbNkTn7O4wX89ucnp1ZYR1XF.png",
+                    "name": "Protozoa Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 36109,
+                    "logo_path": "/wca0Jcidf2N1KAPicYMjGoKOmYu.png",
+                    "name": "The Fyzz",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 55528,
+                    "logo_path": null,
+                    "name": "Oak Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 81755,
+                    "logo_path": null,
+                    "name": "Pacific View Management",
+                    "origin_country": ""
+                },
+                {
+                    "id": 81756,
+                    "logo_path": null,
+                    "name": "Union Editorial",
+                    "origin_country": ""
+                },
+                {
+                    "id": 86895,
+                    "logo_path": null,
+                    "name": "Hat and Coat Productions",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 10405,
+                    "logo_path": null,
+                    "name": "EFO Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.7,
+            "vote_count": 606,
+            "review": "Between this and _Maggie_, Arnold Schwarzenegger has proven that he's more than just the '80s muscle man we had always given him credit for. Aftermath may not be great, but there's some emotion in there, a relatively satisfying payoff, and as a vehicle for Arnie's dramatic chops, it works fine.\r\n\r\n_Final rating:\u2605\u2605\u00bd - Had a lot that appealed to me, didn\u2019t quite work as a whole._"
+        },
+        "revenue": 261465
+    },
+    {
+        "id": 664834,
+        "imdb": {
+            "imdb_id": "tt4590218",
+            "title": "Cumbia la reina",
+            "director": "nm6695792",
+            "release_year": "2015",
+            "main_actor": "nm7249181",
+            "main_genre": "Documentary"
+        },
+        "tmdb": {
+            "tmdb_id": 664834,
+            "overview": "A documentary about cumbia from Argentina, from early years to recent years.",
+            "budget": 100000,
+            "genres": [
+                {
+                    "id": 99,
+                    "name": "Documentary"
+                },
+                {
+                    "id": 10402,
+                    "name": "Music"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/h1tJKIQtEPcazCH88NHmKicRDJu.jpg",
+            "production_companies": [
+                {
+                    "id": 127937,
+                    "logo_path": null,
+                    "name": "La Granja Cine",
+                    "origin_country": "AR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AR",
+                    "name": "Argentina"
+                }
+            ],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 100000
+    },
+    {
+        "id": 381902,
+        "imdb": {
+            "imdb_id": "tt4591310",
+            "title": "Xi you ji zhi: Sun Wukong san da Baigu Jing",
+            "director": "nm1110912",
+            "release_year": "2016",
+            "main_actor": "nm0477209",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 381902,
+            "overview": "Taking place 500 years after the Havoc in Heaven, the Tang Priest is appointed by Buddha to go to the West to fetch the sacred scriptures, only to accidentally free the Monkey King. With Lady White (Gong Li) aiming to break up the team assembled to defeat her, the Monkey King must fight in order to save his world!",
+            "budget": 68490000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/kcV6J5gD4znVLXMQ04CVLdkA2Gb.jpg",
+            "production_companies": [
+                {
+                    "id": 9175,
+                    "logo_path": null,
+                    "name": "Filmko Pictures",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "HK",
+                    "name": "Hong Kong"
+                },
+                {
+                    "iso_3166_1": "CN",
+                    "name": "China"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 56,
+            "review": null
+        },
+        "revenue": 193677158
+    },
+    {
+        "id": 691633,
+        "imdb": {
+            "imdb_id": "tt4597454",
+            "title": "Rana Vikrama",
+            "director": "nm5824384",
+            "release_year": "2015",
+            "main_actor": "nm2500160",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 691633,
+            "overview": "Rana Vikrama is a action entertainer movie in which, Puneeth Rajkumar will be seen as a powerful police cop.",
+            "budget": 1974853,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/A09Fg5tYXlA0biE2JkAf5JHbaLV.jpg",
+            "production_companies": [
+                {
+                    "id": 17144,
+                    "logo_path": null,
+                    "name": "Jayanna Combines",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [],
+            "vote_average": 5.0,
+            "vote_count": 2,
+            "review": null
+        },
+        "revenue": 3554736
+    },
+    {
+        "id": 550818,
+        "imdb": {
+            "imdb_id": "tt4600396",
+            "title": "Soap",
+            "director": "nm5889740",
+            "release_year": "2015",
+            "main_actor": "nm2484648",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 550818,
+            "overview": "When Sami breaks into a house, he is disturbed by Sophia, the owner of the property, who lures the hot criminal into her bathtub.",
+            "budget": 10000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/3RJUdQkDnI75cEaGfDtC8EVAau4.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 1
+    },
+    {
+        "id": 354556,
+        "imdb": {
+            "imdb_id": "tt4600952",
+            "title": "Zashchitniki",
+            "director": "nm3550361",
+            "release_year": "2017",
+            "main_actor": "nm3039952",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 354556,
+            "overview": "During the Cold War, an organization called \"Patriot\" created a super-hero squad, which includes members of multiple soviet republics. For years, the heroes had to hide their identities, but in hard times they must show themselves again.",
+            "budget": 5400000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/qQB4RKFeUMqLBiMdwMbpgdePBeO.jpg",
+            "production_companies": [
+                {
+                    "id": 94075,
+                    "logo_path": "/nkw80ACY2dt8zl3G8VsPdpUOICj.png",
+                    "name": "Renovatio Entertainment",
+                    "origin_country": "RU"
+                },
+                {
+                    "id": 9340,
+                    "logo_path": "/Pih8qdFRi0R21REdsb9NtaCdex.png",
+                    "name": "Enjoy Movies",
+                    "origin_country": "RU"
+                },
+                {
+                    "id": 87064,
+                    "logo_path": null,
+                    "name": "Big Cinema House",
+                    "origin_country": "RU"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "RU",
+                    "name": "Russia"
+                }
+            ],
+            "vote_average": 4.6,
+            "vote_count": 471,
+            "review": "**The Guardians: how to make a \"Russian X-Men\" flick for $7 million.**\r\n\r\nIn our world the sum of $7 million was last adequate for a blockbuster about 40 years ago. Obviously, the Russian team bet on using smaller resources to maximum gain. Not unlike the current Russian president's geopolitics, cough. The result is more than solid\u2014for a direct-to-DVD level superhero flick, that is.\r\n\r\n**The women:** gorgeous in a way which only Eastern European women can ever be\u2014combining the Scandinavian Valkyrie component with the finer feminine Slavic beauty. In short\u2014the next Trump-type can do worse than dip into the beauty pool of The Guardians.\r\n\r\n**The men**: dreamy types, blond and dark, muscular and lithe\u2014for all tastes.\r\n\r\n**The acting quality:** imagine the supporting cast of any generic direct-to-DVD film with Steven Segal, but worse by about 25%.\r\n\r\n**The action sequences:** world class.\r\n\r\n**The special effects:** more or less on par with the special effects from the first X-Men film from the year 2000, which back then cost $75 million to make. Apparently a decade and a half later technology has progressed enough to enable the plucky Russian team to achieve the same effects of\u2026the effects\u2026for a minuscule fraction of the cost.\r\n\r\n**The plot:** Soviet super-soldier experiments decades ago led to a bunch of amnesiac, un-aging men and women scattered around the country, who are gathered once more in order to stop the baddie who is wreaking havoc on New York, *sorry*, I meant Moscow. The baddie in question is like an uglier Bane, but with an approximation of the powers of Magneto.\r\n\r\n**The end result:** can it compete with the Marvel or DC films of today? Absolutely not. Is it good entertainment when measured by direct-to-DVD or TV film (or modern computer game) standards? Sure\r\n\r\n**Conclusion:** back in the 1960\u2019s and 1970\u2019s Italian directors like Sergio Leone and Dario Argento proved that even if you have no budget and no actors and no coherent plot, you can still create world-class, even legendary cinema through sheer class.\r\n\r\nThe Guardians has no class whatsoever, but is a perfectly OK derivative adventure with superheroes and things going bang, and in an \"exotic\" setting at that. Maybe this is just the start of something cheap and beautiful?\r\n\r\nIf Russia becomes a world center for cheap knock-offs of Hollywood films, I for one would be happy with this development and would watch these films, because with smaller budgets and therefore less oversight by focus-group obsessed bean counters, interesting stuff may start to develop within the generic story skeletons, as once was the case with Italian films."
+        },
+        "revenue": 4803565
+    }
+]

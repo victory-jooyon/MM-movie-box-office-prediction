@@ -1,0 +1,2137 @@
+[
+    {
+        "id": 127560,
+        "imdb": {
+            "imdb_id": "tt2058107",
+            "title": "The Railway Man",
+            "director": "nm0855300",
+            "release_year": "2013",
+            "main_actor": "nm0000147",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 127560,
+            "overview": "A victim from World War II's \"Death Railway\" sets out to find those responsible for his torture. A true story.",
+            "budget": 18000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/yuADLCxGCA5rFWk2QDXvX5plBrD.jpg",
+            "production_companies": [
+                {
+                    "id": 1471,
+                    "logo_path": null,
+                    "name": "Archer Street Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1632,
+                    "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                    "name": "Lionsgate",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3207,
+                    "logo_path": null,
+                    "name": "Pictures in Paradise",
+                    "origin_country": ""
+                },
+                {
+                    "id": 15577,
+                    "logo_path": null,
+                    "name": "Latitude Media",
+                    "origin_country": ""
+                },
+                {
+                    "id": 15578,
+                    "logo_path": null,
+                    "name": "Thai Occidental Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 12075,
+                    "logo_path": null,
+                    "name": "Silver Reel",
+                    "origin_country": "CH"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AU",
+                    "name": "Australia"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 508,
+            "review": null
+        },
+        "revenue": 24174885
+    },
+    {
+        "id": 257088,
+        "imdb": {
+            "imdb_id": "tt2058673",
+            "title": "Point Break",
+            "director": "nm0179697",
+            "release_year": "2015",
+            "main_actor": "nm1183149",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 257088,
+            "overview": "A young undercover FBI agent infiltrates a gang of thieves who share a common interest in extreme sports. A remake of the 1991 film, \"Point Break\".",
+            "budget": 105000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/z7JOvw5Lqs9ezoFTJxmz3nx3av2.jpg",
+            "production_companies": [
+                {
+                    "id": 264,
+                    "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+                    "name": "Studio Babelsberg",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 1088,
+                    "logo_path": "/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png",
+                    "name": "Alcon Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 10289,
+                    "logo_path": "/4lXJcFjACjb34LF78AUjEz4FtB9.png",
+                    "name": "DMG Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 70993,
+                    "logo_path": null,
+                    "name": "Ehman Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AT",
+                    "name": "Austria"
+                },
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "CN",
+                    "name": "China"
+                },
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "IT",
+                    "name": "Italy"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 1648,
+            "review": "> Most deserved remake, but relying on CGI for everything ruined it.\r\n\r\nThis movie is only about stunts, the story wise, it's a great disappointment. I have seen the old version, for a 90s movie, the actions were fantastic with an awesome story. In this remake I don't know where's the story, the characters were underdeveloped and it rushed towards the end with plenty of high octane action sequences everywhere. This formula won't work all the time like '300' and 'Fury Road', but it's really good for watching in digital 3D.\r\n\r\nThe story was kind of sameness, but slightly altered, especially about that 8 ordeal and stunts were obviously freshly designed. The graphic works were weak in some parts, it failed to give a natured effect. Yeah, I think CGI is the issue, the movie relied on it for everything.\r\n\r\nThe cast performances were fine, but a big star in the lead might have given a different result. It's entertaining, but that was not enough these days, especially for a cop movie we expect details, not just physical tricks. IMO its a one time watch movie, or better try the original.\r\n\r\n6/10"
+        },
+        "revenue": 133718711
+    },
+    {
+        "id": 155084,
+        "imdb": {
+            "imdb_id": "tt2059171",
+            "title": "13 Sins",
+            "director": "nm0821844",
+            "release_year": "2014",
+            "main_actor": "nm0916406",
+            "main_genre": "Horror"
+        },
+        "tmdb": {
+            "tmdb_id": 155084,
+            "overview": "Drowning in debt as he's about to get married, a bright but meek salesman receives a mysterious phone call informing him that he's on a hidden-camera game show where he must execute 13 tasks to receive a multi-million dollar cash prize.",
+            "budget": 5000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/k5H3zLwKJZv5ehhUWqCwmhkMQvY.jpg",
+            "production_companies": [
+                {
+                    "id": 7405,
+                    "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+                    "name": "Dimension Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7437,
+                    "logo_path": "/e5CcgFrdlxMUwlsS72si8q1yHBr.png",
+                    "name": "IM Global",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7625,
+                    "logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
+                    "name": "Automatik Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 26470,
+                    "logo_path": null,
+                    "name": "Little Magic Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 6018,
+                    "logo_path": null,
+                    "name": "Sahamongkol Film International",
+                    "origin_country": ""
+                },
+                {
+                    "id": 20671,
+                    "logo_path": null,
+                    "name": "RADiUS-TWC",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.2,
+            "vote_count": 752,
+            "review": "**The quick money does not come from easy way!**\r\n\r\nIt is a remake of the Thai film '13 Beloved'. Not seen the original film, but this is a very familiar theme. Some good films were already made out of it and this one is slightly different. It is about a man who is expecting a baby with his girlfriend who he is going marry very soon. But he gets fired from his job and clueless about raising a child and maintain the family. Then a strange phone call gives him a series of challenges to win with a greater reward. It all begins with a small easy task and then begin to complicate when he can't back off as per the rules he has agreed. Now how far he goes to finish it off what he had started was told in the rest of the film.\r\n\r\nSince this is not a fresh idea for a film, I expected the story to be very good, but a little disappointed. At least it opened well and overall first half was much better. Later the film did not stand up to what it was promised in the earlier. But kind of unpredictable way it was developed. Seeing how the film was received, those who liked the original version did not like this one. That happens all the time as expected. Even though if you haven't seen the Thai film, the chances are slim one to enjoy it, especially if you have seen and liked the films like '12 Rounds', 'The Game', including the recent 'Nerve'. Not bad for watching at once, but instead I would suggest other similar title if you ask me.\r\n\r\n_5/10_"
+        },
+        "revenue": 13809
+    },
+    {
+        "id": 142487,
+        "imdb": {
+            "imdb_id": "tt2062575",
+            "title": "La vida precoz y breve de Sabina Rivas",
+            "director": "nm0001502",
+            "release_year": "2012",
+            "main_actor": "nm1370408",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 142487,
+            "overview": "In the Mexican-Guatemalan border, young teenage lovers, Sabina and Jovany, both Hondurans, accidentally meet again after some years without seeing each other. She plans to get to the United States and dreams about being a great singer; he commits all the required atrocities to be accepted by the gang: la Mara Salvatrucha. Sabina and Jovany crashed with the most adverse conditions at the border like white slavery, the Mexican and American migratory agents Burrona and Patrick, the brothel matron Do\u00f1a Lita, Don Nico the Mexican Consul in Tec\u00fan Um\u00e1n, the drug trafficking networks, the army and la Mara Salvatrucha.",
+            "budget": 4620000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/cxmJeBgPomHt43CNxcWk9UCDsB9.jpg",
+            "production_companies": [
+                {
+                    "id": 15998,
+                    "logo_path": null,
+                    "name": "Churchill Toledo",
+                    "origin_country": ""
+                },
+                {
+                    "id": 5439,
+                    "logo_path": "/yzcxOpyPQs9bA5g6GPYRklImYQv.png",
+                    "name": "Consejo Nacional para la cultura y las artes",
+                    "origin_country": "MX"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "MX",
+                    "name": "Mexico"
+                }
+            ],
+            "vote_average": 5.9,
+            "vote_count": 17,
+            "review": null
+        },
+        "revenue": 2395000
+    },
+    {
+        "id": 330947,
+        "imdb": {
+            "imdb_id": "tt2062700",
+            "title": "Song to Song",
+            "director": "nm0000517",
+            "release_year": "2017",
+            "main_actor": "nm0331516",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 330947,
+            "overview": "In this modern love story set against the Austin, Texas music scene, two entangled couples \u2014 struggling songwriters Faye and BV, and music mogul Cook and the waitress whom he ensnares \u2014 chase success through a rock \u2018n\u2019 roll landscape of seduction and betrayal.",
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/itmaNi14GyWguTOywZ0mMzyScW9.jpg",
+            "production_companies": [
+                {
+                    "id": 7493,
+                    "logo_path": "/452FO4LcI6lA6bfgl6w1kQYRBlr.png",
+                    "name": "FilmNation Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 43155,
+                    "logo_path": null,
+                    "name": "Buckeye Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 49389,
+                    "logo_path": "/3rOhrdjnUHsf0GPa66b9KyR2MUx.png",
+                    "name": "Broad Green Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.4,
+            "vote_count": 635,
+            "review": null
+        },
+        "revenue": 1710528
+    },
+    {
+        "id": 84341,
+        "imdb": {
+            "imdb_id": "tt2063781",
+            "title": "Smashed",
+            "director": "nm1242054",
+            "release_year": "2012",
+            "main_actor": "nm0935541",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 84341,
+            "overview": "Kate and Charlie like to have a good time. Their marriage thrives on a shared fondness for music, laughter\u2026 and getting smashed. When Kate\u2019s partying spirals into hard-core asocial behavior, compromising her job as an elementary schoolteacher, something\u2019s got to give. But change isn\u2019t exactly a cakewalk. Sobriety means she will have to confront the lies she\u2019s been spinning at work, her troubling relationship with her mother, and the nature of her bond with Charlie.",
+            "budget": 500000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/zsntSuUeXrDCYtWK4io6uoMi4mY.jpg",
+            "production_companies": [
+                {
+                    "id": 13369,
+                    "logo_path": "/2NW3USs9SqdAToZHrtvtgUj13o9.png",
+                    "name": "Super Crispy Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.5,
+            "vote_count": 169,
+            "review": null
+        },
+        "revenue": 376597
+    },
+    {
+        "id": 504608,
+        "imdb": {
+            "imdb_id": "tt2066051",
+            "title": "Rocketman",
+            "director": "nm0002077",
+            "release_year": "2019",
+            "main_actor": "nm5473782",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 504608,
+            "overview": "The story of Elton John's life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.",
+            "budget": 40000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10402,
+                    "name": "Music"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+            "production_companies": [
+                {
+                    "id": 4,
+                    "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 114732,
+                    "logo_path": "/tNCbisMxO5mX2X2bOQxHHQZVYnT.png",
+                    "name": "New Republic Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5374,
+                    "logo_path": "/8dgIXEObpRYixczGSpyW9rgnN53.png",
+                    "name": "Marv Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 28320,
+                    "logo_path": "/5UPGj1MwzrtxclRGTfeiQ1J0zVk.png",
+                    "name": "Rocket Pictures",
+                    "origin_country": "GB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.4,
+            "vote_count": 2834,
+            "review": "There\u2019s so much that works about \u2018Rocketman\u2019, so the fact it never fully commits to its musical fantasy conceit is a bit of a disappointment. It ends up aligning most with Julie Taymor\u2019s curious 2007 Beatles musical \u2018Across the Universe\u2019 - a really great idea and approach to the work of a musical artist that never finds its feet or the bravery to fully be itself. It\u2019s still a moving and occasionally stirring portrait of Elton John, and while the lack of emotional or narrative detail in the screenplay never allows Taron Egerton to fully unleash his potential, he\u2019s still a terrific Elton John and sings the hell out of these amazing songs. In the end, despite a refreshing honesty and some fascinating choices, \u2018Rocketman\u2019 is never as daring as it so desperately wants and needs and deserves to be, a film on the road to somewhere but never quite getting there.\r\n- Daniel Lammin\r\n\r\nRead Daniel's full article...\r\nhttps://www.maketheswitch.com.au/article/review-rocketman-a-fascinating-musical-biopic-that-never-finds-its-feet"
+        },
+        "revenue": 167323950
+    },
+    {
+        "id": 81481,
+        "imdb": {
+            "imdb_id": "tt2070649",
+            "title": "Do-ga-ni",
+            "director": "nm1375363",
+            "release_year": "2011",
+            "main_actor": "nm1508003",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 81481,
+            "overview": "Based on actual events that took place at Gwangju Inhwa School for the hearing-impaired, where young deaf students were the victims of repeated sexual assaults by faculty members over a period of five years in the early 2000s.",
+            "budget": 2200000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/mbMp0oIFmYnw0i5gzRoKt8cH5ve.jpg",
+            "production_companies": [
+                {
+                    "id": 12619,
+                    "logo_path": null,
+                    "name": "Sangeori Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 12620,
+                    "logo_path": null,
+                    "name": "Fantagio",
+                    "origin_country": "KR"
+                },
+                {
+                    "id": 7036,
+                    "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+                    "name": "CJ Entertainment",
+                    "origin_country": "KR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "KR",
+                    "name": "South Korea"
+                }
+            ],
+            "vote_average": 8.0,
+            "vote_count": 199,
+            "review": null
+        },
+        "revenue": 31500000
+    },
+    {
+        "id": 324542,
+        "imdb": {
+            "imdb_id": "tt2072233",
+            "title": "Sleepless",
+            "director": "nm2171633",
+            "release_year": "2017",
+            "main_actor": "nm0004937",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 324542,
+            "overview": "Undercover Las Vegas police officer Vincent Downs, who has got a lot of enemies, is caught in a high stakes web of corrupt cops and the mob-controlled casino underground. When a heist goes wrong, a crew of homicidal gangsters gets T, Downs\u2019 teenage son. In one sleepless night, he will have to rescue his son T (who they got), evade an internal affairs investigation and bring the kidnappers to justice.",
+            "budget": 30000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/9WkUSY33MDPGmz0vtzbsfaxTHVa.jpg",
+            "production_companies": [
+                {
+                    "id": 829,
+                    "logo_path": "/mzpAmEQ5P1gFvdRoNyCk9q8ngiv.png",
+                    "name": "Vertigo Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7493,
+                    "logo_path": "/452FO4LcI6lA6bfgl6w1kQYRBlr.png",
+                    "name": "FilmNation Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 76314,
+                    "logo_path": "/oFiHo3350Nj7bi6oxYMq3Kp6VGC.png",
+                    "name": "Riverstone Pictures",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 10427,
+                    "logo_path": "/3u5sNgPRbba0ND3SUMXPTT7On9h.png",
+                    "name": "Open Road Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.9,
+            "vote_count": 945,
+            "review": "**A night of twist and turn events.**\r\n\r\nMaybe if you haven't seen the original, you will enjoy it, particularly if you like a thrilling clash between the cops and gangsters. For me this is the third version from the last three consecutive years. After the original French film based on the same name of the book, followed by the Kollywood remake 'Thoongavanam'. The second film was not bad, considering the way it was made to the Indian standards. They did not change much, but in this one the initial parts were almost the same and the following developments were too much. I mean literally they turned it into twice thriller with tight action sequences. Their main idea was to leave the open conclusion for a possible sequel. Which was really too intentional that not everybody would be happy with, for like those who liked the previous versions.\r\n\r\nThe actors were good, but Michelle Monaghan was the best among. Unlike the same characters from other versions, I don't know how they turned Monaghan's role so powerful. That's the negative, as the film Jamie Foxx in the lead. Otherwise, as a neutral, this is not a bad remake. The Immigrant joke was trimmed off, since today's US is not in favour of such comedies in films. And many events, especially film scenes were accelerated. So the camera moves one place to another in a quick succession unlike other versions. Yeah, these changes were needed, since the film was not a fresh piece of work or even first remake. But like I said too muchness spoiled the party. Even though one time watchable film.\r\n\r\n_6/10_"
+        },
+        "revenue": 32540674
+    },
+    {
+        "id": 85870,
+        "imdb": {
+            "imdb_id": "tt2076176",
+            "title": "Cloclo",
+            "director": "nm0802807",
+            "release_year": "2012",
+            "main_actor": "nm0753737",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 85870,
+            "overview": "A biopic of French pop star Claude Francois, most famous for co-writing the song 'My Way'. Tracing his life from his childhood in Egypt through his success in France to his untimely death in Paris in 1978.",
+            "budget": 27563396,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/liyS5G3Cm669evAIfDY0Ea8cMLJ.jpg",
+            "production_companies": [
+                {
+                    "id": 2490,
+                    "logo_path": null,
+                    "name": "LGM Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 694,
+                    "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+                    "name": "StudioCanal",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                }
+            ],
+            "vote_average": 6.4,
+            "vote_count": 204,
+            "review": null
+        },
+        "revenue": 29193330
+    },
+    {
+        "id": 77944,
+        "imdb": {
+            "imdb_id": "tt2076251",
+            "title": "La peggior settimana della mia vita",
+            "director": "nm3500190",
+            "release_year": "2011",
+            "main_actor": "nm0209948",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 77944,
+            "overview": "Seven days before his wedding, a man must contend with a series of never-ending disasters.",
+            "budget": 11000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/x8sI2leJDhOkQ4mQLZjqGBt14TW.jpg",
+            "production_companies": [
+                {
+                    "id": 32837,
+                    "logo_path": null,
+                    "name": "Film Commission Regione Valle d'Aosta",
+                    "origin_country": ""
+                },
+                {
+                    "id": 10975,
+                    "logo_path": null,
+                    "name": "Colorado Film",
+                    "origin_country": "IT"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IT",
+                    "name": "Italy"
+                }
+            ],
+            "vote_average": 6.2,
+            "vote_count": 369,
+            "review": null
+        },
+        "revenue": 12935800
+    },
+    {
+        "id": 102632,
+        "imdb": {
+            "imdb_id": "tt2077833",
+            "title": "Rowdy Rathore",
+            "director": "nm0222150",
+            "release_year": "2012",
+            "main_actor": "nm0474774",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 102632,
+            "overview": "A small-time thug comes across a young girl who claims him to be her father, following which he realizes he has a lookalike who's being hunted by goons.",
+            "budget": 6700000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ytdp64MDSpONpm932nQcMTD95IF.jpg",
+            "production_companies": [
+                {
+                    "id": 95250,
+                    "logo_path": "/3OCIdQFmGP2cJUOMlLoBFBx5oEG.png",
+                    "name": "Bhansali Productions",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 53,
+            "review": null
+        },
+        "revenue": 31000000
+    },
+    {
+        "id": 321697,
+        "imdb": {
+            "imdb_id": "tt2080374",
+            "title": "Steve Jobs",
+            "director": "nm0000965",
+            "release_year": "2015",
+            "main_actor": "nm1055413",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 321697,
+            "overview": "Set backstage at three iconic product launches and ending in 1998 with the unveiling of the iMac, Steve Jobs takes us behind the scenes of the digital revolution to paint an intimate portrait of the brilliant man at its epicenter.",
+            "budget": 30000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/92vhEJ6xWoDJ8UHECAJaRofaSCZ.jpg",
+            "production_companies": [
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 258,
+                    "logo_path": null,
+                    "name": "Scott Rudin Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 923,
+                    "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+                    "name": "Legendary Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1557,
+                    "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+                    "name": "The Mark Gordon Company",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 4220,
+                    "logo_path": null,
+                    "name": "Management 360",
+                    "origin_country": ""
+                },
+                {
+                    "id": 6707,
+                    "logo_path": "/5bJmjTayNNSJt1VTEKDpXFM04H1.png",
+                    "name": "Cloud Eight Films",
+                    "origin_country": "GB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 3171,
+            "review": "> Pretty impressive narration, a better version out there for now.\r\n\r\nUS film or UK film is not an issue, but the real question was the second movie required? Plenty of films are made in a short period of gap about the same person like 'Infamous' and 'Capote', themes like 'Olympus Has Fallen' and 'White House Down', and sometimes remakes like 'Deaths at a Funeral' from other film industries. So the history says audience accepts only they are different from each other and so this film was, but very very sad it bombed at the box office.\r\n\r\nLike everybody I was not interested in this, even though it was from a renowned filmmaker. But after watching it now, I felt I was terribly wrong. Actually, this is the best version so far about the Apple Inc co-founder Steve Jobs. It was entirely a different narration than the previous one, everything was like the backstage drama that takes place before every product launch. That means most of the film was shot in the auditoriums and its corridor, parking lot, rooftop, and other surround places.\r\n\r\nAll the affairs like family, friends, co-founders, business, troubles et cetera are brought into one place and dealt there itself. Surely a very cleverly written screenplay and display by the actors, especially the two Oscars nominee Michael Fassbender and Kate Winslate. Once again Danny Boyle proved his directional skill with this beautiful biopic. I did not LIKE the end scene, but LOVED it. In fact, this film's end and Ashton Kutcher film's opening scenes has a clean follow. I also felt the movie was very honest, but I don't how much since I'm not into the books to learn about the famous personalities. It's not a must see, but definitely worth a try.\r\n\r\n8/10"
+        },
+        "revenue": 34441873
+    },
+    {
+        "id": 151474,
+        "imdb": {
+            "imdb_id": "tt2081266",
+            "title": "Die Abenteuer des Huck Finn",
+            "director": "nm0403101",
+            "release_year": "2012",
+            "main_actor": "nm3487965",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 151474,
+            "overview": "Huckleberry Finn, a rambunctious boy adventurer chafing under the bonds of civilization, escapes his humdrum world and his selfish, plotting father by sailing a raft down the Mississippi River. Accompanying him is Jim, a slave running away from being sold. Together the two strike a bond of friendship that takes them through harrowing events and thrilling adventures.",
+            "budget": 7217957,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ukpxhvUmVFqXIhwUZ2dIaq5yIx.jpg",
+            "production_companies": [
+                {
+                    "id": 2094,
+                    "logo_path": null,
+                    "name": "Majestic Filmproduktion",
+                    "origin_country": ""
+                },
+                {
+                    "id": 4411,
+                    "logo_path": null,
+                    "name": "MMC Independent",
+                    "origin_country": ""
+                },
+                {
+                    "id": 6187,
+                    "logo_path": "/gtC63XG8fkFxszIuZIogffM1oY8.png",
+                    "name": "ARD/Degeto Film",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 20326,
+                    "logo_path": null,
+                    "name": "Neue Sch\u00f6nhauser Filmproduktion",
+                    "origin_country": ""
+                },
+                {
+                    "id": 78946,
+                    "logo_path": null,
+                    "name": "Filmaufbau Leipzig GmBH",
+                    "origin_country": ""
+                },
+                {
+                    "id": 46,
+                    "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+                    "name": "Westdeutscher Rundfunk",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 587,
+                    "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+                    "name": "ARTE",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 162,
+                    "logo_path": "/pIK5tsFVxjoXTJGcd0nYhiL1kn1.png",
+                    "name": "Bayerischer Rundfunk",
+                    "origin_country": "DE"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 4,
+            "review": null
+        },
+        "revenue": 1217451
+    },
+    {
+        "id": 127501,
+        "imdb": {
+            "imdb_id": "tt2082197",
+            "title": "Barfi!",
+            "director": "nm1397301",
+            "release_year": "2012",
+            "main_actor": "nm1633541",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 127501,
+            "overview": "He is cute. He's shrewd. The girls love him. The cops hate him. He can't speak but is always talked about. His naughty antics will make you scream, but he will never listen. Cos he can't! Next summer ride a rollercoaster of emotions with Barfii - the Chalu Chaplin!",
+            "budget": 4437508,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/8lVuWmArvr41CvyvpgI3elD5iB1.jpg",
+            "production_companies": [
+                {
+                    "id": 80427,
+                    "logo_path": null,
+                    "name": "Ishana Movies",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2320,
+                    "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+                    "name": "UTV Motion Pictures",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 7.5,
+            "vote_count": 198,
+            "review": null
+        },
+        "revenue": 2804874
+    },
+    {
+        "id": 79546,
+        "imdb": {
+            "imdb_id": "tt2082513",
+            "title": "Yaar Anmulle",
+            "director": "nm5326250",
+            "release_year": "2011",
+            "main_actor": "nm1191646",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 79546,
+            "overview": "A story of three friends - Guri, Deep and Sher Singh - who are studying in a university and are staying together in the hostel of the same university. The movie explores this very friendship between these three boys as they spend their student days doing all the usual things that students normally do. They do everything together - bunking classes, getting into fights with a rival group, talking and laughing over numerous cups of tea - and they even fall in love together. However, the love stories of all the three friends turn out to be complicated. Written by Anterpreet Singh",
+            "budget": 2,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/hrZyeoI4fCdSS2306LzdW1iHoHW.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 3,
+            "review": null
+        },
+        "revenue": 9
+    },
+    {
+        "id": 174645,
+        "imdb": {
+            "imdb_id": "tt2083231",
+            "title": "Java Heat",
+            "director": "nm3440937",
+            "release_year": "2013",
+            "main_actor": "nm1553725",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 174645,
+            "overview": "An American in Indonesia teams up with a Muslim cop to track down a terrorist.",
+            "budget": 15000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/naJv9SL2wuTy4kkkPlDcZUkJS9f.jpg",
+            "production_companies": [
+                {
+                    "id": 13498,
+                    "logo_path": null,
+                    "name": "Margate House Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 54,
+            "review": null
+        },
+        "revenue": 1061
+    },
+    {
+        "id": 146304,
+        "imdb": {
+            "imdb_id": "tt2083355",
+            "title": "The Best Man Holiday",
+            "director": "nm0002700",
+            "release_year": "2013",
+            "main_actor": "nm0004793",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 146304,
+            "overview": "When college friends reunite after 15 years over the Christmas holidays, they discover just how easy it is for long-forgotten rivalries and romances to be reignited.",
+            "budget": 17000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/i4ecMHJQpclIEr4mh5uzjWr38GC.jpg",
+            "production_companies": [
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 187,
+            "review": "GREAT MOVIE. REALLY ENJOYED."
+        },
+        "revenue": 71625195
+    },
+    {
+        "id": 205596,
+        "imdb": {
+            "imdb_id": "tt2084970",
+            "title": "The Imitation Game",
+            "director": "nm0878763",
+            "release_year": "2014",
+            "main_actor": "nm1212722",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 205596,
+            "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+            "budget": 14000000,
+            "genres": [
+                {
+                    "id": 36,
+                    "name": "History"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 10752,
+                    "name": "War"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+            "production_companies": [
+                {
+                    "id": 38145,
+                    "logo_path": null,
+                    "name": "Bristol Automotive",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 22146,
+                    "logo_path": "/jPBtpMh0AUFqf9yfOJXer9d5Rei.png",
+                    "name": "Black Bear Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 8.0,
+            "vote_count": 12851,
+            "review": null
+        },
+        "revenue": 233555708
+    },
+    {
+        "id": 145197,
+        "imdb": {
+            "imdb_id": "tt2084989",
+            "title": "Upstream Color",
+            "director": "nm1503403",
+            "release_year": "2013",
+            "main_actor": "nm1541272",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 145197,
+            "overview": "A man and woman are drawn together, entangled in the lifecycle of an ageless organism. Identity becomes an illusion as they struggle to assemble the loose fragments of wrecked lives.",
+            "budget": 100000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/nkUl1D1KbqW5ux9cAbSxU5f7hOy.jpg",
+            "production_companies": [
+                {
+                    "id": 44640,
+                    "logo_path": null,
+                    "name": "erbp",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.5,
+            "vote_count": 520,
+            "review": "After almost 9 years since Primer, Shane Carruth returned with his next film, Upstream Color. Once again, Shane played multiple roles in the creation of this film \u2013 producer (one of), director, writer, actor (one of), music director, cinematographer and editor (one of). The film was made with a tiny budget of $50,000, wow, talk about being efficient. The story is not a convoluted one like Primer, which was based on time travel. That said, it\u2019s not very straightforward either. It does talk about some unreal patterns and could get hard to understand at times. Do give it a watch if you haven\u2019t already."
+        },
+        "revenue": 444098
+    },
+    {
+        "id": 230179,
+        "imdb": {
+            "imdb_id": "tt2088003",
+            "title": "Big Game",
+            "director": "nm1118351",
+            "release_year": "2014",
+            "main_actor": "nm0000168",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 230179,
+            "overview": "Air Force One is shot down by terrorists, leaving the President of the United States stranded in the wilderness. 13-year old Oskari is also in that wilderness, on a hunting mission to prove his maturity to his kinsfolk by tracking down a deer, but instead discovers the President in an escape pod. With the terrorists closing in to capture their prize, the unlikely duo team up to escape their hunters.",
+            "budget": 8500000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/eWFH7P8A9t8Bg6MkLPYmvS4t6di.jpg",
+            "production_companies": [
+                {
+                    "id": 62407,
+                    "logo_path": null,
+                    "name": "Bavaria Film Partners",
+                    "origin_country": ""
+                },
+                {
+                    "id": 62408,
+                    "logo_path": null,
+                    "name": "Subzero Film Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 19638,
+                    "logo_path": "/6R3XtbihMWuDRFnlm4MkpxhmEKf.png",
+                    "name": "Altitude Film Entertainment",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 62409,
+                    "logo_path": null,
+                    "name": "VisionPlus Fund I",
+                    "origin_country": ""
+                },
+                {
+                    "id": 39734,
+                    "logo_path": null,
+                    "name": "Ketchup Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 62410,
+                    "logo_path": "/7YzIXhp1QKwo0s4a7hIbCgswAyg.png",
+                    "name": "Waterstone Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5056,
+                    "logo_path": "/kADFcjL04xe5HGBnlLjbfhliS2a.png",
+                    "name": "Head Gear Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 25954,
+                    "logo_path": null,
+                    "name": "Metrol Technology",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 19639,
+                    "logo_path": null,
+                    "name": "Film House Germany",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2254,
+                    "logo_path": "/4OQ25tiNECBBRDUhfC5ACa1vOIR.png",
+                    "name": "Egoli Tossell Film",
+                    "origin_country": "DE"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FI",
+                    "name": "Finland"
+                },
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 5.4,
+            "vote_count": 832,
+            "review": null
+        },
+        "revenue": 7500000
+    },
+    {
+        "id": 91078,
+        "imdb": {
+            "imdb_id": "tt2088012",
+            "title": "Wan-deuk-i",
+            "director": "nm1215478",
+            "release_year": "2011",
+            "main_actor": "nm2412823",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 91078,
+            "overview": "A deadbeat teacher helps an angry, aimless teenager  find direction in life during his final year of high school.",
+            "budget": 4160000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/tO5IOFRHOIECJEdYIjP5my2OZSg.jpg",
+            "production_companies": [
+                {
+                    "id": 12682,
+                    "logo_path": null,
+                    "name": "UBU Film",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7036,
+                    "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+                    "name": "CJ Entertainment",
+                    "origin_country": "KR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "KR",
+                    "name": "South Korea"
+                }
+            ],
+            "vote_average": 6.5,
+            "vote_count": 28,
+            "review": null
+        },
+        "revenue": 34000000
+    },
+    {
+        "id": 211233,
+        "imdb": {
+            "imdb_id": "tt2088871",
+            "title": "Kaappari",
+            "director": "nm0617407",
+            "release_year": "2013",
+            "main_actor": "nm0383213",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 211233,
+            "overview": "Aarno Lamminparras hijacked an airplane with a gun in 1978. A true story.",
+            "budget": 1800000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/hTJdevyLSePL6A6zrEUIgzJtijC.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 5.4,
+            "vote_count": 10,
+            "review": null
+        },
+        "revenue": 532269
+    },
+    {
+        "id": 268531,
+        "imdb": {
+            "imdb_id": "tt2091256",
+            "title": "Captain Underpants: The First Epic Movie",
+            "director": "nm1659741",
+            "release_year": "2017",
+            "main_actor": "nm0366389",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 268531,
+            "overview": "Two mischievous kids hypnotize their mean elementary school principal and turn him into their comic book creation, the kind-hearted and elastic-banded Captain Underpants.",
+            "budget": 38000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/AjHZIkzhPXrRNE4VSLVWx6dirK9.jpg",
+            "production_companies": [
+                {
+                    "id": 521,
+                    "logo_path": "/kP7t6RwGz2AvvTkvnI1uteEwHet.png",
+                    "name": "DreamWorks Animation",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 822,
+            "review": "I get why a _Captain Underpants_ movie was made. The climate is pretty much as ripe for superhero parody as it's ever going to be, _Captain Underpants_ has enjoyed moderate achievement in terms of being a household name, I even remember more or less enjoying the books as a kid. But _Captain Underpants: The First Epic Movie_ is pretty bad. Not in any unexpected ways, it's reasonable to expect a certain level of humour from a film whose titular hero has \"Underpants\" in the name, but in my honest opinion, _The \"First\" Epic Movie_, should probably be the last one too.\r\n\r\n_Final rating:\u2605\u00bd: - Boring/disappointing. Avoid where possible._"
+        },
+        "revenue": 125289450
+    },
+    {
+        "id": 133694,
+        "imdb": {
+            "imdb_id": "tt2091473",
+            "title": "Promised Land",
+            "director": "nm0001814",
+            "release_year": "2012",
+            "main_actor": "nm0000354",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 133694,
+            "overview": "A salesman for a natural gas company experiences life-changing events after arriving in a small town, where his corporation wants to tap into the available resources.",
+            "budget": 15000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ziVOzoGfmHD5F90LyeCkBnwuTkP.jpg",
+            "production_companies": [
+                {
+                    "id": 6736,
+                    "logo_path": null,
+                    "name": "Imagenation Abu Dhabi FZ",
+                    "origin_country": "AE"
+                },
+                {
+                    "id": 10146,
+                    "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+                    "name": "Focus Features",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 29311,
+                    "logo_path": null,
+                    "name": "Media Farm",
+                    "origin_country": ""
+                },
+                {
+                    "id": 29312,
+                    "logo_path": null,
+                    "name": "Sunday Night",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 29313,
+                    "logo_path": "/1whsMqm5kAPxKBhnTlKNcbXBQJK.png",
+                    "name": "Pearl Street Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 6735,
+                    "logo_path": "/6yyByQrmTAgJv0QzZ1Eh1jiGX4R.png",
+                    "name": "Participant Media",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AE",
+                    "name": "United Arab Emirates"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.2,
+            "vote_count": 472,
+            "review": null
+        },
+        "revenue": 8138788
+    },
+    {
+        "id": 333385,
+        "imdb": {
+            "imdb_id": "tt2091935",
+            "title": "Mr. Right",
+            "director": "nm2161247",
+            "release_year": "2015",
+            "main_actor": "nm0447695",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 333385,
+            "overview": "A girl falls for the \"perfect\" guy, who happens to have a very fatal flaw: he's a hitman on the run from the crime cartels who employ him.",
+            "budget": 8000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/yuive5iOJF72ANOetEypK5SpfRv.jpg",
+            "production_companies": [
+                {
+                    "id": 23921,
+                    "logo_path": "/simDvqT8y6jhP530ggUMbikvVKc.png",
+                    "name": "Circle of Confusion",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 19632,
+                    "logo_path": "/q2kFlMm4C9UTWgSrJA6iSmDvWMI.png",
+                    "name": "3311 Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 15465,
+                    "logo_path": "/vk1lVkUzNEkhxP0PEn9ZUEdPTwY.png",
+                    "name": "Amasia Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.4,
+            "vote_count": 980,
+            "review": "> A hitman with the 'killing is wrong' attitude.\r\n\r\nSomething is not right for 'Mr, Right'. It is not an event based action-comedy or something like man meets woman romance-comedy, but very random presentation. Where it begins and where it ends, you can't clearly say it is a well written script. The actings were decent, but the scenes aren't overwhelmingly impressive as it should be. Directed by 'Neon Flesh' famed filmmaker, after that film his other projects weren't up to the standards including this one.\r\n\r\nIt is written by the one who was behind the 'American Ultra'. There's a strikingly similar between these two and you won't deny if you had seen them. Especially Anna Kendrick's character to what the Jesse Eisenberg was in that film. If we go deep, Sam Rockwell as well might fall into the same category to what Kristen Stewart was. At some point, one of the film characters mentions the same secret project. So I think it is the same universe and a spin-off.\r\n\r\nSam-Kendrick combo was the highlight of the film. I hope they would do some serious subject together in the near future. The action sequences were good, other than that it's not funny at all or romantic. That means I did not enjoy it because the theme did not work for me which I felt very common these days. So it failed because of the lack of innovation and proper development, but the overall film was not bad if entertainment is the main agenda. I know there are audience for it and they will back it. I won't stand between you and your watch if you want to try it, I just say be careful, that's all.\r\n\r\n5/10"
+        },
+        "revenue": 34694
+    },
+    {
+        "id": 121856,
+        "imdb": {
+            "imdb_id": "tt2094766",
+            "title": "Assassin's Creed",
+            "director": "nm0997291",
+            "release_year": "2016",
+            "main_actor": "nm1055413",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 121856,
+            "overview": "Through unlocked genetic memories that allow him to relive the adventures of his ancestor in 15th century Spain, Callum Lynch discovers he's a descendant of the secret 'Assassins' society. After gaining incredible knowledge and skills, he is now poised to take on the oppressive Knights Templar in the present day.",
+            "budget": 125000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2IBiwEgWpYQaYgoSX15yrffYql2.jpg",
+            "production_companies": [
+                {
+                    "id": 10104,
+                    "logo_path": "/hNuGhsKVlmhnwSRcmOejDBDjh6w.png",
+                    "name": "New Regency Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 508,
+                    "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
+                    "name": "Regency Enterprises",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 862,
+                    "logo_path": "/udTjbqPmcTbfrihMuLtLcizDEM1.png",
+                    "name": "The Kennedy/Marshall Company",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 4615,
+                    "logo_path": "/vywqnH3zMq0dJK1M3Bn6wg3vrud.png",
+                    "name": "Ubisoft",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 8870,
+                    "logo_path": null,
+                    "name": "CatchPlay",
+                    "origin_country": ""
+                },
+                {
+                    "id": 19108,
+                    "logo_path": null,
+                    "name": "Latina Pictures",
+                    "origin_country": "MT"
+                },
+                {
+                    "id": 77845,
+                    "logo_path": null,
+                    "name": "Monarchy Enterprises S.a.r.l.",
+                    "origin_country": ""
+                },
+                {
+                    "id": 83857,
+                    "logo_path": "/kwC8GXtLzHN7pQi2Fh7CJ8XcuwD.png",
+                    "name": "Ubisoft Motion Pictures",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 86766,
+                    "logo_path": null,
+                    "name": "DMC Film",
+                    "origin_country": ""
+                },
+                {
+                    "id": 86767,
+                    "logo_path": null,
+                    "name": "Alpha Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 41624,
+                    "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+                    "name": "RatPac-Dune Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "MT",
+                    "name": "Malta"
+                },
+                {
+                    "iso_3166_1": "HK",
+                    "name": "Hong Kong"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "TW",
+                    "name": "Taiwan"
+                }
+            ],
+            "vote_average": 5.4,
+            "vote_count": 6036,
+            "review": "Fun film. Has plenty of action sequences and great plot twists throughout the film that make it more interesting. Plenty of well developed characters throughout, and each character has great depth. The execution of the stunts was superb and had breathtaking set-pieces throughout. It's more faithful to the games than other previous game adaptions like Doom and Warcraft: The Beginning, and it moves away from the story while keeping what made the games so well received. A great movie, definitely worth the watch."
+        },
+        "revenue": 240697856
+    },
+    {
+        "id": 161468,
+        "imdb": {
+            "imdb_id": "tt2094854",
+            "title": "Inkaar",
+            "director": "nm0592803",
+            "release_year": "2013",
+            "main_actor": "nm0992000",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 161468,
+            "overview": "At a leading ad agency, the battle for the top job between Rahul Verma, the advertising CEO, and Maya Luthra, his ambitious prot\u00e9g\u00e9e, takes an ugly turn when Maya files a sexual harassment complaint against Rahul.",
+            "budget": 850000,
+            "genres": [],
+            "poster": "https://image.tmdb.org/t/p/original/tXNp8HDrrEWbUmgz74kv41tUqUz.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 18,
+            "review": null
+        },
+        "revenue": 1600000
+    },
+    {
+        "id": 215211,
+        "imdb": {
+            "imdb_id": "tt2095649",
+            "title": "Grace of Monaco",
+            "director": "nm0196860",
+            "release_year": "2014",
+            "main_actor": "nm0000173",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 215211,
+            "overview": "The story of former Hollywood star Grace Kelly's crisis of marriage and identity, during a political dispute between Monaco's Prince Rainier III and France's Charles De Gaulle, and a looming French invasion of Monaco in the early 1960s.",
+            "budget": 30000000,
+            "genres": [
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/unJl7iN89fGxkItzHm4reTP87pi.jpg",
+            "production_companies": [
+                {
+                    "id": 51940,
+                    "logo_path": null,
+                    "name": "Stone Angels",
+                    "origin_country": ""
+                },
+                {
+                    "id": 9,
+                    "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+                    "name": "Gaumont",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 356,
+                    "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+                    "name": "TF1 Films Production",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 779,
+                    "logo_path": "/KFFOFoztyjV5epvnW5GerPbcvx.png",
+                    "name": "Lucky Red",
+                    "origin_country": "IT"
+                },
+                {
+                    "id": 8676,
+                    "logo_path": "/5u4GmXn4QMU39GQxGZoGfNtQ23r.png",
+                    "name": "uFilm",
+                    "origin_country": "BE"
+                },
+                {
+                    "id": 12075,
+                    "logo_path": null,
+                    "name": "Silver Reel",
+                    "origin_country": "CH"
+                },
+                {
+                    "id": 19037,
+                    "logo_path": "/xhAYgpFmJfcCVLV5NMD8QKvqqHc.png",
+                    "name": "Umedia",
+                    "origin_country": "BE"
+                },
+                {
+                    "id": 35404,
+                    "logo_path": null,
+                    "name": "Od Shots",
+                    "origin_country": ""
+                },
+                {
+                    "id": 51938,
+                    "logo_path": null,
+                    "name": "YRF Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 104,
+                    "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+                    "name": "Canal+",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "BE",
+                    "name": "Belgium"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "IT",
+                    "name": "Italy"
+                },
+                {
+                    "iso_3166_1": "CH",
+                    "name": "Switzerland"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 437,
+            "review": null
+        },
+        "revenue": 26576000
+    },
+    {
+        "id": 100042,
+        "imdb": {
+            "imdb_id": "tt2096672",
+            "title": "Dumb and Dumber To",
+            "director": "nm0268380",
+            "release_year": "2014",
+            "main_actor": "nm0000120",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 100042,
+            "overview": "20 years since their first adventure, Lloyd and Harry go on a road trip to find Harry's newly discovered daughter, who was given up for adoption.",
+            "budget": 40000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/mktwkMjmoR83eXNakk0M2nh1cty.jpg",
+            "production_companies": [
+                {
+                    "id": 12,
+                    "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+                    "name": "New Line Cinema",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1156,
+                    "logo_path": null,
+                    "name": "Conundrum Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 19177,
+                    "logo_path": null,
+                    "name": "Red Granite Pictures",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.5,
+            "vote_count": 2321,
+            "review": null
+        },
+        "revenue": 169837010
+    },
+    {
+        "id": 150540,
+        "imdb": {
+            "imdb_id": "tt2096673",
+            "title": "Inside Out",
+            "director": "nm0230032",
+            "release_year": "2015",
+            "main_actor": "nm0688132",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 150540,
+            "overview": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Riley's guiding emotions\u2014 Joy, Fear, Anger, Disgust and Sadness\u2014live in Headquarters, the control centre inside Riley's mind, where they help advise her through everyday life and tries to keep things positive, but the emotions conflict on how best to navigate a new city, house and school.",
+            "budget": 175000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/lRHE0vzf3oYJrhbsHXjIkF4Tl5A.jpg",
+            "production_companies": [
+                {
+                    "id": 3,
+                    "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+                    "name": "Pixar",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2,
+                    "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+                    "name": "Walt Disney Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.9,
+            "vote_count": 15732,
+            "review": "This is the most incredible movie I've ever seen :)"
+        },
+        "revenue": 857611174
+    },
+    {
+        "id": 81298,
+        "imdb": {
+            "imdb_id": "tt2097245",
+            "title": "Boy s tenyu 3. Posledniy raund",
+            "director": "nm1284414",
+            "release_year": "2011",
+            "main_actor": "nm0041247",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 81298,
+            "overview": "Champion boxer Artyom Kolchin climbed all conceivable heights and became a national hero. He does not enter the boxing ring any more, rather choosing a coaching job and wild high life, including continuous TV appearances, hanging out and love affairs. One morning his daughter and his wife Vika meet him at home. Vika does not see the Artyom she once fell in love with in him any longer... The externally happy life of Kolchin comes to an end when the boxer he trains is almost killed during a match with the famous Kuerte. Artyom suspects that he used some forbidden technique. To obtain the proof, he has to go to Hong Kong where his long-time friend Vagit Valiev waits for him: he knows something about Kuerte which is not known to anyone else. To win, Artyom will have to enter the ring again.",
+            "budget": 5000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/AhvjEhbgiTb5qKxZpCITg4jc0vy.jpg",
+            "production_companies": [
+                {
+                    "id": 3419,
+                    "logo_path": "/byrxE2pJD9JLyBCIzyK0pYVanyG.png",
+                    "name": "Central Partnership",
+                    "origin_country": "RU"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "RU",
+                    "name": "Russia"
+                }
+            ],
+            "vote_average": 5.3,
+            "vote_count": 14,
+            "review": null
+        },
+        "revenue": 13645556
+    },
+    {
+        "id": 109513,
+        "imdb": {
+            "imdb_id": "tt2097307",
+            "title": "Hit and Run",
+            "director": "nm3124542",
+            "release_year": "2012",
+            "main_actor": "nm1009277",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 109513,
+            "overview": "When former getaway driver, Charlie Bronson jeopardises his Witness Protection Plan identity in order to help his girlfriend get to Los Angeles, the feds and Charlie's former gang chase them on the road.",
+            "budget": 2000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2n3FTpj2AmucfvgZ5tunZxZ2Jvf.jpg",
+            "production_companies": [
+                {
+                    "id": 10424,
+                    "logo_path": null,
+                    "name": "Primate Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 10425,
+                    "logo_path": null,
+                    "name": "Kim and Jim Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 10426,
+                    "logo_path": null,
+                    "name": "Panay Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 11448,
+                    "logo_path": "/twhX9HMUuGW4Mhb45AyWDhRqkvR.png",
+                    "name": "Exclusive Media",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.7,
+            "vote_count": 379,
+            "review": null
+        },
+        "revenue": 14400000
+    },
+    {
+        "id": 107227,
+        "imdb": {
+            "imdb_id": "tt2100376",
+            "title": "23:59",
+            "director": "nm2197845",
+            "release_year": "2011",
+            "main_actor": "nm4754277",
+            "main_genre": "Horror"
+        },
+        "tmdb": {
+            "tmdb_id": 107227,
+            "overview": "An army recruit was found dead during a 24km road march. After the death of the recruit, strange things started to happen, haunting all the soldiers in the barracks.",
+            "budget": 600000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/sQGBK2mvw3x07MmwRR2J6fDADZ5.jpg",
+            "production_companies": [
+                {
+                    "id": 128953,
+                    "logo_path": null,
+                    "name": "Gorylah Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7711,
+                    "logo_path": null,
+                    "name": "Clover Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 22482,
+                    "logo_path": null,
+                    "name": "Grand Brilliance",
+                    "origin_country": ""
+                },
+                {
+                    "id": 55802,
+                    "logo_path": "/l1lnXmGse9lO7Pz1Z49SrSk3Y6J.png",
+                    "name": "MM2 Entertainment",
+                    "origin_country": "SG"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "MY",
+                    "name": "Malaysia"
+                },
+                {
+                    "iso_3166_1": "SG",
+                    "name": "Singapore"
+                }
+            ],
+            "vote_average": 4.6,
+            "vote_count": 32,
+            "review": null
+        },
+        "revenue": 1208479
+    }
+]

@@ -1,0 +1,1110 @@
+[
+    {
+        "id": 32172,
+        "imdb": {
+            "imdb_id": "tt1332676",
+            "title": "2 Harihar Nagar",
+            "director": "nm0482309",
+            "release_year": "2009",
+            "main_actor": "nm0417314",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 32172,
+            "overview": "The films chronicle the story of four very close friends Mahadevan, Govindan Kutty, Appukuttan, and Thomas Kutty.",
+            "budget": 660000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/57yYvoiGG83sR6SETUS77rJ0zFx.jpg",
+            "production_companies": [
+                {
+                    "id": 18139,
+                    "logo_path": null,
+                    "name": "Lal Release",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 15,
+            "review": null
+        },
+        "revenue": 3300000
+    },
+    {
+        "id": 87818,
+        "imdb": {
+            "imdb_id": "tt1333125",
+            "title": "Movie 43",
+            "director": "nm0644022",
+            "release_year": "2013",
+            "main_actor": "nm1297015",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 87818,
+            "overview": "A series of interconnected short films follows a washed-up producer as he pitches insane story lines featuring some of the biggest stars in Hollywood.",
+            "budget": 6000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/uYa06GxHsCsELx9vOQ11vsT0Aa6.jpg",
+            "production_companies": [
+                {
+                    "id": 8891,
+                    "logo_path": null,
+                    "name": "Witness Protection Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7295,
+                    "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+                    "name": "Relativity Media",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 8852,
+                    "logo_path": null,
+                    "name": "Virgin Produced",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2150,
+                    "logo_path": null,
+                    "name": "GreeneStreet Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 8890,
+                    "logo_path": null,
+                    "name": "Wessler Entertainment",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 4.5,
+            "vote_count": 1643,
+            "review": "This movie is funny. Somehow it got a bad reputation. It's way better than supposed comedy \"classucks\" like stupid _Caddyshack_ or dumb _Animal House_. Try watching those now. Maybe there are one or two funny scenes in each of those overrated films. _Movie 43_ has many laugh-out-loud moments. It's a bunch of short skits like the over-hyped _Kentucky Fried Movie_ but unlike that steaming pile, this is well crafted. Also, there are two versions of this. The little thread of a story between the skits is different depending on the version you watch. I think it got bad reviews because of ultra sensitive, politically correct critics. People really need to lighten up. 9/10 stars."
+        },
+        "revenue": 32438988
+    },
+    {
+        "id": 49882,
+        "imdb": {
+            "imdb_id": "tt1334026",
+            "title": "O Menino da Porteira",
+            "director": "nm0603495",
+            "release_year": "2009",
+            "main_actor": "nm0199566",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 49882,
+            "overview": "Anos 50. No vilarejo de Rio Bonito o pe\u00e3o Diogo (Daniel) conduz uma grande boiada at\u00e9 a Fazenda Ouro Fino. Ao passar pelo s\u00edtio Remanso ele conhece Rodrigo (Jo\u00e3o Pedro Carvalho), um garoto que sonha em se tornar um boiadeiro. Logo eles se tornam amigos, sendo tamb\u00e9m testemunhas das injusti\u00e7as que ocorrem na regi\u00e3o devido \u00e0 gan\u00e2ncia do major Batista (Jos\u00e9 de Abreu), dono da Fazenda Ouro Fino. O major ordena que seus capangas chantageiem os moradores locais, de forma que vendam o gado pelo pre\u00e7o que deseja. A situa\u00e7\u00e3o muda quando Otac\u00edlio Mendes (Eucir de Souza), pai de Rodrigo, decide se rebelar, contando com a ajuda do farmac\u00eautico dr. Almeida (Zedu Neves).",
+            "budget": 200000,
+            "genres": [
+                {
+                    "id": 37,
+                    "name": "Western"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/lwv11O9gdmAvPFmzMxspomTs1OS.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "BR",
+                    "name": "Brazil"
+                }
+            ],
+            "vote_average": 7.2,
+            "vote_count": 13,
+            "review": null
+        },
+        "revenue": 200000
+    },
+    {
+        "id": 79650,
+        "imdb": {
+            "imdb_id": "tt1334104",
+            "title": "Sagar Alias Jackie: Reloaded",
+            "director": "nm2039170",
+            "release_year": "2009",
+            "main_actor": "nm4737131",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 79650,
+            "overview": "An underworld don who operates internationally, Sagar Alias Jacky had to deal with the likes of Naina (Suman) and Goa based Rozario brothers who want to do away with Sagar.  But each time Sagar with his fearlessness and brilliance in plotting, outplays them. The film starts off very interestingly when Indhu(Shobhana), the daughter of the state chief minister (Nedumudi Venu) calls Sagar to save her husband Manu (Manoj K Jayan) from the clutches of Rozario brothers.",
+            "budget": 1200000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/uXhSW9u3bduo3iT7HVhM0qvPc4j.jpg",
+            "production_companies": [
+                {
+                    "id": 16401,
+                    "logo_path": "/khS7G0KzBoCYcLs4xuNjpuZjntR.png",
+                    "name": "Aashirvad Cinemas",
+                    "origin_country": "IN"
+                },
+                {
+                    "id": 18099,
+                    "logo_path": null,
+                    "name": "Maxlaab Entertainments",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                },
+                {
+                    "iso_3166_1": "AE",
+                    "name": "United Arab Emirates"
+                }
+            ],
+            "vote_average": 5.1,
+            "vote_count": 14,
+            "review": null
+        },
+        "revenue": 2100000
+    },
+    {
+        "id": 42188,
+        "imdb": {
+            "imdb_id": "tt1334260",
+            "title": "Never Let Me Go",
+            "director": "nm0738796",
+            "release_year": "2010",
+            "main_actor": "nm0461136",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 42188,
+            "overview": "As children, Kathy, Ruth, and Tommy spend their childhood at an idyllic and secluded English boarding school. As they grow into adults, they must come to terms with the complexity and strength of their love for one another while also preparing for the haunting reality awaiting them.",
+            "budget": 15000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+            "production_companies": [
+                {
+                    "id": 43,
+                    "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+                    "name": "Fox Searchlight Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 284,
+                    "logo_path": null,
+                    "name": "DNA Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 6705,
+                    "logo_path": "/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png",
+                    "name": "Film4 Productions",
+                    "origin_country": "GB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 1573,
+            "review": null
+        },
+        "revenue": 9918093
+    },
+    {
+        "id": 37460,
+        "imdb": {
+            "imdb_id": "tt1334470",
+            "title": "Raavan",
+            "director": "nm0711745",
+            "release_year": "2010",
+            "main_actor": "nm0045393",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 37460,
+            "overview": "A bandit leader kidnaps the wife of the policeman who killed his sister, but later falls in love with her.",
+            "budget": 4200000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/9fhM402gmREa5W9kvmCI8gojG1t.jpg",
+            "production_companies": [
+                {
+                    "id": 3118,
+                    "logo_path": "/jXbf95osKAVplKg6cwLDUldS6CG.png",
+                    "name": "Madras Talkies",
+                    "origin_country": "IN"
+                },
+                {
+                    "id": 7294,
+                    "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+                    "name": "Reliance Entertainment",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 4.6,
+            "vote_count": 22,
+            "review": null
+        },
+        "revenue": 4000000
+    },
+    {
+        "id": 49012,
+        "imdb": {
+            "imdb_id": "tt1334512",
+            "title": "Arthur",
+            "director": "nm0934864",
+            "release_year": "2011",
+            "main_actor": "nm1258970",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 49012,
+            "overview": "A drunken playboy stands to lose a wealthy inheritance when he falls for a woman, his family doesn't like.",
+            "budget": 40000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/foUTAJurvnbUoIUbnuUk5dyHx7M.jpg",
+            "production_companies": [
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.5,
+            "vote_count": 496,
+            "review": null
+        },
+        "revenue": 45735397
+    },
+    {
+        "id": 760092,
+        "imdb": {
+            "imdb_id": "tt13357750",
+            "title": "Reset",
+            "director": "nm11391544",
+            "release_year": "2020",
+            "main_actor": "nm11391546",
+            "main_genre": "Short"
+        },
+        "tmdb": {
+            "tmdb_id": 760092,
+            "overview": "As a young filmmaker who suffers from OCD, Lucas struggles with finishing his synopsis for a film that he had always dreamt of making. Despite his ambitions, Lucas can't seem to gather his thoughts and he worries that his work will not be the perfection that he undoubtedly desires. With overwhelming emotions and a lack of self-confidence, Lucas finds himself trapped in his own mind where he desires everything to go as planned but is instead faced with his fears and an altered reality that his mind presents to him.",
+            "budget": 5000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4XNmQd2OSELmEeh0e056h1b5NB6.jpg",
+            "production_companies": [
+                {
+                    "id": 130912,
+                    "logo_path": null,
+                    "name": "Citron Pictures",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [],
+            "vote_average": 9.5,
+            "vote_count": 2,
+            "review": null
+        },
+        "revenue": 100
+    },
+    {
+        "id": 64686,
+        "imdb": {
+            "imdb_id": "tt1335975",
+            "title": "47 Ronin",
+            "director": "nm0727754",
+            "release_year": "2013",
+            "main_actor": "nm0000206",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 64686,
+            "overview": "Kai\u2014an outcast\u2014joins Oishi, the leader of 47 outcast samurai.  Together they seek vengeance upon the treacherous overlord who killed their master and banished their kind.  To restore honour to their homeland, the warriors embark upon a quest that challenges them with a series of trials that would destroy ordinary warriors.",
+            "budget": 175000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/xDHnmcroujCRG0ysYQaiswjbyHd.jpg",
+            "production_companies": [
+                {
+                    "id": 2735,
+                    "logo_path": null,
+                    "name": "Mid Atlantic Films",
+                    "origin_country": "HU"
+                },
+                {
+                    "id": 4403,
+                    "logo_path": null,
+                    "name": "Stuber Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 20478,
+                    "logo_path": "/gSS2OBc6dRsK2ewRx5lcwnARrpl.png",
+                    "name": "Moving Picture Company",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 20851,
+                    "logo_path": null,
+                    "name": "H2F Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7295,
+                    "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+                    "name": "Relativity Media",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 2638,
+            "review": "I had some expectations on this movie. Samurai\u2019s, fantasy, magic etc\u2026 Sounds good to me alright. Well, as it turned out after having watched it I feel that my expectations was not entirely fulfilled. It is a decent enough movie. Certainly enjoyable to watch. But it is, in my opinion, not a great move and I cannot give it more than an average okay rating.\r\n\r\nI have not read the original story which the movie is, supposedly, based nor seen any of the other 47 Ronin movies that have been made. Thus I did not really know what the story was except what was the public storyline nor do I know if the movie actually follows the original story in any great detail. The basic story in the movie is a good one though. Classic, simple and perhaps not very original but a good concept for making a good adventure movie.\r\n\r\nThe movie is entertaining\u2026to an extent. There are plenty of nice scenes, action, special effects that all make the movie worthwhile to watch. The Japanese, samurai, setting is one that is not used very often in major movies except of course for a bunch of fairly ludicrous martial arts movies which cater for a rather limited audience and generally on a very low-budget.\r\n\r\nHowever, I never really felt much attachment to any of the characters. Even the half-breed, which are supposed to be the hero, never seemed to lift above the ordinary. The bad guy could have been any two-bit crook in a TV-show. The witch was a bit better but still rather meh. The Shogun at least provoked a bit of emotions but not in a good way. What an asshole! Not a shred of investigation when Lord Asano was bewitched. Just \u201cgo kill yourself\u201d. Then after the 47 Ronins had actually proven his innocence as well as proven themselves to be the most loyal and capable warriors around the dumb fuck wants them killed because they disobeyed his orders which where total nonsense from the start. As a matter of fact, the ending dragged down the movie quite a lot for me.\r\n\r\nStill a movie worth watching but it could have been a lot better."
+        },
+        "revenue": 150962475
+    },
+    {
+        "id": 80585,
+        "imdb": {
+            "imdb_id": "tt1336608",
+            "title": "Rock of Ages",
+            "director": "nm0788202",
+            "release_year": "2012",
+            "main_actor": "nm2584600",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 80585,
+            "overview": "A small town girl and a city boy meet on the Sunset Strip, while pursuing their Hollywood dreams.",
+            "budget": 75000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10402,
+                    "name": "Music"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/vQiMImdW7T28ETeftN9YIxn9HDf.jpg",
+            "production_companies": [
+                {
+                    "id": 2378,
+                    "logo_path": "/5xDJwLbyyt8IXuRAsR7kVibLDYF.png",
+                    "name": "Offspring Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 12,
+                    "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+                    "name": "New Line Cinema",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 8871,
+                    "logo_path": null,
+                    "name": "Corner Store Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 12139,
+                    "logo_path": null,
+                    "name": "Material Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.2,
+            "vote_count": 898,
+            "review": "The movie was great!"
+        },
+        "revenue": 59418613
+    },
+    {
+        "id": 32511,
+        "imdb": {
+            "imdb_id": "tt1337051",
+            "title": "Politist, adjectiv",
+            "director": "nm1717949",
+            "release_year": "2009",
+            "main_actor": "nm1058007",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 32511,
+            "overview": "A cop named Cristi must go undercover to trail teen Victor who is suspected of selling pot in the north-eastern city of Vasliu.",
+            "budget": 1089360,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/yiimBQLll8l6SXyNjder7ToilDi.jpg",
+            "production_companies": [
+                {
+                    "id": 51274,
+                    "logo_path": null,
+                    "name": "42 Km Film",
+                    "origin_country": "RO"
+                },
+                {
+                    "id": 83867,
+                    "logo_path": null,
+                    "name": "Periscop Film",
+                    "origin_country": ""
+                },
+                {
+                    "id": 83868,
+                    "logo_path": null,
+                    "name": "Racova",
+                    "origin_country": ""
+                },
+                {
+                    "id": 83869,
+                    "logo_path": null,
+                    "name": "Raza Studio",
+                    "origin_country": ""
+                },
+                {
+                    "id": 3268,
+                    "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+                    "name": "HBO",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "RO",
+                    "name": "Romania"
+                }
+            ],
+            "vote_average": 6.5,
+            "vote_count": 36,
+            "review": "Master piece of how to tell a simple but deep story in the best and more realistic way.\r\n\r\nWell chosen cast, really good staging, dialogues and performance.\r\n\r\nA really good movie."
+        },
+        "revenue": 48298
+    },
+    {
+        "id": 54524,
+        "imdb": {
+            "imdb_id": "tt1339161",
+            "title": "Der R\u00e4uber",
+            "director": "nm0374663",
+            "release_year": "2010",
+            "main_actor": "nm0527278",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 54524,
+            "overview": "A champion marathoner leads a double life as a serial bank robber, sprinting between fixes (and away from police cavalcades) as many as three times a day.",
+            "budget": 3900000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/wxJ579nYUXzy9WeI13hIPld8tDs.jpg",
+            "production_companies": [
+                {
+                    "id": 2744,
+                    "logo_path": null,
+                    "name": "Nikolaus Geyrhalter Filmproduktion",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AT",
+                    "name": "Austria"
+                },
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 62,
+            "review": null
+        },
+        "revenue": 208475
+    },
+    {
+        "id": 760348,
+        "imdb": {
+            "imdb_id": "tt13394078",
+            "title": "Gal Dil Di",
+            "director": "nm11639239",
+            "release_year": "2020",
+            "main_actor": "nm12034185",
+            "main_genre": "Music"
+        },
+        "tmdb": {
+            "tmdb_id": 760348,
+            "overview": "Gal Dil Di\r Directed By -  Parry Sandhu & Harjaspreet Singh",
+            "budget": 500,
+            "genres": [
+                {
+                    "id": 10402,
+                    "name": "Music"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/yeBgOwDlsGrgIMf8j8fsuJjPiLJ.jpg",
+            "production_companies": [
+                {
+                    "id": 142848,
+                    "logo_path": "/5vKermkZgmyImCeoG40a7JOvGTz.png",
+                    "name": "Ambala Productions",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 700
+    },
+    {
+        "id": 44716,
+        "imdb": {
+            "imdb_id": "tt1340107",
+            "title": "H\u00e6vnen",
+            "director": "nm0081540",
+            "release_year": "2010",
+            "main_actor": "nm0675409",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 44716,
+            "overview": "The lives of two Danish families cross each other, and an extraordinary but risky friendship comes into bud. But loneliness, frailty and sorrow lie in wait.",
+            "budget": 15000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/dJpPpgf2z5lNw6xVxvfWm0lexNH.jpg",
+            "production_companies": [
+                {
+                    "id": 76,
+                    "logo_path": null,
+                    "name": "Zentropa Entertainments",
+                    "origin_country": "DK"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DK",
+                    "name": "Denmark"
+                },
+                {
+                    "iso_3166_1": "SE",
+                    "name": "Sweden"
+                }
+            ],
+            "vote_average": 7.3,
+            "vote_count": 251,
+            "review": "Good script, good direction, good photography and good performances, specially from the children.\r\n\r\nThis story about bullying and problematic families would have everythiing if it wouldn't be because it is too obvious and predictable. Almost, manipulative.\r\n\r\nI think I even liked it more because I'm starting to \"understand\" more and more the Scandinavian culture and its problems."
+        },
+        "revenue": 13004198
+    },
+    {
+        "id": 87101,
+        "imdb": {
+            "imdb_id": "tt1340138",
+            "title": "Terminator Genisys",
+            "director": "nm0851930",
+            "release_year": "2015",
+            "main_actor": "nm0000216",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 87101,
+            "overview": "The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John's fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever.",
+            "budget": 155000000,
+            "genres": [
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg",
+            "production_companies": [
+                {
+                    "id": 82819,
+                    "logo_path": "/5Z8WWr0Lf1tInVWwJsxPP0uMz9a.png",
+                    "name": "Skydance Media",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 4,
+                    "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.9,
+            "vote_count": 6401,
+            "review": "Some people have said that _Terminator: Genisys_ is disrespectful to its source material (first two films) but I disagree. Out of what is clearly a massive homage to _Judgement Day_, _Genisys_ gives away the entire plot and central \u201ctwist\u201d in its promotional material months before its release, just like _Judgement Day_ did!\r\n\r\nAll levity aside, _Terminator: Genisys_ is not great. They took some risks with their casting and it didn\u2019t explode in their face which is nice, a lot of the effects were very visually impressive, and it was fun to see the weapons of the future be purple lasers again, but these aren\u2019t things that make a good movie by themselves. When you mix them up with a plot that doesn\u2019t completely make sense, a story that\u2019s just plain not all that great, some hammy dialogue and a lacklustre ending, then you SPOIL YOUR OWN DAMN MOVIE IN THE TRAILERS **AND** POSTERS, then you\u2019re lucky to even be coming away with a middle of the road score like this one.\r\n\r\nAt least it\u2019s not _Rise of the Machines_.\r\n\r\n_Final rating: \u2605\u2605 - Had some things that appeal to me, but a poor finished product._"
+        },
+        "revenue": 440603537
+    },
+    {
+        "id": 49517,
+        "imdb": {
+            "imdb_id": "tt1340800",
+            "title": "Tinker Tailor Soldier Spy",
+            "director": "nm0019247",
+            "release_year": "2011",
+            "main_actor": "nm0000198",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 49517,
+            "overview": "In the bleak days of the Cold War, espionage veteran George Smiley is forced from semi-retirement to uncover a Soviet mole within his former colleagues at the heart of MI6.",
+            "budget": 30000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/bsL9UZPCmQKgl88wXwMulKuw9Jh.jpg",
+            "production_companies": [
+                {
+                    "id": 694,
+                    "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+                    "name": "StudioCanal",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 2051,
+                    "logo_path": null,
+                    "name": "Kinowelt Filmproduktion",
+                    "origin_country": ""
+                },
+                {
+                    "id": 6301,
+                    "logo_path": null,
+                    "name": "Cin\u00e9Cin\u00e9ma",
+                    "origin_country": ""
+                },
+                {
+                    "id": 10163,
+                    "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+                    "name": "Working Title Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 23697,
+                    "logo_path": null,
+                    "name": "Karla Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 104,
+                    "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+                    "name": "Canal+",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 1757,
+            "review": "The russians have placed a mole within the Circus (who is the british intelligence service, by the way). George Smiley (Gary Oldman), having been fired from the Circus, has now been rehired (secretly) to find the mole. He assembles his small team and begins to look into the matters. The possibilities are plenty, Percy (Toby Jones), Esterhase (David Dencik), Roy Bland (Ciaran Hinds) and Bill Haydon (Colin Firth). His old friend, Control (John Hurt), even suspected George himself of being the mole.\r\n\r\nThis movie is directed by a personal favorite of mine, Tomas Alfredson, who also created the vampire movie, _Let the Right One In_ (Lad den rette komme ind), as well as the amazing, _Four Shades of Brown_ (fire nuancer af brun). He is a master of creating a dark and mysterious atmosphere, and does exactly that in this movie. The pace is slow, the music is scarce and the colours are old and faded, perfect for a spy movie such as this.\r\n\r\nWatching this movie is like watching a puzzle being carefully put together in front of you. It takes time to get it just right, and you have to look carefully at all the pieces. Good things takes time, and this movie understands that. The viewer has to watch carefully, because it constantly goes from the present and into the past. People who have died, are resurrected in the memories of the past, to help us construct the final image.\r\n\r\n_Last words... this movie will not appeal to everyone, it requires the viewer to be active, watch carefully, and to appreciate the slow narrative. I will gladly admit that I have tried watching this movie three times before I finally succeeded in watching all of it. I am not normally a fan of these sort of movies, but I can always appreciate spectacular acting, and the craftmanship of a truly great director, and so, this movie becomes so much more than just a spy movie. It becomes a movie about people living on the edge of a war, trying to survive, trying to find the one threat that might break down the wall and destroy the british empire._"
+        },
+        "revenue": 80630608
+    },
+    {
+        "id": 15980,
+        "imdb": {
+            "imdb_id": "tt1340838",
+            "title": "Raaz: The Mystery Continues",
+            "director": "nm1887138",
+            "release_year": "2009",
+            "main_actor": "nm2144007",
+            "main_genre": "Horror"
+        },
+        "tmdb": {
+            "tmdb_id": 15980,
+            "overview": "A beautiful lady turns up in an architect's masterpiece.When he founds that she is real, he realizes that she is haunted and hunted by the reasons they have to find out",
+            "budget": 6250000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/oD6Its4oXC8CzdxgDHXo9RgzRMe.jpg",
+            "production_companies": [
+                {
+                    "id": 3749,
+                    "logo_path": null,
+                    "name": "Vishesh Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 28,
+            "review": null
+        },
+        "revenue": 8000000
+    },
+    {
+        "id": 37495,
+        "imdb": {
+            "imdb_id": "tt1341167",
+            "title": "Four Lions",
+            "director": "nm0606439",
+            "release_year": "2010",
+            "main_actor": "nm0011451",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 37495,
+            "overview": "A group of young Muslim men living in Sheffield decide to wage jihad, and they hatch an inept plan to become suicide bombers. Omar and Waj have a brief, disastrous run at a Pakistan training camp, while Faisal works on an unlikely scheme to train birds to carry bombs.",
+            "budget": 967686,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/lU9WFPChJ1CsD5kZuYoCdoAlbRd.jpg",
+            "production_companies": [
+                {
+                    "id": 12180,
+                    "logo_path": "/ye2vKF2MZbVPzof7YZjeRUkL7Up.png",
+                    "name": "Warp Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 15308,
+                    "logo_path": null,
+                    "name": "Wild Bunch Distribution",
+                    "origin_country": ""
+                },
+                {
+                    "id": 10485,
+                    "logo_path": "/87tUvESDOf46JSIYLXLGIWhE73q.png",
+                    "name": "Drafthouse Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 6705,
+                    "logo_path": "/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png",
+                    "name": "Film4 Productions",
+                    "origin_country": "GB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 7.0,
+            "vote_count": 779,
+            "review": "Hilarious from the start to the end."
+        },
+        "revenue": 4658570
+    },
+    {
+        "id": 42888,
+        "imdb": {
+            "imdb_id": "tt1341188",
+            "title": "How Do You Know",
+            "director": "nm0000985",
+            "release_year": "2010",
+            "main_actor": "nm0000702",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 42888,
+            "overview": "After being cut from the USA softball team and feeling a bit past her prime, Lisa finds herself evaluating her life and in the middle of a love triangle, as a corporate guy in crisis competes with her current, baseball-playing beau.",
+            "budget": 120000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/jbOnp79eUZxQHgcdnTIRlxel1dE.jpg",
+            "production_companies": [
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 18,
+                    "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+                    "name": "Gracie Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2648,
+                    "logo_path": null,
+                    "name": "Road Rebel",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.2,
+            "vote_count": 660,
+            "review": "Boring watch, won't watch again, and can't recommend.\r\n\r\nPaul Rudd (especially) and Jack Nicholson are actors I would use as a barometer for movie quality, and even Reese Witherspoon (even though I'm not a big fan) usually is in quality movies, but this is just such a dud.\r\n\r\nIt's the rom com equivalent to watching paint dry.  Everything about it draws enormous attention to what you would expect to be happening and not doing it.  Trust me, I understand that subversion of expectation is comedy, but there is a rate of diminishing returns on the repetition and duration of the joke, and if you play with that line, then you're writing a comedy for comedy writers because they are the only ones that are going to look at the movie / life as a punchline, and I don't think that is what they were going for.\r\n\r\nThere is an underlying theme of patience and adaptability: life will even out even in the roughest of situations, but the movie just sort of stops without even an epilogue, they're just literally and suddenly not there anymore.\r\n\r\nI think there is a lot to get out of the movie, if you're strong enough to reach for it: a man who has everything but doesn't give you what you need isn't as good a man who has almost nothing and wants to give you what you need.  It's a counter argument to \"Nice guys finish last\".\r\n\r\nPlease don't waste your time, go watch anything else Paul Rudd has been in except for the one where he buys a French villa."
+        },
+        "revenue": 48668907
+    }
+]

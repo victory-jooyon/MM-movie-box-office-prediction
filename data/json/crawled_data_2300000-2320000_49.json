@@ -1,0 +1,2925 @@
+[
+    {
+        "id": 109729,
+        "imdb": {
+            "imdb_id": "tt2292959",
+            "title": "The Canyons",
+            "director": "nm0001707",
+            "release_year": "2013",
+            "main_actor": "nm0517820",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 109729,
+            "overview": "The discovery of an illicit love affair leads two young Angelenos on a violent, sexually charged tour through the dark side of human nature.",
+            "budget": 250000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/5tZR5o2KJXY6UGxoCsuCmZqROwO.jpg",
+            "production_companies": [
+                {
+                    "id": 40796,
+                    "logo_path": null,
+                    "name": "Filmworks/FX",
+                    "origin_country": ""
+                },
+                {
+                    "id": 40797,
+                    "logo_path": null,
+                    "name": "Prettybird",
+                    "origin_country": ""
+                },
+                {
+                    "id": 40798,
+                    "logo_path": null,
+                    "name": "Post Empire Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 40799,
+                    "logo_path": null,
+                    "name": "Sodium Fox",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 4.6,
+            "vote_count": 172,
+            "review": null
+        },
+        "revenue": 56825
+    },
+    {
+        "id": 211672,
+        "imdb": {
+            "imdb_id": "tt2293640",
+            "title": "Minions",
+            "director": "nm1853544",
+            "release_year": "2015",
+            "main_actor": "nm0000113",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 211672,
+            "overview": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+            "budget": 74000000,
+            "genres": [
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/vlOgaxUiMOA8sPDG9n3VhQabnEi.jpg",
+            "production_companies": [
+                {
+                    "id": 6704,
+                    "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+                    "name": "Illumination Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.4,
+            "vote_count": 8399,
+            "review": "The minions are a nice idea and the animation and London recreation is really good, but that's about it.\r\n\r\nThe script is boring and the jokes not really funny."
+        },
+        "revenue": 1156730962
+    },
+    {
+        "id": 187017,
+        "imdb": {
+            "imdb_id": "tt2294449",
+            "title": "22 Jump Street",
+            "director": "nm0588087",
+            "release_year": "2014",
+            "main_actor": "nm1475594",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 187017,
+            "overview": "After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college. But when Jenko meets a kindred spirit on the football team, and Schmidt infiltrates the bohemian art major scene, they begin to question their partnership. Now they don't have to just crack the case - they have to figure out if they can have a mature relationship. If these two overgrown adolescents can grow from freshmen into real men, college might be the best thing that ever happened to them.",
+            "budget": 50000000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ajB6cGvoy04438RzvfO6Sz28yMK.jpg",
+            "production_companies": [
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 333,
+                    "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+                    "name": "Original Film",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2531,
+                    "logo_path": "/pC2iDCDCvV85vOBP7a5Ukxuc0Du.png",
+                    "name": "MRC",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 34034,
+                    "logo_path": null,
+                    "name": "LStar Capital",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 21,
+                    "logo_path": "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png",
+                    "name": "Metro-Goldwyn-Mayer",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5585,
+                    "logo_path": null,
+                    "name": "Stephen J. Cannell Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 119381,
+                    "logo_path": null,
+                    "name": "Storyville",
+                    "origin_country": ""
+                },
+                {
+                    "id": 119382,
+                    "logo_path": null,
+                    "name": "75 Year Plan Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 34,
+                    "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+                    "name": "Sony Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 6129,
+            "review": "**From a review written in 2014:**\r\n\r\nI\u2019m sure if I really thought about it, I could easily fault _22 Jump Street_, second in the recent reboot of the 1987 TV series. But I don\u2019t want to think about it, \u2018cause I had a good time and that\u2019s how I choose to remember it.\r\n\r\nTo Hell with what so-called \u201cprofessional\u201d critics are saying, _22 Jump Street_ is not dumb. It\u2019s actually pretty bloody smart. It\u2019s not particularly deep. Or thought-provoking. Or fresh. Or original. Or mature. Or cultured. Or subtle\u2026 But it is smart! And funny. Which for a comedy is more important than anything else.\r\n\r\n_22 Jump Street_ is very aware of itself, and that can be a tough line to walk, but I think it just managed to get right, brining in some serious meta-humour rather than coming across as arrogant or lazy.\r\n\r\nJust.\r\n\r\nI\u2019m not particularly big on comedies, and American comedies are certainly pretty low even on that list. But I have been known to come across the odd pleasant surprise. _21 Jump Street_ was one of them (especially considering I assumed it would be akin to the original series, which was a straight laced procedural crime drama\u2026) and now 22 Jump Street is another I can add to that list.\r\n\r\n_75%_\r\n\r\n_-Gimly_"
+        },
+        "revenue": 188441614
+    },
+    {
+        "id": 109445,
+        "imdb": {
+            "imdb_id": "tt2294629",
+            "title": "Frozen",
+            "director": "nm1601644",
+            "release_year": "2013",
+            "main_actor": "nm0068338",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 109445,
+            "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa\u2019s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+            "budget": 150000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg",
+            "production_companies": [
+                {
+                    "id": 2,
+                    "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+                    "name": "Walt Disney Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 6125,
+                    "logo_path": "/tVPmo07IHhBs4HuilrcV0yujsZ9.png",
+                    "name": "Walt Disney Animation Studios",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.3,
+            "vote_count": 12618,
+            "review": "\"Frozen,\" the latest Disney musical extravaganza, preaches the importance of embracing your true nature but seems to be at odds with itself.\r\n\r\nThe animated, 3-D adventure wants to enliven and subvert the conventions of typical Disney princess movies while simultaneously remaining true to their aesthetic trappings for maximum merchandising potential. It encourages young women to support and stay loyal to each other\u2014a crucial message when mean girls seem so prevalent\u2014as long as some hunky potential suitors and adorable, wise-cracking creatures also are around to complete them.\r\n\r\nIt all seems so cynical, this attempt to shake things up without shaking them up too much. \"Frozen\" just happens to be reaching theaters as Thanksgiving and the holiday shopping season are arriving. The marketing possibilities are mind-boggling. And in the tradition of the superior \"Beauty and the Beast\" and \"The Little Mermaid,\" surely \"Frozen: The Musical\" will be headed to the Broadway stage soon. The songs \u2013 which are lively and amusing if not quite instant hits\u2014are already in place. \r\n\r\nLittle girls will absolutely love it, though. That much is undeniable. And the film from co-directors Chris Buck (\"Surf's Up\") and Jennifer Lee is never less than gorgeous to watch. A majestic mountaintop ice castle is particularly exquisite\u2014glittery and detailed and tactile, especially as rendered in 3-D.\r\n\r\nBut first we must witness the tortured backstory of the film's princesses \u2013 not one, but two of them. The script from \"Wreck-It Ralph\" co-writer Lee, inspired by the Hans Christian Andersen story \"The Snow Queen,\" has lots of cheeky, contemporary touches but is firmly and safely rooted in Scandinavian fairy tale traditions.\r\n\r\nWhen they were young girls, sisters Anna and Elsa were joyous playmates and inseparable friends. But Elsa's special power\u2014her ability to turn anything to ice and snow in a flash from her fingertips\u2014comes back to haunt her when she accidentally zaps her sister. (Not unlike the telekinesis in \"Carrie,\" Elsa inadvertently unleashes her power in moments of heightened emotion.) A magical troll king heals Anna and erases the event from her memory, but as for the sisters' relationship, the damage is done.\r\n\r\nElsa's parents lock her away and close down the castle, which devastates the younger Anna. (Of the many tunes from \"Avenue Q\" and \"The Book of Mormon\" songwriter Robert Lopez and his wife, Kristen Anderson-Lopez, the wistful \"Do You Want to Build a Snowman?\" is by far the most poignant.) But once they reach adolescence and it's Elsa's turn to take over the throne at age 18, the two experience an awkward reunion.\r\n\r\nThe perky, quirky Anna (now voiced by a likable Kristen Bell) is a little nervous but overjoyed to see her sister. The reserved and reluctant Elsa (Broadway veteran Idina Menzel) remains distant, and with gloved hands hopes not to freeze anything and reveal her true self on coronation day. But a run-in with an amorous, visiting prince (Santino Fontana) who sets his sights on Anna triggers Elsa's ire, and she inadvertently plunges the sunny, idyllic kingdom into perpetual winter.\r\n\r\nFlustered and fearful, Elsa dashes away in a fit of self-imposed exile \u2013 which significantly weakens \"Frozen,\" since she's the film's most complicated and compelling figure. On her way to the highest mountain she can find, Elsa belts out the power ballad \"Let It Go,\" her version of \"I Am Woman.\" This soaring declaration of independence is the reason you want a performer of Menzel's caliber in this role, and it's the film's musical highlight. (Her flashy physical transformation from prim princess to ice queen does make her resemble a real housewife of some sort, however.)\r\n\r\nAfterward, though, the story settles in on Anna's efforts to retrieve her sister and restore order to the kingdom. Along the way she gets help from an underemployed ice salesman named Kristoff (Jonathan Groff) and his trusty reindeer sidekick, Sven. They all meet up with a singing snowman named Olaf (a lovably goofy Josh Gad, star of \"The Book of Mormon\" on Broadway) who dreams of basking in the warmth of the summer sun. This \"Wizard of Oz\"-style quartet makes the obstacle-filled trek to the imposing fortress that awaits. (At least \"Frozen\" has the decency to borrow from excellent source material.)\r\n\r\nWhile the journey may seem overly familiar, the destination has some surprises in store. Some come out of nowhere and don't exactly work. But the biggie\u2014the one that's a real game-changer in terms of the sorts of messages Disney animated classics have sent for decades\u2014is the one that's important not just for the little girls in the audience, but for all viewers. http://newmoviestream.co/watch/2294629/frozen\r\nwish everything about the film met the same clever standard."
+        },
+        "revenue": 1274219009
+    },
+    {
+        "id": 157360,
+        "imdb": {
+            "imdb_id": "tt2294677",
+            "title": "In a World...",
+            "director": "nm1128572",
+            "release_year": "2013",
+            "main_actor": "nm1128572",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 157360,
+            "overview": "An underachieving vocal coach is motivated by her father, the king of movie-trailer voice-overs, to pursue her aspirations of becoming a voice-over star. Amidst pride, sexism and family dysfunction, she sets out to change the voice of a generation.",
+            "budget": 1000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/xbuiPYXOk1aHaNf7o2mAQxeDs7s.jpg",
+            "production_companies": [
+                {
+                    "id": 80062,
+                    "logo_path": null,
+                    "name": "More Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 19632,
+                    "logo_path": "/q2kFlMm4C9UTWgSrJA6iSmDvWMI.png",
+                    "name": "3311 Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 19633,
+                    "logo_path": null,
+                    "name": "In A World",
+                    "origin_country": ""
+                },
+                {
+                    "id": 19634,
+                    "logo_path": null,
+                    "name": "Team G",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.4,
+            "vote_count": 377,
+            "review": null
+        },
+        "revenue": 2963902
+    },
+    {
+        "id": 204810,
+        "imdb": {
+            "imdb_id": "tt2295196",
+            "title": "Hunting Elephants",
+            "director": "nm1137030",
+            "release_year": "2013",
+            "main_actor": "nm0299924",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 204810,
+            "overview": "In this hilarious crime comedy, a gifted 12-year-old boy and three elderly men plan a bank robbery in order to seek revenge on the institution for cheating the youngster after the death of his father.",
+            "budget": 2300000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/3TUvIdxFhJTILwrcaO2z6ZvIdyO.jpg",
+            "production_companies": [
+                {
+                    "id": 16,
+                    "logo_path": "/7690NQfOfnbvrY3vFgyMO2Pc8WS.png",
+                    "name": "United King Films",
+                    "origin_country": "IL"
+                },
+                {
+                    "id": 1872,
+                    "logo_path": "/559H3L3CP1dJsHLSS3XSe5GNkW0.png",
+                    "name": "Bleiberg Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IL",
+                    "name": "Israel"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 17,
+            "review": null
+        },
+        "revenue": 4500000
+    },
+    {
+        "id": 270938,
+        "imdb": {
+            "imdb_id": "tt2295722",
+            "title": "Falcon Rising",
+            "director": "nm0053228",
+            "release_year": "2014",
+            "main_actor": "nm0925220",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 270938,
+            "overview": "Chapman is an ex-marine in Brazil's slums, battling the yakuza outfit who attacked his sister and left her for dead.",
+            "budget": 4500000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/75KAhwdW5ZVNz5Uo3YbexXfoEz8.jpg",
+            "production_companies": [
+                {
+                    "id": 39075,
+                    "logo_path": null,
+                    "name": "Strohberry Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 213,
+            "review": null
+        },
+        "revenue": 11774
+    },
+    {
+        "id": 370567,
+        "imdb": {
+            "imdb_id": "tt2296777",
+            "title": "Sherlock Gnomes",
+            "director": "nm0828970",
+            "release_year": "2018",
+            "main_actor": "nm0000136",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 370567,
+            "overview": "Garden gnomes, Gnomeo & Juliet, recruit renown detective, Sherlock Gnomes, to investigate the mysterious disappearance of other garden ornaments.",
+            "budget": 59000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg",
+            "production_companies": [
+                {
+                    "id": 28320,
+                    "logo_path": "/5UPGj1MwzrtxclRGTfeiQ1J0zVk.png",
+                    "name": "Rocket Pictures",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 24955,
+                    "logo_path": "/bX3cYCRWdddXTgIcDEfNiVa8U4j.png",
+                    "name": "Paramount Animation",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 21,
+                    "logo_path": "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png",
+                    "name": "Metro-Goldwyn-Mayer",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 508,
+            "review": "I was never gonna come in stanning a _Gnome_ franchise, that's a no brainer. But this one is much worse than even the first movie.\r\n\r\nAlso, STOP PRETENDING ACTORS ARE THE SAME THING AS VOICE ACTORS.\r\n\r\n_Final rating:\u2605 - Of no value. Avoid at all costs._"
+        },
+        "revenue": 87625666
+    },
+    {
+        "id": 172792,
+        "imdb": {
+            "imdb_id": "tt2298224",
+            "title": "Holy Ghost People",
+            "director": "nm1243970",
+            "release_year": "2013",
+            "main_actor": "nm4563896",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 172792,
+            "overview": "On the trail of her missing sister, Charlotte enlists the help of Wayne, an ex-Marine and alcoholic, to infiltrate the Church of One Accord - a community of snake-handlers who risk their lives seeking salvation in the Holy Ghost.",
+            "budget": 2000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/xOj2cgybwPhlE3OCXg04hPiptkx.jpg",
+            "production_companies": [
+                {
+                    "id": 23928,
+                    "logo_path": null,
+                    "name": "San Francisco Independent Cinema",
+                    "origin_country": ""
+                },
+                {
+                    "id": 27912,
+                    "logo_path": null,
+                    "name": "Indie Entertainment",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [],
+            "vote_average": 5.1,
+            "vote_count": 23,
+            "review": null
+        },
+        "revenue": 120000
+    },
+    {
+        "id": 123377,
+        "imdb": {
+            "imdb_id": "tt2299842",
+            "title": "Pieta",
+            "director": "nm1104118",
+            "release_year": "2012",
+            "main_actor": "nm5180933",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 123377,
+            "overview": "A loan shark is forced to reconsider his violent lifestyle after the arrival of a mysterious woman claiming to be his long-lost mother.",
+            "budget": 103000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/cI9SXHxBsEF0cgUTZKDDaPC0ozT.jpg",
+            "production_companies": [
+                {
+                    "id": 20064,
+                    "logo_path": "/6HvsksiEE7DknfZU5HT1mUs563q.png",
+                    "name": "Next Entertainment World",
+                    "origin_country": "KR"
+                },
+                {
+                    "id": 684,
+                    "logo_path": null,
+                    "name": "Kim Ki Duk Film",
+                    "origin_country": "KR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "KR",
+                    "name": "South Korea"
+                }
+            ],
+            "vote_average": 7.1,
+            "vote_count": 209,
+            "review": null
+        },
+        "revenue": 3623330
+    },
+    {
+        "id": 203834,
+        "imdb": {
+            "imdb_id": "tt2300975",
+            "title": "Jessabelle",
+            "director": "nm0340436",
+            "release_year": "2014",
+            "main_actor": "nm3512758",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 203834,
+            "overview": "A young woman recuperating at her father's run-down home after a tragic accident soon encounters a terrifying presence with a connection to her long-deceased mother.",
+            "budget": 1000000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/oyszsO25OfSxkxhKCCnk9ZrAjkp.jpg",
+            "production_companies": [
+                {
+                    "id": 37845,
+                    "logo_path": null,
+                    "name": "Principato-Young Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1632,
+                    "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                    "name": "Lionsgate",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3172,
+                    "logo_path": "/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+                    "name": "Blumhouse Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.4,
+            "vote_count": 561,
+            "review": "Empty watch, won't watch again, and can't recommend.\r\n\r\nI basically gave this a shot because Sarah Snook looked cute and it was a horror movie I hadn't heard about.  I had really expected it to get a lot better from there.  Sadly it doesn't.\r\n\r\nThe opening sequence is an odd choice, but it's just a mechanic to get her in a wheelchair, which I really wanted to love, but it is used a cheap way to debilitate her and add to a fear of helplessness when it sort of does the opposite.  As someone who has had to use a wheelchair before, it separates the character from most of the audience because they don't have that frame of reference: it's alienating usually.  The movie has to be really good and draw the audience to relate to the character before they can overlook things that seem foreign to them.\r\n\r\nThere are some really good sequences with the ghost, and it actually reminded me of \"Evil Dead\" quite a bit, but it did sort of devolve into what looks like two girls mud wrestling, so I'm hoping that wasn't a factor.\r\n\r\nThe story is all jumbled and clunky in how it's told so it ruins all the parts that would make it interesting, but even with a good mystery / twist, I think the movie would have been average at best, and instead it's a waste of time.  There are so many better movies out there to watch."
+        },
+        "revenue": 23456897
+    },
+    {
+        "id": 188640,
+        "imdb": {
+            "imdb_id": "tt2301155",
+            "title": "Shootout at Wadala",
+            "director": "nm0348495",
+            "release_year": "2013",
+            "main_actor": "nm0438463",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 188640,
+            "overview": "The first-ever registered encounter by the Mumbai Police, which took place on November 1, 1982.",
+            "budget": 6900000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/qFcNJCXd2G18ngq4rFq601MbqbZ.jpg",
+            "production_companies": [
+                {
+                    "id": 3750,
+                    "logo_path": "/4YRT7sNsvvULDZclOcJkvNpDGOb.png",
+                    "name": "Balaji Motion Pictures",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [],
+            "vote_average": 6.2,
+            "vote_count": 20,
+            "review": null
+        },
+        "revenue": 11000000
+    },
+    {
+        "id": 117263,
+        "imdb": {
+            "imdb_id": "tt2302755",
+            "title": "Olympus Has Fallen",
+            "director": "nm0298807",
+            "release_year": "2013",
+            "main_actor": "nm0124930",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 117263,
+            "overview": "When the White House (Secret Service Code: \"Olympus\") is captured by a terrorist mastermind and the President is kidnapped, disgraced former Presidential guard Mike Banning finds himself trapped within the building. As the national security team scrambles to respond, they are forced to rely on Banning's inside knowledge to help retake the White House, save the President and avert an even bigger disaster.",
+            "budget": 70000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/gKnx04MxnKcf5uOdhHhAAkqcCg.jpg",
+            "production_companies": [
+                {
+                    "id": 925,
+                    "logo_path": "/dIb9hjXNOkgxu4kBWdIdK8nM4w.png",
+                    "name": "Nu Image",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1020,
+                    "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+                    "name": "Millennium Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 5011,
+            "review": "Olympus Has Fallen is, for all practical purposes, a modern remake of Die Hard that replaces Bruce Willis with Gerard Butler and Nakatomi Tower with the White House. Butler puts in a respectable performance as Mike Banning. Director Antoine Fuqua did as well as could be done with the story, and some gripping action makes it almost watchable. But the downfall of the film was its lazy writing.\r\n\r\nAlmost no part of Olympus Has Fallen is remotely believable. A single airplane penetrates into protected airspace around Washington D.C. and riddles the White House with bullets. It takes 15 minutes for armed reinforcements to arrive. The President of the United States risks the annihilation of a peaceful ally nation to prevent an acquaintance of his from being beaten up. I could go on. And on.\r\n\r\nFor this reason, the movie is somewhat painful to watch. You will certainly find yourself complaining loudly at the screen. And yet the action is riveting. Watch this movie, then try to forget it. 5.5/10."
+        },
+        "revenue": 161025640
+    },
+    {
+        "id": 114574,
+        "imdb": {
+            "imdb_id": "tt2304517",
+            "title": "Bikini Spring Break",
+            "director": "nm1714788",
+            "release_year": "2012",
+            "main_actor": "nm4131336",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 114574,
+            "overview": "A group of coeds from a small conservative college break out of their shells when their marching band bus breaks down in Fort Lauderdale during Spring Break.",
+            "budget": 500000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/uYpQnHfFqPRxOdEFExs9xHPNrXu.jpg",
+            "production_companies": [
+                {
+                    "id": 1311,
+                    "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+                    "name": "The Asylum",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 3.9,
+            "vote_count": 33,
+            "review": null
+        },
+        "revenue": 500000
+    },
+    {
+        "id": 111836,
+        "imdb": {
+            "imdb_id": "tt2304655",
+            "title": "Gabbar Singh",
+            "director": "nm2356507",
+            "release_year": "2012",
+            "main_actor": "nm0436302",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 111836,
+            "overview": "A boy runs away from home, angry with his stepfather and half-brother. Years later, he becomes a police inspector and fights a notorious criminal.",
+            "budget": 7000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/7HwczTLCE66fx0WZXD8sS0wG7N3.jpg",
+            "production_companies": [
+                {
+                    "id": 69630,
+                    "logo_path": null,
+                    "name": "Parameswara Art Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 11,
+            "review": null
+        },
+        "revenue": 16000000
+    },
+    {
+        "id": 192136,
+        "imdb": {
+            "imdb_id": "tt2304771",
+            "title": "Mandela: Long Walk to Freedom",
+            "director": "nm0149491",
+            "release_year": "2013",
+            "main_actor": "nm0252961",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 192136,
+            "overview": "A chronicle of Nelson Mandela's life journey from his childhood in a rural village through to his inauguration as the first democratically elected president of South Africa.",
+            "budget": 35000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/vR8jU60EU6FOsrmcoTdPoShyT8f.jpg",
+            "production_companies": [
+                {
+                    "id": 5031,
+                    "logo_path": null,
+                    "name": "Videovision Entertainment",
+                    "origin_country": "ZA"
+                },
+                {
+                    "id": 7396,
+                    "logo_path": null,
+                    "name": "Pathe",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 773,
+                    "logo_path": "/8GHHXJTeF5XU5a5EN6myMiYwSJh.png",
+                    "name": "Film Afrika Worldwide",
+                    "origin_country": "ZA"
+                },
+                {
+                    "id": 85681,
+                    "logo_path": "/1GZ94KYANlFvEyt6iUL0O3MAON4.png",
+                    "name": "Distant Horizon",
+                    "origin_country": "ZA"
+                },
+                {
+                    "id": 564,
+                    "logo_path": null,
+                    "name": "Industrial Development Corporation of South Africa",
+                    "origin_country": ""
+                },
+                {
+                    "id": 128339,
+                    "logo_path": null,
+                    "name": "National Empowerment Fund",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "ZA",
+                    "name": "South Africa"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 394,
+            "review": "Mandela: Long walk to Freedom is a straightforward biography which condenses Nelson Mandela's life without too many metaphors which pervades biopics these days. However at times too much of Mandela's life seems to be  rushed through and other associates in the ANC's struggle to end apartheid are sidelined or entirely absent.\r\n\r\nWe first see Mandela as the young ambitious lawyer and a  ladies man as well. Pretty soon he is married with children and involved heavily with the African National Congress. He divorces his first wife and then we switch to Mandela in his 40s when he meets Winnie who he married.\r\n\r\nMandela is then arrested for terrorism and imprisoned in Robben island.\r\n\r\nIt is only during imprisonment we see the divergence in Nelson and and Winnie's life. Because of her mistreatment by the police Winnie becomes more extreme in her struggle and resorts to violent means to end apartheid. The older Mandela is in secret talks with the government and opts for a peaceful way to unite South Africa.\r\n\r\nIdris Elba relishes the opportunity to play the great man. He gets the voice right but I thought he was far more comfortable as the older Nelson Mandela. Naomi Harris also comes across better as the older and more bitter Winnie Mandela.\r\n\r\nIf you want to know more about Nelson Mandela then this is the film for you."
+        },
+        "revenue": 27333835
+    },
+    {
+        "id": 299687,
+        "imdb": {
+            "imdb_id": "tt2304933",
+            "title": "The 5th Wave",
+            "director": "nm2128335",
+            "release_year": "2016",
+            "main_actor": "nm1631269",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 299687,
+            "overview": "16-year-old Cassie Sullivan tries to survive in a world devastated by the waves of an alien invasion that has already decimated the population and knocked mankind back to the Stone Age.",
+            "budget": 38000000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/37vpRkrD4OxQN0MQ7C59eszkylh.jpg",
+            "production_companies": [
+                {
+                    "id": 34034,
+                    "logo_path": null,
+                    "name": "LStar Capital",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3281,
+                    "logo_path": "/8tMybAieh64uzvm8knSjXOFX8Qc.png",
+                    "name": "GK Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 12139,
+                    "logo_path": null,
+                    "name": "Material Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.9,
+            "vote_count": 4517,
+            "review": "Well, the young adult movie adaptation genre continues to percolate despite the farewell sentiments as demonstrated by hugely popular products meant to entice the teen scene such as the Twilight, Divergent, Maze Runner and The Hunger Games film series. Sure, why not tamper with a proven formula that guarantees all the right ingredients to tap into the angst-ridden world of young feminine empowerment set against a background of apocalyptic strife and undefined self-discovery? In director J Blakeson\u2019s drippy and derivative dystopian drama The 5th Wave we are introduced to another similar sci-fi serving of a disillusioned heroine out to reflect some consciousness in a boundary of uncertainly and destructive despair. Sadly, The 5th Wave is nothing more than a stillborn alien invasion soap opera that wants to spout off its Hunger Games-esque copycat coating but fails to delve into anything remotely original or bitingly daring.\r\n\r\nThe 5th Wave is the literary brainchild of novelist Rick Yancey\u2019s printed pages as he brings to life the trials and tribulations of tenacious teen tart Cassie Sullivan (Chloe Grace Moretz from \u201cKick-Ass\u201d), a timid tyke-turned-guerilla warfare gal whose guts and gumption to find and protect her little brother during a full-scale alien invasion of the planet is put forth in flimsy animated fashion. Actually the young actress Moretz, a veteran of a few films already lodged under her belt, has quite a feisty presence on screen and more than holds her own as the \u201cprincess of panic\u201d in the generic doomsday drama that really brings nothing to the tension-filled table.\r\n\r\nThe material that Moretz is obligated to bring to life feels rather strained and stilted because the YA creative cloud hovers over the proceedings in a predictable, syrupy manner. The 5th Wave lacks the intensity and philosophical fiber that The Hunger Games effortlessly put forth in imaginable conception. Plus, the energy and bombastic buzz of Hunger Games imitator Divergent does not seem to be part of The 5th Wave\u2019s anemic pulse. Incredibly, Blakeson\u2019s lean and lacking futuristic feminine fable incorporates a cinematic stew of film flavors that heavily echoes such solid blueprints as everything from Red Dawn and Independence Day to the WOW-factor of blockbusters in Jurassic Park and Starship Troopers. The sad part is that even with the borrowing of these cinematic ideas The 5th Wave still registers as a limp alien invasion actioner without much punch or promise. The film is well-intentioned in its YA-oriented gravitas but will soon be dismissed as another Hunger Games wannabe going through the motions.\r\n\r\nAs with the inspired makeup that is at the root of these conventional YA melodramas, The 5th Wave offers its share of youth-minded dire and doom, romantic exploration and the element of military-style redemption and rebellion. As Moretz\u2019s Callie is called into action among the devastating ruins she is determined to reunite with her last surviving  relative Sam (Zackary Arthur). Soon, this mild-mannered schoolgirl has to whip into shape and protect the interests of her deteriorating community as the hard-nosed alien invaders look to wreak havoc and take over the world\u2013or at least Callie\u2019s part of the world that has her fellow citizens shocked and stunned.\r\n\r\nPoor Cassie\u2026in addition to her mind focusing on locating her sibling, revving up for her showdown with the alien intruders and shaking of her vulnerabilities she is caught in a love triangle that tests her limits. Should Cassie fall for the dashing and daring Ben (Nick Robinson, \u201cJurassic World\u201d), a fellow classmate about to enroll into the junior start-up army looking to combat the unwelcomed visitors or should her confused heart throb for backwoods bad boy Evan Walker (Alex Roe)? Also, how would Cassie feel if she discovers that her hunk-in-training may have a thing for the ravaging rough-around-the-edges recruit Ringer (Maika Monroe). Ah, love among the languishing landscape!\r\n\r\nIt is definitely the consensus that The 5th Wave may not be included in the Mount Rushmore of youth-friendly dystopias merely because it is nothing more than a shadowy reminiscence of the more defining, developed and decisive babes-in-the-woods boisterous actions. Even when not just comparing The 5th Wave to its better conceived contemporaries it dos not feel comfortable in its own mediocrity when standing on its own two feet. It is compelling only for its goal in pushing the conveyor belt of sci-fi YA duds to uphold Hollywood\u2019s attempt to kidnap the psyche of young moviegoers looking for the next big screen teen scene sensation to boost box office receipts.\r\n\r\nSorry but there is no need to take out the sci-fi surfing board for the tepid trappings of The 5th Wave. \r\n\r\nThe 5th Wave (2016)\r\n\r\nSony Pictures Entertainment/Columbia Pictures\r\n\r\n1 hr 53 mins.\r\n\r\nStarring: Chloe Grace Moretz, Nick Robinson, Alex Roe, Liev Schreiber, Maria Bello, Ron Livingston, Maika Monroe, Maggie Siff, and Zackary Arthur\r\n\r\nDirected by: J Blakeson\r\n\r\nMPAA Rating: PG-13\r\n\r\nGenre: Science Fiction/Teen Fantasy/Drama/Alien Invasion Thriller\r\n\r\nCritic\u2019s rating: ** stars (out of 4 stars)\r\n\r\n(c) Frank Ochieng 2016"
+        },
+        "revenue": 109906372
+    },
+    {
+        "id": 228970,
+        "imdb": {
+            "imdb_id": "tt2305051",
+            "title": "Wild",
+            "director": "nm0885249",
+            "release_year": "2014",
+            "main_actor": "nm0000702",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 228970,
+            "overview": "A woman with a tragic past decides to start her new life by hiking for one thousand miles on the Pacific Crest Trail.",
+            "budget": 15000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/wdqFCEAwQNi2Ze5pIBGVsgKLLmy.jpg",
+            "production_companies": [
+                {
+                    "id": 93542,
+                    "logo_path": null,
+                    "name": "bob industries",
+                    "origin_country": ""
+                },
+                {
+                    "id": 43,
+                    "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+                    "name": "Fox Searchlight Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 15829,
+                    "logo_path": null,
+                    "name": "Pacific Standard",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.0,
+            "vote_count": 1768,
+            "review": "> Return to where we've come from to revive our life.\r\n\r\nEver since the movie 'Dallas Buyers Club' grabbed the three golden statues at the Oscars, the director has been in the spotlight. But I was enjoying his movies before that and yet this one is another remarkable adventurous-drama based on the real expedition into the wild. Cheryl Strayed whose story was this film based upon appeared in the beginning scene where she drops off her version of the movie character and wishes her a luck.\r\n\r\nThe world is round, you can't runaway with your problems. If you do, you might end up where you have started. That's why its called a circle of life, goes round and round and round. You can hide your issues with yourself, but it may lead to a depression. Sometime when an experiment goes wrong, it's better to restart from the scratch with a different method. Here in our (human) lives some people do the same, return to where we've come from to restore the lost life. Of course I said all these, because this flick was inspired by such real incident.\r\n\r\nI prefer this film was very close to the Australian movie 'Tracks' than bringing 'Into the Wild' into the frame. Obviously the Australian movie and this one are about the two young women, but the thing is, the story deals with the different motivation for their decision to take part in the quest. The Aussie flick has an edge over this when it comes to the challenges faced during the journey and also I loved from narration to photography, music and performance.\r\n\r\nSince they both inspired by the true story, I appreciate the filmmaker's effort to bring them into the screen and salute to those two magnificent ladies. In both the films, both the women psychologically affected by their earlier stage of lives which was one of the reasons to step into the wild. I feel, 'Tracks' should have been nominated instead this movie for the Academy Awards.\r\n\r\n> I've always been someone's daughter or mother or wife.\r\n> I never got to be in the driver's seat of my own life.\r\n\r\nIt was a wonderful 2014 for Reese Witherspoon. Back to back career reviving; biographical and inspiring human emotion movies in this graphic, sci-fi and fantasy dominated era. The year's sweetheart for the critics and I doubt there will be another same year. Remember, she was nominated for the Oscars for her role in this film.\r\n\r\nThe disappointment was the adventures. Not what I expected. The struggles were unable to reach for our deep heart compared to other self-discovery voyage films. Weight she carried and losing a toe nail, I don't see much impact because those are supposed to happen. This PCT (Pacific Crest Trail) is well planned and partially protected the hikers with all the needs supplied all along the route. The only thing they have to do is stay away from the wild lives and watch-out for the intruders between the checkpoints.\r\n\r\nIn other end coping with depression was what I loved in the movie. Without those flashbacks this film was nothing. Literally, this story all about the mental healing. The pain she carried, she just wanted to eject it from her body and mind, and the journey helped it. The funny thing is I liked Laura Dern a lot than anybody in the movie. Her character as well as her dialogues was very inspiring. Her nominee for the actress in a supporting role was justified. I can watch this film again and again, only for her alone, sadly she won't appear for a long stay.\r\n\r\nI loved it, but not completely pleased with the product. The reason is 'Tracks'. I think the film came at the wrong time or maybe I saw this one when the other flick was still hot and fresh in my memory. An achievement is an achievement, I respect both the films. You like the movie or not, that's a secondary thought regarding movie's outcome.  But it's a must see for disclosing the extraordinary adventure of an ordinary young woman.\r\n\r\n7.5/10"
+        },
+        "revenue": 52501541
+    },
+    {
+        "id": 142158,
+        "imdb": {
+            "imdb_id": "tt2309220",
+            "title": "Los mejores temas",
+            "director": "nm2815383",
+            "release_year": "2012",
+            "main_actor": "nm0735851",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 142158,
+            "overview": "When Gabino's father returns home after a long absence, the two men awkwardly attempt to re-establish a relationship; but Gabino and his mother quickly tire of this man who has become a stranger to them and decide to kick him out, before realizing that he has already left. Gabino eventually tracks his father down and spends time with him in his rundown apartment, trying to figure out if there is any possibility for the two of them to ever truly communicate. Though Greatest Hits continues Pereda's exploration of his perennial themes of absence, masculinity and the difficulty of maintaining a family, it opens up a whole new set of aesthetic questions through a bold formal gambit: halfway through, the entire narrative reboots and starts from scratch with another actor playing one of the key characters, leading to different iterations of events already witnessed.",
+            "budget": 320000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/syW6D3G5HtnMjzycFn5SjQFqai4.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "MX",
+                    "name": "Mexico"
+                },
+                {
+                    "iso_3166_1": "NL",
+                    "name": "Netherlands"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 4,
+            "review": null
+        },
+        "revenue": 2333
+    },
+    {
+        "id": 299245,
+        "imdb": {
+            "imdb_id": "tt2309260",
+            "title": "The Gallows",
+            "director": "nm4000389",
+            "release_year": "2015",
+            "main_actor": "nm3790547",
+            "main_genre": "Horror"
+        },
+        "tmdb": {
+            "tmdb_id": 299245,
+            "overview": "20 years after a horrific accident during a small town school play, students at the school resurrect the failed show in a misguided attempt to honor the anniversary of the tragedy - but soon discover that some things are better left alone.",
+            "budget": 100000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4oBk2DsYRO0VuloOX52ROmz2QhU.jpg",
+            "production_companies": [
+                {
+                    "id": 69581,
+                    "logo_path": null,
+                    "name": "Tremendum Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 12,
+                    "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+                    "name": "New Line Cinema",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3172,
+                    "logo_path": "/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+                    "name": "Blumhouse Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 4220,
+                    "logo_path": null,
+                    "name": "Management 360",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 4.9,
+            "vote_count": 722,
+            "review": "**A night before the play!**\r\n\r\nIt is my personal opinion that I did not find the film any good. There's nothing new in it. Even those who haven't seen many films could name a couple of similar films. The best ones. The worst part was, in horror films, ten guys go in and only one comes out. Sometimes none. The found-footage presentation was okay for such concept. The film was short and one day event based. Most of the story was on the night in an auditorium. The initial part had fair space to kick-start the tale with a simple intro. And then the following event did not stay up to the buildup.\r\n\r\nThe basic storyline itself was very weak. The characters, and their behaviours, all easily gives out the upcoming scenes. So predictable, even the twist was ordinary. The way it ended was worse than ordinary. I felt the final scene with the cops was totally unnecessary. There's nothing wrong with the actors. Even filmmaking was acceptable. But I don't know how the production company okayed the screenplay. One of the low cost film, but earned better. Despite not received well by all the quarters. I would always encourage such small films, but I can't suggest it.\r\n\r\n_2/10_"
+        },
+        "revenue": 42664410
+    },
+    {
+        "id": 210947,
+        "imdb": {
+            "imdb_id": "tt2309961",
+            "title": "Afflicted",
+            "director": "nm1854114",
+            "release_year": "2013",
+            "main_actor": "nm1429317",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 210947,
+            "overview": "Two friends' tour of Europe takes a dark turn when one of them contracts a mysterious illness. They race to find out what it is and how to cure it before the sickness consumes him completely.",
+            "budget": 318000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/bMkRWgAvwe0XkpL8swG7UA4N4Q8.jpg",
+            "production_companies": [
+                {
+                    "id": 7625,
+                    "logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
+                    "name": "Automatik Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 806,
+                    "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+                    "name": "T\u00e9l\u00e9film Canada",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 109547,
+                    "logo_path": null,
+                    "name": "Panorama Films",
+                    "origin_country": "IT"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                }
+            ],
+            "vote_average": 6.4,
+            "vote_count": 353,
+            "review": null
+        },
+        "revenue": 121179
+    },
+    {
+        "id": 109907,
+        "imdb": {
+            "imdb_id": "tt2309987",
+            "title": "Hate Story",
+            "director": "nm1892252",
+            "release_year": "2012",
+            "main_actor": "nm2365760",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 109907,
+            "overview": "Journalist Kavya Krishna loves tycoon Siddharth - who uses and abuses her. How far will Kavya go to get revenge?",
+            "budget": 1300000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ncpbVw0I5rzbfMJvHIAqmZuHkg5.jpg",
+            "production_companies": [
+                {
+                    "id": 69562,
+                    "logo_path": null,
+                    "name": "BVG Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 5.7,
+            "vote_count": 26,
+            "review": null
+        },
+        "revenue": 2300000
+    },
+    {
+        "id": 122917,
+        "imdb": {
+            "imdb_id": "tt2310332",
+            "title": "The Hobbit: The Battle of the Five Armies",
+            "director": "nm0001392",
+            "release_year": "2014",
+            "main_actor": "nm0005212",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 122917,
+            "overview": "Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+            "budget": 250000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+            "production_companies": [
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 11,
+                    "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+                    "name": "WingNut Films",
+                    "origin_country": "NZ"
+                },
+                {
+                    "id": 12,
+                    "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+                    "name": "New Line Cinema",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7413,
+                    "logo_path": null,
+                    "name": "3Foot7",
+                    "origin_country": "NZ"
+                },
+                {
+                    "id": 21,
+                    "logo_path": "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png",
+                    "name": "Metro-Goldwyn-Mayer",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "NZ",
+                    "name": "New Zealand"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.3,
+            "vote_count": 10433,
+            "review": "As there was not much more to be told from the end of the previous movie, just assist to more than 2h of continuous battle.\r\n\r\nQuite pointless, but you may enjoy the action if that is what you were looking for ..."
+        },
+        "revenue": 956019788
+    },
+    {
+        "id": 204082,
+        "imdb": {
+            "imdb_id": "tt2312718",
+            "title": "Homefront",
+            "director": "nm0001219",
+            "release_year": "2013",
+            "main_actor": "nm0005458",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 204082,
+            "overview": "Phil Broker is a former DEA agent who has gone through a crisis after his action against a biker gang went horribly wrong and it cost the life of his boss' son. He is recently widowed and is left with a 9-years-old daughter, Maddy. He decides to quit the turbulent and demanding life of thrill for Maddy's sake and retires to a small town. His daughter fights off a boy who was bullying her at school and this sets in motion a round of events that end in his direct confrontation with the local Meth drug lord. His past history with the biker gang also enters the arena, making matters more complex. But he has a mission in his mind to protect his daughter and he is ready to pay any cost that it demands.",
+            "budget": 22000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/v55tfjL3QGeabkXAMXPb4olwjL0.jpg",
+            "production_companies": [
+                {
+                    "id": 10427,
+                    "logo_path": "/3u5sNgPRbba0ND3SUMXPTT7On9h.png",
+                    "name": "Open Road Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1020,
+                    "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+                    "name": "Millennium Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 2319,
+            "review": null
+        },
+        "revenue": 43058898
+    },
+    {
+        "id": 126889,
+        "imdb": {
+            "imdb_id": "tt2316204",
+            "title": "Alien: Covenant",
+            "director": "nm0000631",
+            "release_year": "2017",
+            "main_actor": "nm1055413",
+            "main_genre": "Horror"
+        },
+        "tmdb": {
+            "tmdb_id": 126889,
+            "overview": "Bound for a remote planet on the far side of the galaxy, the crew of the colony ship 'Covenant' discovers what is thought to be an uncharted paradise, but is actually a dark, dangerous world\u2014which has a sole inhabitant: the 'synthetic', David, survivor of the doomed Prometheus expedition.",
+            "budget": 97000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
+            "production_companies": [
+                {
+                    "id": 1645,
+                    "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+                    "name": "Scott Free Productions",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 19747,
+                    "logo_path": null,
+                    "name": "Brandywine Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 22213,
+                    "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+                    "name": "TSG Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 25,
+                    "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                    "name": "20th Century Fox",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AU",
+                    "name": "Australia"
+                },
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "NZ",
+                    "name": "New Zealand"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 6099,
+            "review": "\"At times a thrilling, stomach-churning journey, but one that leaves those on board wondering if the disorientation and down time was worth the investment...\"\r\n\r\nRead the full review here: http://screen-space.squarespace.com/reviews/2017/5/8/alien-covenant.html"
+        },
+        "revenue": 232380243
+    },
+    {
+        "id": 197796,
+        "imdb": {
+            "imdb_id": "tt2316801",
+            "title": "La belle et la b\u00eate",
+            "director": "nm0304521",
+            "release_year": "2014",
+            "main_actor": "nm0001993",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 197796,
+            "overview": "Beauty and the Beast is the adaptation of a story by Madame de Villeneuve. Published anonymously in 1740 as La Jeune Am\u00e9ricaine et les contes marins, it paints a portrait of Belle, a joyful and touching young girl who falls in love with the Beast, a cursed creature in search of love and redemption. In 1760, a condensed children\u2019s version was published. It was from this version that Jean Cocteau and then Walt Disney drew their famous adaptations. Overshadowed, the original version by Madame de Villeneuve has never been adapted for the screen... until now!",
+            "budget": 33000000,
+            "genres": [
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/pTU209lMtu1pQnRcXykXcAzj6TN.jpg",
+            "production_companies": [
+                {
+                    "id": 104,
+                    "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+                    "name": "Canal+",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 264,
+                    "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+                    "name": "Studio Babelsberg",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 616,
+                    "logo_path": "/aeBPwUMUqIOFnt3Fxv9fC91hBuq.png",
+                    "name": "Eskwad",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 5076,
+                    "logo_path": null,
+                    "name": "TMC",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 7981,
+                    "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+                    "name": "Path\u00e9!",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 19233,
+                    "logo_path": null,
+                    "name": "120 Films",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 22123,
+                    "logo_path": "/zPTy6QDAlCKGeAALZoFEL3QAlut.png",
+                    "name": "TF1",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 10611,
+                    "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+                    "name": "Cin\u00e9+",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 356,
+                    "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+                    "name": "TF1 Films Production",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 1586,
+            "review": "It seems as if big screen dueling cinematic fairy tales are the trend within the last few years at the box office. Back in 2012 movie audiences were bombarded by the _Snow White_ avalanche when filmmaker Rupert Sanders\u2019s _Snow White and the Huntsman_ had the share the releasing spotlight with director Tarsem Singh\u2019s _Mirror Mirror_ (although Singh\u2019s whimsical narrative had the head start in hitting the movie theaters first by a mere two months). Now in skipping ahead four years later we seem to have a repeat performance with another classic tale involving youthful fairy tale femininity as the focus shifts to the \u201cBeauty\u201d from Jeanne-Marie Laprince\u2019s **Beauty and the Beast** (or for the French-speaking movie-goers \u201cLe Belle et Le Bete\u201d). In 2016, co-writer/director Christophe Gans\u2019s (\u201cBrotherhood of the Wolf\u201d, \u201cSilent Hill\u201d) **Beauty and the Beast** makes its lavish entrance into the movie mindset of viewers waiting to see what amounts to be another stagy screen adaptation of Laprince\u2019s vintage and unconventional fairy tale romancer. Bill Condon\u2019s musical film version of **Beauty and the Beast** will makes its entry a few months later in March 2017.\r\n\r\nNo doubt that Gans\u2019s French live-action version of **Beauty** has a breathtaking visual vibrancy to its opulent production. Plus, it certainly does not hurt the polished product when the film features a couple of France\u2019s big-time smooth cinema stars in leads Vincent Cassel and Lea Seydoux. In any event, **Le Belle et La Bete/Beauty and the Beast** was originally produced in 2014 so now it is making the rounds to the U.S. shores and elsewhere. As imaginative and sleek that Gans\u2019s colorful showcase is in its elegant presentation the film fails to offer anything dramatically darker or delirious that dares to separate any distinction from past interpretations of this famously familiar story for the ages.\r\n\r\nThe sentiment has always been realized that if you are going to regurgitate epic fairy tales that have been done countless times over with richer reception then your current installment better bring something more stimulating and introspective to the creative table for feasting. For the longest time Disney, in particular, had the notable monopoly on the animated musical _Beauty and the Beast_ from the early nineties. Also, Jean Cocteau\u2019s nostalgically hypnotic 1946 fantasy offering still manages to resonate as well. Somehow Gans\u2019s elaborate and eye-popping take on the photogenic cutie and the misunderstood creature does not quite translate or connect beyond its obvious sumptuousness. **Beauty and the Beast**, at least in modern-day and future outings, should strive to the accountability of being more than a serviceable non-traditional love story saddled in sparkling trivialities.\r\n\r\nA French widowed merchant (Andre Dussollier) is practically destitute after his ships are lost on the high sea. So the bankrupt family man of six children packs up and moves to a quaint  countryside home to try and reclaim his chaotic life. His absent ships are not the only thing that is considered lost as his brood of problematic offspring are a handful. However, the one bright spot out of the unruly bunch is youngest daughter Belle (Sedoux, \u201cBlue is the Warmest Color\u201d). Whereas Belle\u2019s dissatisfied siblings are not thrilled with the relocation and overall less-than-stellar circumstances she in fact is taking a positive approach to the land and her father\u2019s unsettling situation at hand.\r\n\r\nFeeling underappreciated and disillusioned by his vain children (with the exception of his beloved and sensible Belle of course) the Merchant roams into the forest where he eventually ends up lost until he stumbles upon a castle owned by the ominous Beast (Cassel). The Merchant decides to take a gorgeous red rose from the property as a kind gesture to give to his only grateful child Belle. However, the Merchant absconding with the red rose did not quite sit right with the retaliatory Beast. This treasured red rose is the symbolic reminder of the Beast\u2019s cherished late wife. As a result the Merchant must pay the ultimate price in the eyes of the demanding Beast by holding him for rightful compensation. Specifically, the Merchant must be in life-long servitude to the fearsome Beast as selected punishment. Should the Merchant not comply with his indefinite servant role then the Beast promises to eradicate his entire family. Yikes!\r\n\r\nThankfully, the Merchant is given one day off from the Beast\u2019s clutches to inform his selfish-minded children of his dilemma at large. When the Merchant says his last goodbyes to his family a concerned Belle gets word of her father\u2019s inescapable fate. Feeling guilty and somewhat responsible as the recipient of the so-called forbidden red rose Belle rushes over to the castle and offers herself as a suitable replacement for her father\u2019s harsh sentence as the Beast\u2019s human piece of property. Fortunately, the Beast accepts the swap as Belle is allowed to assume her father\u2019s servicing duties. Thus, Belle benefits from the Beast greatly as he occasionally spoils her with pretty outfits and lets her enjoy the castle\u2019s majestic surroundings\u2013a far cry from where she hails from domestically. The stipulation is that Belle must have a mandatory dinner with the Beast each and every evening. Otherwise, the co-existence between the duo is solid and non-confrontational.\r\n\r\nSoon, the lonely Beast would start to develop romantic feelings for his acquired comely helper. At first Belle is repulsed by the fact that her hideous-looking overseer would dare to suggest that his heart yearns for her especially when this seemingly corrosive creature had her father (and currently now her) in a reluctant arrangement to serve his anti-social, personalized needs. Belle eventually realizes that the Beast is rather intriguing to her and not as sinister as she first imagined. Their bond tightens as the days go by and Belle cannot help but dream about how the Beast came to be from ages ago. Surely he must have been captivating in his regal heyday and stylized existence despite whatever heavy-handed pathos that had destroyed this once passionate soul. Clearly, the Beast is in search of true love and companionship so the golden question remains: can Belle be the beauty that finally eases his inner pain and comes to the rescue of his empty heart?\r\n\r\nWhen Belle requests a reprieve from the Beast for a day to check in on her father he grants her his permission but nevertheless insists that her betrayal in not returning to him may invite more devastating grieve and sadness. Surely Belle does not want the Beast to be overcome with wrought based on her potential deception. It does not get any easier when Belle learns of her riff raffish older brother and his crew that are planning on raiding the castle and killing the Beast in the process of stealing all his wealthy possessions. Naturally, Belle\u2019s love and attraction for the Beast is set in stone as she cringes at the potential harm her misguided family has on the mind to lift his riches and end his life. Will Belle\u2019s deep-seeded affections for the Beast be enough to prevent her wayward clan from harming a hair on her beleaguered suitor\u2019s hunted head?\r\n\r\nGans skillfully deploys the showy special effects techniques that give glorious sheen and wonderment to this French fantasy trying to invigorate a sense of surreal romanticism. Indeed, **Beauty and the Beast** boasts a robust landscape riddled with its telling brand of atmospheric charm and escapist curiosity. Besides, a French-made re-imagining of this glossy folktale should scream volumes of a dream-like aura that paints an alluring picture. Although Gans strikes a boisterous balance in conveying his exposition with the gumption of a rousing spectacle worthy of its welcomed glitter **Beauty** still feels rather distant and incomplete without adequately generating any substantive chemistry between its lovelorn leads.\r\n\r\nIndividually, both Seydoux and Cassel bring a refreshing vitality to their suffering characterizations. Cassel\u2019s Beast is effective as the languishing, wounded wonder imprisoned by his past emotional demons while Seydoux\u2019s Beauty/Belle demonstrates a feisty heroine not afraid to embrace the loveliness of her persona. But Gans fails to provide any consistent rapport between Seydoux and Cassel collectively as they share awkward dinners and matter-of-fact conversations that do not seem to register with much gusto. Seydoux\u2019s Belle aimlessly parades around in designer dresses as Cassel\u2019s beastly kidnapper methodically pines for his curvaceous captive. In fact, Cassel\u2019s Beast has more romantic reverence in flashbacks towards his departed wife than he does in contemporary times with his desired Belle. When the third act involves Belle\u2019s villainous brother and the plot to ruin the Beast\u2019s livelihood the film turns into a recycled revenge period piece that places more emphasis on the Beast\u2019s periled predicament than the intended juicy love story between a mismatched pair of lovers building a tenet of belonging.\r\n\r\nGans (and co-writer Sandra Vo-Anh) deliver a _Beauty_ of a package that befittingly wallows in the shadows of previous_ Beast_ editions. This fairy tale falls short of its entertaining goal despite its pleasing, tangy wrapping.\r\n\r\n**Beauty and the Beast (La Belle et La Bete)** 2016\r\n\r\nShout! Factory Films\r\n\r\n1 hr. 48 mins\r\n\r\nStarring: Vincent Cassel, Lea Seydoux, Andre Dussollier, Eduardo Noriega, Audrey Lamy, Myriam Charleins, Nicolas Gob, Jonathan Demurger, Yvonne Catterfeld, Louka Meliava, Sara Giraudeau\r\n\r\nDirected and Co-Written by: Christophe Gans\r\n\r\nMPAA Rating: PG-13\r\n\r\nGenre: Fantasy and Romance/Sci-Fi/Mystery and Suspense\r\n\r\nCritic\u2019s Rating: ** stars (out of 4 stars)\r\n\r\n(c) **Frank Ochieng** (2016)"
+        },
+        "revenue": 49100000
+    },
+    {
+        "id": 174675,
+        "imdb": {
+            "imdb_id": "tt2317225",
+            "title": "The Machine",
+            "director": "nm1589670",
+            "release_year": "2013",
+            "main_actor": "nm0827170",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 174675,
+            "overview": "Already deep into a second Cold War, Britain\u2019s Ministry of Defense seeks a game-changing weapon. Programmer Vincent McCarthy unwittingly provides an answer in The Machine, a super-strong human cyborg. When a programming bug causes the prototype to decimate his lab, McCarthy takes his obsessive efforts underground, far away from inquisitive eyes.",
+            "budget": 1500000,
+            "genres": [
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/6bWUBFw5TghRXhQaM0Igbr49BPw.jpg",
+            "production_companies": [
+                {
+                    "id": 21621,
+                    "logo_path": "/pURDha1lYQPwVvTn4ZFrAt9sMhZ.png",
+                    "name": "Red & Black Films",
+                    "origin_country": "GB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 5.9,
+            "vote_count": 560,
+            "review": "**Creating an artificial intelligence, but its intelligence beyond expected's the issue.**\r\n\r\nMaybe the films about artificial intelligence that were made in the last 5 years might outnumber to those were made before that for centuries. Especially there are lots of B movies on this theme and some of them surpassed the film critics and the film fanatics' expectations. Here is another one, but this is a British film. Though one thing I don't understand is, in all these films they make the same mistakes. I mean the film characters recognising the AI as one of us which leads to a major disaster.\r\n\r\nSets in the future, when the Chinese aggression towards the Taiwan made the west, especially Britain to counteract them in the region, they decide to build a most advanced AI. But when the scientist creates beyond what the military needed, the conflict of interest surface among them. From this, who gains what, and how the story ends comes in the latter part.\r\n\r\nInitially I liked it, but not the progression. It led nowhere, but the same crumble and a conflict between the man and the machine. I'm not saying the film was bad, but I blame the overcrowded films on this theme. The filmmakers have to start to think a different kind of storyline. Going advance like what AIs can do in the field than the initiation programmes which is too old for now and onwards. So that's where I disliked it, but not hated it. I hope you enjoyed it better than me or would do if you yet to try.\r\n\r\n_5/10_"
+        },
+        "revenue": 314131
+    },
+    {
+        "id": 226857,
+        "imdb": {
+            "imdb_id": "tt2318092",
+            "title": "Endless Love",
+            "director": "nm0275277",
+            "release_year": "2014",
+            "main_actor": "nm3538539",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 226857,
+            "overview": "A privileged girl and a charismatic boy's instant desire sparks a love affair made only more reckless by parents trying to keep them apart.",
+            "budget": 20000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/tFeZavr1lXobz2cTBihARvjMANz.jpg",
+            "production_companies": [
+                {
+                    "id": 13778,
+                    "logo_path": null,
+                    "name": "Bluegrass Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 51718,
+                    "logo_path": "/fS7xGI3Pm48AsvrjBMceyBoKr2c.png",
+                    "name": "Fake Empire Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 1253,
+            "review": null
+        },
+        "revenue": 34077920
+    },
+    {
+        "id": 111237,
+        "imdb": {
+            "imdb_id": "tt2318405",
+            "title": "Belyy tigr",
+            "director": "nm0787668",
+            "release_year": "2012",
+            "main_actor": "nm2854409",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 111237,
+            "overview": "Great Patriotic War, 1945. After barely surviving a battle with a mysterious, ghostly-white German Tiger tank, Red Army Sergeant Ivan Naydenov becomes obsessed with its destruction.",
+            "budget": 11000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 10752,
+                    "name": "War"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/85nYPi1yqrV8spgJx84oiAnSo88.jpg",
+            "production_companies": [
+                {
+                    "id": 106661,
+                    "logo_path": null,
+                    "name": "Channel One Russia",
+                    "origin_country": "RU"
+                },
+                {
+                    "id": 344,
+                    "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+                    "name": "Mosfilm",
+                    "origin_country": "RU"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "RU",
+                    "name": "Russia"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 55,
+            "review": null
+        },
+        "revenue": 7200000
+    },
+    {
+        "id": 209185,
+        "imdb": {
+            "imdb_id": "tt2319580",
+            "title": "The Grand Seduction",
+            "director": "nm0001528",
+            "release_year": "2013",
+            "main_actor": "nm2018237",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 209185,
+            "overview": "A small fishing village must procure a local doctor to secure a lucrative business contract. When unlikely candidate and big city doctor Paul Lewis lands in their lap for a trial residence, the townsfolk rally together to charm him into staying. As the doctor\u2019s time in the village winds to a close, acting mayor Murray French has no choice but to pull out all the stops and begin The Grand Seduction.",
+            "budget": 12700000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/sVXFM0Lt4eVP6bX3UNCnF62WTK2.jpg",
+            "production_companies": [
+                {
+                    "id": 33137,
+                    "logo_path": null,
+                    "name": "Morag Loves Company",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7828,
+                    "logo_path": null,
+                    "name": "Max Films Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 189,
+            "review": null
+        },
+        "revenue": 3430018
+    },
+    {
+        "id": 393559,
+        "imdb": {
+            "imdb_id": "tt2321405",
+            "title": "Ma vie de Courgette",
+            "director": "nm1957706",
+            "release_year": "2016",
+            "main_actor": "nm8101777",
+            "main_genre": "Animation"
+        },
+        "tmdb": {
+            "tmdb_id": 393559,
+            "overview": "After his mother\u2019s death, Zucchini is befriended by a kind police officer, Raymond, who accompanies him to his new foster home filled with other orphans his age. There, with the help of his newfound friends, Zucchini eventually learns to trust and love as he searches for a new family of his own.",
+            "budget": 8000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2uu8fIzl76C9MFiUQhjKYSLKVq.jpg",
+            "production_companies": [
+                {
+                    "id": 4621,
+                    "logo_path": null,
+                    "name": "G\u00e9b\u00e9ka Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7034,
+                    "logo_path": "/eeJkVwHRx4I1mDzAfRfIczhzDHE.png",
+                    "name": "Rita Productions",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 42171,
+                    "logo_path": "/yTvfCUChMCmeEbjWNyIFGwgiXQE.png",
+                    "name": "Blue Spirit",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "CH",
+                    "name": "Switzerland"
+                }
+            ],
+            "vote_average": 7.8,
+            "vote_count": 865,
+            "review": "**Seeking a second chance for the normal life.**\r\n\r\nWhenever I review a Stop-motion animated film, I always start with by saying it is a dying art form that needs a bigger lift from us. It gave a new life for filmmaking when there were no technology like computers hundred years ago for the creation of giant creatures to all the fantasy and magical world. I am glad that every year someone coming forward to show the world how beautiful these are.\r\n\r\nI think there's a quota for it and 2D animation for the Oscars. Otherwise, these formats would die sooner than we expected, so that recognition in the big stage. Every year at least one film from these two categories makes out. This year it was a double jackpot for Stop-motion animation. Including this, 'Kubo and the Two Strings' was the other one to shine in the world's biggest film awards ceremony. But winning the trophy is almost impossible in this 3D animated film world. Anyway, I'm happy for this, that I enjoyed watching it.\r\n\r\nIt was a short film, that ran for just one hour. First, we have to understand filmmaking in this form is a most challenging one than any other. It is a manual work. I mean people get in there and frame by frame do all the work. So for this one hour film, they had done the great hard work and it paid off well by got nominated for the Oscars. It was also Switzerland's official submission for the Best Foreign Language Film, but failed to make progress in that race.\r\n\r\nThe screenplay was based on the book. A simple story with a strong message. This is the tale of a boy with full of dreams and after his alcoholic mother died, he is taken to the orphanage. That is the last place he wanted to be where he meets a mean boy and soon becomes his close friend. Being young kids, they tend to play some pranks with officials, visitors and themselves. That's one of the ways to cope with for where they have ended. So the remaining is to tell us would they get a second chance in their lives.\r\n\r\n> \u275dI don't know why I'm crying. Sometimes people cry because they're happy.\u275e\r\n\r\nWhen some take up a project like this, they are not offered to make mistakes in choosing a weak screenplay. Because there are thousands of films in production around the world and in those, a handful of animated films, but probably he's only one up for a Stop-motion animated feature. Which means everyone with the knowledge of his commitment will be looking forward to it. So the filmmakers have opted to adapt a novel, which is always a best option in filmmaking.\r\n\r\nThe next is the characters. Making them come alive, particularly initial stage, the creation of models. Yep, they have done that job as well so well. Gooding looking ones, especially among the kids for having similarity with their vision. The frame rate was good. Very smoother for viewing. So technically it was a flawless for the normal watch. An impressive storyline, which might serve as a tearjerker for a few.\r\n\r\nThere's a little romance, but from the children's perspective of having a crush. Since the girl character was introduced, the narration takes a fresh look. The following event becomes even more adventurous and fun filled till the end. The voice-over was excellent. From the dialogues to the film scenes very impressive. It marks the directional debut for a short filmmaker. An appreciable work and I hope he makes more like them with new technics than migrating to computer animations.\r\n\r\nOne of the advantages is it is a short and sweet film, but those who love such films might feel it is too short. Most importantly, there're not clich\u00e9s like what we've seen films that takes place in the orphanages. The opening was shocking. If it was a real life, the boy would have ended in a different place. Still the emotional parts were less explored, yet very convincing for not leaning too much on that facet.\r\n\r\nThe film is one of the best in its kind, but I agree it's not a masterpiece. Not if you have seen plenty of Stop-motion animations in your life. Yet it can't be neglected that easily and surely it is for everyone. I know there are folks who thinks this format of films are for little ones, but the truth is they are still in the pre 90s mindset. This is good, give it a try and you might love it. Anyway, for its rareness itself highly recommended, then you decided how do you liked it or not.\r\n\r\n_7/10_"
+        },
+        "revenue": 5873256
+    },
+    {
+        "id": 102197,
+        "imdb": {
+            "imdb_id": "tt2321517",
+            "title": "Shpion",
+            "director": "nm2148889",
+            "release_year": "2012",
+            "main_actor": "nm1572716",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 102197,
+            "overview": "Spring 1941. Center of Moscow. Duel of the two intelligence services turns more and more tense.",
+            "budget": 6000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/cpKkXycuMisfEXiMT2tSkcD84sN.jpg",
+            "production_companies": [
+                {
+                    "id": 19126,
+                    "logo_path": "/g9aqRl0i7BrVduxJzsXY5opbQ5D.png",
+                    "name": "VGTRK",
+                    "origin_country": "RU"
+                },
+                {
+                    "id": 3467,
+                    "logo_path": "/pumbDNR4udEagb3ldNUMFSA85Fn.png",
+                    "name": "Three T Productions",
+                    "origin_country": "RU"
+                },
+                {
+                    "id": 76043,
+                    "logo_path": "/9RO2vbQ67otPrBLXCaC8UMp3Qat.png",
+                    "name": "Revolution Sun Studios",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3419,
+                    "logo_path": "/byrxE2pJD9JLyBCIzyK0pYVanyG.png",
+                    "name": "Central Partnership",
+                    "origin_country": "RU"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "RU",
+                    "name": "Russia"
+                }
+            ],
+            "vote_average": 5.4,
+            "vote_count": 24,
+            "review": null
+        },
+        "revenue": 4588176
+    },
+    {
+        "id": 242224,
+        "imdb": {
+            "imdb_id": "tt2321549",
+            "title": "The Babadook",
+            "director": "nm0448768",
+            "release_year": "2014",
+            "main_actor": "nm0204583",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 242224,
+            "overview": "A single mother, plagued by the violent death of her husband, battles with her son's fear of a monster lurking in the house, but soon discovers a sinister presence all around her.",
+            "budget": 2000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/lszpCmmPCKHvzn2OBx7bAgXlfhC.jpg",
+            "production_companies": [
+                {
+                    "id": 7584,
+                    "logo_path": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+                    "name": "Screen Australia",
+                    "origin_country": "AU"
+                },
+                {
+                    "id": 21181,
+                    "logo_path": null,
+                    "name": "Smoking Gun Productions",
+                    "origin_country": "AU"
+                },
+                {
+                    "id": 32301,
+                    "logo_path": "/2Ucj9ycQjpkcvSSyzr9zoT0Q8cH.png",
+                    "name": "Causeway Films",
+                    "origin_country": "AU"
+                },
+                {
+                    "id": 2806,
+                    "logo_path": "/vxOhCbpsRBh10m6LZ3HyImTYpPY.png",
+                    "name": "South Australian Film Corporation",
+                    "origin_country": "AU"
+                },
+                {
+                    "id": 8147,
+                    "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+                    "name": "Entertainment One",
+                    "origin_country": "CA"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AU",
+                    "name": "Australia"
+                },
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                }
+            ],
+            "vote_average": 6.5,
+            "vote_count": 4457,
+            "review": "Ba Ba-Ba Dook! Dook! Dook!\r\n\r\nThe Babadook is written and directed by Jennifer Kent. It stars Essie Davis, Noah Wiseman, Daniel Henshall and Hayley McElhinney. Music is by Jed Kurzel and cinematography by Radek Ladczuk.\r\n\r\nAmelia is a single mother still haunted by the violent death of her husband, she is trying to deal with her young son Samuel's fear of a monster in the house. Initially tolerating it as a flight of fancy, the arrival of a book in the youngster's bedroom called Mr. Babadook, signals the start of a sinister presence that she herself can begin to fear as well.\r\n\r\nAustralia has been producing some great horror films in the last couple of decades, The Babadook is one of the best of the bunch. Jennifer Kent made it as a 10 minute short back in 2005 called Monster, itself a super piece of horror film making, now in full feature length form (Kent\u2019s first), the vision and intelligence explodes off the screen in every frame.\r\n\r\nThe premise at the core is not exactly fresh, but Kent manages to make The Babadook its own entity, skilfully steering away from formula jolts and terrors. Which in this day and age of horror retreads, sequel frenzies and blood for blood\u2019s sake, is most refreshing. This is a big character piece, a two hander of incredible emotional power, a mother and son dealing with their own demons before the eponymous Babadook enters the fray. We care about this pair of troubled souls, so much so that as we start to feel the dread, get the tingles down the spine, our hearts are also aching for them. The two performances of the actors quite simply magnificent.\r\n\r\nMr. Babadook is a pop-up picture book that suddenly arrives into their lives. The creature  is a sort of cross between a German expressionistic nightmare and Jack the Ripper. The book itself is creepy enough in its own right, more so as it starts to take on a more terrifying tone \u2013 and Amelia proves unsuccessful at getting rid of the thing \u2013 the picture starts playing its ace psychological cards. The monster is kept mostly to the edges of the frames, or just popping up for a quick glance in unexpected places, this is a great move and suits the narrative perfectly.\r\n\r\nThe tech credits are top notch. A key aspect to getting the most out of The Babadook is to make sure the sound is loud, for the sound mix is tremendous and can bring pounds of gooseflesh rising up on your arms. Ladczuk\u2019s photography is at one with the themes pulsing away in the story, the colours paled and cheerless, enhancing the fractured psyches of mother and son, but Mr. Babadook is a jet black presence in this landscape. All told the art design from the book to the house and the creature is excellent.\r\n\r\nUmbrella\u2019s Australian All Region Blu-ray Release has a super transfer and does justice to the sound mix. There\u2019s over an hour of interviews, which are a mixed bag of informative chat and back slapping, a 12 minute behind the scenes making of and some trailers. The bonus is the 10 minute short, Monster, The Babadook in its infancy but no less scary for it.\r\n\r\nThe Babadook is a superlative horror film for adults, like when Polanski met Kubrick and they decided to pay homage to Fritz Lang and George Melies. Yes it\u2019s that good. 10/10"
+        },
+        "revenue": 10312540
+    },
+    {
+        "id": 230310,
+        "imdb": {
+            "imdb_id": "tt2322316",
+            "title": "At\u00e9 que a Sb\u00f3rnia nos Separe",
+            "director": "nm0868871",
+            "release_year": "2013",
+            "main_actor": "nm0009494",
+            "main_genre": "Animation"
+        },
+        "tmdb": {
+            "tmdb_id": 230310,
+            "overview": "Sb\u00f3rnia is an island with a rich but eccentric culture, separated from the rest of the world by a high wall. When the wall comes down, cultural change plays hilarious havoc on the lives of two traditional Sb\u00f3rnian musicians.",
+            "budget": 981065,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10402,
+                    "name": "Music"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/9KbRjNngAhlRXVRJjKH6WzNxwbT.jpg",
+            "production_companies": [
+                {
+                    "id": 23023,
+                    "logo_path": null,
+                    "name": "Otto Desenhos Animados",
+                    "origin_country": "BR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "BR",
+                    "name": "Brazil"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 10,
+            "review": null
+        },
+        "revenue": 43559
+    },
+    {
+        "id": 216015,
+        "imdb": {
+            "imdb_id": "tt2322441",
+            "title": "Fifty Shades of Grey",
+            "director": "nm0853374",
+            "release_year": "2015",
+            "main_actor": "nm0424848",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 216015,
+            "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+            "budget": 4000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
+            "production_companies": [
+                {
+                    "id": 10146,
+                    "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+                    "name": "Focus Features",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 11370,
+                    "logo_path": null,
+                    "name": "Michael De Luca Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 7626,
+                    "logo_path": "/4839MGss4pPAalhqqYH1AD1CnEj.png",
+                    "name": "Trigger Street Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 8915,
+            "review": "Honestly, it has been a long time since I've watched such a bad movie.\r\n\r\nThe script is just ... stupid and the dialogues even worse. The characters are not believable. I mean, when you watch Twilight, you just swallow the whole thing because it is fantasy and ... OK, it is just a stupid vampires story but, this is just toooooooo bad.\r\n\r\nI've not read the book but I suspect the fail is not just in the movie but that it is adapting something that is already bad from the beginning.\r\n\r\nThe worst is that I kind of liked Dornan in his role in Fallen but this movie has made me realize what a short range of performing resources he has. Dakota Johnson is not too bad, though. The acting is OK, it is just that you hate such an stupid character.\r\n\r\nOne more to my very narrow list of movies in which I have seriously thought stop watching by the middle of it. I wasted the second hour too, though."
+        },
+        "revenue": 571006128
+    },
+    {
+        "id": 245846,
+        "imdb": {
+            "imdb_id": "tt2325977",
+            "title": "Strangerland",
+            "director": "nm2040537",
+            "release_year": "2015",
+            "main_actor": "nm0000173",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 245846,
+            "overview": "Newly arrived to a remote desert town, Catherine and Matthew are tormented by a suspicion when their two teenage children mysteriously vanish.",
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/6y39JL9KPYvvA13J61HIGMfyzqW.jpg",
+            "production_companies": [
+                {
+                    "id": 9015,
+                    "logo_path": null,
+                    "name": "Worldview Entertainment",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AU",
+                    "name": "Australia"
+                }
+            ],
+            "vote_average": 5.3,
+            "vote_count": 177,
+            "review": null
+        },
+        "revenue": 111107
+    },
+    {
+        "id": 252171,
+        "imdb": {
+            "imdb_id": "tt2326554",
+            "title": "A Girl Walks Home Alone at Night",
+            "director": "nm3235877",
+            "release_year": "2014",
+            "main_actor": "nm2611074",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 252171,
+            "overview": "In the Iranian ghost-town Bad City, a place that reeks of death and loneliness, the townspeople are unaware they are being stalked by a lonesome vampire.",
+            "budget": 1000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/cd2rCE1nun7CESjBI8PGNEof1tb.jpg",
+            "production_companies": [
+                {
+                    "id": 51192,
+                    "logo_path": null,
+                    "name": "Black Light District",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 51193,
+                    "logo_path": null,
+                    "name": "Say Ahh Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 34519,
+                    "logo_path": "/MGFizEilC4bv5aDeF8YfEyjDVG.png",
+                    "name": "SpectreVision",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 51194,
+                    "logo_path": "/wf6h4zzM9Vs2T6oxIm30nK8B9ed.png",
+                    "name": "Logan Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 534,
+            "review": null
+        },
+        "revenue": 395000
+    },
+    {
+        "id": 110402,
+        "imdb": {
+            "imdb_id": "tt2328813",
+            "title": "Trudno byt bogom",
+            "director": "nm0314516",
+            "release_year": "2013",
+            "main_actor": "nm0946473",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 110402,
+            "overview": "A group of scientists is sent to the planet Arkanar to help the local civilization, which is in the Medieval phase of its own history, to find the right path to progress. Their task is a difficult one: they cannot interfere violently and in no case can they kill. The scientist Rumata tries to save the local intellectuals from their punishment and cannot avoid taking a position. As if the question were: what would you do in God's place?",
+            "budget": 7000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/9WtY0i3v6PM3djidfYX0Hm66BYZ.jpg",
+            "production_companies": [
+                {
+                    "id": 69586,
+                    "logo_path": null,
+                    "name": "Sever Studio",
+                    "origin_country": ""
+                },
+                {
+                    "id": 69587,
+                    "logo_path": null,
+                    "name": "Russia 1",
+                    "origin_country": "RU"
+                },
+                {
+                    "id": 10845,
+                    "logo_path": "/b8N0K4dvM6CNG9OE5v1lLh5bSb3.png",
+                    "name": "Lenfilm",
+                    "origin_country": "RU"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "RU",
+                    "name": "Russia"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 92,
+            "review": null
+        },
+        "revenue": 1310673
+    },
+    {
+        "id": 457136,
+        "imdb": {
+            "imdb_id": "tt2328900",
+            "title": "Mary Queen of Scots",
+            "director": "nm6066050",
+            "release_year": "2018",
+            "main_actor": "nm1519680",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 457136,
+            "overview": "In 1561, Mary Stuart, widow of the King of France, returns to Scotland, reclaims her rightful throne and menaces the future of Queen Elizabeth I as ruler of England, because she has a legitimate claim to the English throne. Betrayals, rebellions, conspiracies and their own life choices imperil both Queens. They experience the bitter cost of power, until their tragic fate is finally fulfilled.",
+            "budget": 25000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
+            "production_companies": [
+                {
+                    "id": 10146,
+                    "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+                    "name": "Focus Features",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 10163,
+                    "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+                    "name": "Working Title Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 10338,
+                    "logo_path": "/el2ap6lvjcEDdbyJoB3oKiYgXu9.png",
+                    "name": "Perfect World Pictures",
+                    "origin_country": "CN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 1217,
+            "review": "Thinking about them just in terms of their visual appearnce, Saoirse Ronan probably should have played Queen Elizabeth I instead of Mary, and Margot Robbie probably should have played Not In This Movie.\r\n\r\nPerhaps it could have performed better, had it not come out the same year as both _Outlaw King_ and _The Favourite_, as its content lies somewhere between the two, but its quality pales to either.\r\n\r\n_Final rating:\u2605\u2605 - Definitely not for me, but I sort of get the appeal._"
+        },
+        "revenue": 37807625
+    },
+    {
+        "id": 286110,
+        "imdb": {
+            "imdb_id": "tt2330098",
+            "title": "Upendra",
+            "director": "nm1962192",
+            "release_year": "1999",
+            "main_actor": "nm1962192",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 286110,
+            "overview": "Upendra is a 1999 Kannada psychological thriller film written and directed by Upendra. It starred Upendra, Raveena Tandon, Prema and Damini in the lead roles. The film explores three human emotions through the relationship between the main character and the three heroines. The songs of the film were written by Upendra and music was composed by Gurukiran. The movie has a cult fanbase.",
+            "budget": 340000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/qx4nP5UYnjwzCYFrR917hksozSx.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 7.6,
+            "vote_count": 9,
+            "review": null
+        },
+        "revenue": 17000000
+    },
+    {
+        "id": 138103,
+        "imdb": {
+            "imdb_id": "tt2333784",
+            "title": "The Expendables 3",
+            "director": "nm0400850",
+            "release_year": "2014",
+            "main_actor": "nm0000230",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 138103,
+            "overview": "Barney, Christmas and the rest of the team comes face-to-face with Conrad Stonebanks, who years ago co-founded The Expendables with Barney. Stonebanks subsequently became a ruthless arms trader and someone who Barney was forced to kill\u2026 or so he thought. Stonebanks, who eluded death once before, now is making it his mission to end The Expendables -- but Barney has other plans. Barney decides that he has to fight old blood with new blood, and brings in a new era of Expendables team members, recruiting individuals who are younger, faster and more tech-savvy. The latest mission becomes a clash of classic old-school style versus high-tech expertise in the Expendables\u2019 most personal battle yet.",
+            "budget": 90000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/6MD1qPgEdvOfPCJkA1dq0SdOz2.jpg",
+            "production_companies": [
+                {
+                    "id": 342,
+                    "logo_path": null,
+                    "name": "Davis Films",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 925,
+                    "logo_path": "/dIb9hjXNOkgxu4kBWdIdK8nM4w.png",
+                    "name": "Nu Image",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 28384,
+                    "logo_path": null,
+                    "name": "Ex3 Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 40822,
+                    "logo_path": null,
+                    "name": "Fipex Holding",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1632,
+                    "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                    "name": "Lionsgate",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1020,
+                    "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+                    "name": "Millennium Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.2,
+            "vote_count": 3590,
+            "review": null
+        },
+        "revenue": 206172544
+    },
+    {
+        "id": 157834,
+        "imdb": {
+            "imdb_id": "tt2333804",
+            "title": "The Zero Theorem",
+            "director": "nm0000416",
+            "release_year": "2013",
+            "main_actor": "nm0910607",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 157834,
+            "overview": "A computer hacker's goal to discover the reason for human existence continually finds his work interrupted thanks to the Management; this time, they send a teenager and lusty love interest to distract him.",
+            "budget": 8500000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ulQEU8RR0sFNMKfcQ7sEcVOi6vV.jpg",
+            "production_companies": [
+                {
+                    "id": 5125,
+                    "logo_path": "/t3oWTsVukmEzrZzvfr37XRBibo5.png",
+                    "name": "Le Pacte",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 6716,
+                    "logo_path": null,
+                    "name": "Zanuck Independent",
+                    "origin_country": ""
+                },
+                {
+                    "id": 11819,
+                    "logo_path": null,
+                    "name": "MediaPro Pictures",
+                    "origin_country": "RO"
+                },
+                {
+                    "id": 16923,
+                    "logo_path": null,
+                    "name": "Zephyr Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 27993,
+                    "logo_path": null,
+                    "name": "Picture Perfect Corporation",
+                    "origin_country": ""
+                },
+                {
+                    "id": 27994,
+                    "logo_path": null,
+                    "name": "Wild Side Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 6626,
+                    "logo_path": "/A1BnMoWjzjOrjzpWimyBQkf84mS.png",
+                    "name": "Voltage Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "RO",
+                    "name": "Romania"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 826,
+            "review": "**A gamer and his scientific goal.**\r\n\r\nHonestly, this is the first film from Terry Gilliam I did not enjoy. I feel very bad to rate such a low for his film. Literally, there was no story in it. Just a confused character and the events surround him unfolds in a weird way. The characters, settings, I thought it had potential. Visually, it was the same Terry Gilliam style film, but the screenplay failed to have impressive developments. Nonetheless, Christopher Waltz was so good.\r\n\r\nIt is being more a gamer's tale is what turned down. Seeing the title, I anticipated something brilliant or mind-bender. Though most of the film it was the main character who hold the joystick and try to achieve a scientific goal. The Melanie Thierry part was good. Brought some cheers, but did not end properly. The film did not fare well among the film goers. Mostly a mixed response. But I think it was a below average, especially coming from such a great director.\r\n\r\n_3/10_"
+        },
+        "revenue": 770706
+    },
+    {
+        "id": 157354,
+        "imdb": {
+            "imdb_id": "tt2334649",
+            "title": "Fruitvale Station",
+            "director": "nm3363032",
+            "release_year": "2013",
+            "main_actor": "nm0430107",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 157354,
+            "overview": "Oakland, California. Young Afro-American Oscar Grant crosses paths with family members, friends, enemies and strangers before facing his fate on the platform at Fruitvale Station, in the early morning hours of New Year's Day 2009.",
+            "budget": 900000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/dvHYetUIshAPtMhtVtBT7dW5hqh.jpg",
+            "production_companies": [
+                {
+                    "id": 14638,
+                    "logo_path": null,
+                    "name": "Significant Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 14639,
+                    "logo_path": null,
+                    "name": "OG Project",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.4,
+            "vote_count": 843,
+            "review": "I never saw its teaser, nor read its synopsis, but straight went to see it. And I kind of not satisfied for the first hour of the movie. I just wondered what was the movies' idea to fulfill the viewer's desire. Right away I knew it was not an entertainer, then it must highlight something or give a message. Till the beginning of the end, I thought the same way. Then my perspective changed, actually it changed my previous stance about all the earlier narration.\r\n\r\n**''I know y'all are upset, but got to lift him up.\r\nLet's keep him lifted up.''**\r\n\r\nAfter witnessing the crucial last scene, I was stunned by the incident that was portrayed in the movie. Realized all the initial developments were got meaning in this part of the movie. So I came to know it was based on the real incident. First of all it was not a person's whole biography, though it is told from his critical time of life. The incident can be viewed in two ways. The fight definitely took place on the sub-way, it was not the Oscar Grant's (lead man) fault. But still the consequences are expected, especially on the new year's eve the alert against violence cannot be negligible by the law. But, what cops did was the over reaction to the situation.\r\n\r\nSuch incidents happen in every country and many of them won't come into the lights. I'm glad about this movie, because it kind of creates awareness of such events. Hats off to all the cast and crew who brought it into the silver screen and now the whole world can know the truth. A must see movie among the 2013 releases."
+        },
+        "revenue": 17549645
+    },
+    {
+        "id": 373569,
+        "imdb": {
+            "imdb_id": "tt2334871",
+            "title": "Snatched",
+            "director": "nm1349522",
+            "release_year": "2017",
+            "main_actor": "nm2154960",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 373569,
+            "overview": "When her boyfriend dumps Emily, a spontaneous woman in her 30s, she persuades her ultra-cautious mom to accompany her on a vacation to Ecuador. When these two very different women are trapped on this wild journey, their bond as mother and daughter is tested and strengthened while they attempt to navigate the jungle and escape.",
+            "budget": 42000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/gsleO1KultziWltEAngAEZkxQhf.jpg",
+            "production_companies": [
+                {
+                    "id": 7076,
+                    "logo_path": "/8BFxn9NUWSgp0ndih569Gm62xiC.png",
+                    "name": "Chernin Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 61791,
+                    "logo_path": "/f72ubyCeowgOQO7n4IZR18KN9Aq.png",
+                    "name": "Feigco Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 25,
+                    "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                    "name": "20th Century Fox",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.4,
+            "vote_count": 618,
+            "review": "Short version, don't watch unless you really want to punish yourself.\r\n\r\nThis is one of the most boring and predictable movies I have seen in a long time.\r\n\r\nIn addition to the extremely unfunny jokes, the whole movie plot is lacking. There is NO point in the movie where you tell yourself \"Ok, now it makes sense!\". \r\n\r\nThe movie tries to exploit 1) the need that movies have to have women heros and 2) family problems and family bounds, but they fail at both.\r\n\r\nLet there be    \r\n<==========    Spoilers   ==========>   \r\n\r\n\r\n> The whole movie is about a mother and a daughter that go to Ecuador to have fun. They get captured by a very powerful underground lord to be sold. They, together, bring down this person and his organisation and do what  the whole US and Mexican police force have not been able to do.   \r\n> Oh and the girl is really irresponsible and the mother is really uptight which by the end of the movie becomes the exact opposite."
+        },
+        "revenue": 60845711
+    },
+    {
+        "id": 160588,
+        "imdb": {
+            "imdb_id": "tt2334873",
+            "title": "Blue Jasmine",
+            "director": "nm0000095",
+            "release_year": "2013",
+            "main_actor": "nm0000949",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 160588,
+            "overview": "After experiencing a traumatic misfortune, Jasmine French, a wealthy woman from New York, moves to San Francisco to live with her foster sister Ginger and the firm purpose of getting a new life, but she will be haunted by anxiety and memories of the past.",
+            "budget": 18000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/zLdLiUJfueZBctdv8OvkmGXEHEC.jpg",
+            "production_companies": [
+                {
+                    "id": 1824,
+                    "logo_path": null,
+                    "name": "Gravier Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 12966,
+                    "logo_path": null,
+                    "name": "Perdido Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.0,
+            "vote_count": 2578,
+            "review": null
+        },
+        "revenue": 99206215
+    },
+    {
+        "id": 117251,
+        "imdb": {
+            "imdb_id": "tt2334879",
+            "title": "White House Down",
+            "director": "nm0000386",
+            "release_year": "2013",
+            "main_actor": "nm1475594",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 117251,
+            "overview": "Capitol Policeman John Cale has just been denied his dream job with the Secret Service of protecting President James Sawyer. Not wanting to let down his little girl with the news, he takes her on a tour of the White House, when the complex is overtaken by a heavily armed paramilitary group. Now, with the nation's government falling into chaos and time running out, it's up to Cale to save the president, his daughter, and the country.",
+            "budget": 150000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/mcHPUtO3HnssUQ1OYP6w3FiDXYs.jpg",
+            "production_companies": [
+                {
+                    "id": 34981,
+                    "logo_path": null,
+                    "name": "Iron Horse Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 34982,
+                    "logo_path": "/uvTmiRZzNfG88dVXi9hQ7eFNirq.png",
+                    "name": "Mythology Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 347,
+                    "logo_path": null,
+                    "name": "Centropolis Entertainment",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.4,
+            "vote_count": 3480,
+            "review": "I have to say, or in this case write, that this was a fairly disappointing movie. It is pretty much a Die Hard wannabee with a daughter-dislikes-father sub-plot. I do not mind the reusing of the Die Hard concept if the film is good. This one is not really. The script is a stupid, unintelligent political script.\n\nIt starts off badly with some nonsensical crap about a controversial (that is putting it mildly) political deal with the Middle East about pulling out troops from all the bases in the Middle East. To add to this the entire situation have come about because the president just left several people to hang out and dry when he decided to pull the plug on operations in the Middle East. By hanging out and dry we mean get killed or spend some quality time in the regional prisons. That put the president on the bad guy list instead of the good guy as far as I am concerned. I do not know if the writer was trying to make a political statement, which I never like in my movies, or is just plain stupid. Given the rest of the script I would go for stupid or both.\n\nThe good thing with the movie is that there is quite a lot of action and some of it is rather okay to watch. There are a few funny moments as well. I quite liked the tour guide for example.\n\nUnfortunately, even if you try to forget about the political nonsense, the rest of the script is just full of utter stupidity. It starts of not too bad with the diversion at the Capitol and the initial take over of the White House even though a whole bunch of armed, obviously unscreened, guys getting into the White House to work on the president\u2019s home theatre like that is not very believable.\n\nAfter that it gradually degrades though. Cale is nowhere as charismatic, nor as professional, as McClane and there are lots of silly and stupid moments. For example, the car chase starts of not too bad but then Cale get\u2019s into some bloody dream mode and gets shot up. Just dumb. During the same episode the tank scene is just ridiculous. Would they only have one tank? Not very likely. It takes forever for it to move. It is also highly improbable that it could be taken out like that by a hand-held launcher by a front hit. Rear or side maybe but not a front hit. The writer is obviously clueless about military matters. The fumbled chopper attack is embarrassingly bad. The worst is probably when Cale\u2019s daughter stops and air-strike by waving a flag outside the White House. I almost turned off the movie at that point.\n\nIt is too bad because the movie had the budget and some nice actors to be a good action movie but was just ruined by a louse script with a totally unnecessary bunch of political nonsense in it. The next time I see a movie were the script is written by James Vanderbilt I am going to be very cautious."
+        },
+        "revenue": 205366737
+    },
+    {
+        "id": 159378,
+        "imdb": {
+            "imdb_id": "tt2337650",
+            "title": "Soft Bullets",
+            "director": "nm5221134",
+            "release_year": "2014",
+            "main_actor": "nm5357099",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 159378,
+            "overview": "Asya, Boyana, Iren and Vera are assassins working for S.T.A.R. Will they succeed in finding the killer of their boss?",
+            "budget": 500,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/e9GgUm6awMgtXFO6qGl2UaAXVFR.jpg",
+            "production_companies": [
+                {
+                    "id": 134414,
+                    "logo_path": null,
+                    "name": "Dimetrios Pictures",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "BG",
+                    "name": "Bulgaria"
+                }
+            ],
+            "vote_average": 7.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 500
+    },
+    {
+        "id": 297222,
+        "imdb": {
+            "imdb_id": "tt2338151",
+            "title": "PK",
+            "director": "nm0386246",
+            "release_year": "2014",
+            "main_actor": "nm0451148",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 297222,
+            "overview": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
+            "budget": 13000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/hUitxmc1klkZF4zYHAz3oT9e7mT.jpg",
+            "production_companies": [
+                {
+                    "id": 44163,
+                    "logo_path": null,
+                    "name": "Rajkumar Hirani Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 44164,
+                    "logo_path": null,
+                    "name": "Vinod Chopra Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2320,
+                    "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+                    "name": "UTV Motion Pictures",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 7.7,
+            "vote_count": 592,
+            "review": null
+        },
+        "revenue": 120000000
+    },
+    {
+        "id": 288158,
+        "imdb": {
+            "imdb_id": "tt2339741",
+            "title": "The Woman in Black 2: Angel of Death",
+            "director": "nm2197777",
+            "release_year": "2014",
+            "main_actor": "nm0567031",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 288158,
+            "overview": "40 years after the first haunting at Eel Marsh House, a group of children evacuated from WWII London arrive, awakening the house's darkest inhabitant.",
+            "budget": 15000000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/9NcUFNCSzw4IFci3OhbX8ZyzoFn.jpg",
+            "production_companies": [
+                {
+                    "id": 829,
+                    "logo_path": "/mzpAmEQ5P1gFvdRoNyCk9q8ngiv.png",
+                    "name": "Vertigo Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1314,
+                    "logo_path": "/gQBluDqe6dc2ZdzfJbabEHoSGoG.png",
+                    "name": "Hammer Film Productions",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 2514,
+                    "logo_path": null,
+                    "name": "Alliance Films",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 8989,
+                    "logo_path": null,
+                    "name": "Talisman Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 11448,
+                    "logo_path": "/twhX9HMUuGW4Mhb45AyWDhRqkvR.png",
+                    "name": "Exclusive Media",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 40107,
+                    "logo_path": null,
+                    "name": "Da Vinci Media Ventures",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                }
+            ],
+            "vote_average": 5.2,
+            "vote_count": 786,
+            "review": null
+        },
+        "revenue": 48854305
+    }
+]
