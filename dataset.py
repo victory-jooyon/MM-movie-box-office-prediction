@@ -13,7 +13,7 @@ from transformers import BertTokenizer
 
 
 class MovieDataset(Dataset):
-    def __init__(self, mode='train', seed=0, num_classes=2, thres=(0,)):
+    def __init__(self, split='train', seed=0, num_classes=2, thres=(0,)):
         super(Dataset, self).__init__()
         # Read data from json
         with open('./data/json/crawled_data/crawled_data_all.json', 'r', encoding='utf-8') as f:
@@ -23,7 +23,7 @@ class MovieDataset(Dataset):
             thres = tuple(range(num_classes - 1))
         random.seed(seed)
 
-        for data in tqdm(movie_data, total=len(movie_data), desc=f'Loading {mode} dataset'):
+        for data in tqdm(movie_data, total=len(movie_data), desc=f'Loading {split} dataset'):
             if data['revenue'] == '0' or data['tmdb']['budget'] == '0':
                 continue
 
@@ -62,9 +62,9 @@ class MovieDataset(Dataset):
         total_len = len(self.data)
         train_limit = int(total_len * 0.8)
         valid_limit = int(total_len * 0.9)
-        if mode == 'train':
+        if split == 'train':
             split_range = slice(train_limit)
-        elif mode == 'valid':
+        elif split == 'valid':
             split_range = slice(train_limit, valid_limit)
         else:
             split_range = slice(valid_limit, total_len)
@@ -79,7 +79,7 @@ class MovieDataset(Dataset):
             transforms.Normalize(mean=[0.485, 0.456, 0.406],
                                  std=[0.229, 0.224, 0.225])])
 
-        print(f'Dataset {mode} loaded, number of data: {len(self.data)}')
+        print(f'Dataset {split} loaded, number of data: {len(self.data)}')
 
     def __len__(self):
         return len(self.data)

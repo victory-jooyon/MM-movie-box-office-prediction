@@ -21,11 +21,11 @@ def main():
     args = parse_args()
 
     # Load dataset
-    train_loader = DataLoader(MovieDataset(mode='train', seed=args.seed), batch_size=args.batch_size,
+    train_loader = DataLoader(MovieDataset(split='train', seed=args.seed), batch_size=args.batch_size,
                               shuffle=True, num_workers=args.num_workers)
-    valid_loader = DataLoader(MovieDataset(mode='valid', seed=args.seed), batch_size=32,
+    valid_loader = DataLoader(MovieDataset(split='valid', seed=args.seed), batch_size=32,
                               shuffle=False, num_workers=args.num_workers)
-    test_loader = DataLoader(MovieDataset(mode='test', seed=args.seed), batch_size=32,
+    test_loader = DataLoader(MovieDataset(split='test', seed=args.seed), batch_size=32,
                              shuffle=False, num_workers=args.num_workers)
 
     # Load model
@@ -45,14 +45,19 @@ def main():
     trainer.train()
 
     # Run test
+    model.load_state_dict(torch.load(os.path.join(args.weight_dir, 'best_checkpoint_loss.pt'), map_location=args.device))
     evaluator = Evaluator(args, model, test_loader, criterion)
-    test_loss = evaluator.evaluate('Test')
-    print(f'Entire pipeline Finished\n'
-          f'Time elapsed: {time.time() - t0:.4f}\n'
-          f'Test Loss: {test_loss}')
+    evaluator.evaluate('Test-BestValLoss')
+
+    model.load_state_dict(torch.load(os.path.join(args.weight_dir, 'best_checkpoint_acc.pt'), map_location=args.device))
+    evaluator = Evaluator(args, model, test_loader, criterion)
+    evaluator.evaluate('Test-BestValAcc')
 
     if args.show_example:
         evaluator.predict_example()
+
+    print(f'Entire pipeline Finished\n'
+          f'Time elapsed: {time.time() - t0:.4f}')
 
 
 def parse_args():

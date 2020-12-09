@@ -39,7 +39,7 @@ class Evaluator:
         avg_loss = float(total_loss) / n_data
         avg_acc = total_acc / n_data
         print(f'{mode}: Average Loss: {avg_loss:.6f} | Average Acc: {avg_acc:.6f}')
-        return avg_loss
+        return avg_loss, avg_acc
 
     def predict_example(self):
         poster_transform = transforms.Compose([
