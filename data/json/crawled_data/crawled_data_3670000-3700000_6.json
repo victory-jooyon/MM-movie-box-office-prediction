@@ -1,0 +1,317 @@
+[
+    {
+        "id": 523931,
+        "imdb": {
+            "imdb_id": "tt8235660",
+            "title": "Megalodon",
+            "director": "nm2406836",
+            "release_year": "2018",
+            "main_actor": "nm0000514",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 523931,
+            "overview": "A military vessel on the search for an unidentified submersible finds themselves face to face with a giant shark, forced to use only what they have on board to defend themselves from the monstrous beast.",
+            "budget": 130178,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 10770,
+                    "name": "TV Movie"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/hES2eVAbVt08JJTqgu3jmI34Yxx.jpg",
+            "production_companies": [
+                {
+                    "id": 1311,
+                    "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+                    "name": "The Asylum",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 166,
+            "review": null
+        },
+        "revenue": 5303
+    },
+    {
+        "id": 514847,
+        "imdb": {
+            "imdb_id": "tt8244784",
+            "title": "The Hunt",
+            "director": "nm0957505",
+            "release_year": "2020",
+            "main_actor": "nm2365811",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 514847,
+            "overview": "Twelve strangers wake up in a clearing. They don't know where they are\u2014or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport. But their master plan is about to be derailed when one of the hunted turns the tables on her pursuers.",
+            "budget": 14000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/fHCMPd1w8wcJmrplR3ebCl6nfFI.jpg",
+            "production_companies": [
+                {
+                    "id": 3172,
+                    "logo_path": "/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+                    "name": "Blumhouse Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 130530,
+                    "logo_path": null,
+                    "name": "White Rabbit Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 1524,
+            "review": "Liberal snooty types lashing out at conservative cronies and their right-wing leanings should have made for some enjoyably edgy satire, but 'The Hunt' is merely a by-the-numbers comedy-horror-suspense thriller that has a few punchy moments. But, if production company Blumhouse wants to remake a bunch of 90s Jean-Claude Van Damme action movies with Betty Gilpin in the lead role, I think I'd be down with that. I'd watch them, not in the theatres obviously, but late at night after a few beers.\r\n- Jake Watt\r\n\r\nRead Jake's full article...\r\nhttps://www.maketheswitch.com.au/article/review-the-hunt-blunt-lazy-and-undeserving-of-controversy"
+        },
+        "revenue": 8621288
+    },
+    {
+        "id": 696430,
+        "imdb": {
+            "imdb_id": "tt8259442",
+            "title": "Arrival",
+            "director": "nm9762310",
+            "release_year": "\\N",
+            "main_actor": "nm9762311",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 696430,
+            "overview": "After an alien escapes from a government facility, a town is sent into chaos trying to capture it.",
+            "budget": 10000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/56PZVQtSvrzdGCHv6AKHLljk7aR.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 10
+    },
+    {
+        "id": 654223,
+        "imdb": {
+            "imdb_id": "tt8262118",
+            "title": "Antep Fistigi",
+            "director": "nm1754495",
+            "release_year": "2018",
+            "main_actor": "nm10585720",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 654223,
+            "overview": "An epic adventure that takes place in Gaziantep with Ivana Sert.",
+            "budget": 2,
+            "genres": [],
+            "poster": "https://image.tmdb.org/t/p/original/kKAGP8DGdDSO8OEt1KpERfwv2Pp.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 10
+    },
+    {
+        "id": 517814,
+        "imdb": {
+            "imdb_id": "tt8267604",
+            "title": "Capharna\u00fcm",
+            "director": "nm1701024",
+            "release_year": "2018",
+            "main_actor": "nm9862858",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 517814,
+            "overview": "Zain, a 12-year-old boy scrambling to survive on the streets of Beirut, sues his parents for having brought him into such an unjust world, where being a refugee with no documents means that your rights can easily be denied.",
+            "budget": 4000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/mFnfTVADj8yOxwzprYOmTPselk8.jpg",
+            "production_companies": [
+                {
+                    "id": 54268,
+                    "logo_path": "/Pvi7supNmOjgH2dqnKPTsmKsSL.png",
+                    "name": "Boo Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 103361,
+                    "logo_path": null,
+                    "name": "Mooz Films",
+                    "origin_country": "LB"
+                },
+                {
+                    "id": 137903,
+                    "logo_path": null,
+                    "name": "Cedrus Invest Bank",
+                    "origin_country": "LB"
+                },
+                {
+                    "id": 125717,
+                    "logo_path": null,
+                    "name": "Clandestino Filmes",
+                    "origin_country": "LB"
+                },
+                {
+                    "id": 8152,
+                    "logo_path": "/shnLD1Pj9d1vB2TH93QHSNT5gzW.png",
+                    "name": "DFI",
+                    "origin_country": "QA"
+                },
+                {
+                    "id": 137904,
+                    "logo_path": null,
+                    "name": "KNM Films",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 2280,
+                    "logo_path": null,
+                    "name": "Les Films des Tournelles",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 8469,
+                    "logo_path": null,
+                    "name": "Louverture Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 547,
+                    "logo_path": null,
+                    "name": "Open City Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 122613,
+                    "logo_path": null,
+                    "name": "Sunnyland Film",
+                    "origin_country": "CY"
+                },
+                {
+                    "id": 137905,
+                    "logo_path": null,
+                    "name": "The Bridge Production",
+                    "origin_country": "LB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "LB",
+                    "name": "Lebanon"
+                }
+            ],
+            "vote_average": 8.3,
+            "vote_count": 905,
+            "review": "**_I wouldn't call it entertaining per se, but it's certainly provocative_**\r\n\r\n>_I saw kids who are so neglected, so abused that there's nothing anymore in their eyes. These children don't laugh, don't cry, and don't play. If you put a toy in front of them, they don't touch it. They are just numb. There's no more childhood in their eyes. After seeing these kids many times, when they started to have a trusting relationship with me, I used to ask them, \"are you happy to be alive?\" Ninety-nine percent of the kids answered \"no\". They told me: \"I'm not happy to be here.\" \"Why am I here when there'__s no one to take care of me?\" \"Why am I here if I'm going to be hungry all the time?\" They have the feeling that they're here because they are being punished for something._\r\n\r\n- Nadine Labaki; _Capharna\u00fcm_ Production Notes\r\n\r\nTaking as its subject the horrific plight of guttersnipe children in the slums of Beirut, _Capharna\u00fcm_ is the kind of film of which a superficial reading might suggest miserablism at best, and \"poverty porn\" at worst. Comparisons to film such as Danny Boyle's _Slumdog Millionaire_ (2008), Stephen Daldry's _Trash_ (2014), and Sean Baker's _The Florida Project_ (2017) are probably inevitable, albeit not very informative if one wishes to parse the film. Instead, it's much more useful to view _Capharna\u00fcm_ in the tradition of classic Italian neorealist pictures such as Luchino Visconti's _Ossessione_ (1943) and _La Terra Trema_ (19548), Roberto Rossellini's _Roma citt\u00e0 aperta_ (1945) and _Germania anno zero_ (1948), and Vittorio De Sica's _Ladri di biciclette_ (1948) and _Umberto D._ (1952), albeit far more pessimistic than any of them.\r\n\r\nThe third film from Lebanese writer/actress/director Nadine Labaki (_Caramel_; _Where Do We Go Now?_), _Capharna\u00fcm_ is written by Labaki, Michelle Keserwany, and Labaki's regular writing partner Jihad Hojaily (Georges Khabbaz, Labaki's husband, and the film's producer and composer, Khaled Mouzanar are credited with \"screenplay collaboration\"). Presenting a _milieu_ in which people are utterly discardable, the film depicts children who are literally bought and sold for a few chickens; 11-year-old girls who are married off so their family can afford the rent; babies who are fed on ice cubes covered in sugar; refugees who roam the streets; mental illness which goes untreated; and people without a Lebanese identity card who don't officially exist. Uplifting it most certainly is not. In a similar tonal key to H\u00e9ctor Babenco's _Pixote: a Lei do Mais Fraco_ (1981) and Walter Salles's _Central do Brasil_ (1998), the film works because it never feels like it's exploiting, patronising, or trivialising the poverty and misfortune it depicts, never attempting to manipulate the audience into feeling a preconceived emotion. On the contrary, it's matter-of-fact, and notable for just how unsentimental it is. However, it's also deeply humanist, with genuine compassion in its DNA and a quiet rage at its core, born partly from an inherent sense of authenticity; shot in the style of _cin\u00e9ma v\u00e9rit\u00e9_, it uses non-professional actors whose lives are not dissimilar from the characters they play, with Labaki encouraging improvisation throughout. There are some problems, of course - the framing device of a trial is poorly conceived and distracts from the superior filmmaking surrounding it, the ending is disappointingly didactic, and the litany of hardships endured by the main character does get a little over-the-top. However, this is undeniably impressive filmmaking, as harrowing and angry, as it is solicitous and respectful.\r\n\r\nZain El Hajj (Zain Al Rafeea) is a young boy from the slums of Beirut serving a five-year prison sentence for, as he puts it, \"_stabbing a son-of-a-bitch_.\" Neither he nor his parents, mother Souad (Kawsar Al Haddad) and father Selim (Fadi Youssef), know Zain's exact age, as he was never officially registered, and therefore has no birth cert. As the film begins, Zain is brought before a judge, as he has decided to sue his parents for bringing him into the world despite not being able to care for their already numerous children. The film then flashes back several months, with Zain working as a delivery boy for the family's landlord, Assad (Nour El Husseini). Life is harsh, but Zain and his sister, 11-year-old sister Sahar (Haita \"Cedra\" Izzam), look out for one another. When he sees bloodstains on her underwear, he helps her hide the fact that she has begun her period, believing their parents might try to marry her off. Making plans to escape with her, Zain returns home one day to find his parents in the process of handing Sahar over to Assad. A brutal struggle ensues, but Zain fails to save her, and that night, he runs away. Seeking refuge in a rundown amusement park, he meets Rahil (Yordanos Shiferaw), an Ethiopian refugee working as a cleaner. Taking pity on Zain, she agrees to let him stay with her in exchange for him looking after her one-year-old son Yonas (an absolutely astounding performance by Boluwatife Treasure Bankole) when she's at work. Her forged migrant documents are set to expire soon and as she doesn't have enough money to pay her forger, Aspro (Alaa Chouchnieh), for new papers, he is trying to persuade her to sell him Yonas. As time passes, Zain, Rahil, and Yonas form a tight bond, until one day, Rahil doesn't return home from work, leaving Zain and Yonas to fend for themselves.\r\n\r\nThoroughly uplifting stuff, am I right? Labaki first got the idea for the film when she saw a woman and a one-year-old baby on a traffic island in Beirut. In the film's production notes, Labaki writes,\r\n\r\n> _the little boy couldn't sleep. Every time he would doze off, he would wake up again. And it hit me. The only place where this kid is going to experience life is this half a meter of concrete between two highways. It's all he knows._\r\n\r\nWhen she got home, she drew a picture of a child shouting at a group of adults, with the caption,\r\n\r\n> _I'm sorry! I quit! I don't want to be here! I don't belong in your world! I don't want to breathe, eat, play, learn, laugh or dream! I don't want to grow up to become like you! You have failed me!_\r\n\r\nBrainstorming, she began to write down everything that bothered her about the situation;\r\n\r\n> _where did the system fail these kids? Why do we as a society allow this sort of injustice to happen? The migrant workers' situation in Lebanon; the absurdity of the notion of frontiers; the absurdity that you need a paper to prove that you exist._\r\n\r\nLooking at the list of topics, she thought of the French word, \"_Capharna\u00fcm_\" (alternatively spelt Capernaum). The term was originally the name of a Biblical fishing village on the northern shore of the Sea of Galilee, which is mentioned multiple times across all four gospels, as a place where Jesus performed several miracles. However, it's best known from Matthew 11:23, when Jesus curses the village for its lack of faith in him (\"_And you, Capernaum, will you be lifted to the heavens? No, you will go down to Hades. For if the miracles that were performed in you had been performed in Sodom, it would have remained to this day_\"). Later on, however, the word came to be used in French literature to signify a state of chaos and disorder. The current dictionary definition is, \"_a confused jumble; a place marked by a disorderly accumulation of objects_\".\r\n\r\nBeginning to research what life is really like for children of poverty, Labaki went to prisons for minors, refugee camps, courtrooms, and the streets themselves. Shooting with as small a crew as possible, she elected to use a non-professional cast whose lives resembled those of the character they're playing (like Rahil, Shiferaw is an illegal Ethiopian immigrant who was working as a cleaner; like Sahar, Izzam was unable to attend school in Lebanon, and was selling gum on the street; like Souad, Haddad has children for whom she has been unable to get ID). In this sense, casting director Jennifer Haddad deserves a great deal of praise, as she's done an astounding job of pulling together an authentic ensemble. During the shoot, Labaki would give the performers the basic outline of a scene, but allow them to use their own words and mannerisms, and draw upon their own experiences, without worrying too much about where the scene is supposed to go. With the film being shot in sequence, this necessitated that the script was constantly being rewritten, so as to accommodate something which somebody had improvised.\r\n\r\nFrom an aesthetic perspective, Labaki wisely keeps things simple and functional, eschewing any directorial gymnastics, with the aesthetic design perfectly chosen to convey the story she wishes to tell. Adopting a documentarian sense of realism, cinematographer Christopher Aoun sticks to handheld cameras and, for the most part, natural lighting. The scenes on the streets of Beirut are especially impressive, with Labaki shooting most of the material from roughly Zain's height, or slightly lower. This allows the scenes to adopt a heavily focalised and subjective view of the world, without having to resort to less elegant POV shots. Chadi Roukoz's sound design is also superb in these exterior scenes, with the soundtrack crammed with car horns, shouting, crying, laughter, dogs barking, airplanes flying overhead, traffic on the streets. It's an aural overload, conveying how the massive city is overwhelming Zain, and again, tying us to his subjectivity.\r\n\r\nLaure Gardette (_Jeune & Jolie_; _Frantz_) and Konstantin Bock's editing is also laudable. Even apart from the fact that they had to cull the film from over 500 hours of footage (the first cut ran 12 hours), with the complete editing process taking over two years, the editing is extremely powerful in certain scenes, with the specific cuts tied closely to the theme and tone of the film. Probably the two best examples are the scene where Zain is trying to prevent his parents from giving Sahar to Assad, and a later scene when Zain leaves Yonas on the side of the road and tries to walk away. The fight for Sahar balances, on the one hand, combinations of shots focusing on Sahar and the parents, and on the other, an equal number of shots focused solely on Zain. This places him front-and-centre in the _mise en sc\u00e8ne_, simply by virtue of the fact that we see more of him than any of the other characters. The result is that the scene, although ostensibly concerned with the parents' choice to give Sahar away, is actually more about Zain's reaction to that choice. Similarly, in the scene where he tries to leave Yonas, the editing focuses on him rather than the baby - the shots of Zain are longer, there are more of them, and there are a combination of different framings, whereas all of the shots of Yonas are uniform. This kind of editing is as shrewd as it is subtle, giving Zain a greater sense of agency and energy, and ensuring the audience knows that he, not Yonas, should be the focus of our attention.\r\n\r\nLabaki sets the tone for the film to come in the very first shot, as we see Zain, filthy dirty, in only his vest and underwear. It is subsequently driven home multiple times that life is almost worthless in this place - Sahar is sold for some chickens, Aspro tries to get Rahil to sell Yonas in return for forged migrant documents, Assad tells Zain, \"_I can buy a human for 500_\". This is a world in which people think of children in the same way as they think of commodities, with the notion of adults protecting children subservient to that of adults looking at children in a cold transactional manner. In such a place, Zain somehow manages to retain his sense of empathy, although he too is infected with the concept that everything is transactional, as his pragmatism illustrates to him that materialism is the order of the day. However, although he suppresses his sense of compassion, he does not completely extinguish it, nor would he want to. In a world where adults are reprehensible, and children their innocent victims, Zain is the story's moral compass, exhibiting a humanity far in excess of any kindness than has ever been shown to him.\r\n\r\nThematically, Zain's jaded disillusionment, which is far more pronounced than it should ever be in a child his age, echoes the line from _Ladri di biciclette_, when Antonio (Lamberto Maggiorani) decries, \"_I curse the day I was born._\" Zain himself is kind of an amalgamation of Antoine Doinel (Jean-Pierre L\u00e9aud) from Fran\u00e7ois Truffaut's _Les quatre cents coups_ (1959), Huckleberry Finn, and any number of Charles Dickens youngsters (Oliver Twist, David Copperfield, Little Dorrit, Philip Pirrip, aka Pip), with his unique perspective on the world illuminating the horrors of that world in a way that would be impossible were he an adult. An important plot point in relation to Zain is his lack of an ID card. Without being registered when he was born, he can't get a state ID, meaning he is effectively a non-person; he cannot own a passport, he cannot legally work, and he is not entitled to an education or medical care, a situation that attains an almost Kafka-esque surrealism in its bureaucratic absurdity.\r\n\r\nIn terms of problems, there are a few. The framing device of the trial, for example, is awkwardly realised, and for the most part, serves only to interrupt the far more compelling story of Zain, Rahil, and Yonas. Additionally, not only do the scenes in court come across as more heavily scripted than everything else, but they also depict something that couldn't happen (as Labaki herself has acknowledged, children can't sue their parents for giving birth to them). Obviously intended as a means to dramatize how Zain wants a voice, it is nonetheless a narrative contrivance that gets in the way of the far more accomplished filmmaking seen elsewhere. Surrounded by the more naturalistic realism of the rest of the film, the court scenes stand out because they feel like a plot machination. The third act in particular, which focuses primarily on the trial, and which features the usual impassioned speeches you would get in any clich\u00e9d courtroom drama, strays into something Labaki has deftly avoid everywhere else; didacticism. Elsewhere, there is something of a sense that Labaki overloads the story, pushing just one too many hardships on Zain, as she attempts to cover a plethora of topics. For example, she touches on domestic violence, the migrant crisis, human trafficking, paedophilia, child labour, education, the justice system, and on occasion, the film feels like it's going to collapse under the weight of human suffering and thematic nihilism. This is a shame because some of the best scenes in the film are those involving Zain and Yonas just going about their day, and if Labaki had had the confidence in these quieter moments, she might have scaled back on the socio-political content.\r\n\r\nIn a strange way, _Capharna\u00fcm_ has something of the same thematic DNA as Paul Schrader's _First Reformed_ (2017), with both films examining the morality of bringing children into a world of suffering (albeit from fundamentally different perspectives, with Schrader's examination far more existential than Labaki's practical workaday world). Never feeling exploitative, nor glorifying the poverty at its centre, the film isn't even especially sentimental, depicting scenes with a raw matter-of-factness, that were they featured in a Hollywood movie would be in slow-motion, with string music telling us to \"Cry now\". Zain is no saint; he's a rough, foul-mouthed thief, but he's also the most inherently honourable character in the film. Labaki could easily have used Zain to attempt to elicit unearned pity, but instead, she is far more interested in examining the day-to-day survival of children like him. One of his most salient characterises is his practical-minded solutions to the challenges he faces, and in this, we're encouraged to respect how he responds to his situation rather than pity him for being in such a situation in the first place. The film adopts something of the same manner; much like Zain, it's tough-minded and practical, and just as his hardened exterior is completely authentic, so too is the film's quiet anger. Placing us not just in Zain's world, but, crucially, in his subjective interpretation of that world, Labaki draws us to him, allowing us to view the world partly as outraged adults, but also as sharers in his experiences. The conclusion is disappointingly didactic, and the journey there harrowing and exhausting. However, in the last shot, Labaki dares to offer a very cautious bit of optimism, and ultimately, the takeaway is not despair, but compassion. Just as Zain finds a humanity within himself that should be long dead, the film finds a moment of optimism amidst the chaos, and encourages the audience to cling to it."
+        },
+        "revenue": 64978931
+    },
+    {
+        "id": 519010,
+        "imdb": {
+            "imdb_id": "tt8291806",
+            "title": "Dolor y gloria",
+            "director": "nm0000264",
+            "release_year": "2019",
+            "main_actor": "nm0000104",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 519010,
+            "overview": "Salvador Mallo, a filmmaker in the twilight of his career, remembers his life: his mother, his lovers, the actors he worked with. The sixties in a small village in Valencia, the eighties in Madrid, the present, when he feels an immeasurable emptiness, facing his mortality, the incapability of continuing filming, the impossibility of separating creation from his own life. The need of narrating his past can be his salvation.",
+            "budget": 10769016,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/cMlueArJXXwZbeLpb4NhC3pxmBk.jpg",
+            "production_companies": [
+                {
+                    "id": 49,
+                    "logo_path": "/xpf5iHdvvBtsH8jBMlgIJHAET0c.png",
+                    "name": "El Deseo",
+                    "origin_country": "ES"
+                },
+                {
+                    "id": 981,
+                    "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+                    "name": "TVE",
+                    "origin_country": "ES"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "ES",
+                    "name": "Spain"
+                }
+            ],
+            "vote_average": 7.5,
+            "vote_count": 1157,
+            "review": "If you were to tell me that \u2018Pain and Glory\u2019 was Pedro Almod\u00f3var\u2019s final film, I would be inclined to believe you. Rarely has the act of looking back on one's past been so vividly and honestly depicted, and so richly and emotionally satisfying. You can feel the need for this film to exist in every frame, a need to understand and reflect and celebrate and mourn. It is a portrait of an artist at a crossroads, entering the last act of their lives, looking back at what they have created and the battlefield left in their wake, and facing the terror of never creating again. \u2018Pain and Glory\u2019 is an intensely beautiful film, one that hangs in the air around you like a perfume for days after. The more I think back on it, the more certain I am that I\u2019ve seen a masterwork. I cannot wait to see it again.\r\n- Daniel Lammin\r\n\r\nRead Daniel's full article...\r\nhttps://www.maketheswitch.com.au/article/review-pain-and-glory-almodovar-delivers-a-rhapsodic-masterwork"
+        },
+        "revenue": 28747837
+    }
+]
