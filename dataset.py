@@ -13,12 +13,14 @@ from transformers import BertTokenizer
 
 
 class MovieDataset(Dataset):
-    def __init__(self, mode='train', thres=(0, 1), seed=0):
+    def __init__(self, mode='train', seed=0, num_classes=2, thres=(0,)):
         super(Dataset, self).__init__()
         # Read data from json
         with open('./data/json/crawled_data/crawled_data_all.json', 'r', encoding='utf-8') as f:
             movie_data = json.load(f)
-        self.data_low, self.data_mid, self.data_high = [], [], []
+        data_split = [[] for _ in range(num_classes)]
+        if len(thres) != num_classes - 1:
+            thres = tuple(range(num_classes - 1))
         random.seed(seed)
 
         for data in tqdm(movie_data, total=len(movie_data), desc=f'Loading {mode} dataset'):
@@ -43,22 +45,17 @@ class MovieDataset(Dataset):
             budget = float(data['tmdb']['budget'])
             profit = (revenue - budget) / budget
 
-            if profit < thres[0]:
-                success = 0
-                self.data_low.append((id, poster, overview, imdb_text, profit, success))
-            elif profit < thres[1]:
-                success = 1
-                self.data_mid.append((id, poster, overview, imdb_text, profit, success))
-            else:
-                success = 2
-                self.data_high.append((id, poster, overview, imdb_text, profit, success))
+            for j in range(num_classes):
+                if j == num_classes - 1 or profit < thres[j]:
+                    success = j
+                    data_split[j].append((id, poster, overview, imdb_text, profit, success))
 
-        n_data = min(len(self.data_low), len(self.data_mid), len(self.data_high))
-        random.shuffle(self.data_low)
-        random.shuffle(self.data_mid)
-        random.shuffle(self.data_high)
-
-        self.data = self.data_low[:n_data] + self.data_mid[:n_data] + self.data_high[:n_data]
+        # Aggregate data
+        n_data = min(*[len(d) for d in data_split])
+        self.data = []
+        for d in data_split:
+            random.shuffle(d)
+            self.data.extend(d[:n_data])
         random.shuffle(self.data)
 
         # Split data

@@ -6,7 +6,7 @@ from .feature_extractors.imdb import IMDBFeatureExtractor
 
 
 class MultimodalPredictionModel(nn.Module):
-    def __init__(self, feature_size=768, hidden_layer_size=512, ablation=None):
+    def __init__(self, feature_size=768, hidden_layer_size=512, ablation=None, num_classes=2):
         super(MultimodalPredictionModel, self).__init__()
         self.tmdb = TMDBFeatureExtractor(feature_size)
         self.poster = PosterFeatureExtractor(feature_size)
@@ -17,7 +17,7 @@ class MultimodalPredictionModel(nn.Module):
         self.fc = nn.Sequential(nn.Linear(fc_size, hidden_layer_size),
                                 nn.ReLU(),
                                 nn.Dropout(),
-                                nn.Linear(hidden_layer_size, 3))
+                                nn.Linear(hidden_layer_size, num_classes))
 
     def forward(self, tmdb_tok, poster_input, imdb_tok):
         # [feature_size]

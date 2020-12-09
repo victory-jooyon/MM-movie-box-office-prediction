@@ -1,4 +1,5 @@
 import os
+import shutil
 import argparse
 import time
 
@@ -20,14 +21,12 @@ def main():
     args = parse_args()
 
     # Load dataset
-    train_loader = DataLoader(MovieDataset(mode='train'), batch_size=args.batch_size,
+    train_loader = DataLoader(MovieDataset(mode='train', seed=args.seed), batch_size=args.batch_size,
                               shuffle=True, num_workers=args.num_workers)
-    valid_loader = DataLoader(MovieDataset(mode='valid'), batch_size=32,
+    valid_loader = DataLoader(MovieDataset(mode='valid', seed=args.seed), batch_size=32,
                               shuffle=False, num_workers=args.num_workers)
-    test_loader = DataLoader(MovieDataset(mode='test'), batch_size=32,
+    test_loader = DataLoader(MovieDataset(mode='test', seed=args.seed), batch_size=32,
                              shuffle=False, num_workers=args.num_workers)
-    # revenues_mean, revenues_std = get_stats()
-    # print(f'Dataset Loaded | Mean Revenue: {revenues_mean}, Std.: {revenues_std}')
 
     # Load model
     model = MultimodalPredictionModel(ablation=args.ablation).to(args.device)
@@ -41,6 +40,7 @@ def main():
     optimizer = optim.Adam(model.parameters(), lr=args.lr, weight_decay=1E-4)
 
     # Run train
+    shutil.rmtree('./logs')
     trainer = Trainer(args, model, train_loader, valid_loader, criterion, optimizer)
     trainer.train()
 
@@ -65,6 +65,8 @@ def parse_args():
     parser.add_argument('--ablation', default=None, type=str, choices=['poster', 'tmdb', 'imdb', None],
                         help='Where to use single feature for prediction')
     parser.add_argument('--device', default='cuda:0', type=str, help='Training device: cpu/cuda/cuda:0,1,...')
+    parser.add_argument('--seed', default=1, type=int, help='Dataset shuffle seed')
+    parser.add_argument('--num_classes', default=2, type=int, help='Number of classes')
 
     parser.add_argument('--weight_dir', default='./weight', type=str, help='Weight save/load directory')
     parser.add_argument('--resume', default=None, type=str, choices=['best', 'last', None],
