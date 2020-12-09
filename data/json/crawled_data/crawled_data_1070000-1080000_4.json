@@ -1,0 +1,290 @@
+[
+    {
+        "id": 14164,
+        "imdb": {
+            "imdb_id": "tt1098327",
+            "title": "Dragonball Evolution",
+            "director": "nm0939128",
+            "release_year": "2009",
+            "main_actor": "nm0154226",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 14164,
+            "overview": "The young warrior Son Goku sets out on a quest, racing against time and the vengeful King Piccolo, to collect a set of seven magical orbs that will grant their wielder unlimited power.",
+            "budget": 100000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/xBJMob7QIzCOuDGY7aqGAvBQsj2.jpg",
+            "production_companies": [
+                {
+                    "id": 81135,
+                    "logo_path": null,
+                    "name": "World Film Magic",
+                    "origin_country": ""
+                },
+                {
+                    "id": 444,
+                    "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
+                    "name": "Dune Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3477,
+                    "logo_path": null,
+                    "name": "Star Overseas",
+                    "origin_country": ""
+                },
+                {
+                    "id": 10893,
+                    "logo_path": null,
+                    "name": "Big Screen Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 290,
+                    "logo_path": "/Q8mw2AOQQc8Qg0uNwLWq86DVZv.png",
+                    "name": "Ingenious Media",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 25,
+                    "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                    "name": "20th Century Fox",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 2.8,
+            "vote_count": 1377,
+            "review": null
+        },
+        "revenue": 57497699
+    },
+    {
+        "id": 8966,
+        "imdb": {
+            "imdb_id": "tt1099212",
+            "title": "Twilight",
+            "director": "nm0362566",
+            "release_year": "2008",
+            "main_actor": "nm0829576",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 8966,
+            "overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
+            "budget": 37000000,
+            "genres": [
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+            "production_companies": [
+                {
+                    "id": 491,
+                    "logo_path": "/rUp0lLKa1pr4UsPm8fgzmnNGxtq.png",
+                    "name": "Summit Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 12292,
+                    "logo_path": "/llGRXF5WYUW2fzXg0ebCoKMXjmT.png",
+                    "name": "Temple Hill Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 4000,
+                    "logo_path": null,
+                    "name": "Maverick Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5218,
+                    "logo_path": "/dhb42ugM9DzSpDctTWCtABPVOW4.png",
+                    "name": "Imprint Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 500,
+                    "logo_path": null,
+                    "name": "Goldcrest",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 57750,
+                    "logo_path": null,
+                    "name": "Twilight Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.2,
+            "vote_count": 9982,
+            "review": null
+        },
+        "revenue": 393616788
+    },
+    {
+        "id": 87492,
+        "imdb": {
+            "imdb_id": "tt1100089",
+            "title": "Foxcatcher",
+            "director": "nm0587955",
+            "release_year": "2014",
+            "main_actor": "nm0136797",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 87492,
+            "overview": "The greatest Olympic Wrestling Champion brother team joins Team Foxcatcher led by multimillionaire sponsor John E. du Pont as they train for the 1988 games in Seoul - a union that leads to unlikely circumstances.",
+            "budget": 24000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/w6Sl079QtUcQ9dVQ2RP6aN9NBXx.jpg",
+            "production_companies": [
+                {
+                    "id": 13184,
+                    "logo_path": "/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png",
+                    "name": "Annapurna Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2531,
+                    "logo_path": "/pC2iDCDCvV85vOBP7a5Ukxuc0Du.png",
+                    "name": "MRC",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1785,
+                    "logo_path": "/wT6aIkuQTNuq8XFoDGACK8EyR6w.png",
+                    "name": "Likely Story",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 1720,
+            "review": null
+        },
+        "revenue": 12096300
+    },
+    {
+        "id": 25132,
+        "imdb": {
+            "imdb_id": "tt1100119",
+            "title": "Shorts",
+            "director": "nm0001675",
+            "release_year": "2009",
+            "main_actor": "nm1497548",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 25132,
+            "overview": "A young boy's discovery of a colorful, wish-granting rock causes chaos in the suburban town of Black Falls when jealous kids and scheming adults alike set out to get their hands on it.",
+            "budget": 40000000,
+            "genres": [
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/bKnQostymQJY6l3nrdQZ4iIhLSk.jpg",
+            "production_companies": [
+                {
+                    "id": 10807,
+                    "logo_path": "/j0BcMaJKIiDDYHq9lriTcM0Npka.png",
+                    "name": "Troublemaker Studios",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 6736,
+                    "logo_path": null,
+                    "name": "Imagenation Abu Dhabi FZ",
+                    "origin_country": "AE"
+                },
+                {
+                    "id": 2531,
+                    "logo_path": "/pC2iDCDCvV85vOBP7a5Ukxuc0Du.png",
+                    "name": "MRC",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AE",
+                    "name": "United Arab Emirates"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.7,
+            "vote_count": 194,
+            "review": null
+        },
+        "revenue": 28972508
+    }
+]

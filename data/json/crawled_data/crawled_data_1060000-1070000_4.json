@@ -1,0 +1,225 @@
+[
+    {
+        "id": 14536,
+        "imdb": {
+            "imdb_id": "tt1095174",
+            "title": "New in Town",
+            "director": "nm0255411",
+            "release_year": "2009",
+            "main_actor": "nm0000250",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 14536,
+            "overview": "Lucy Hill is an ambitious up-and-coming executive living in Miami. She loves her shoes, she loves her cars and she loves climbing the corporate ladder. When she is offered a temporary assignment \u2013 in the middle of nowhere \u2013 to restructure a manufacturing plant, she jumps at the opportunity, knowing that a big promotion is close at hand. What begins as a straight-forward assignment becomes a life-changing experience as Lucy discovers greater meaning in her life and, most unexpectedly, the man of her dreams.",
+            "budget": 8000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/OMCGtMmmBE9NwmawLGZlaErdLk.jpg",
+            "production_companies": [
+                {
+                    "id": 11565,
+                    "logo_path": null,
+                    "name": "The Safran Company",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 12026,
+                    "logo_path": null,
+                    "name": "Gold Circle Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2924,
+                    "logo_path": null,
+                    "name": "Epidemic Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2923,
+                    "logo_path": null,
+                    "name": "Edmonds Entertainment Group",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 292,
+            "review": null
+        },
+        "revenue": 29010817
+    },
+    {
+        "id": 11699,
+        "imdb": {
+            "imdb_id": "tt1095217",
+            "title": "The Bad Lieutenant: Port of Call - New Orleans",
+            "director": "nm0001348",
+            "release_year": "2009",
+            "main_actor": "nm0000115",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 11699,
+            "overview": "Terrence McDonagh is a New Orleans Police sergeant, who recieves a medal and a promotion to lieutenant for heroism during Hurricane Katrina. Due to his heroic act, McDonagh injures his back and becomes addicted to prescription pain medication. He then finds himself involved with a drug dealer who is suspected of murdering a family of African immigrants.",
+            "budget": 25000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/zRULXsd0rb1lVfnSyQkYPi2nLcB.jpg",
+            "production_companies": [
+                {
+                    "id": 925,
+                    "logo_path": "/dIb9hjXNOkgxu4kBWdIdK8nM4w.png",
+                    "name": "Nu Image",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 6455,
+                    "logo_path": null,
+                    "name": "Edward R. Pressman Film",
+                    "origin_country": ""
+                },
+                {
+                    "id": 831,
+                    "logo_path": null,
+                    "name": "Saturn Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 10478,
+                    "logo_path": null,
+                    "name": "Polsky Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 11265,
+                    "logo_path": null,
+                    "name": "Osiris Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 11266,
+                    "logo_path": null,
+                    "name": "Lieutenant Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1020,
+                    "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+                    "name": "Millennium Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 704,
+            "review": null
+        },
+        "revenue": 10589102
+    },
+    {
+        "id": 631638,
+        "imdb": {
+            "imdb_id": "tt10963910",
+            "title": "Premortem",
+            "director": "nm10076465",
+            "release_year": "2019",
+            "main_actor": "nm10990570",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 631638,
+            "overview": "After unknowingly cheating death, a teenager meets the grim reaper, who gives him 52 hours to live.",
+            "budget": 20,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/qDxsDCH7thTRWJHNQNPzqFAGCoL.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AU",
+                    "name": "Australia"
+                }
+            ],
+            "vote_average": 8.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 1500
+    },
+    {
+        "id": 501748,
+        "imdb": {
+            "imdb_id": "tt1097014",
+            "title": "Paragraf 78 - Film vtoroy",
+            "director": "nm1680265",
+            "release_year": "2007",
+            "main_actor": "nm0476544",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 501748,
+            "overview": "In the near future the command of the special setting gets a new important task. On a secret rocket base, where a very tall order brings a command over, they will have face to face to run not only into an external danger but also with each other.",
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/7u6s4OAOrSyFDw9xqMhY63baQfO.jpg",
+            "production_companies": [],
+            "production_countries": [],
+            "vote_average": 5.2,
+            "vote_count": 10,
+            "review": null
+        },
+        "revenue": 2754691
+    }
+]

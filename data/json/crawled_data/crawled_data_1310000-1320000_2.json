@@ -1,0 +1,107 @@
+[
+    {
+        "id": 22355,
+        "imdb": {
+            "imdb_id": "tt1167599",
+            "title": "Wickie und die starken M\u00e4nner",
+            "director": "nm0378660",
+            "release_year": "2009",
+            "main_actor": "nm2961094",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 22355,
+            "overview": "One morning our little Viking village of Flake is raided by frightening looking spooky demons who kidnap all the children\u2026 except for Wickie, who was stuck in a tree trying to use a kite to learn to fly.",
+            "budget": 11000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/hmqR1ic1VSxhETjObl1EhGW0AJb.jpg",
+            "production_companies": [
+                {
+                    "id": 5754,
+                    "logo_path": null,
+                    "name": "Rat Pack Filmproduktion",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 47,
+                    "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+                    "name": "Constantin Film",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 88461,
+                    "logo_path": null,
+                    "name": "herbX Film",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                }
+            ],
+            "vote_average": 5.7,
+            "vote_count": 98,
+            "review": null
+        },
+        "revenue": 32000000
+    },
+    {
+        "id": 758208,
+        "imdb": {
+            "imdb_id": "tt11676022",
+            "title": "Article 21 A",
+            "director": "nm10752448",
+            "release_year": "2020",
+            "main_actor": "nm11302814",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 758208,
+            "overview": "An extraordinary upright administrative service officer works with the aim of educating India. He dedicates his 30 years of service to rural children jurisdictions with the power of Article 21 A (Eighty-sixth Amendment) of the Constitution of India. Hence, he is Honored with Rashtrapati award.",
+            "budget": 1000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10770,
+                    "name": "TV Movie"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/dOgLdlataOFopyxO0C0ayvElcuS.jpg",
+            "production_companies": [
+                {
+                    "id": 142677,
+                    "logo_path": null,
+                    "name": "MD Arts Productions Co.",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 2708
+    }
+]

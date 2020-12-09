@@ -1,0 +1,4649 @@
+[
+    {
+        "id": 11058,
+        "imdb": {
+            "imdb_id": "tt0335121",
+            "title": "Godsend",
+            "director": "nm0358327",
+            "release_year": "2004",
+            "main_actor": "nm0000134",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 11058,
+            "overview": "A couple agree to have their deceased son cloned under the supervision of an enigmatic doctor, but bizarre things start to happen years after his rebirth.",
+            "budget": 25000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/lLncs8FEzKupj19wCqZ3sPmg3eU.jpg",
+            "production_companies": [
+                {
+                    "id": 57347,
+                    "logo_path": null,
+                    "name": "Blue Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 35,
+                    "logo_path": "/wxrHa3nZ1K4zo65p56991INkGo6.png",
+                    "name": "Lions Gate Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 18620,
+                    "logo_path": null,
+                    "name": "Artists Production Group (APG)",
+                    "origin_country": ""
+                },
+                {
+                    "id": 846,
+                    "logo_path": null,
+                    "name": "2929 Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 4.9,
+            "vote_count": 308,
+            "review": null
+        },
+        "revenue": 30120671
+    },
+    {
+        "id": 153,
+        "imdb": {
+            "imdb_id": "tt0335266",
+            "title": "Lost in Translation",
+            "director": "nm0001068",
+            "release_year": "2003",
+            "main_actor": "nm0000195",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 153,
+            "overview": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+            "budget": 4000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg",
+            "production_companies": [
+                {
+                    "id": 70,
+                    "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+                    "name": "American Zoetrope",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 10146,
+                    "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+                    "name": "Focus Features",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1780,
+                    "logo_path": "/2KJ1cSBOGABQotDWSRPNY4C9amg.png",
+                    "name": "Tohokushinsha Film Corporation",
+                    "origin_country": "JP"
+                },
+                {
+                    "id": 113241,
+                    "logo_path": "/5VTEPsdFToSv89HyCtUTAElsnQk.png",
+                    "name": "Elemental Films",
+                    "origin_country": "GB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "JP",
+                    "name": "Japan"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.4,
+            "vote_count": 4895,
+            "review": "Ok movie Lovers. If you didn't like The Life Aquatic with Steve Zissou, then don't even bother with Lost in Translation. The jokes are dry and the dialogue is weak. At least in Life Aquatic they wore funny outfits. Being a world traveler myself I could appreciate the jet lag and overall moping around thru out the whole film. You will definatly feel lost. Although I found myself laughing out loud a few times at Bill Murray and his quips, BY NO MEANS should the average movie fans think this is a comedy. It is an independent art film and should be treated as so."
+        },
+        "revenue": 119723856
+    },
+    {
+        "id": 615,
+        "imdb": {
+            "imdb_id": "tt0335345",
+            "title": "The Passion of the Christ",
+            "director": "nm0000154",
+            "release_year": "2004",
+            "main_actor": "nm0001029",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 615,
+            "overview": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
+            "budget": 30000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2C9vyK6leWDb2ds65R7uIwSmh8V.jpg",
+            "production_companies": [
+                {
+                    "id": 152,
+                    "logo_path": null,
+                    "name": "Icon Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.3,
+            "vote_count": 2694,
+            "review": null
+        },
+        "revenue": 611899420
+    },
+    {
+        "id": 9384,
+        "imdb": {
+            "imdb_id": "tt0335438",
+            "title": "Starsky & Hutch",
+            "director": "nm0680846",
+            "release_year": "2004",
+            "main_actor": "nm0001774",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 9384,
+            "overview": "Join uptight David Starsky and laid-back Ken \"Hutch\" Hutchinson as they're paired for the first time as undercover cops. The new partners must overcome their differences to solve an important case with help from street informant Huggy Bear and persuasive criminal Reese Feldman.",
+            "budget": 60000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/i011DoAZF2krWvxhb7XAxl2lEcK.jpg",
+            "production_companies": [
+                {
+                    "id": 7405,
+                    "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+                    "name": "Dimension Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 53610,
+                    "logo_path": null,
+                    "name": "AR-TL",
+                    "origin_country": ""
+                },
+                {
+                    "id": 433,
+                    "logo_path": null,
+                    "name": "Weed Road Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2932,
+                    "logo_path": "/4uLKLjGivVg2YnAIhAn8k7ZuVFj.png",
+                    "name": "Red Hour",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 1584,
+            "review": null
+        },
+        "revenue": 170268750
+    },
+    {
+        "id": 13476,
+        "imdb": {
+            "imdb_id": "tt0335559",
+            "title": "Win a Date with Tad Hamilton!",
+            "director": "nm0525659",
+            "release_year": "2004",
+            "main_actor": "nm0098378",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 13476,
+            "overview": "A small-town girl wins a date with a Hollywood star through a contest. When the date goes better than expected, a love triangle forms between the girl, the celebrity, and the girl's best friend.",
+            "budget": 17000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/tM4qSVlvpO7OMUG00mtTs1SZEl5.jpg",
+            "production_companies": [
+                {
+                    "id": 7,
+                    "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+                    "name": "DreamWorks Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.7,
+            "vote_count": 369,
+            "review": null
+        },
+        "revenue": 16980098
+    },
+    {
+        "id": 4997,
+        "imdb": {
+            "imdb_id": "tt0335563",
+            "title": "Wonderland",
+            "director": "nm0185063",
+            "release_year": "2003",
+            "main_actor": "nm0000174",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 4997,
+            "overview": "On the afternoon of July 1, 1981, Los Angeles police responded to a distress call on Wonderland Avenue and discovered a grisly quadruple homicide. The police investigation that followed uncovered two versions of the events leading up to the brutal murders - both involving legendary porn actor John Holmes.",
+            "budget": 5000000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/WOUimrKUOvKwjwu6JYALxaRsdQ.jpg",
+            "production_companies": [
+                {
+                    "id": 35,
+                    "logo_path": "/wxrHa3nZ1K4zo65p56991INkGo6.png",
+                    "name": "Lions Gate Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.2,
+            "vote_count": 167,
+            "review": "Tangled and lacking rhythm story. Not that interesting and already told in other movies even being based in true facts."
+        },
+        "revenue": 2466444
+    },
+    {
+        "id": 10096,
+        "imdb": {
+            "imdb_id": "tt0337563",
+            "title": "13 Going on 30",
+            "director": "nm0935095",
+            "release_year": "2004",
+            "main_actor": "nm0004950",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 10096,
+            "overview": "After total humiliation at her thirteenth birthday party, Jenna Rink wants to just hide until she's thirty. With a little magic, her wish is granted, but it turns out that being thirty isn't as always as awesome as she thought it would be!",
+            "budget": 37000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/iNZdSIfhSCMtRILDNyhLn8UKeSG.jpg",
+            "production_companies": [
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 497,
+                    "logo_path": "/pMyhOBd3sCiLzBlmIopdJkcUFtn.png",
+                    "name": "Revolution Studios",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 19636,
+                    "logo_path": null,
+                    "name": "Thirteen Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 3640,
+            "review": null
+        },
+        "revenue": 96455697
+    },
+    {
+        "id": 8332,
+        "imdb": {
+            "imdb_id": "tt0337573",
+            "title": "Antik\u00f6rper",
+            "director": "nm0023355",
+            "release_year": "2005",
+            "main_actor": "nm0005342",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 8332,
+            "overview": "When a notorious German serial killer is captured after committing some of the most heinous acts against humanity ever imaginable, a farmer and police officer from a sleepy rural community on the outskirts of Berlin is drawn into the case as he searches for the answers to a murder that has shaken his tight-knit community.",
+            "budget": 1900000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/tDNDV5cx01XN3lryUJjJLWyewPo.jpg",
+            "production_companies": [
+                {
+                    "id": 2051,
+                    "logo_path": null,
+                    "name": "Kinowelt Filmproduktion",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2438,
+                    "logo_path": null,
+                    "name": "MedienKontor Movie GmbH",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 92,
+            "review": null
+        },
+        "revenue": 891133
+    },
+    {
+        "id": 21301,
+        "imdb": {
+            "imdb_id": "tt0337579",
+            "title": "Barbershop 2: Back in Business",
+            "director": "nm0838198",
+            "release_year": "2004",
+            "main_actor": "nm0001084",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 21301,
+            "overview": "The continuing adventures of the barbers at Calvin's Barbershop. Gina, a stylist at the beauty shop next door, is now trying to cut in on his business. Calvin is again struggling to keep his father's shop and traditions alive--this time against urban developers looking to replace mom & pop establishments with name-brand chains. The world changes, but some things never go out of style--from current events and politics to relationships and love, you can still say anything you want at the barbershop.",
+            "budget": 18000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/vNzb6U4bLCgoswQKGDU9jE5DYAn.jpg",
+            "production_companies": [
+                {
+                    "id": 21,
+                    "logo_path": "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png",
+                    "name": "Metro-Goldwyn-Mayer",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 166,
+            "review": null
+        },
+        "revenue": 65070412
+    },
+    {
+        "id": 83770,
+        "imdb": {
+            "imdb_id": "tt0337692",
+            "title": "On the Road",
+            "director": "nm0758574",
+            "release_year": "2012",
+            "main_actor": "nm0727165",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 83770,
+            "overview": "Dean and Sal are the portrait of the Beat Generation. Their search for \"It\" results in a fast paced, energetic roller coaster ride with highs and lows throughout the U.S.",
+            "budget": 25000000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/k7LQteD02p3VHixbS6NXHkFdFwT.jpg",
+            "production_companies": [
+                {
+                    "id": 8372,
+                    "logo_path": null,
+                    "name": "SPAD Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 70,
+                    "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+                    "name": "American Zoetrope",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 79077,
+                    "logo_path": null,
+                    "name": "Jerry Leider Company",
+                    "origin_country": ""
+                },
+                {
+                    "id": 614,
+                    "logo_path": null,
+                    "name": "Vanguard Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 83,
+                    "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+                    "name": "France 2 Cin\u00e9ma",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 10611,
+                    "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+                    "name": "Cin\u00e9+",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 346,
+                    "logo_path": "/kzQAFe6cBI0cbHZP3lUiHmeEyAF.png",
+                    "name": "Videofilmes",
+                    "origin_country": "BR"
+                },
+                {
+                    "id": 21914,
+                    "logo_path": "/iF5QYCtPLuwkU90jWdjrul25d71.png",
+                    "name": "K&S Films",
+                    "origin_country": "AR"
+                },
+                {
+                    "id": 12467,
+                    "logo_path": null,
+                    "name": "Nomadic Pictures",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 6274,
+                    "logo_path": null,
+                    "name": "MK2 Productions",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 6705,
+                    "logo_path": "/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png",
+                    "name": "Film4 Productions",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 104,
+                    "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+                    "name": "Canal+",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 7131,
+                    "logo_path": "/eLvjHPYZ12GR58lrDgg6MXZp2a3.png",
+                    "name": "France T\u00e9l\u00e9visions",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "BR",
+                    "name": "Brazil"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 641,
+            "review": null
+        },
+        "revenue": 8784318
+    },
+    {
+        "id": 20694,
+        "imdb": {
+            "imdb_id": "tt0337711",
+            "title": "Rugrats Go Wild",
+            "director": "nm0256983",
+            "release_year": "2003",
+            "main_actor": "nm0137627",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 20694,
+            "overview": "The Rugrats family vacation takes an exotic detour when their boat capsizes and they become shipwrecked on a deserted tropical island. With the jungle as their new backyard, the babies race wildly from one dangerous adventure to the next...soon to discover that someone else is on the island. It's The Wild Thornberrys...on an island adventure of their own! When these two famailies get together, the excitement really starts!",
+            "budget": 25000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/hpVpXRNY2IsU0xvfXtYOxu0QDwc.jpg",
+            "production_companies": [
+                {
+                    "id": 2348,
+                    "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+                    "name": "Nickelodeon Movies",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 59150,
+                    "logo_path": null,
+                    "name": "Klasky-Csupo",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 196,
+            "review": null
+        },
+        "revenue": 55443032
+    },
+    {
+        "id": 6964,
+        "imdb": {
+            "imdb_id": "tt0337741",
+            "title": "Something's Gotta Give",
+            "director": "nm0583600",
+            "release_year": "2003",
+            "main_actor": "nm0000197",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 6964,
+            "overview": "Harry Sanborn is an aged music industry exec with a fondness for younger women like Marin, his latest trophy girlfriend. Things get a little awkward when Harry suffers a heart attack at the home of Marin's mother, Erica. Left in the care of Erica and his doctor, a love triangle starts to take shape.",
+            "budget": 80000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4fQJjwbDf1KELvJJMcmAV6AxJdH.jpg",
+            "production_companies": [
+                {
+                    "id": 735,
+                    "logo_path": null,
+                    "name": "Waverly Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 1042,
+            "review": "_**That Hamptons episode**_\r\n\r\nA lifelong \u2018ladies man\u2019 (Jack Nicholson) used to dating young women has a life-altering experience while staying at the manor of a playwright (Diane Keaton) in the Hamptons. Amanda Peet plays the latter\u2019s daughter, Frances McDormand her sister and Keanu Reeves a local doctor.       \r\n\r\nWritten & directed by Nancy Meyer, \"Something\u2019s Gotta Give\" (2003) is an amusing romcom that addresses the theme of dating people well younger than yourself vs. dating people closer to your own age, as well as epiphanies and finding your true love or soulmate. While there\u2019s a little nudity done for laughs, it lacks the sleazy/bathroom humor of romcoms that would\u2019ve been superior if they didn\u2019t stoop to that low level of non-humor, like \u201cShe\u2019s Out of My League\u201d (2010). \r\n  \r\nThe film runs 2 hours, 8 minutes, and was shot at The Hamptons, Long Island & New York City; Warner Brothers Burbank Studios & Santa Monica, CA; and Paris, France.\r\n\r\nGRADE: B"
+        },
+        "revenue": 266728738
+    },
+    {
+        "id": 56427,
+        "imdb": {
+            "imdb_id": "tt0337851",
+            "title": "Baywatch: Hawaiian Wedding",
+            "director": "nm0777209",
+            "release_year": "2003",
+            "main_actor": "nm0001327",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 56427,
+            "overview": "Mitch Buchannon (David Hasselhoff) was believed to have died in a boating accident at the end of the 10th season of Baywatch. However, it turns out he only had amnesia and has been recovering in a Los Angeles hospital. His new fianc\u00e9e, Allison Ford (Alexandra Paul), resembles his old lover, Lt. Stephanie Holden (also played by Alexandra Paul), who died during the seventh season of Baywatch. However, she is cooperating with an old nemesis of Mitch's, the still undead Mason Sato (Cary-Hiroyuki Tagawa) from the second season, to get revenge on Mitch.",
+            "budget": 5500000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 10770,
+                    "name": "TV Movie"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/nMUGYIvqZdwye3spOAHDP0Fyw7A.jpg",
+            "production_companies": [
+                {
+                    "id": 6529,
+                    "logo_path": null,
+                    "name": "Fox Television Studios",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 39,
+            "review": null
+        },
+        "revenue": 136000000
+    },
+    {
+        "id": 8696,
+        "imdb": {
+            "imdb_id": "tt0337909",
+            "title": "Calendar Girls",
+            "director": "nm0170719",
+            "release_year": "2003",
+            "main_actor": "nm0000545",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 8696,
+            "overview": "Members of a Yorkshire branch of the Women's Institute cause controversy when they pose nude for a charity calendar.",
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/8vLMUEcXdNKALFU6WuBmkjVNYWv.jpg",
+            "production_companies": [
+                {
+                    "id": 9195,
+                    "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+                    "name": "Touchstone Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5892,
+                    "logo_path": "/fKJpBjX1Q39jChmSQAaSVw5VaB0.png",
+                    "name": "Buena Vista International",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 240,
+            "review": "It's not naked it's nude.\r\n\r\nWhen Annie Clarke's beloved husband succumbs to leukaemia, her best friend Chris comes up with a unique idea for raising funds for the hospital that cared for the dearly departed John. They, and fellow members of the Knapely Womens Institute, will pose in some strategically nude pictures and sell them as a calendar!\r\n\r\nBased on a true story, and following on from the roaring success of 1997s The Full Monty, it was a story just begging to be adapted for the big screen. Also boasting a shot in the arm for actresses of a certain age, who sadly are bereft of decent cinematic parts, Calendar Girls may not be a masterpiece of homely cinema values, but it certainly warms the cockles and hits an entertaining spot in spite of the laborious last third. The cast are uniformly excellent, Julie Walters, Helen Mirren (gorgeous), Linda Basset, Annette Crosbie and Geraldine James are particularly memorable in telling this tale of a close-knit village quite unsure on how to deal with a touchy subject. From there the press sensationalism arrives and this shifts the girls (and sadly the film) to another plane.\r\n\r\nThe picture manages to be that rare old thing of a comedy drama actually impacting heavy on both fronts. The comedy moments are joyous and flow frequently for the first two thirds of the picture, whilst the touching drama, of what is a serious subject at its core after all, really touches a nerve. Sadly as we enter the final third, the makers tag on an unnecessary dissection of friendships and relationships, and it nearly costs the film dear. It does survive, mainly due to the wonderful cast and the integrity laden point of view, making it a film that once viewed is clearly not going to be forgotten. So in the main we should all hail those wonderful Calendar Girls. 7/10"
+        },
+        "revenue": 96542059
+    },
+    {
+        "id": 20483,
+        "imdb": {
+            "imdb_id": "tt0337917",
+            "title": "Catch That Kid",
+            "director": "nm0294505",
+            "release_year": "2004",
+            "main_actor": "nm0829576",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 20483,
+            "overview": "Athletic 12-year-old Maddy (Kristen Stewart) shares an enthusiasm for mountain climbing with her father, Tom (Sam Robards). Unfortunately, Tom suffers a spinal injury while scaling Mount Everest, and his family is unable to afford the surgery that can save him. Maddy decides to get the money for her father's operation by robbing a high-security bank. She relies on her climbing skills and help from her geeky friends (Max Thieriot, Corbin Bleu) to pull it off successfully.",
+            "budget": 18000000,
+            "genres": [
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/vpkDrds9Ppsgx4789mHwwqYvAMb.jpg",
+            "production_companies": [
+                {
+                    "id": 711,
+                    "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+                    "name": "Fox 2000 Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1757,
+                    "logo_path": null,
+                    "name": "Mad Chance",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 19352,
+                    "logo_path": null,
+                    "name": "Mediastream Dritte Film GmbH & Co. Beteiligungs KG",
+                    "origin_country": ""
+                },
+                {
+                    "id": 23790,
+                    "logo_path": null,
+                    "name": "Splendid Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 155,
+                    "logo_path": "/cDY49SOQwJixJSMun9Haerx8dAQ.png",
+                    "name": "Nimbus Film",
+                    "origin_country": "DK"
+                },
+                {
+                    "id": 25,
+                    "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                    "name": "20th Century Fox",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 218,
+            "review": null
+        },
+        "revenue": 16702864
+    },
+    {
+        "id": 9759,
+        "imdb": {
+            "imdb_id": "tt0337921",
+            "title": "Cellular",
+            "director": "nm0254786",
+            "release_year": "2004",
+            "main_actor": "nm0000107",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 9759,
+            "overview": "A young man receives an emergency phone call on his cell phone from an older woman. She claims to have been kidnapped \u2013 and the kidnappers have targeted her husband and child next.",
+            "budget": 25000000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/hXRL40Flhc8dAvNi135m6YhaVAn.jpg",
+            "production_companies": [
+                {
+                    "id": 12,
+                    "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+                    "name": "New Line Cinema",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 1253,
+            "review": null
+        },
+        "revenue": 56422687
+    },
+    {
+        "id": 1571,
+        "imdb": {
+            "imdb_id": "tt0337978",
+            "title": "Live Free or Die Hard",
+            "director": "nm0936482",
+            "release_year": "2007",
+            "main_actor": "nm0000246",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 1571,
+            "overview": "John McClane is back and badder than ever, and this time he's working for Homeland Security. He calls on the services of a young hacker in his bid to stop a ring of Internet terrorists intent on taking control of America's computer infrastructure.",
+            "budget": 110000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/smfNnLNbjNgpiOS7npW8mxF9A5Z.jpg",
+            "production_companies": [
+                {
+                    "id": 444,
+                    "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
+                    "name": "Dune Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 890,
+                    "logo_path": null,
+                    "name": "Cheyenne Enterprises",
+                    "origin_country": ""
+                },
+                {
+                    "id": 11845,
+                    "logo_path": null,
+                    "name": "Wintergreen Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 25,
+                    "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                    "name": "20th Century Fox",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 290,
+                    "logo_path": "/Q8mw2AOQQc8Qg0uNwLWq86DVZv.png",
+                    "name": "Ingenious Media",
+                    "origin_country": "GB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 4093,
+            "review": "It is not a just a DIE HARD MOVIE! Eyes feasting....lot of action scenes,lot of intelligence and lot of technology, Bruce Wills is rocking the film. There is nothing to say about his action. Justin long well and good supported role and he is the main guy who is dealing with technology...Timothy Olyphant awesome acting as a villian....and elizabethwinstead acts as a daughter of brucewills i.e., John Mclane. When coming to the story fully packed once when we got that situation really no one will going to surive us. An excellent actions,stunts,technology,etc. It is totally a full pack \"FIRE SALE\".:) Superb MOVIE"
+        },
+        "revenue": 383531464
+    },
+    {
+        "id": 38,
+        "imdb": {
+            "imdb_id": "tt0338013",
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "director": "nm0327273",
+            "release_year": "2004",
+            "main_actor": "nm0000120",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 38,
+            "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+            "budget": 20000000,
+            "genres": [
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+            "production_companies": [
+                {
+                    "id": 10146,
+                    "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+                    "name": "Focus Features",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 10039,
+                    "logo_path": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+                    "name": "Anonymous Content",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 10059,
+                    "logo_path": null,
+                    "name": "This Is That Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 8.1,
+            "vote_count": 10293,
+            "review": "Fresh and surprising with great script, dialogues and cut. The cast is also fantastic."
+        },
+        "revenue": 72258126
+    },
+    {
+        "id": 10756,
+        "imdb": {
+            "imdb_id": "tt0338094",
+            "title": "The Haunted Mansion",
+            "director": "nm0591450",
+            "release_year": "2003",
+            "main_actor": "nm0000552",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 10756,
+            "overview": "Workaholic Jim Evers and his wife/business partner Sara get a call one night from  a mansion owner, Edward Gracey, who wants to sell his house. Once the Evers family arrive at the mansion, a torrential thunderstorm of mysterious origin strands them with the brooding, eccentric Gracey, his mysterious butler, and a variety of residents both seen and unseen.",
+            "budget": 90000000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/lGi5yio4pdDz5PkSeZCbnMQz5vK.jpg",
+            "production_companies": [
+                {
+                    "id": 47122,
+                    "logo_path": null,
+                    "name": "Doom Buggy Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2,
+                    "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+                    "name": "Walt Disney Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3538,
+                    "logo_path": null,
+                    "name": "Gunn Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 1392,
+            "review": "Good watch, could watch again, and can recommend.\r\n\r\nEddie Murphy is almost always a good watch, even under his horrible Disney contract.\r\n\r\nThe sheer amount of production value in the movie to make the mansion look as good as it does, plus all the ghost effects, is daunting.  The story is good, and the way they go about investigating the mystery is good in the traditional sense: a good cycle of drip fed information, search and discovery.\r\n\r\nThe premise of the haunting itself isn't that interesting, but it is somewhat compelling that it has a \"Beauty and the Beast\" vibe to it, and Terence Stamp does \"creepy old guy\" very well.\r\n\r\nThe kids are fun, and the movie has a certain amount of charm to it, but nothing about the movie really stands out as amazing."
+        },
+        "revenue": 182290266
+    },
+    {
+        "id": 10677,
+        "imdb": {
+            "imdb_id": "tt0338096",
+            "title": "Dirty Dancing: Havana Nights",
+            "director": "nm0272704",
+            "release_year": "2004",
+            "main_actor": "nm0526019",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 10677,
+            "overview": "In pre-revolution Cuba, Katey Miller is about to defy everyone's expectations. Instead of a parent-approved suitor, Katey is drawn to the sexy waiter, Javier, who spends his nights dancing in Havana's nightclubs. As she secretly learns to dance with Javier, she learns the meanings of love, sensuality and independence.",
+            "budget": 25000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/gWSvd0AHMJGeiFjn8CeYpsTVUDg.jpg",
+            "production_companies": [
+                {
+                    "id": 35,
+                    "logo_path": "/wxrHa3nZ1K4zo65p56991INkGo6.png",
+                    "name": "Lions Gate Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 14,
+                    "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+                    "name": "Miramax",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2253,
+                    "logo_path": null,
+                    "name": "Lawrence Bender Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 22879,
+                    "logo_path": null,
+                    "name": "Havana Nights LLC",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2188,
+                    "logo_path": null,
+                    "name": "Artisan Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 473,
+            "review": null
+        },
+        "revenue": 27685016
+    },
+    {
+        "id": 11042,
+        "imdb": {
+            "imdb_id": "tt0338135",
+            "title": "Les invasions barbares",
+            "director": "nm0000780",
+            "release_year": "2003",
+            "main_actor": "nm0320721",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 11042,
+            "overview": "In this belated sequel to 'The Decline of the American Empire', 50-something Montreal college professor, Remy, learns that he is dying of liver cancer. He decides to make amends meet to his friends and family before he dies. He first tries to made peace with his ex-wife Louise, who asks their estranged son Sebastian, a successful businessman living in London, to come home. Sebastian makes the impossible happen, using his contacts and disrupting the entire Canadian system in every way possible to help his father fight his terminal illness to the bitter end, while he also tries to reunite his former friends, Pierre, Alain, Dominique, Diane, and Claude to see their old friend before he passes on.",
+            "budget": 8000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ekmFbyMgm3SPklSlDUW1wZ33yMP.jpg",
+            "production_companies": [
+                {
+                    "id": 4042,
+                    "logo_path": null,
+                    "name": "Astral Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 807,
+                    "logo_path": null,
+                    "name": "The Harold Greenberg Fund",
+                    "origin_country": ""
+                },
+                {
+                    "id": 9115,
+                    "logo_path": null,
+                    "name": "Soci\u00e9t\u00e9 Radio-Canada",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 9116,
+                    "logo_path": "/vYeYdFxDWoqBzFgYz2Tf9d2ZseE.png",
+                    "name": "SODEC",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 806,
+                    "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+                    "name": "T\u00e9l\u00e9film Canada",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 186,
+                    "logo_path": "/1xlcFvAz1PQIkMhO0pBLBPW4PWY.png",
+                    "name": "Pyramide Productions",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 280,
+                    "logo_path": "/1rwkrpgsc0pWmkvEOabbPzEsGLi.png",
+                    "name": "Cin\u00e9maginaire",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 310,
+                    "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+                    "name": "CNC",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 104,
+                    "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+                    "name": "Canal+",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                }
+            ],
+            "vote_average": 7.1,
+            "vote_count": 223,
+            "review": null
+        },
+        "revenue": 3432342
+    },
+    {
+        "id": 12146,
+        "imdb": {
+            "imdb_id": "tt0338188",
+            "title": "The Missing",
+            "director": "nm0000165",
+            "release_year": "2003",
+            "main_actor": "nm0000169",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 12146,
+            "overview": "When rancher and single mother of two Maggie Gilkeson sees her teenage daughter, Lily, kidnapped by Apache rebels, she reluctantly accepts the help of her estranged father, Samuel, in tracking down the kidnappers. Along the way, the two must learn to reconcile the past and work together if they are going to have any hope of getting Lily back before she is taken over the border and forced to become a prostitute.",
+            "budget": 60000000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 37,
+                    "name": "Western"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/rkiZGbtxzbqyTj1O6E03oqLy6IK.jpg",
+            "production_companies": [
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 23,
+                    "logo_path": "/mkxNjThahj5pvntvYKVpMbWXm3D.png",
+                    "name": "Imagine Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 497,
+                    "logo_path": "/pMyhOBd3sCiLzBlmIopdJkcUFtn.png",
+                    "name": "Revolution Studios",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 22099,
+                    "logo_path": null,
+                    "name": "Daniel Ostroff Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 371,
+            "review": "There's always the next something, Maggie. And that will take a man away.\r\n\r\nThe Missing is directed by Ron Howard and adapted by Ken Kaufman from the novel The Last Ride written by Thomas Eidson. It stars Tommy Lee Jones, Cate Blanchet, Eric Schweig, Evan Rachel Wood, Jenna Boyd, Ray McKinnon, Val Kilmer & Aaron Eckhart. James Horner scores the music and Salvatore Totino is the cinematographer.\r\n\r\nNew Mexico 1885 and frontier doctor Maggie Gilkeson (Blanchet) has to seek help from her estranged father Samuel Jones/Chaa-duu-ba-its-iidan (Lee Jones), when her eldest daughter is kidnapped by Pesh-Chidin/El Brujo (Schweig) an Apache Warlock who sells girls into prostitution.\r\n\r\nAn obvious variation on John Ford's The Searchers, The Missing slipped under the radar some what of Western fans who were greatly served by Kevin Costner's Open Range released the same year. It was a box office flop; which in a genre that has rarely hit great heights in modern times is hardly surprising, but to dismiss Howard's film as a fop is just wrong. True enough it's hardly original on the page, but it manages to not sacrifice character depth as it crams in the Western staples. While there is plenty enough here for none Western fans to enjoy; from the many colourful characters on show (including a great horror movie like villain in Schweig), to the panoramic scenery, and the number of action sequences that flit in and out of the narrative. There's a little something for most movie loving fans.\r\n\r\nThe cast, too, are value for money. Blanchet gives it guts and layers as Maggie, emotionally cold, is forced to put family dissension to one side and take up arms as a Western heroine, and Wood equally holds court with her transference from irksome waif to bold babe. Tommy Jones enjoys himself as he finds a cowboy role to suit his craggy features, features that impressively dovetail with Salvatore's stark photography of the landscapes. Along with the plucky and endearing young Jenna Boyd's performance it obviously only really mounts up to a broken family coming together under duress. But as a quartet, and with Schweig's vile turn as the \"monster\" of the piece in amongst them, they function so well, thus all character arcs are acted skilfully and please the senses. Also to be applauded is the use of genuine Apache language from some of the actors, a nice touch that shows a director taking his material seriously.\r\n\r\nThere's a few endings available to view via DVD etc, but the one that Howard chose for its general release is the right one. It perhaps doesn't hold any great surprise, given the directors reputation and output thus far, but it works well in the context of the story and the period tone set throughout. A safe film, then, one that is very well made and tells its story efficiently in structure and verse. If only the script had dared to take a few more risks then this surely wouldn't have been the monetary flop it was. Still, give it a go and you may find as much to like as I did. 7/10"
+        },
+        "revenue": 38364277
+    },
+    {
+        "id": 15644,
+        "imdb": {
+            "imdb_id": "tt0338325",
+            "title": "Paparazzi",
+            "director": "nm0007708",
+            "release_year": "2004",
+            "main_actor": "nm0369513",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 15644,
+            "overview": "A rising Hollywood actor decides to take personal revenge against a group of four persistent photographers to make them pay for almost causing a personal tragedy involving his wife and son.",
+            "budget": 20000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/m9swmQKxrbRTYY3wN2bWmRiebM4.jpg",
+            "production_companies": [
+                {
+                    "id": 152,
+                    "logo_path": null,
+                    "name": "Icon Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 4564,
+                    "logo_path": null,
+                    "name": "Icon Entertainment International",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 25,
+                    "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                    "name": "20th Century Fox",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 118,
+            "review": null
+        },
+        "revenue": 16605763
+    },
+    {
+        "id": 9620,
+        "imdb": {
+            "imdb_id": "tt0338337",
+            "title": "Paycheck",
+            "director": "nm0000247",
+            "release_year": "2003",
+            "main_actor": "nm0000255",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 9620,
+            "overview": "Michael Jennings is a genius who's hired \u2013 and paid handsomely \u2013 by high-tech firms to work on highly sensitive projects, after which his short-term memory is erased so he's incapable of breaching security. But at the end of a three-year job, he's told he isn't getting a paycheck and instead receives a mysterious envelope. In it are clues he must piece together to find out why he wasn't paid \u2013 and why he's now in hot water.",
+            "budget": 60000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/icoa6KslkhXKnxLreZ6vXnDimpQ.jpg",
+            "production_companies": [
+                {
+                    "id": 4,
+                    "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1302,
+                    "logo_path": "/kQZtJdyphCmq292iGDqlUx0yk2D.png",
+                    "name": "Davis Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2812,
+                    "logo_path": null,
+                    "name": "Lion Rock Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 22536,
+                    "logo_path": null,
+                    "name": "Solomon/Hackett Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7,
+                    "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+                    "name": "DreamWorks Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 11567,
+                    "logo_path": null,
+                    "name": "Province of British Columbia Film Incentive BC",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 1199,
+            "review": null
+        },
+        "revenue": 95427515
+    },
+    {
+        "id": 5255,
+        "imdb": {
+            "imdb_id": "tt0338348",
+            "title": "The Polar Express",
+            "director": "nm0000709",
+            "release_year": "2004",
+            "main_actor": "nm0000158",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 5255,
+            "overview": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
+            "budget": 165000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/hc2NFfInDrOiIgIy8TTjEZTvSkz.jpg",
+            "production_companies": [
+                {
+                    "id": 1867,
+                    "logo_path": null,
+                    "name": "Golden Mean",
+                    "origin_country": ""
+                },
+                {
+                    "id": 4171,
+                    "logo_path": "/ip8rzankhLLhJGGkvfCirfUM26d.png",
+                    "name": "Playtone",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 11395,
+                    "logo_path": "/5vSBzUwnCcaF90ZTchG3LwRKQ2M.png",
+                    "name": "ImageMovers",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 97,
+                    "logo_path": "/7znWcbDd4PcJzJUlJxYqAlPPykp.png",
+                    "name": "Castle Rock Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2265,
+                    "logo_path": "/cA8M1Z7jx5ZXtLEFBgzot6RGPxM.png",
+                    "name": "Shangri-La Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 4226,
+            "review": "***Some kids with creepy dead eyes take a dreamlike trip to the North Pole on The Polar Express*** \r\n\r\nA boy from Grand Rapids, Michigan, is at the age where he no longer believes in Christmas, as far as Santa, his elves and flying reindeer go, but a magical train appears in front of his home on Christmas Eve and whisks him away on an adventurous trip to the North Pole with several other kids.\r\n\r\n\u201cThe Polar Express\u201d (2004) was based on the 1985 Christmas book and was the first mainline movie to use motion capture animation for all its characters beginning to end (think Gollum from \u201cThe Lord of the Rings\u201d trilogy). Some people think the animation is weak, but I feel it creates its own world and has its own charm. It holds up as long as you can adapt to those creepy dead eyes of the characters.\r\n\r\nSome people love this movie while others think it\u2019s weird, like a Twilight Zone Christmas flick. Roger Ebert, for instance, loved it and gave it a perfect grade. I\u2019m sorta in the middle. I see its good points and appreciate them, like the haunting winter ambiance, parts of the trip to the North Pole (e.g. the quasi-rollercoaster ride) and the kids\u2019 investigation of the Christmas factory. But there are some meh parts and dubious sections like the whole last act with the multitude of elves and the towering Santa who looked like he was modeled after 6\u20195\u201d Christopher Lee with a pillow strapped to his mid-section.\r\n\r\nThe movie\u2019s interesting in some ways but also quaint in a cheesy way, as well as peculiar and lifeless.\r\n\r\nThe film runs 1 hour, 40 minutes.\r\n\r\nGRADE: C"
+        },
+        "revenue": 310634054
+    },
+    {
+        "id": 2610,
+        "imdb": {
+            "imdb_id": "tt0338427",
+            "title": "Shopgirl",
+            "director": "nm0875793",
+            "release_year": "2005",
+            "main_actor": "nm0000188",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 2610,
+            "overview": "Mirabelle is a disenchanted salesgirl and aspiring artist who sells gloves and accessories at a department store. She has two men in her life: wealthy divorc\u00e9e Ray Porter and struggling musician Jeremy. Mirabelle falls in love with the glamorous Ray, and her life takes a magical turn, but eventually she realizes that she must empower herself and make a choice between them.",
+            "budget": 10284523,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/mEpnYHytC1MuLECf4N0g4Xql2t8.jpg",
+            "production_companies": [
+                {
+                    "id": 9195,
+                    "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+                    "name": "Touchstone Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 1171,
+                    "logo_path": null,
+                    "name": "Epsilon Motion Pictures",
+                    "origin_country": "CH"
+                },
+                {
+                    "id": 1172,
+                    "logo_path": null,
+                    "name": "Hyde Park Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1173,
+                    "logo_path": null,
+                    "name": "Shopgirl",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 173,
+            "review": null
+        },
+        "revenue": 11588205
+    },
+    {
+        "id": 12279,
+        "imdb": {
+            "imdb_id": "tt0338459",
+            "title": "Spy Kids 3: Game Over",
+            "director": "nm0001675",
+            "release_year": "2003",
+            "main_actor": "nm0754512",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 12279,
+            "overview": "Carmen's caught in a virtual reality game designed by the Kids' new nemesis, the Toymaker. It's up to Juni to save his sister, and ultimately the world.",
+            "budget": 38000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/oP53PyexPlQd1xDt8kkvX5LdQdT.jpg",
+            "production_companies": [
+                {
+                    "id": 7405,
+                    "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+                    "name": "Dimension Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.1,
+            "vote_count": 1505,
+            "review": "Decent watch at best, probably won't watch again, but can recommend for younger audiences.\r\n\r\nThis franchise just keeps getting weirder as it goes on.  Almost like someone is making bets behind the curtain about whether or not they can get away with things.\r\n\r\nI'm the first person to get onboard with a \"stuck in a video game\" trope, but they made some really weird choices that offset it.  The inclusion of big celebrities that kids won't recognize is a little odd, but the in your face 3-d stuff is irritating, and there were several forced scenes, and a conflicting message of competition vs cooperation.\r\n\r\nThere are really high points of the movie: the story line itself is actually pretty good, the robot battle detour was actually a fun way to set up a call back, and there is a really good, if short, twist that I wouldn't expect in a kid's movie.\r\n\r\nThe last act was a little too insane for me, but I'm thinks kids might like it."
+        },
+        "revenue": 197011982
+    },
+    {
+        "id": 1792,
+        "imdb": {
+            "imdb_id": "tt0338466",
+            "title": "Stuck on You",
+            "director": "nm0268380",
+            "release_year": "2003",
+            "main_actor": "nm0000354",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 1792,
+            "overview": "In Martha's Vineyard, Mass., conjoined twins Walt and Bob Tenor make the best of their handicap by being the fastest grill cooks in town. While outgoing Walt hopes to one day become a famous actor, shy Bob prefers to stay out of the spotlight. When a fading Hollywood actress, Cher, decides to get her show \"Honey and the Beaze\" cancelled, she hires Walt -- and his brotherly appendage -- as her costars. But their addition surprisingly achieves the opposite.",
+            "budget": 55000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/gUbNzcIdKCoqp9amNFpFQfpBzrB.jpg",
+            "production_companies": [
+                {
+                    "id": 1156,
+                    "logo_path": null,
+                    "name": "Conundrum Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 25,
+                    "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                    "name": "20th Century Fox",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.3,
+            "vote_count": 450,
+            "review": "Decent watch at best, could watch again, and can recommend.\r\n\r\nI'm a fan of Matt Damon, but not so much Greg Kinnear, though both are clearly quality actors.  This movie is extremely charming, and very well written and produced.  It is obvious that they knew they had a contentious concept and needed to create something that deals with it carefully and tastefully.\r\n\r\nAs an idea that, \"oh, they can't get away from each other!\" is funny short term, like if they were glued together on accident (\"Family Guy\"), but as the sadness of the reality sets in they try to compete with overly ridiculous scenarios that wouldn't happen in real life and try to swing the odd situations as beneficial.  As that becomes obviously untrue, the sadness of it sets back in and is doubled by the idea of being permanently stuck with someone so wildly different that you.\r\n\r\nIf you can look past reality, then there is a lot of good humor in here, and a really touching love story crossed with a story of ambition versus family.\r\n\r\nOther than funny, this movie feels like it tries to be too many things, but that comes from having two wildly different characters each pursuing their own stories.  There's just a lot of overhead.\r\n\r\nThere are a lot of problems with the movie, but it's uniquely charming, and there just aren't many conjoined twin stories."
+        },
+        "revenue": 65784503
+    },
+    {
+        "id": 1997,
+        "imdb": {
+            "imdb_id": "tt0338512",
+            "title": "Deux fr\u00e8res",
+            "director": "nm0000269",
+            "release_year": "2004",
+            "main_actor": "nm0001602",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 1997,
+            "overview": "Two tigers are separated as cubs and taken into captivity, only to be reunited years later as enemies by an explorer (Pearce) who inadvertently forces them to fight each other.",
+            "budget": 74500000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/5I2pRuJI3SZVsxP5iaorGaczzkI.jpg",
+            "production_companies": [
+                {
+                    "id": 866,
+                    "logo_path": null,
+                    "name": "Path\u00e9 Renn Productions",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 104,
+                    "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+                    "name": "Canal+",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 36609,
+                    "logo_path": "/n2Ja3OamKkBnGCF4RIWUx2TagcH.png",
+                    "name": "Two Brothers Pictures",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 356,
+                    "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+                    "name": "TF1 Films Production",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 7981,
+                    "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+                    "name": "Path\u00e9!",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 7.1,
+            "vote_count": 576,
+            "review": null
+        },
+        "revenue": 62172050
+    },
+    {
+        "id": 7131,
+        "imdb": {
+            "imdb_id": "tt0338526",
+            "title": "Van Helsing",
+            "director": "nm0814085",
+            "release_year": "2004",
+            "main_actor": "nm0413168",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 7131,
+            "overview": "Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist the last of the Valerious bloodline in defeating Count Dracula. Anna Valerious reveals that Dracula has formed an unholy alliance with Dr. Frankenstein's monster and is hell-bent on exacting a centuries-old curse on her family.",
+            "budget": 160000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/gsFun8nATm52aGHeT8ueAel98nE.jpg",
+            "production_companies": [
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 19643,
+                    "logo_path": null,
+                    "name": "Sommers Company, The",
+                    "origin_country": ""
+                },
+                {
+                    "id": 11345,
+                    "logo_path": "/xhnnHfsqEimD4r0QeUz3GSvcv73.png",
+                    "name": "Stillking Films",
+                    "origin_country": "CZ"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CZ",
+                    "name": "Czech Republic"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 4090,
+            "review": "***Big Dumb Blockbuster Monster Fun***\r\n\r\nAlthough writer/director Stephen Sommers had an unexpected hit with 1999's \"The Mummy,\" he went overKILL with the 2001 sequel \"The Mummy Returns,\" a prime example of modern blockbuster dreck that's full of explosions and \"exciting\" things going on, but somehow is strangely boring. That's the problem with 2004's \"Van Helsing,\" although not as bad.\r\n\r\nTHE PLOT: In 1887 Van Helsing (Hugh Jackman) teams up with Anna (Kate Beckinsale) in Transylvania to fight Dracula, his three lovely but vicious brides, the Frankenstein monster, werewolves, vampire babies, etc.\r\n\r\nIt won't take long for the viewer to perceive that \"Van Helsing\" shouldn't be taken too seriously. It's a partial parody/homage of the classic Universal monster movies and part serious, just barely. Imagine \"Bram Stoker's Dracula\" (1992) with the over-the-top thrills of Indiana Jones and the flair of classic monster parodies like \u201cThe Vampire Happening\u201d (1971) or \"Young Frankenstein\u201d (1974) and you'd have a good approximation.\r\n\r\nThe film looks good, but there's too much CGI and some of the monsters look really cartoony, like Mr. Hyde and the werewolves. Others look quite good, like the flying vampire brides and Frankenstein's monster. As was the case with \"The Mummy Returns\" the film is strangely tedious despite all the manic happenings. Thankfully, there are worthy hints of depth, e.g. the Frankenstein monster and Anna. I wish there was more.\r\n\r\nSpeaking of Anna, Kate Beckinsale is definitely one of the highlights here as she looks stunning throughout in an amazing form-fitting costume and thigh-high boots seemingly appropriate for the late 1800s (speaking as someone who\u2019s not even a Beckinsale fan). Josie Maran and Elena Anaya are also striking as two of Dracula's wives, Marishka and Aleera. Needless to say, excellent job on the female front. On the other side of the spectrum, Jackman is a great, masculine leading man, perfect for the role. Richard Roxburgh (Dracula), David Wenham (Carl), Kevin J. O'Connor (Igor) and Shuler Hensley (Frankenstein\u2019s monster) are all entertaining or effective.  \r\n\r\nAt the end of the day, though, \"Van Helsing\" barely rises above the limitations of what it is: a big, dumb modern blockbuster with all its over-the-top trappings. Considering the $160 million thrown into it, it shoulda/coulda been better. The story needed time to breathe and less constant mania. The movie\u2019s also over-long at 2 hours and 11 minutes. Still, it's better than \"The Mummy Returns\" and there's enough here to make it worthwhile, if you're in the mood for this type of fare.\r\n\r\nTHE FILM WAS SHOT in the Czech Republic, Rome and Paris with studio work done in Southern Cal and Orlando, Florida.\r\n\r\nGRADE: B-/C+"
+        },
+        "revenue": 300257475
+    },
+    {
+        "id": 10775,
+        "imdb": {
+            "imdb_id": "tt0338564",
+            "title": "Mou gaan dou",
+            "director": "nm0490487",
+            "release_year": "2002",
+            "main_actor": "nm0490489",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 10775,
+            "overview": "Chan Wing Yan, a young police officer, has been sent undercover as a mole in the local mafia. Lau Kin Ming, a young mafia member, infiltrates the police force. Years later, their older counterparts, Chen Wing Yan and Inspector Lau Kin Ming, respectively, race against time to expose the mole within their midst.",
+            "budget": 125000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/gix9thDBXfjJ8M7rYbihqbQGBcP.jpg",
+            "production_companies": [
+                {
+                    "id": 5552,
+                    "logo_path": "/wdtjT9x5OG7nLusPctACI3i7Im2.png",
+                    "name": "Media Asia Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "HK",
+                    "name": "Hong Kong"
+                }
+            ],
+            "vote_average": 7.8,
+            "vote_count": 950,
+            "review": null
+        },
+        "revenue": 8708932
+    },
+    {
+        "id": 2567,
+        "imdb": {
+            "imdb_id": "tt0338751",
+            "title": "The Aviator",
+            "director": "nm0000217",
+            "release_year": "2004",
+            "main_actor": "nm0000138",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 2567,
+            "overview": "A biopic depicting the life of filmmaker and aviation pioneer Howard Hughes from 1927 to 1947, during which time he became a successful film producer and an aviation magnate, while simultaneously growing more unstable due to severe obsessive-compulsive disorder.",
+            "budget": 110000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+            "production_companies": [
+                {
+                    "id": 14,
+                    "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+                    "name": "Miramax",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 562,
+                    "logo_path": "/k3NsSdV854UX4zEReX1dl1Psxbb.png",
+                    "name": "Appian Way",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 675,
+                    "logo_path": null,
+                    "name": "Forward Pass",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 691,
+                    "logo_path": null,
+                    "name": "Cappa Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7380,
+                    "logo_path": null,
+                    "name": "Initial Entertainment Group (IEG)",
+                    "origin_country": ""
+                },
+                {
+                    "id": 19116,
+                    "logo_path": null,
+                    "name": "IMF Internationale Medien und Film GmbH & Co. 3. Produktions KG",
+                    "origin_country": "DE"
+                },
+                {
+                    "id": 54502,
+                    "logo_path": null,
+                    "name": "Mel's Cite du Cinema",
+                    "origin_country": ""
+                },
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.2,
+            "vote_count": 3672,
+            "review": null
+        },
+        "revenue": 213719942
+    },
+    {
+        "id": 31246,
+        "imdb": {
+            "imdb_id": "tt0339034",
+            "title": "From Justin to Kelly",
+            "director": "nm0410769",
+            "release_year": "2003",
+            "main_actor": "nm1225628",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 31246,
+            "overview": "A lonely, sexually repressed man. A depressed woman. A summer camp. On this fateful night, they will meet .\u00a0.\u00a0. and their hearts will become one.",
+            "budget": 12000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/znEEV9wETcx9ESAH3HD6Bm20Pag.jpg",
+            "production_companies": [
+                {
+                    "id": 20877,
+                    "logo_path": null,
+                    "name": "19 Entertainment",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 3.6,
+            "vote_count": 70,
+            "review": "_**Fun musical / beach flick**_\r\n\r\nAll these ultra-low reviews are ridiculous. What were these people expecting? A serious drama with superb acting? An action film? Actually \"From Justin to KellY\" (2003) is a fun musical/beach film in the manner of Elvis films and the 60's beach flicks. One look at the movie poster and it's obvious.\r\n\r\nWhen viewing films of this ilk it's time to just kick back, turn off your brain and have a good time. On this level \"From Justin to Kelly\" works fabulously. It's pretty much just as good or better than any Elvis or beach movie you can think of. Filmed in the Miami/Ft. Lauderdale area, the story deals with the romantic adventures of youths on Spring Break. Keeping with the traditions of the genre there's no raunch or moronic sex/bathroom humor; the film has an appealing innocence.\r\n\r\nAnother highlight is that there are more gorgeous bikini-clad babes per minute than most movies out there (dudes too, if you're a woman).\r\n\r\nTo be expected, the songs featured are all substance-less modern pop ditties ('modern' as in the early 2000s, which hasn't changed much today). I don't normally listen to this kind of music, but it fits the upbeat and fun vibe of the film.\r\n\r\nI'm hardly an American Idol aficionado but I admit that I did enjoy the show when I occasionally viewed it with my wife. And Kelly Clarkson and Justin Guarini, the two stars of the film, were two of the more likable \"idols.\". (I also confess to liking Katharine McPhee, Bo Bice, Carrie Underwood, Chris Daughtry, Kelly Pickler and Clay Aiken). (I'm just joking about Aiken, lol). To be expected, Kelly and Justin aren't the best actors but they're not bad either, particularly as the story proceeds; the quality of the acting certainly doesn't prevent you from enjoying the flick. They did a fine job all things considered.\r\n\r\nOne can't bring up American Idol without mentioning the ever-present Kimberly Caldwell (from the channel station). She's an undeniably good-looking woman but she tends to grate on the nerves. The reason I bring her up is, if you've ever secretly fantasized about seeing her chopped in half, be sure to check out the goofy gorefest \"Wrong Turn 2: Dead End\" (2007) (I'd call it a horror film but it's way too silly and over-the-top to be horrifying). This film makes your fantasies come true, literally.\r\n\r\nThe DVD features the 81-minute fullscreen version of the film whereas as well as the 90-minute extended widescreen cut, which has a few extra dance numbers.\r\n\r\nIf you're in the mood for an innocent beach flick turn your brain off and enjoy!\r\n\r\nGRADE: B/B-"
+        },
+        "revenue": 4922166
+    },
+    {
+        "id": 11774,
+        "imdb": {
+            "imdb_id": "tt0339291",
+            "title": "A Series of Unfortunate Events",
+            "director": "nm0797869",
+            "release_year": "2004",
+            "main_actor": "nm0000120",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 11774,
+            "overview": "Three wealthy children's parents are killed in a fire. When they are sent to a distant relative, they find out that he is plotting to kill them and seize their fortune.  This movie is extremely alarming, an expression which here means \"a thrilling misadventure involving three ingenious orphans and a villainous actor named Count Olaf (Jim Carrey) who wants their enormous fortune.\"  It includes a suspicious fire, delicious pasta, Jim Carrey, poorly behaved looches, Billy Connolly, an incredibly deadly viper, Meryl Streep, and the voice of an imposter named Jude Law.",
+            "budget": 140000000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/syuIptWCGH1AlJ8AB7ZGwckHSi1.jpg",
+            "production_companies": [
+                {
+                    "id": 4,
+                    "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 258,
+                    "logo_path": null,
+                    "name": "Scott Rudin Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2348,
+                    "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+                    "name": "Nickelodeon Movies",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 11930,
+                    "logo_path": null,
+                    "name": "Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 2 KG",
+                    "origin_country": ""
+                },
+                {
+                    "id": 49325,
+                    "logo_path": null,
+                    "name": "Parkes+MacDonald Image Nation",
+                    "origin_country": ""
+                },
+                {
+                    "id": 7,
+                    "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+                    "name": "DreamWorks Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 3797,
+            "review": null
+        },
+        "revenue": 209073645
+    },
+    {
+        "id": 16232,
+        "imdb": {
+            "imdb_id": "tt0339412",
+            "title": "Mr 3000",
+            "director": "nm0831690",
+            "release_year": "2004",
+            "main_actor": "nm0005170",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 16232,
+            "overview": "Aging baseball star who goes by the nickname, Mr. 3000, finds out many years after retirement that he didn't quite reach 3,000 hits. Now at age 47 he's back to try and reach that goal.",
+            "budget": 30000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/mfASRupqVhVvJtRYiTW149CVoiu.jpg",
+            "production_companies": [
+                {
+                    "id": 7405,
+                    "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+                    "name": "Dimension Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 9195,
+                    "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+                    "name": "Touchstone Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.3,
+            "vote_count": 121,
+            "review": null
+        },
+        "revenue": 21800302
+    },
+    {
+        "id": 26899,
+        "imdb": {
+            "imdb_id": "tt0339419",
+            "title": "The Mudge Boy",
+            "director": "nm0121800",
+            "release_year": "2003",
+            "main_actor": "nm0386472",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 26899,
+            "overview": "Duncan Mudge, mid-teens, lives apart from his rural world populated by his distant father and rough local kids. His main companionship is a chicken left after his mother's death until the neighbor's son befriends him.",
+            "budget": 800000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2hIbXOKVd4ynqeV7qPXFb60svmA.jpg",
+            "production_companies": [
+                {
+                    "id": 109369,
+                    "logo_path": null,
+                    "name": "Showtime Independent Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 62,
+            "review": null
+        },
+        "revenue": 62852
+    },
+    {
+        "id": 43670,
+        "imdb": {
+            "imdb_id": "tt0339727",
+            "title": "Stateside",
+            "director": "nm0030612",
+            "release_year": "2004",
+            "main_actor": "nm0006958",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 43670,
+            "overview": "The film follows a rebellious teenager on leave from the Marines who falls in love with a female musician. The relationship is threatened when she develops a mental illness...",
+            "budget": 16000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10402,
+                    "name": "Music"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ugQa6WEhg0Jb6MYnUTEURBa6CoN.jpg",
+            "production_companies": [
+                {
+                    "id": 888,
+                    "logo_path": null,
+                    "name": "Overseas FilmGroup",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 52766,
+                    "logo_path": null,
+                    "name": "Seven Hills Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 52767,
+                    "logo_path": null,
+                    "name": "Cinealpha KG",
+                    "origin_country": ""
+                },
+                {
+                    "id": 995,
+                    "logo_path": null,
+                    "name": "Cinerenta Medienbeteiligungs KG",
+                    "origin_country": "DE"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 16,
+            "review": null
+        },
+        "revenue": 174318
+    },
+    {
+        "id": 15603,
+        "imdb": {
+            "imdb_id": "tt0340110",
+            "title": "Fat Pizza",
+            "director": "nm0271765",
+            "release_year": "2003",
+            "main_actor": "nm0271765",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 15603,
+            "overview": "Fat Pizza the Film is yet another slice of life at a dodgy suburban Sydney take away. Bobo Gigliotti the psychotic pizzeria owner/pizza chef is awaiting the arrival of his mail-order refugee bride Lin Chow Bang, and a new pizza deliverer is on the block. Channel V's Jabba almost steals the show as token skip delivery boy Davo Dinkum, a stoner with a bong strapped to his face like a feedbag.",
+            "budget": 400000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ineu6zyhWNPGS8zVDqCJQoYpmXC.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AU",
+                    "name": "Australia"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 28,
+            "review": null
+        },
+        "revenue": 7888102
+    },
+    {
+        "id": 2026,
+        "imdb": {
+            "imdb_id": "tt0340163",
+            "title": "Hostage",
+            "director": "nm0802807",
+            "release_year": "2005",
+            "main_actor": "nm0000246",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 2026,
+            "overview": "When a mafia accountant is taken hostage on his beat, a police officer \u2013 wracked by guilt from a prior stint as a negotiator \u2013 must negotiate the standoff, even as his own family is held captive by the mob.",
+            "budget": 52000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4hne3v6jN4MlCnhSkxOW7YspJhr.jpg",
+            "production_companies": [
+                {
+                    "id": 2448,
+                    "logo_path": null,
+                    "name": "Yari Film Group",
+                    "origin_country": ""
+                },
+                {
+                    "id": 14,
+                    "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+                    "name": "Miramax",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 890,
+                    "logo_path": null,
+                    "name": "Cheyenne Enterprises",
+                    "origin_country": ""
+                },
+                {
+                    "id": 11027,
+                    "logo_path": null,
+                    "name": "Stratus Film Co.",
+                    "origin_country": ""
+                },
+                {
+                    "id": 26947,
+                    "logo_path": null,
+                    "name": "Syndicate Films International",
+                    "origin_country": ""
+                },
+                {
+                    "id": 26948,
+                    "logo_path": null,
+                    "name": "Equity Pictures Medienfonds GmbH & Co. KG II",
+                    "origin_country": ""
+                },
+                {
+                    "id": 26949,
+                    "logo_path": null,
+                    "name": "Hostage GmbH",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 1103,
+            "review": null
+        },
+        "revenue": 77944725
+    },
+    {
+        "id": 2056,
+        "imdb": {
+            "imdb_id": "tt0340377",
+            "title": "The Station Agent",
+            "director": "nm0565336",
+            "release_year": "2003",
+            "main_actor": "nm0227759",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 2056,
+            "overview": "When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing with her own personal loss.",
+            "budget": 500000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/kjJg6eJa9I9flfHaJG67ecEv8YX.jpg",
+            "production_companies": [
+                {
+                    "id": 921,
+                    "logo_path": null,
+                    "name": "Next Wednesday Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 922,
+                    "logo_path": null,
+                    "name": "SenArt Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.4,
+            "vote_count": 403,
+            "review": null
+        },
+        "revenue": 8679814
+    },
+    {
+        "id": 504,
+        "imdb": {
+            "imdb_id": "tt0340855",
+            "title": "Monster",
+            "director": "nm0420941",
+            "release_year": "2003",
+            "main_actor": "nm0000234",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 504,
+            "overview": "An emotionally scarred highway drifter shoots a sadistic trick who rapes her, and ultimately becomes America's first female serial killer.",
+            "budget": 8000000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/aevmNtJCNG4ZlfEeEGZ79frMUes.jpg",
+            "production_companies": [
+                {
+                    "id": 28,
+                    "logo_path": null,
+                    "name": "Newmarket Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2226,
+                    "logo_path": null,
+                    "name": "Media 8 Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 25433,
+                    "logo_path": null,
+                    "name": "DEJ Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 103676,
+                    "logo_path": null,
+                    "name": "K/W Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 3574,
+                    "logo_path": "/j3iU6FoWplGPoO1Vxn8fFHX4VPE.png",
+                    "name": "Denver and Delilah Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 3801,
+                    "logo_path": null,
+                    "name": "VIP 2 Medienfonds",
+                    "origin_country": ""
+                },
+                {
+                    "id": 10828,
+                    "logo_path": null,
+                    "name": "MDP Worldwide",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.2,
+            "vote_count": 1392,
+            "review": "We can be as different as we wanna be, but you can't kill people!\r\n\r\nMonster is the bleak story of Aileen Wuornos, a prostitute and one of America's most notorious female serial killers. Based around facts of her life and death, the film primarily focuses on the last year of her freedom. Where after entering into a strange lesbian relationship with Selby Wall, Wuornos, fed up of being a abused by men, starts killing those calling on her services.\r\n\r\nSad and potent is Patty Jenkins' first full length directorial effort. Though perhaps a touch guilty of pandering to Wuornos' own self created \"monster\" image, the film none the less has the right blend of sympathy and revulsion to make it a fascinating, if uneasy, experience. Former model Charlize Theron goes through a major transformation to become Wuornos, so much so she's practically unrecognisable. Bulked up in weight and with beaten down make up withering her face, Theron goes on to give a towering performance as the troubled, on the edge killer. \r\n\r\nWithout any thrills or hints of histrionics, Theron is uncompromising throughout the picture. To garner empathy with such an abrasive character is quite a trick, then to switch to monstrosity with conviction seconds later? Well that's almost magical in itself. Theron is backed up well by Christina Ricci as Selby. Selby Wall, an immature young lady oblivious to the dark path she is walking down, is given a great portrayal from Ricci. In light of the powerhouse show from Theron, it's much credit to Ricci that she enhances the film with her own delicate characteristics. Helping to emphasise the strangeness of the union in the process.\r\n\r\nIt's a tough film for sure, and come the final credits one is left with a feeling of sympathy towards Wuornos and the life she lived. If that be right or wrong is of course up to the individual viewer. Or if that was even Jenkins' intention is probably up for debate. But Monster exists and survives as a bitter character study of a desperate woman, which through the medium of cinema, makes us the viewers privy to something very edgy indeed. 7.5/10"
+        },
+        "revenue": 60378584
+    },
+    {
+        "id": 107937,
+        "imdb": {
+            "imdb_id": "tt0341266",
+            "title": "Bhoot",
+            "director": "nm0890060",
+            "release_year": "2003",
+            "main_actor": "nm0222426",
+            "main_genre": "Horror"
+        },
+        "tmdb": {
+            "tmdb_id": 107937,
+            "overview": "A Mumbai businessman and his wife are looking for a new flat. Apartment 1201 has been vacant since its previous occupant jumped to her death. Undeterred, the couple still decides to move in, but before long, the wife starts to have visions.",
+            "budget": 2700000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/lHb8qSbtPAzm0yE3JhkN764veH0.jpg",
+            "production_companies": [
+                {
+                    "id": 105247,
+                    "logo_path": null,
+                    "name": "Dream Merchants Enterprise",
+                    "origin_country": ""
+                },
+                {
+                    "id": 17362,
+                    "logo_path": null,
+                    "name": "RGV Film Factory",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 5.9,
+            "vote_count": 19,
+            "review": null
+        },
+        "revenue": 9600000
+    },
+    {
+        "id": 452343,
+        "imdb": {
+            "imdb_id": "tt0342062",
+            "title": "Asiri",
+            "director": "nm1186165",
+            "release_year": "2002",
+            "main_actor": "nm1473166",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 452343,
+            "overview": "Nollywood yoruba language movie with full english subtitle, Asiri (yoruba for Secrets) is a tale of three child hoodfriend who reconnect after a very long time away from each other only to find out that they all share secrets that interconnect them in dubious ways",
+            "budget": 10000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/yVSGlpIAFhECYMhPYy6NEZ1PofZ.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IR",
+                    "name": "Iran"
+                }
+            ],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 10000
+    },
+    {
+        "id": 559375,
+        "imdb": {
+            "imdb_id": "tt0342248",
+            "title": "Dalila",
+            "director": "nm0439290",
+            "release_year": "1956",
+            "main_actor": "nm0353102",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 559375,
+            "overview": "Poor young man Mahmoud Fathi electrician and loves music and composing, live in the same House orphan girl Delilah who loves him and trading love, in its composition towards renewal and which does not correspond to respond, he discovers that his girlfriend is sick with TB and to cure her needs a large amount so he agrees to sing Method does not satisfy him to provide, the girl decides to sacrifice herself, committing suicide to free him from this situation and to live his art. Captured by a wealthy Lady insists, intellectual Hanim resume career.",
+            "budget": 3342,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ufrzLmneHAaR23oa9yFaWiFCE91.jpg",
+            "production_companies": [
+                {
+                    "id": 110938,
+                    "logo_path": null,
+                    "name": "Les Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "EG",
+                    "name": "Egypt"
+                }
+            ],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 1671
+    },
+    {
+        "id": 10027,
+        "imdb": {
+            "imdb_id": "tt0342258",
+            "title": "Unleashed",
+            "director": "nm0504642",
+            "release_year": "2005",
+            "main_actor": "nm0001472",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 10027,
+            "overview": "Raised as a slave, Danny is used to fighting for his survival. In fact, his \"master,\" Bart, thinks of him as a pet and goes as far as leashing him with a collar so they can make money in fight clubs, where Danny is the main contender. When Bart's crew is in a car accident, Danny escapes and meets a blind, kindhearted piano tuner who takes him in and uses music to free the fighter's long-buried heart.",
+            "budget": 45000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/eOmXfQgDLUndae2xnwJfV0JZ2JN.jpg",
+            "production_companies": [
+                {
+                    "id": 104,
+                    "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+                    "name": "Canal+",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 972,
+                    "logo_path": null,
+                    "name": "Current Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2748,
+                    "logo_path": null,
+                    "name": "Clubdeal",
+                    "origin_country": ""
+                },
+                {
+                    "id": 6896,
+                    "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+                    "name": "EuropaCorp",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 66739,
+                    "logo_path": null,
+                    "name": "Qian Yian International",
+                    "origin_country": ""
+                },
+                {
+                    "id": 356,
+                    "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+                    "name": "TF1 Films Production",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 134,
+                    "logo_path": null,
+                    "name": "Rogue Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 66737,
+                    "logo_path": null,
+                    "name": "Danny the Dog Productions",
+                    "origin_country": "GB"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 1265,
+            "review": null
+        },
+        "revenue": 50871113
+    },
+    {
+        "id": 60013,
+        "imdb": {
+            "imdb_id": "tt0342316",
+            "title": "Love, Sex and Eating the Bones",
+            "director": "nm0840075",
+            "release_year": "2003",
+            "main_actor": "nm0004991",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 60013,
+            "overview": "A sexy urban comedy about how a guy who is addicted to watching pornography discovers love is stronger than fantasy when he meets and falls in love with the girl of his dreams.",
+            "budget": 2500000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/uZfJdjxWS1DDHbP3Hz1hlak02p5.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                }
+            ],
+            "vote_average": 4.6,
+            "vote_count": 11,
+            "review": null
+        },
+        "revenue": 321000
+    },
+    {
+        "id": 1951,
+        "imdb": {
+            "imdb_id": "tt0342735",
+            "title": "Manderlay",
+            "director": "nm0001885",
+            "release_year": "2005",
+            "main_actor": "nm0397171",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 1951,
+            "overview": "In 1933, after leaving Dogville, Grace Margaret Mulligan sees a slave being punished at a cotton farm called Manderlay. Officially slavery is illegal and Grace stands up against the owners of the farm. She stays with some gangsters in Manderlay and tries to influence the situation. But when harvest time comes Grace sees the social and economic reality of Manderlay.",
+            "budget": 14200000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/sLDyMgh3eS3H3rwfKe67MYXC6Et.jpg",
+            "production_companies": [
+                {
+                    "id": 5975,
+                    "logo_path": "/vvjgoKygWWYZvYyidT3RmOCq5If.png",
+                    "name": "YLE",
+                    "origin_country": "FI"
+                },
+                {
+                    "id": 76,
+                    "logo_path": null,
+                    "name": "Zentropa Entertainments",
+                    "origin_country": "DK"
+                },
+                {
+                    "id": 119,
+                    "logo_path": "/1di2gITGUZr730AMuMKiCrP90Vl.png",
+                    "name": "Danmarks Radio (DR)",
+                    "origin_country": "DK"
+                },
+                {
+                    "id": 201,
+                    "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+                    "name": "ARTE",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 321,
+                    "logo_path": "/pfp6VWF3tYfOHHVRHpYe2iGcYrf.png",
+                    "name": "Memfis Film",
+                    "origin_country": "SE"
+                },
+                {
+                    "id": 814,
+                    "logo_path": null,
+                    "name": "Isabella Films BV",
+                    "origin_country": ""
+                },
+                {
+                    "id": 986,
+                    "logo_path": null,
+                    "name": "Degeto Film",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1711,
+                    "logo_path": null,
+                    "name": "Ognon Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 11499,
+                    "logo_path": null,
+                    "name": "Alan Young Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 12023,
+                    "logo_path": "/97tVKGqnkjn0hwTGGRDPRgYWbrE.png",
+                    "name": "Nederlandse Programma Stichting (NPS)",
+                    "origin_country": "NL"
+                },
+                {
+                    "id": 12927,
+                    "logo_path": null,
+                    "name": "Canal+ Television",
+                    "origin_country": "SE"
+                },
+                {
+                    "id": 23207,
+                    "logo_path": null,
+                    "name": "Invicta Capital",
+                    "origin_country": ""
+                },
+                {
+                    "id": 25491,
+                    "logo_path": null,
+                    "name": "Edith Film Oy",
+                    "origin_country": ""
+                },
+                {
+                    "id": 30268,
+                    "logo_path": null,
+                    "name": "Pain Unlimited GmbH Filmproduktion",
+                    "origin_country": ""
+                },
+                {
+                    "id": 53874,
+                    "logo_path": "/mZJMAPElHQBIuWWXSyHtyaMf26C.png",
+                    "name": "Sigma Films",
+                    "origin_country": "GB"
+                },
+                {
+                    "id": 55428,
+                    "logo_path": null,
+                    "name": "Manderlay",
+                    "origin_country": ""
+                },
+                {
+                    "id": 104,
+                    "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+                    "name": "Canal+",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 94,
+                    "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+                    "name": "ARTE France Cin\u00e9ma",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 2999,
+                    "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+                    "name": "SVT",
+                    "origin_country": "SE"
+                },
+                {
+                    "id": 2801,
+                    "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+                    "name": "Film i V\u00e4st",
+                    "origin_country": "SE"
+                },
+                {
+                    "id": 46,
+                    "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+                    "name": "Westdeutscher Rundfunk",
+                    "origin_country": "DE"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DK",
+                    "name": "Denmark"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "IT",
+                    "name": "Italy"
+                },
+                {
+                    "iso_3166_1": "NL",
+                    "name": "Netherlands"
+                },
+                {
+                    "iso_3166_1": "SE",
+                    "name": "Sweden"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 192,
+            "review": "Interesting social / psychological experiment following the trail of Dogville but not as round and imaginative as the previous one."
+        },
+        "revenue": 674918
+    },
+    {
+        "id": 5966,
+        "imdb": {
+            "imdb_id": "tt0343135",
+            "title": "Along Came Polly",
+            "director": "nm0357453",
+            "release_year": "2004",
+            "main_actor": "nm0001774",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 5966,
+            "overview": "Reuben Feffer is a guy who's spent his entire life playing it safe. Polly Prince is irresistible as a free-spirit who lives for the thrill of the moment. When these two comically mismatched souls collide, Reuben's world is turned upside down, as he makes an uproarious attempt to change his life from middle-of-the-road to totally-out-there.",
+            "budget": 42000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ieTSn8YTsHoPK8GNf2J9eIkP5wo.jpg",
+            "production_companies": [
+                {
+                    "id": 216,
+                    "logo_path": null,
+                    "name": "Jersey Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 53626,
+                    "logo_path": null,
+                    "name": "Loofah Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.0,
+            "vote_count": 2021,
+            "review": null
+        },
+        "revenue": 178311729
+    },
+    {
+        "id": 32990,
+        "imdb": {
+            "imdb_id": "tt0343221",
+            "title": "\u00c4ideist\u00e4 parhain",
+            "director": "nm0405605",
+            "release_year": "2005",
+            "main_actor": "nm1698949",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 32990,
+            "overview": "1943: Nine-year-old Eero whose father is killed during the war is brought to Sweden to foster parents to his protection like thousands of other Finnish children. Eero feels lost, particularly as his foster mother Signe behaves very unfriendly. She was expecting a little girl and still mourns for her daughter who drowned in the sea.",
+            "budget": 3131855,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10752,
+                    "name": "War"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/dJhGq1H1EeptuB3YT0aZWj1CZ5N.jpg",
+            "production_companies": [
+                {
+                    "id": 12477,
+                    "logo_path": "/8gGVVtEqAn9ZhIbY6XZzAerPKZA.png",
+                    "name": "Film i Sk\u00e5ne",
+                    "origin_country": "SE"
+                },
+                {
+                    "id": 5240,
+                    "logo_path": "/ibvN7yjNr8HR92nOn8d4d6TQrYt.png",
+                    "name": "Matila R\u00f6hr Productions (MRP)",
+                    "origin_country": "FI"
+                },
+                {
+                    "id": 66910,
+                    "logo_path": null,
+                    "name": "Omega Film & Television",
+                    "origin_country": ""
+                },
+                {
+                    "id": 122594,
+                    "logo_path": "/w7CeTbwg9SmhZVilZXh4Yy1yp6Y.png",
+                    "name": "HOBAB",
+                    "origin_country": "SE"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FI",
+                    "name": "Finland"
+                },
+                {
+                    "iso_3166_1": "SE",
+                    "name": "Sweden"
+                }
+            ],
+            "vote_average": 6.6,
+            "vote_count": 25,
+            "review": null
+        },
+        "revenue": 2851888
+    },
+    {
+        "id": 54354,
+        "imdb": {
+            "imdb_id": "tt0343624",
+            "title": "Eila",
+            "director": "nm0483850",
+            "release_year": "2003",
+            "main_actor": "nm0617481",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 54354,
+            "overview": "A cleaning woman decides to sue the state for illegal discharge.",
+            "budget": 1090912,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/uJ20e6pwXLCvCoZXIzqUvo0K2NT.jpg",
+            "production_companies": [
+                {
+                    "id": 7330,
+                    "logo_path": null,
+                    "name": "Blind Spot Pictures",
+                    "origin_country": "FI"
+                },
+                {
+                    "id": 2396,
+                    "logo_path": "/v0U7OZwjgv2vmiHbS2HNqjX9MEc.png",
+                    "name": "Finnish Film Foundation",
+                    "origin_country": "FI"
+                },
+                {
+                    "id": 5403,
+                    "logo_path": "/fAz2WhTpoMxutBA92JqlfeHEGuz.png",
+                    "name": "Nordisk Film & TV Fond",
+                    "origin_country": "NO"
+                },
+                {
+                    "id": 5975,
+                    "logo_path": "/vvjgoKygWWYZvYyidT3RmOCq5If.png",
+                    "name": "YLE",
+                    "origin_country": "FI"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FI",
+                    "name": "Finland"
+                }
+            ],
+            "vote_average": 7.5,
+            "vote_count": 2,
+            "review": null
+        },
+        "revenue": 60
+    },
+    {
+        "id": 1824,
+        "imdb": {
+            "imdb_id": "tt0343660",
+            "title": "50 First Dates",
+            "director": "nm0781842",
+            "release_year": "2004",
+            "main_actor": "nm0001191",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 1824,
+            "overview": "Henry is a player skilled at seducing women. But when this veterinarian meets Lucy, a girl with a quirky problem when it comes to total recall, he realizes it's possible to fall in love all over again\u2026and again, and again. That's because the delightful Lucy has no short-term memory, so Henry must woo her day after day until he finally sweeps her off her feet.",
+            "budget": 75000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/zm9dfA5iwq4vGopD86WPoHXO40T.jpg",
+            "production_companies": [
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2608,
+                    "logo_path": "/g3YRudXiQzHesQqRXvnhFpMzfkU.png",
+                    "name": "Happy Madison Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 10039,
+                    "logo_path": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+                    "name": "Anonymous Content",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 19813,
+                    "logo_path": null,
+                    "name": "Flower Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 5263,
+            "review": null
+        },
+        "revenue": 196482882
+    },
+    {
+        "id": 1247,
+        "imdb": {
+            "imdb_id": "tt0343737",
+            "title": "The Good Shepherd",
+            "director": "nm0000134",
+            "release_year": "2006",
+            "main_actor": "nm0000354",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 1247,
+            "overview": "Edward Wilson, the only witness to his father's suicide and member of the Skull and Bones Society while a student at Yale, is a morally upright young man who values honor and discretion, qualities that help him to be recruited for a career in the newly founded OSS. His dedication to his work does not come without a price though, leading him to sacrifice his ideals and eventually his family.",
+            "budget": 85000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/frPAFd718R042GbMVWelLrk1h0D.jpg",
+            "production_companies": [
+                {
+                    "id": 10210,
+                    "logo_path": null,
+                    "name": "Morgan Creek Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 70,
+                    "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+                    "name": "American Zoetrope",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.4,
+            "vote_count": 709,
+            "review": null
+        },
+        "revenue": 100266865
+    },
+    {
+        "id": 2048,
+        "imdb": {
+            "imdb_id": "tt0343818",
+            "title": "I, Robot",
+            "director": "nm0001639",
+            "release_year": "2004",
+            "main_actor": "nm0000226",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 2048,
+            "overview": "In 2035, where robots are commonplace and abide by the three laws of robotics, a technophobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.",
+            "budget": 120000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/dlb6JKYv25rJSk2n2hwhOeJ7Dk.jpg",
+            "production_companies": [
+                {
+                    "id": 1302,
+                    "logo_path": "/kQZtJdyphCmq292iGDqlUx0yk2D.png",
+                    "name": "Davis Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 415,
+                    "logo_path": null,
+                    "name": "Laurence Mark Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 19355,
+                    "logo_path": null,
+                    "name": "Canlaws Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 25,
+                    "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+                    "name": "20th Century Fox",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 907,
+                    "logo_path": "/ca5SWI5uvU985f8Kbb4xc8AmVWH.png",
+                    "name": "Overbrook Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 19354,
+                    "logo_path": null,
+                    "name": "Mediastream Vierte Film GmbH & Co. Vermarktungs KG",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 8725,
+            "review": "I, Robot (2004), holding it's own in the genre pantheon?\r\n\r\nI, Robot has a fan base that I'm glad to say has kept this film from drifting down into the depths of bad blockbuster sci-fi ratingville. I remember upon the film's release how so many people were wary of if Will Smith could carry the film? The concerns from Isaac Asimov's fans about a sacrilegious take on his legacy etc etc. Truth is is that I, Robot is an amalgamation of sci-fi ideas, from the suggestion of Asimov to the novel of the same name from Eando Binder, it's a mix that ultimately gives us a cop versus sci-fi conspiracy picture, that is sure as hell entertaining if taken on popcorn terms.\r\n\r\nHaving just watched this again for the first time in a year or so, I found that it still hits the mark to me as a real tidy genre piece with a solid heart beat to keep it thought provoking. A futuristic mystery is smartly realised by Alex Proyas' directing in the manner befitting the subject, and of course Will Smith handles the entertaining action lead role with much ease. However, the main triumph (outside of the story) is Alan Tudyk as our computer generated protagonist Sonny, the voice and humanist movements are brilliantly brought to life by him and it's a real pleasure to observe.\r\n\r\nGreat visuals (Oscar nominated), top story, kinetic action, better than average acting (though Bridget Moynahan struggles to convince as a boffin at times), and we get a perfect nights entertainment for someone looking for a rental that safely delivers what it says on the robotic shaped tin. 7.5/10"
+        },
+        "revenue": 347234916
+    },
+    {
+        "id": 9700,
+        "imdb": {
+            "imdb_id": "tt0343996",
+            "title": "The Lost City",
+            "director": "nm0000412",
+            "release_year": "2005",
+            "main_actor": "nm0000412",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 9700,
+            "overview": "In Havana, Cuba in the late 1950's, a wealthy family, one of whose sons is a prominent nightclub owner, is caught in the violent transition from the oppressive regime of Batista to the Marxist government of Fidel Castro. Castro's regime ultimately leads the nightclub owner to flee to New York.",
+            "budget": 9600000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/v19DsrJb0TJxTCdgaUzzuvOjfeD.jpg",
+            "production_companies": [
+                {
+                    "id": 35,
+                    "logo_path": "/wxrHa3nZ1K4zo65p56991INkGo6.png",
+                    "name": "Lions Gate Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.2,
+            "vote_count": 57,
+            "review": null
+        },
+        "revenue": 4386236
+    },
+    {
+        "id": 9992,
+        "imdb": {
+            "imdb_id": "tt0344854",
+            "title": "Arthur et les Minimoys",
+            "director": "nm0000108",
+            "release_year": "2006",
+            "main_actor": "nm0383603",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 9992,
+            "overview": "Arthur is a spirited ten-year old whose parents are away looking for work, whose eccentric grandfather has been missing for several years, and who lives with his grandmother in a country house that, in two days, will be repossessed, torn down, and turned into a block of flats unless Arthur's grandfather returns to sign some papers and pay off the family debt. Arthur discovers that the key to success lies in his own descent into the land of the Minimoys, creatures no larger than a tooth, whom his grandfather helped relocate to their garden. Somewhere among them is hidden a pile of rubies, too. Can Arthur be of stout heart and save the day? Romance beckons as well, and a villain lurks.",
+            "budget": 86000000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/gH27K0S7BiZCsNMxzOQTacG9IZp.jpg",
+            "production_companies": [
+                {
+                    "id": 104,
+                    "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+                    "name": "Canal+",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 854,
+                    "logo_path": null,
+                    "name": "Sofica Europacorp",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2525,
+                    "logo_path": null,
+                    "name": "Avalanche Productions",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 6896,
+                    "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+                    "name": "EuropaCorp",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 2065,
+            "review": null
+        },
+        "revenue": 107944236
+    },
+    {
+        "id": 15673,
+        "imdb": {
+            "imdb_id": "tt0345074",
+            "title": "Connie and Carla",
+            "director": "nm0501185",
+            "release_year": "2004",
+            "main_actor": "nm0889522",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 15673,
+            "overview": "After accidentally witnessing a mafia hit in the Windy City, gal pals Connie and Carla skip town for L.A., where they go way undercover as singers working the city's dinner theater circuit ... as drag queens. Now, it's not enough that they become big hits on the scene; things get extra-weird when Connie meets Jeff -- a guy she'd like to be a woman with",
+            "budget": 20000000,
+            "genres": [
+                {
+                    "id": 10402,
+                    "name": "Music"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/gqgf8HHGPOBY5CCsmuF7Z1NOlt1.jpg",
+            "production_companies": [
+                {
+                    "id": 1171,
+                    "logo_path": null,
+                    "name": "Epsilon Motion Pictures",
+                    "origin_country": "CH"
+                },
+                {
+                    "id": 33,
+                    "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                    "name": "Universal Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 158,
+                    "logo_path": "/6SHlNIype9zmyEMRsBtoueUtLsq.png",
+                    "name": "Spyglass Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 95595,
+                    "logo_path": null,
+                    "name": "CCLA Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.2,
+            "vote_count": 59,
+            "review": null
+        },
+        "revenue": 11341016
+    },
+    {
+        "id": 15708,
+        "imdb": {
+            "imdb_id": "tt0345551",
+            "title": "Latter Days",
+            "director": "nm0184947",
+            "release_year": "2003",
+            "main_actor": "nm0709095",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 15708,
+            "overview": "Christian, a hunky, 20-something, West Hollywood party boy gets more than he bargains for when he tries to seduce 19-year-old Elder Aaron Davis, a sexually confused Mormon missionary who moves into his apartment complex.",
+            "budget": 850000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/azmQxOHjmymWPv99e0XcH0i2WSj.jpg",
+            "production_companies": [
+                {
+                    "id": 3103,
+                    "logo_path": null,
+                    "name": "Funny Boy Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 163,
+            "review": null
+        },
+        "revenue": 819939
+    },
+    {
+        "id": 11836,
+        "imdb": {
+            "imdb_id": "tt0345950",
+            "title": "The SpongeBob SquarePants Movie",
+            "director": "nm0651706",
+            "release_year": "2004",
+            "main_actor": "nm0444786",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 11836,
+            "overview": "There's trouble brewing in Bikini Bottom. Someone has stolen King Neptune's crown, and it looks like Mr. Krab, SpongeBob's boss, is the culprit. Though he's just been passed over for the promotion of his dreams, SpongeBob stands by his boss, and along with his best pal Patrick, sets out on a treacherous mission to Shell City to reclaim the crown and save Mr. Krab's life.",
+            "budget": 30000000,
+            "genres": [
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/6sgo6TCakeL4KFwwcJyvkZ7zhMX.jpg",
+            "production_companies": [
+                {
+                    "id": 4,
+                    "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2348,
+                    "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+                    "name": "Nickelodeon Movies",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 8921,
+                    "logo_path": null,
+                    "name": "United Plankton Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 1881,
+            "review": null
+        },
+        "revenue": 140161792
+    },
+    {
+        "id": 5137,
+        "imdb": {
+            "imdb_id": "tt0346156",
+            "title": "Sky Captain and the World of Tomorrow",
+            "director": "nm0175775",
+            "release_year": "2004",
+            "main_actor": "nm0000569",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 5137,
+            "overview": "When gigantic robots attack New York City, \"Sky Captain\" uses his private air force to fight them off. His ex-girlfriend, reporter Polly Perkins, has been investigating the recent disappearance of prominent scientists. Suspecting a link between the global robot attacks and missing men, Sky Captain and Polly decide to work together. They fly to the Himalayas in pursuit of the mysterious Dr. Totenkopf, the mastermind behind the robots.",
+            "budget": 70000000,
+            "genres": [
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ceW9Zi43hEQPdxkPkohVCcG1CuT.jpg",
+            "production_companies": [
+                {
+                    "id": 4,
+                    "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+                    "name": "Paramount",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 10672,
+                    "logo_path": null,
+                    "name": "Brooklyn Films II",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1668,
+                    "logo_path": null,
+                    "name": "Riff Raff Film Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 4753,
+                    "logo_path": null,
+                    "name": "Filmauro",
+                    "origin_country": ""
+                },
+                {
+                    "id": 107760,
+                    "logo_path": null,
+                    "name": "Blue Flower Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 848,
+            "review": null
+        },
+        "revenue": 57958696
+    },
+    {
+        "id": 20496,
+        "imdb": {
+            "imdb_id": "tt0346457",
+            "title": "Mangal Pandey: The Rising",
+            "director": "nm0576559",
+            "release_year": "2005",
+            "main_actor": "nm0451148",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 20496,
+            "overview": "The film begins in 1857, when India was ruled by the British East India Company. Mangal Pandey is a sepoy, a soldier of Indian origin, in the army of the East India Company. Pandey is fighting in the Anglo-Afghan Wars and saves the life of his British commanding officer, William Gordon. Gordon is indebted to Pandey and a strong friendship develops between them, transcending both rank and race.",
+            "budget": 70000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/itE85VyWGsUjRtj7gH934RjHwr5.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 41,
+            "review": null
+        },
+        "revenue": 7250000
+    },
+    {
+        "id": 1966,
+        "imdb": {
+            "imdb_id": "tt0346491",
+            "title": "Alexander",
+            "director": "nm0000231",
+            "release_year": "2004",
+            "main_actor": "nm0268199",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 1966,
+            "overview": "Alexander, the King of Macedonia, leads his legions against the giant Persian Empire. After defeating the Persians, he leads his army across the then known world, venturing farther than any westerner had ever gone, all the way to India.",
+            "budget": 155000000,
+            "genres": [
+                {
+                    "id": 10752,
+                    "name": "War"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/faVET7EulRCnYRwi65jnHqR2di8.jpg",
+            "production_companies": [
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 54997,
+                    "logo_path": null,
+                    "name": "WR Universal Group",
+                    "origin_country": ""
+                },
+                {
+                    "id": 591,
+                    "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+                    "name": "France 3 Cin\u00e9ma",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 763,
+                    "logo_path": null,
+                    "name": "Intermedia Films",
+                    "origin_country": ""
+                },
+                {
+                    "id": 866,
+                    "logo_path": null,
+                    "name": "Path\u00e9 Renn Productions",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 4588,
+                    "logo_path": null,
+                    "name": "Egmond Film & Television",
+                    "origin_country": ""
+                },
+                {
+                    "id": 10926,
+                    "logo_path": null,
+                    "name": "Pacifica Film",
+                    "origin_country": ""
+                },
+                {
+                    "id": 19116,
+                    "logo_path": null,
+                    "name": "IMF Internationale Medien und Film GmbH & Co. 3. Produktions KG",
+                    "origin_country": "DE"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "IT",
+                    "name": "Italy"
+                },
+                {
+                    "iso_3166_1": "MA",
+                    "name": "Morocco"
+                },
+                {
+                    "iso_3166_1": "NL",
+                    "name": "Netherlands"
+                },
+                {
+                    "iso_3166_1": "GB",
+                    "name": "United Kingdom"
+                },
+                {
+                    "iso_3166_1": "TH",
+                    "name": "Thailand"
+                }
+            ],
+            "vote_average": 5.9,
+            "vote_count": 2349,
+            "review": "My wife picked this one up together with the weekly TV magazine. Luckily we didn't pay full price. I hoped for a film about one of the greatest warlord of all time but what I got was something about a crying homosexual wimp."
+        },
+        "revenue": 167298192
+    },
+    {
+        "id": 4252,
+        "imdb": {
+            "imdb_id": "tt0346723",
+            "title": "Chalte Chalte",
+            "director": "nm0592583",
+            "release_year": "2003",
+            "main_actor": "nm0451321",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 4252,
+            "overview": "A man pursues a woman who is already engaged and eventually gets married to her. Differences between the two lead to a bitter separation that threatens to destroy their relationship forever.",
+            "budget": 4600000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/7eux23WmDXUkmgLdMdxuuFn9II4.jpg",
+            "production_companies": [
+                {
+                    "id": 1570,
+                    "logo_path": null,
+                    "name": "Dreamz Unlimited",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1571,
+                    "logo_path": null,
+                    "name": "United Motion Pictures",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 68,
+            "review": null
+        },
+        "revenue": 18000000
+    },
+    {
+        "id": 4935,
+        "imdb": {
+            "imdb_id": "tt0347149",
+            "title": "Hauru no ugoku shiro",
+            "director": "nm0594503",
+            "release_year": "2004",
+            "main_actor": "nm0047962",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 4935,
+            "overview": "When Sophie, a shy young woman, is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+            "budget": 24000000,
+            "genres": [
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/TkTPELv4kC3u1lkloush8skOjE.jpg",
+            "production_companies": [
+                {
+                    "id": 11200,
+                    "logo_path": null,
+                    "name": "Buena Vista Home Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2752,
+                    "logo_path": null,
+                    "name": "DENTSU Music And Entertainment",
+                    "origin_country": "JP"
+                },
+                {
+                    "id": 11847,
+                    "logo_path": "/rZP0I1p3hZNUMNFPHUSal6rWThQ.png",
+                    "name": "Mitsubishi",
+                    "origin_country": "JP"
+                },
+                {
+                    "id": 6755,
+                    "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+                    "name": "Nippon Television Network Corporation",
+                    "origin_country": "JP"
+                },
+                {
+                    "id": 10342,
+                    "logo_path": "/eS79pslnoKbWg7t3PMA9ayl0bGs.png",
+                    "name": "Studio Ghibli",
+                    "origin_country": "JP"
+                },
+                {
+                    "id": 115689,
+                    "logo_path": null,
+                    "name": "Tohokushinsha Film Corporation (TFC)",
+                    "origin_country": ""
+                },
+                {
+                    "id": 1779,
+                    "logo_path": null,
+                    "name": "Tokuma Shoten",
+                    "origin_country": "JP"
+                },
+                {
+                    "id": 12518,
+                    "logo_path": null,
+                    "name": "d-rights",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "JP",
+                    "name": "Japan"
+                }
+            ],
+            "vote_average": 8.4,
+            "vote_count": 5834,
+            "review": "Really good movie staging in a fictional center European country. The drawings are great and the story is as delicate as any other from Miyazaki."
+        },
+        "revenue": 236049757
+    },
+    {
+        "id": 541526,
+        "imdb": {
+            "imdb_id": "tt0347534",
+            "title": "Messengers",
+            "director": "nm0267323",
+            "release_year": "2004",
+            "main_actor": "nm0382920",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 541526,
+            "overview": "Dr. Sarah Chapel returns to the small town of Brighton Mills when her father Dr. Robert Chapel unexpectedly dies. His clients and friends miss him, and Sarah discloses that all of them have perfect health; they hear voices when they are sleeping; and they are addicted to the stimulant Tributol. Her further investigation discloses a dark secret about the haunting voices.",
+            "budget": 200000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/eu5Dko9VIqmUYppeHBuSo0as8er.jpg",
+            "production_companies": [
+                {
+                    "id": 88952,
+                    "logo_path": null,
+                    "name": "Focus Filmes",
+                    "origin_country": "BR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "BR",
+                    "name": "Brazil"
+                }
+            ],
+            "vote_average": 5.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 5224221
+    },
+    {
+        "id": 1452,
+        "imdb": {
+            "imdb_id": "tt0348150",
+            "title": "Superman Returns",
+            "director": "nm0001741",
+            "release_year": "2006",
+            "main_actor": "nm0746125",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 1452,
+            "overview": "Superman returns to discover his 5-year absence has allowed Lex Luthor to walk free, and that those he was closest to felt abandoned and have moved on. Luthor plots his ultimate revenge that could see millions killed and change the face of the planet forever, as well as ridding himself of the Man of Steel.",
+            "budget": 270000000,
+            "genres": [
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ijSsWy2RWxTJzw3UMwFbXkjr5ny.jpg",
+            "production_companies": [
+                {
+                    "id": 429,
+                    "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+                    "name": "DC Comics",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 923,
+                    "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+                    "name": "Legendary Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 9168,
+                    "logo_path": "/hQNXrYIuyLRxMSBuGHk0GX7CCBS.png",
+                    "name": "Bad Hat Harry Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 16774,
+                    "logo_path": null,
+                    "name": "Peters Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 113288,
+                    "logo_path": null,
+                    "name": "Red Sun Productions Pty. Ltd.",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.6,
+            "vote_count": 2947,
+            "review": "***The Passion of the Christ, I mean Superman***\r\n\r\nSuperman returns to Earth after five years trying to find out what happened to his homeworld. As Clark Kent he gets his job back at the Daily Planet newspaper, but finds out Lois Lane has moved on without him -- having a live-in fianc\u00e9 and a five-year-old child, not to mention winning a Pulitzer for her article \"Why the World Doesn't Need Superman.\" Meanwhile Lex Luthor and his henchmen discover Superman's Fortress of Solitude and steal some of the alien crystals. Luthor's mad scheme is to create a new continent, killing billions of people in the process.\r\n\r\nThe story is a superhero retelling of the Christ story:\r\n\r\n- Jor-el gives his only son to protect (save) humankind. \r\n- Superman repeatedly states that he's everywhere and will always be around (i.e. omnipresent). \r\n- Luthor and his henchmen's beating of Supes is reminiscent of Christ's beating before his crucifixion. \r\n- Superman sacrifices himself to save humanity from Luthor's new continent. \r\n- When superman \"dies\" above the atmosphere of Earth he is shown in a cross posture.\r\n\r\nMeanwhile Lois Lane is an obvious type of atheism. Although she once believed in and even loved Superman, she's now convinced the world doesn't really need him. She's obviously unhappy and bitter; she lacks the pizazz she had when she once believed.\r\n\r\nOf course, all this heavy symbolism is useless if the story itself fails to capture the viewer's attention. This is especially vital when the picture runs 2 hours and 34 minutes. \r\n\r\nThe film definitely has an epic vibe to it, even more so than the first in the series. It seems more serious, i.e. less campy, especially where Luthor and his team are concerned. The film also possesses an imperceptible reverent quality. Even though the whole Superman mythos is totally absurd, the film somehow enables the viewer to accept it as real. On top of all this there are numerous humorous bits, which are laugh-out-loud funny (watch out for the hilarious \"It's a bird,\" \"It's a plane\" piece).\r\n\r\nOther things worth commenting on:\r\n\r\n- Some complain that Kate Bosworth lacks charisma as Lois Lane, but this all fits into the bitter \"I no longer believe\" subplot. Bosworth is fine in the role. \r\n- Some complain about Superman's 5-year visit to Krypton. What's the problem? Part of my youth was spent in Minneapolis and I've gone back there numerous times to quell my curiosity. Why wouldn't Superman feel the same way? Why was he gone so long and why did he need a crystalized craft? Because he was potentially exposing himself to large amounts of Kryptonite (radioactive pieces of his homeworld) which would severely weaken him, not to mention he gets his powers from the Earth's sun. \r\n- Some complain about Lois' fianc\u00e9 and her son, the latter of whom may or may not be the offspring of Supes. Wouldn't it be natural for Lois to move on after about two years waiting? Her \"shacking up\" before marriage can be attributed to her new \"I no longer believe\" mentality. \r\n- Love is a strong theme here as is fitting for any retelling of the Christ story. Superman loves Lois and vice versa, even though Lois is initially in denial. Love gives life and saves from death. \r\n- I liked the fact that Lois' fianc\u00e9, Richard (Marsden), isn't made out to be a villain. Interestingly, Lois picked a man who, as a pilot, could fly her around like Supes, albeit less spectacularly. I also like the fact that the film shows Lois being faithful to Richard even though she discovers she still loves Superman. The human heart is capable of loving more than one person, but can only be faithful or committed to one, if you know what I mean. \r\n- Frank Langella is his usual charismatic self as Perry White. \r\n- Kevin Spacey is excellent as Luthor and arguably superior to Hackman; this is especially evident as the story progresses. His larger-than-life lunatic scheme is truly fitting for Supe's main foe. \r\n- There are numerous dramatic parts where the film takes its time to tell the story; there's obviously no rush to get to the next CGI action scene. Those with ADD beware. Needless to say, this is a film for adults even though kids will enjoy many aspects. \r\n- \"Superman Returns\" was one of the most expensive films ever made at $209 million but made most of it back in North America ($200 million) while almost doubling it worldwide ($392 million). What's strange is studio heads were disappointed with these numbers, claiming it should have made $500 million.\r\n\r\nBOTTOM LINE: I was surprised to discover how good \"Superman Returns\" is. This is an epic and moving superhero film; sci-fi/fantasy at its best. Is it as good or better than the best superhero films? Not only is it as good, it's deeper.\r\n\r\nGRADE: A-"
+        },
+        "revenue": 391081192
+    },
+    {
+        "id": 7553,
+        "imdb": {
+            "imdb_id": "tt0348333",
+            "title": "Waiting...",
+            "director": "nm1301035",
+            "release_year": "2005",
+            "main_actor": "nm0005351",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 7553,
+            "overview": "Employees at a Bennigan's-like restaurant (called, creatively enough, Shenanigan's), kill time before their real lives get started. But while they wait, they'll have to deal with picky customers who want their steak cooked to order and enthusiastic managers who want to build the perfect wait staff. Luckily, these employees have effective revenge tactics.",
+            "budget": 3000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/h3NJDiaaliUH35ApXPu8PFKZwWz.jpg",
+            "production_companies": [
+                {
+                    "id": 1305,
+                    "logo_path": null,
+                    "name": "LIFT Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2273,
+                    "logo_path": null,
+                    "name": "Eden Rock Media",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.3,
+            "vote_count": 485,
+            "review": "_Waiting..._ is incredible for three reasons.\r\n\r\nFirstly, it was one of the films that helped rocket forward the careers of both Ryan Reynolds (_Buried, Deadpool_) and Justin Long (_Accepted, Dodgeball, Jeepers Creepers_).\r\n\r\nSecondly, it glorifies what is in my opinion the best American Comedy ever made, _Super Troopers_, as well as Kevin Smith (director of _Clerks I & II, Jay and Silent Bob Strike Back, Dogma, Chasing Amy, Mallrats_)\r\n\r\nFinally, it's an American Comedy movie, and I paid actual money for it. I then watched it. I've watched it before. I'll probably even watch it again. BOOM! This probably means nothing to anyone who's reading this (there's also probably nobody reading this) but regardless, it's quite a big deal.\r\n\r\nManaging to take something as mundane as one day in a repetitive dead-end catering job, and make it even vaguely humorous is rather an achievement. You should watch it and play the other-other \"The Game\" (sidenote: I lost the game) like we used to in High School. 'Cause I'm classy like that.\r\n\r\nSeriously though, and I can't believe my thoughts even as I'm typing this, but I honestly think Waiting... is an underrated American Comedy gem, maybe I'm just seeing that comparatively, or with the rose-tinted glasses of nostalgia, but I really do enjoy the film.\r\n\r\n76%\r\n\r\n-Gimly"
+        },
+        "revenue": 18637690
+    },
+    {
+        "id": 1944,
+        "imdb": {
+            "imdb_id": "tt0348593",
+            "title": "The Door in the Floor",
+            "director": "nm0931095",
+            "release_year": "2004",
+            "main_actor": "nm0000313",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 1944,
+            "overview": "Alternately tragic and comic, an exploration of the complexities of love in both its brightest and darkest corners. Adapted from John Irving's best-selling novel A Widow for One Year, the film is set in the privileged beach community of East Hampton, New York and chronicles one pivotal summer in the lives of famous children's book author Ted Cole (Jeff Bridges) and his beautiful wife Marion (Kim Basinger). Their once-great marriage has been strained by tragedy. Her resulting despondency and his subsequent infidelities have prevented the couple from confronting a much-needed change in their relationship. Eddie O'Hare, the young man Ted hires to work as his summer assistant, is the couple's unwitting yet willing pawn - and, ultimately, the catalyst in the transformation of their lives.",
+            "budget": 7500000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2elMSIcQ9wDuFz1uzLU72AAKFOF.jpg",
+            "production_companies": [
+                {
+                    "id": 1043,
+                    "logo_path": null,
+                    "name": "Revere Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 10146,
+                    "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+                    "name": "Focus Features",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 125,
+            "review": null
+        },
+        "revenue": 6715067
+    },
+    {
+        "id": 4970,
+        "imdb": {
+            "imdb_id": "tt0348836",
+            "title": "Gothika",
+            "director": "nm0440913",
+            "release_year": "2003",
+            "main_actor": "nm0000932",
+            "main_genre": "Horror"
+        },
+        "tmdb": {
+            "tmdb_id": 4970,
+            "overview": "After a car crash, a criminal psychologist regains consciousness only to find that she's a patient in the same mental institution that currently employs her. It seems she's been accused of murdering her husband\u2014but she has no memory of committing the crime. As she tries to regain her memory and convince her co-workers of her innocence, a vengeful spirit uses her as an earthly pawn, which further convinces everyone of her guilt.",
+            "budget": 40000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/frSGNQcWx1ek8dCduFYCux1ho7n.jpg",
+            "production_companies": [
+                {
+                    "id": 1786,
+                    "logo_path": "/joLFuCWg9e2lweYnFQtRPJKSLlI.png",
+                    "name": "Dark Castle Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 5,
+                    "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                    "name": "Columbia Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 34,
+                    "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+                    "name": "Sony Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.1,
+            "vote_count": 1560,
+            "review": "Time to wash away your sins.\r\n\r\nWhilst hardly being a very good horror film, it's not exactly the stinker some would have you believe.\r\n\r\nThe problems with it are that it becomes overblown, after initially pulsing away as a very moody and atmospherically tight spooker, set to a superbly eerie asylum backdrop, it gets away from itself in the final third. The makers never quite grasp the concept of keeping the mystery aspects of the plot still cloaked in scary tints. Tech credits are dandy, though an impressive cast list are not asked to stretch themselves. \r\n\r\nIt's not ever overtly frightening and lacks suspense in some key areas, but there's still enough of a creepy vibe here to not waste the time of first time viewers. Repeat viewing prospects, though? Unlikely. 6/10"
+        },
+        "revenue": 141591324
+    },
+    {
+        "id": 48391,
+        "imdb": {
+            "imdb_id": "tt0348843",
+            "title": "Jism",
+            "director": "nm0768289",
+            "release_year": "2003",
+            "main_actor": "nm0060607",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 48391,
+            "overview": "Kabir Lal is an alcoholic lawyer whose life is looking as if going down the drain. One morning he sees a stunningly attractive woman on a beach and is instantly enamored by her. By chance he sees her again in a restaurant and offers to buy her a drink. In the process he learns that her name is Sonia and she is married. Unable to resist, he asks her whether she would show him her home. It marks the beginning of a passionate affair, during which Kabir is told that Sonia's husband neglects her. But Sonia cannot leave him because she cannot support herself without her husband's money. Sonia suggests murder and Kabir, blind with lust, agrees. They manage to kill Sonia's husband and make it look like an accident, but then Kabir gets to see Sonia's other side: she no longer is the passionate lover as before, but is a cool-headed mean woman now who won't let go of her wealth at any cost.",
+            "budget": 501717,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/afSVOdens3jMc1QzLA3Ps3XGSbR.jpg",
+            "production_companies": [
+                {
+                    "id": 23685,
+                    "logo_path": null,
+                    "name": "Fish Eye Network",
+                    "origin_country": "IN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 4.6,
+            "vote_count": 13,
+            "review": null
+        },
+        "revenue": 5481471
+    },
+    {
+        "id": 9805,
+        "imdb": {
+            "imdb_id": "tt0349047",
+            "title": "(T)Raumschiff Surprise - Periode 1",
+            "director": "nm0378660",
+            "release_year": "2004",
+            "main_actor": "nm0378660",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 9805,
+            "overview": "Hundreds of years after humans have settled on Mars, Regulator Rogul and Lord Jens Maul, lead a force of Martians to Earth in order to conquer the planet. Queen Metaphor looks to the gay heroes aboard the spaceship Surprise -- Captain Kork, Mr. Spuck, and first engineer Schrotty",
+            "budget": 9000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4Y9SMJ2cJ8QXABFWXEaasB7cXaC.jpg",
+            "production_companies": [
+                {
+                    "id": 88461,
+                    "logo_path": null,
+                    "name": "herbX Film",
+                    "origin_country": ""
+                },
+                {
+                    "id": 47,
+                    "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+                    "name": "Constantin Film",
+                    "origin_country": "DE"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                }
+            ],
+            "vote_average": 6.2,
+            "vote_count": 290,
+            "review": null
+        },
+        "revenue": 76341401
+    },
+    {
+        "id": 496533,
+        "imdb": {
+            "imdb_id": "tt0349115",
+            "title": "Baaz: A Bird in Danger",
+            "director": "nm0894354",
+            "release_year": "2003",
+            "main_actor": "nm0006763",
+            "main_genre": "Mystery"
+        },
+        "tmdb": {
+            "tmdb_id": 496533,
+            "overview": "In a small town, Nainital, India the police is on the look-out for a serial killer. All the killer's targets are of astonishing beautiful young girls; with an ulterior motive. Evidences found at the crime scenes are a dragger and a pair of rubber gloves. The three men under suspect are Mayor Jai Singh Dabral, DSP Harshvardan and a painter by profession Raj Singh; the problem is the police do not have evidence to incarcerate any of these men.",
+            "budget": 986250,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/jp0dVtH2kE0VD8I2GYLdA74i3KK.jpg",
+            "production_companies": [
+                {
+                    "id": 99307,
+                    "logo_path": null,
+                    "name": "Kapishek Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 3.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 750000
+    },
+    {
+        "id": 48382,
+        "imdb": {
+            "imdb_id": "tt0349159",
+            "title": "The Book of Mormon Movie, Volume 1: The Journey",
+            "director": "nm1309091",
+            "release_year": "2003",
+            "main_actor": "nm0199139",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 48382,
+            "overview": "The story of Lehi and his wife Sariah and their four sons: Laman, Lemuel, Sam, and Nephi. Lehi leaves Jerusalem because he prophesied unto the people concerning the destruction of Jerusalem, and they sought his life. He journeys into the wilderness with his family. He sends Nephi and his brethren back to Jerusalem after the brass plates and the family of Ishmael. The sons and daughters of Lehi marry the sons and daughters of Ishmael. They take their families and continue into the wilderness. Ishmael dies in the wilderness. They come to the sea. Nephi's brethren rebel against him. He confounds them, and builds a ship. They cross the sea to the promised land in the Americas. Lehi dies in the promised land. Nephi's brethren rebel against him again. Nephi departs again into the wilderness.",
+            "budget": 2000000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 10751,
+                    "name": "Family"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ov4rsTmjJ28jUnSRRYwhIGWUWUn.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.0,
+            "vote_count": 2,
+            "review": null
+        },
+        "revenue": 1672730
+    }
+]

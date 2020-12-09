@@ -1,0 +1,536 @@
+[
+    {
+        "id": 57158,
+        "imdb": {
+            "imdb_id": "tt1170358",
+            "title": "The Hobbit: The Desolation of Smaug",
+            "director": "nm0001392",
+            "release_year": "2013",
+            "main_actor": "nm0005212",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 57158,
+            "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+            "budget": 250000000,
+            "genres": [
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+            "production_companies": [
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 11,
+                    "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+                    "name": "WingNut Films",
+                    "origin_country": "NZ"
+                },
+                {
+                    "id": 12,
+                    "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+                    "name": "New Line Cinema",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 21,
+                    "logo_path": "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png",
+                    "name": "Metro-Goldwyn-Mayer",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "NZ",
+                    "name": "New Zealand"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.6,
+            "vote_count": 9484,
+            "review": "The second part amends the fiasco of the first one.\r\n\r\nSpectacular and, again, with several moments of the already classic \"platform-like\" fights on the run from these series of movies that could be enhanced if some sense would be given to them. Still, the staging of every location and, remarkably, Smaug, is worth seeing."
+        },
+        "revenue": 958400000
+    },
+    {
+        "id": 21033,
+        "imdb": {
+            "imdb_id": "tt1170391",
+            "title": "Beautiful",
+            "director": "nm2260471",
+            "release_year": "2009",
+            "main_actor": "nm0299028",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 21033,
+            "overview": "Searing and luscious, \"Beautiful\" tells the story of Daniel, a shy and introverted 14 year old boy residing in Sunshine Hills, a suburb living in the grip of fear following the rumoured abductions of three teenage girls. Daniel's two main obsessions are photography and Suzy, a 17 year old Lolita, a dangerous combination of youth and sexuality.",
+            "budget": 1500000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/ngMcCfLiFFMcr9T8NFhXXJrpzRD.jpg",
+            "production_companies": [
+                {
+                    "id": 988,
+                    "logo_path": null,
+                    "name": "Kojo Pictures",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AU",
+                    "name": "Australia"
+                }
+            ],
+            "vote_average": 5.0,
+            "vote_count": 28,
+            "review": null
+        },
+        "revenue": 56000
+    },
+    {
+        "id": 23348,
+        "imdb": {
+            "imdb_id": "tt1170398",
+            "title": "Hinter Kaifeck",
+            "director": "nm0343094",
+            "release_year": "2009",
+            "main_actor": "nm0299811",
+            "main_genre": "Mystery"
+        },
+        "tmdb": {
+            "tmdb_id": 23348,
+            "overview": "No overview found.",
+            "budget": 70000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/8WD4sY6uCzOtcHF4Xd4xLWFBIuW.jpg",
+            "production_companies": [],
+            "production_countries": [
+                {
+                    "iso_3166_1": "DE",
+                    "name": "Germany"
+                }
+            ],
+            "vote_average": 4.1,
+            "vote_count": 4,
+            "review": null
+        },
+        "revenue": 20000
+    },
+    {
+        "id": 175528,
+        "imdb": {
+            "imdb_id": "tt1171222",
+            "title": "Baggage Claim",
+            "director": "nm0847859",
+            "release_year": "2013",
+            "main_actor": "nm1745736",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 175528,
+            "overview": "Pledging to keep herself from being the oldest and the only woman in her entire family never to wed, Montana embarks on a thirty-day, thirty-thousand-mile expedition to charm a potential suitor into becoming her fianc\u00e9.",
+            "budget": 8500000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/jZzsZGwJDmAzwpI1TkqqPCR8c0M.jpg",
+            "production_companies": [
+                {
+                    "id": 31835,
+                    "logo_path": null,
+                    "name": "Sneak Preview Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 5.3,
+            "vote_count": 157,
+            "review": null
+        },
+        "revenue": 22456509
+    },
+    {
+        "id": 27957,
+        "imdb": {
+            "imdb_id": "tt1171701",
+            "title": "Nefes: Vatan Sagolsun",
+            "director": "nm2896395",
+            "release_year": "2009",
+            "main_actor": "nm1759049",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 27957,
+            "overview": "A small task force of the Turkish army have to defend a relay station in the middle of nowhere against a possible terrorist raid.",
+            "budget": 2000000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 12,
+                    "name": "Adventure"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                },
+                {
+                    "id": 10752,
+                    "name": "War"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/cxRoQLbjN8Fpmh4VlBjPcu4kfly.jpg",
+            "production_companies": [
+                {
+                    "id": 42712,
+                    "logo_path": null,
+                    "name": "Fida Film",
+                    "origin_country": ""
+                },
+                {
+                    "id": 5145,
+                    "logo_path": null,
+                    "name": "Creavidi",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "TR",
+                    "name": "Turkey"
+                }
+            ],
+            "vote_average": 7.2,
+            "vote_count": 62,
+            "review": null
+        },
+        "revenue": 13500000
+    },
+    {
+        "id": 303991,
+        "imdb": {
+            "imdb_id": "tt1172049",
+            "title": "Demolition",
+            "director": "nm0885249",
+            "release_year": "2015",
+            "main_actor": "nm0350453",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 303991,
+            "overview": "An emotionally desperate investment banker finds hope through a woman he meets in Chicago.",
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4t56LZ1KbOOxgKfqMKN6truBDVc.jpg",
+            "production_companies": [
+                {
+                    "id": 737,
+                    "logo_path": "/dK1GZ1u4our8sJW0Sts1JHeNSLn.png",
+                    "name": "Sidney Kimmel Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 2130,
+                    "logo_path": "/g0lqeY2FvhzXcOI6z8RVXbORRUY.png",
+                    "name": "Mr. Mudd Production",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 32157,
+                    "logo_path": "/nBD7uzlUlpivUpOoUTg5UEZJoib.png",
+                    "name": "Right of Way Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 33681,
+                    "logo_path": "/dHx2nsV9AC7IBlKN2dk1FDImvOz.png",
+                    "name": "Black Label Media",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 1440,
+            "review": "> When we won't feel a thing for a great loss...\r\n\r\nI am observing closely Jake Gyllenhaal's acting career and he's giving the best performances in all his films. He's one of top 5 best actor of our generation. So technically I love all his films, especially in the recent years and tell me who won't if they love good stories and performance. I expected this to be another excellent film and yes it was, but not that great.\r\n\r\nWhat he has given to his fans and film viewers is the promise and fulfilled it all the way. So even an average film can automatically become a better one. This film was based on the one of the blacklisted script, but Gyllenhaal's presence made all the difference along with the wonderful director.\r\n\r\nIt was the story of a man who lost his wife in a car accident. His way of grieving is what the film narrates. He realises that he's not able feel a thing when everyone around does, so he decides to make search for the answers and so the bizarre journey begins. The casting was good, but it was all about the Gyllenhaal's role. I like Naomi Watts, but for the first time she looked old to me. And the others did not have much screenspace, except that new face boy who was decent.\r\n\r\nI think not everyone would enjoy it, it is a weird story of almost a weird person, so you would easily get it. You must need to be a patience, besides it is a dark comedy. You might wonder why the title was named 'Demolition', the films gives a strange demonstration for that in a good way. It is not like a must see, but totally worth for Gyllenhaal alone. I can't say it should have been better, because there's nothing to get better, everything was at its best.\r\n\r\n7/10"
+        },
+        "revenue": 4366460
+    },
+    {
+        "id": 23174,
+        "imdb": {
+            "imdb_id": "tt1172060",
+            "title": "It's Alive",
+            "director": "nm0750857",
+            "release_year": "2009",
+            "main_actor": "nm0005313",
+            "main_genre": "Horror"
+        },
+        "tmdb": {
+            "tmdb_id": 23174,
+            "overview": "It's Alive is a modern remake of the classic 1970s horror film. When a young woman learns that she's pregnant, she leaves graduate school to set up a home with her boyfriend in the country. The fate of the happy new family takes a gruesome turn when animals and people end up brutally dead \u2013 all with a strange connection to their newborn. Could their new child be the responsible for the killings?",
+            "budget": 10000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/uDm89EnXGswts0v5l8TSoqAvyij.jpg",
+            "production_companies": [
+                {
+                    "id": 4451,
+                    "logo_path": null,
+                    "name": "Alive Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 4452,
+                    "logo_path": null,
+                    "name": "Amicus Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 105155,
+                    "logo_path": null,
+                    "name": "IPW Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 2982,
+                    "logo_path": null,
+                    "name": "Signature Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 4.0,
+            "vote_count": 37,
+            "review": null
+        },
+        "revenue": 15500000
+    },
+    {
+        "id": 31172,
+        "imdb": {
+            "imdb_id": "tt1172230",
+            "title": "Diamant 13",
+            "director": "nm0126756",
+            "release_year": "2009",
+            "main_actor": "nm0000367",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 31172,
+            "overview": "A cop goes up against his lifelong friend, who has become one of the city's biggest drug traffickers.",
+            "budget": 6850000,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/m5puoNVUuzvOf5gdnLBFRcVTsus.jpg",
+            "production_companies": [
+                {
+                    "id": 790,
+                    "logo_path": "/k0MnHFovKIeev0ANR0Ww6HO6tfF.png",
+                    "name": "Samsa Film",
+                    "origin_country": "LU"
+                },
+                {
+                    "id": 6274,
+                    "logo_path": null,
+                    "name": "MK2 Productions",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 11773,
+                    "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+                    "name": "Art\u00e9mis Productions",
+                    "origin_country": "BE"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "BE",
+                    "name": "Belgium"
+                },
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                },
+                {
+                    "iso_3166_1": "LU",
+                    "name": "Luxembourg"
+                }
+            ],
+            "vote_average": 5.5,
+            "vote_count": 28,
+            "review": null
+        },
+        "revenue": 878153
+    },
+    {
+        "id": 22798,
+        "imdb": {
+            "imdb_id": "tt1172233",
+            "title": "Whip It",
+            "director": "nm0000106",
+            "release_year": "2009",
+            "main_actor": "nm0680983",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 22798,
+            "overview": "In Bodeen, Texas, Land Of The Dragon, an indie-rock loving misfit finds a way of dealing with her small-town misery after she discovers a roller derby league in nearby Austin.",
+            "budget": 15000000,
+            "genres": [
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/nwPvNuxIhVNhBFdzMsMPu2Va608.jpg",
+            "production_companies": [
+                {
+                    "id": 444,
+                    "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
+                    "name": "Dune Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 771,
+                    "logo_path": null,
+                    "name": "Mandate Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 8818,
+                    "logo_path": null,
+                    "name": "Vincent Pictures",
+                    "origin_country": ""
+                },
+                {
+                    "id": 19813,
+                    "logo_path": null,
+                    "name": "Flower Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 93521,
+                    "logo_path": null,
+                    "name": "Rye Road Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 93522,
+                    "logo_path": null,
+                    "name": "Babe Ruthless Productions",
+                    "origin_country": ""
+                },
+                {
+                    "id": 17032,
+                    "logo_path": null,
+                    "name": "Barry Mendel Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 767,
+            "review": "Simple, fresh and enjoying girls teenager movie.\r\n\r\nPerfect for not thinking much and enjoying, without having to suffer all the stereotypes."
+        },
+        "revenue": 16633035
+    }
+]

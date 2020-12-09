@@ -1,0 +1,913 @@
+[
+    {
+        "id": 507505,
+        "imdb": {
+            "imdb_id": "tt7204348",
+            "title": "El \u00c1ngel",
+            "director": "nm1166781",
+            "release_year": "2018",
+            "main_actor": "nm9171644",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 507505,
+            "overview": "Buenos Aires, Argentina, 1971. Carlos Robledo Puch is a 19-year-old boy with an angelic face, but a vocational thief as well, who acts ruthlessly, without remorse. When he meets Ram\u00f3n, they follow together a dark path of crime and death.",
+            "budget": 3000000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/iYrcnrxv80L9JbV9YfVv45VpNM2.jpg",
+            "production_companies": [
+                {
+                    "id": 49,
+                    "logo_path": "/xpf5iHdvvBtsH8jBMlgIJHAET0c.png",
+                    "name": "El Deseo",
+                    "origin_country": "ES"
+                },
+                {
+                    "id": 21914,
+                    "logo_path": "/iF5QYCtPLuwkU90jWdjrul25d71.png",
+                    "name": "K&S Films",
+                    "origin_country": "AR"
+                },
+                {
+                    "id": 6458,
+                    "logo_path": "/BrkmIPGDoj15uaYwfPqUNde2Cc.png",
+                    "name": "INCAA",
+                    "origin_country": "AR"
+                },
+                {
+                    "id": 79514,
+                    "logo_path": "/erPtjJDSdu4jTKJFe3KOhwddTXG.png",
+                    "name": "Underground Producciones",
+                    "origin_country": "AR"
+                },
+                {
+                    "id": 8046,
+                    "logo_path": "/9Pvyw0vgN6PWoMJGsUil0DNlXdd.png",
+                    "name": "Telefe",
+                    "origin_country": "AR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "AR",
+                    "name": "Argentina"
+                },
+                {
+                    "iso_3166_1": "ES",
+                    "name": "Spain"
+                }
+            ],
+            "vote_average": 7.5,
+            "vote_count": 331,
+            "review": null
+        },
+        "revenue": 10452324
+    },
+    {
+        "id": 646886,
+        "imdb": {
+            "imdb_id": "tt7232940",
+            "title": "Herobrine Origins: The Movie",
+            "director": "nm7599340",
+            "release_year": "2016",
+            "main_actor": "nm11033518",
+            "main_genre": "Animation"
+        },
+        "tmdb": {
+            "tmdb_id": 646886,
+            "overview": "Will Steve learn to control his powers? Or will he kill everyone in the world?",
+            "budget": 638,
+            "genres": [
+                {
+                    "id": 28,
+                    "name": "Action"
+                },
+                {
+                    "id": 16,
+                    "name": "Animation"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 878,
+                    "name": "Science Fiction"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/nBL6DTXVvtBU9Q9tCf3AQpGuFWc.jpg",
+            "production_companies": [
+                {
+                    "id": 125127,
+                    "logo_path": null,
+                    "name": "EliteProductions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [],
+            "vote_average": 10.0,
+            "vote_count": 1,
+            "review": null
+        },
+        "revenue": 638
+    },
+    {
+        "id": 434355,
+        "imdb": {
+            "imdb_id": "tt7238392",
+            "title": "Taxi 5",
+            "director": "nm4151736",
+            "release_year": "2018",
+            "main_actor": "nm4151736",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 434355,
+            "overview": "A police officer who's transfered in the police of Marseille gets assigned to take down a group of Italian robbers who drive the powerfull Ferrari's with the older niece of Daniel, a terrible driver who gets the legendary white taxi.",
+            "budget": 24625000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/yUs9qkQz8zPwi910jntTvrOmTOC.jpg",
+            "production_companies": [
+                {
+                    "id": 189,
+                    "logo_path": "/3NcJ66KlMs1s6yOh0AMSLMvhtSV.png",
+                    "name": "ARP S\u00e9lection",
+                    "origin_country": "FR"
+                },
+                {
+                    "id": 6896,
+                    "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+                    "name": "EuropaCorp",
+                    "origin_country": "FR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "FR",
+                    "name": "France"
+                }
+            ],
+            "vote_average": 5.7,
+            "vote_count": 710,
+            "review": null
+        },
+        "revenue": 38600000
+    },
+    {
+        "id": 457859,
+        "imdb": {
+            "imdb_id": "tt7273648",
+            "title": "Pro lyubov. Tolko dlya vzroslykh",
+            "director": "nm2475544",
+            "release_year": "2017",
+            "main_actor": "nm0048083",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 457859,
+            "overview": "The second part of the film \u201cAbout Love\u201d. Moscow, summer 2016. A new lecture, a new lecturer with a new theme: \u201cHow to preserve love in the modern world\u201d \u2013 and five new stories about love. The heroes still suffer, struggle for love, even more often get into absurd and ridiculous situations, and yet they trust in love even more.",
+            "budget": 1350000,
+            "genres": [
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2d7s1FpGl3fRtJJxScs0w3KNK1j.jpg",
+            "production_companies": [
+                {
+                    "id": 8608,
+                    "logo_path": null,
+                    "name": "Magnum",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "RU",
+                    "name": "Russia"
+                }
+            ],
+            "vote_average": 5.8,
+            "vote_count": 23,
+            "review": null
+        },
+        "revenue": 2157136
+    },
+    {
+        "id": 672070,
+        "imdb": {
+            "imdb_id": "tt7278838",
+            "title": "Inner Beauty",
+            "director": "nm6845251",
+            "release_year": "2017",
+            "main_actor": "nm9217420",
+            "main_genre": "Romance"
+        },
+        "tmdb": {
+            "tmdb_id": 672070,
+            "overview": "Inner Beauty portrays a Character name Claire that has been dealing with Low self-esteem issues about her outer body since she was a child, because of the mental and physical abuse she witnessed growing up. She has an ongoing battle with obesity and does not realize her self- worth. Claire meets a man that tells her she is beautiful inside and out and that greater beauty comes from within. Later she finds out that he is a doctor and he offers her help to love herself. She denies any help and continues to battle depression. Low self-esteem is often the root cause of one's inability to lose weight and keep it off for good. In Claire's case she has had difficulty letting go of her past demons and therefore it causes her to have very low self-esteem and she becomes depressed and goes to a very DARK place.",
+            "budget": 2000,
+            "genres": [],
+            "poster": "https://image.tmdb.org/t/p/original/4qBoa1YfMpDRBimJvgHYnv6NnDc.jpg",
+            "production_companies": [
+                {
+                    "id": 128978,
+                    "logo_path": null,
+                    "name": "I am Jervonne Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 2000
+    },
+    {
+        "id": 491584,
+        "imdb": {
+            "imdb_id": "tt7282468",
+            "title": "Beoning",
+            "director": "nm0496969",
+            "release_year": "2018",
+            "main_actor": "nm2584860",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 491584,
+            "overview": "Deliveryman Jongsu is out on a job when he runs into Haemi, a girl who once lived in his neighborhood. She asks if he'd mind looking after her cat while she's away on a trip to Africa. On her return she introduces to Jongsu an enigmatic young man named Ben, who she met during her trip. And one day Ben tells Jongsu about his most unusual hobby...",
+            "budget": 7280000,
+            "genres": [
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/4NScXB4cx4cjN8hBF6Rh8OvAdAc.jpg",
+            "production_companies": [
+                {
+                    "id": 6925,
+                    "logo_path": "/7dvA3vHHZgLRImFa3QTA91jIkQL.png",
+                    "name": "Pinehouse Film",
+                    "origin_country": "KR"
+                },
+                {
+                    "id": 20811,
+                    "logo_path": null,
+                    "name": "NOWFILM",
+                    "origin_country": "KR"
+                },
+                {
+                    "id": 15505,
+                    "logo_path": "/w5QS8A009RWYz0oi0tP4OWoGb5E.png",
+                    "name": "NHK",
+                    "origin_country": "JP"
+                },
+                {
+                    "id": 68969,
+                    "logo_path": "/xXKhzWIdhsAlekyg0GTNZUkvQc1.png",
+                    "name": "CGV Arthouse",
+                    "origin_country": "KR"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "KR",
+                    "name": "South Korea"
+                }
+            ],
+            "vote_average": 7.4,
+            "vote_count": 828,
+            "review": "_**A slow-burning mystery about economics, class, and sexual jealousy. And cats.**_\r\n\r\n> _For a long time, I've wanted to tell a story about young people, and in particular, the young people of this generation. Some of my past projects were named Project Rage. That was because it seems that today, people all over the world, regardless of their nationality, religion, and social status, are angry for different reasons. The rage of young people is a particularly pressing problem. The millennials living in Korea today will be the first generation that are worse off than their parents' generation._ _They feel that the future will not change significantly. Not able to find the object to direct their rage at, they feel a sense of debilitation. This film is about young people who feel impotent, with rage bottled up inside them._\r\n\r\n- Lee Chang-dong; \"_Burning_ Director Lee Chang-dong: Still Angry After All These Years\" (Patrick Frater); _Variety_ (December 3, 2018)\r\n\r\nA thriller about a missing person. An allegory of class division. A study of generational alienation. A fable about modern consumerism. A dramatisation of psychological breakdown and genetically inherited rage. An analysis of socio-economic disenfranchisement. A critique of toxic masculinity and its concomitant misogyny. A condemnation of middle-class gentrification. A threnody for a traditional Korea that's slowly being replaced by faceless cosmopolitanism. An extended rib on Schr\u00f6dinger's cat. The story of an impoverished novelist-wannabe, a yuppie pyromaniac, and the strange woman that brings them together, then tears them apart. _Beoning_ [_Burning_] is all of these. And none of them. This is a narrative fundamentally built on questions, very few of which are answered definitively.\r\n\r\nIn his first film in eight years, writer/director Lee Chang-dong (_Oasis_; _Secret Sunshine_; _Poetry_) begins this protean narrative as an almost John Hughes-esque teen romance, before shifting gears into a story of sexual and economic jealousy, then morphing into the tale of a pseudo-film noir amateur sleuth, before finally allowing itself to visit the thriller territory that has lurked just outside the frame since the opening few scenes. Essentially, it's a psychological drama about three people. Although, it's possible that only one of those people is real. There are also two cats. Or maybe only one cat. It's a long journey (148 minutes), and, for some, the payoff will not be worth the length of time taken to get there. Others, more used to concrete black-and-white yes-and-no narratives, will be unimpressed with how steadfastly the film refuses to yield its secrets. For myself, it's a two-and-a-half-hour movie with only three characters of which to speak (real or not) that is intimately tied to a _milieu_ I'm completely unfamiliar with, yet it managed to hold my attention for almost the entire time. It has an undeniable ability to burrow under your skin very early on, so even though in the first two hours, there are literally only two major plot points, I was fully invested. And, man alive, is it tense. Lee's mastery of tone is quite something, keeping the viewer off-balance from the get-go, bestowing portentous significance upon the most inanimate and innocent of objects, only to later reveal that whilst we were trying to figure out the importance of item a, we missed the significance of item b. And although in the last half-hour, I did start to fidget a little, I thought the ending was wonderfully ambiguous (albeit, just a tad predictable). The acting is terrific, the cinematography superb, and you could certainly do worse than invest your time in this tantalising filmic Rorschach test.\r\n\r\nSet in contemporary South Korea, the film tells the story of Lee Jong-su (Yoo Ah-in), a shy and taciturn man in his late teens whose family home in Paju lies so close to the DMZ, that when the wind is blowing south, Communist propaganda can be heard. Having studied creative writing in college, Jong-su has aspirations to be a novelist but is having a hard time writing anything. In the meantime, he's trying to hold together the family's single-cow dairy farm, as his mother left with his sister many years previously, and his father, Lee Yong-seok (Choi Seung-ho), is currently standing trial for an unspecified altercation with a neighbour. Whilst working as a part-time delivery man in Seoul, Jong-su encounters Shin Hae-mi (an extraordinary debut performance from Jun Jong-seo). She claims they went to school together, although he doesn't remember her, which she attributes to the plastic surgery she has had in the intervening years. Developing a friendship, she invites him back to her apartment a few days later, explaining she will shortly be travelling to Africa, and asking him to feed her cat, Boil. He agrees, and the two have sex. Captivated, Jong-su happily feeds Boil, and even though every time he comes to the apartment, the cat is nowhere to be seen, the food and water are disappearing, so Jong-su thinks little of it, spending his time there masturbating and thinking of Hae-mi. A few weeks later, she calls and asks if he can pick her up at the airport. However, to his confusion, she brings with her Ben (Steven Yeun, performing under his birth-name, Yeun Sang-yeop), a confidant, irritatingly polite, and extremely wealthy young man whose swanky Gangnam District pad is everything Jong-su's ramshackle farm is not. When asked what he does for a living, Ben cryptically responds,\r\n\r\n> _to put it simply, I play. Nowadays, there is no distinction between working and playing._\r\n\r\nThe trio develop an odd relationship, with Hae-mi at times appearing to be dating both men, and at others, neither; Ben doesn't seem to regard their set-up as unusual, and Jong-su is too withdrawn and lacking in confidence to seek clarification. One evening, as the trio smoke weed at Jong-su's farm, Hae-mi recalls falling into a nearby well. However, not only does Jong-su not remember the incident, but is also unaware of any wells in the area. When Hae-mi falls asleep, Jong-su admits to Ben that he loves her, and Ben tells him about his strange hobby of burning greenhouses. Despite himself, Jong-su is fascinated. A few days later, however, Hae-mi is nowhere to be found; her apartment cleaned and emptied, her phone disconnected. Jong-su, suspecting Ben to be involved, sets out to find her.\r\n\r\nAdapted from Haruki Murakami's (very) short story \"Barn Burning\", published in _The New Yorker_ in 1983, and later collected in the 1993 anthology, _Z\u014d no sh\u014dmets_u [_The Elephant Vanishes_], _Beoning_ (the first Korean film to make it onto the shortlist for Best Foreign Language Film at the Oscars, although it failed to secure one of the final five nominations) was written for the screen by the director and Oh Jung-mi (in her feature debut). The film differs from Murakami's story in a number of important ways. For example, the setting is transposed from Japan to South Korea, and the targets of Ben's pyromania changed from barns to greenhouses. In the story, Jong-su is in his late-twenties and married, and his relationship with Hae-mi is chaste. He is also less developed as a character; for example, his parents aren't referenced. The most significant difference, however, is that Murakami's story ends almost immediately upon Hae-mi going missing, something which happens with over 60 minutes left in the film. The story itself was loosely inspired by William Faulkner's 1939 short story of the same name, something obliquely referenced in the film insofar as Faulkner is Lee's favourite author, and Ben is seen reading a Faulkner anthology. This literary provenance is important, as all three texts deal with class division, economic jealousy, and vengeance; a common thread is a male \"have-not\" growing envious of a \"have\", and deciding to take action against what he perceives as an unfair distribution of wealth.\r\n\r\n_Beoning_ is masterfully constructed upon a foundation of questions, only a very few of which are answered. If you accept this from the get-go, you'll be much more predisposed to enjoying the film on its own terms. Indeed, ambiguity is not solely reserved for the big questions, such as why does Jong-su not remember Hae-mi from school; what happens to Hae-mi; what does Ben do for a living; is his admission that he has never cried evidence of sociopathy; does he really burn down greenhouses. There's a whole host of smaller mysteries running alongside them - why does Hae-mi seem to rig a raffle so that Jong-su wins; what exactly did Jong-su's father do; who is calling his home in the middle of the night and hanging up; why does he stare at his father's knives the way he does; where is his sister; does Boil exist; is Ben's rescue cat the same cat as the never-seen Boil; did Hae-mi really fall down a well? Although some (or more) of these questions remain unanswered, there are certainly clues scattered throughout (I'd imagine it's a film that'd reward a second look), but your interpretation of those clues may very well differ entirely from mine (looking around online, I've seen at least five different readings of the final scene alone).\r\n\r\nThematically, the film covers a plethora of issues; toxic masculinity, alpha and beta males, economics and consumerism, class, the place of women in Korean society, sexual jealousy, the death of a bucolical way of life, working-class privations, faceless capitalism, the price of success, hope, writer's block. Of course, some are more foregrounded than others, with economics in particular emphasised. For example, the film cuts from a scene of the trio at a swanky nightclub (into which Ben has ensured they could go) to a scene of Jong-su alone, mucking out the cow stable. The contrast between the lifestyles of the two men couldn't be clearer; the casual comfort of the playboy and the stressful privations of the farmer, with Lee making a generalised point about the disenfranchisement of Korea's working-class youth. Jong-su belongs to a generation of working-class people who will be economically worse off than their parents were at the same age, whilst the gap between the middle-class and the working class has grown wider than ever. The Korea of the film is very much a place of castes, hierarchies of privilege and social standing, with Jong-su and Ben on the opposite end of every spectrum; when Ben is compared to Jay Gatsby, Jong-su sullenly opines, \"_there are so many Gatsbys in Korea_\". In another scene, a clip is shown of Donald Trump rallying his blue-collar base, and again, the point is clear; Trump, a member of the elite, born into wealth and privilege, exploiting for his own gain the fears and insecurities of the people who, economically speaking, are completely divorced from his world-view.\r\n\r\nThe film also engages significantly with gender politics. One of the things that so captivates Jong-su about Hae-mi is her provocative behaviour. Yet later, when she dances topless outside his house, he is disgusted, telling Ben, \"_only a whore acts like that_.\" It's a succinct summary of a societal double-standard; men can behave how they wish, but women must conform to arbitrary expectations. It could be argued that because the film fails the Bechdel test, Hae-mi functions primarily to further Jong-su and Ben's arcs, and is devoid of any real agency herself. An alternative reading, however, is that she is poorly sketched as a character so as to represent a patriarchal society in which women are seen as less complex than men. For the most part, _Beoning_ avoids didacticism on this issue, but to suggest that Hae-mi is simply a badly written character seems to me to be a very superficial interpretation of a film with great depth.\r\n\r\nHowever, there is also the possibility that Hae-mi doesn't actually exist, and in this sense, the fact that she is presented in such sexualised terms is because she is literally a male's fantasy, a sexual obsession born in the disturbed mind of an unreliable narrator. The film is told exclusively from Jong-su's perspective, he is in every scene, and the narrative never shifts to another focal character or to an omniscient viewpoint. With this in mind, everything we see is filtered through his ideological outlook; if he attaches significance to an object, the audience is invited to do likewise. Lee masterfully handles this tricky structural device, placing the audience directly into the same (possibly paranoid) headspace as the character. So, for example, when Jong-su sees Ben yawning as Hae-mi is recreating a dance she learned in Kenya, the yawn becomes immensely sinister, because that's how Jong-su interprets it. In this sense, if one theorises that Hae-mi is, in fact, a figment of Jong-su's imagination - an idealisation of a beautiful woman who wants him - then Ben must also originate in Jong-su's mind, functioning as the inverse to Hae-mi; a personification of everything to which Jong-su aspires but is unable to attain. The fact that Lee leaves this tantalising possibility on the table whilst still managing to analyse social-realist topics such as economics and class, is a testament to his extraordinary control over the material. Indeed, the natural light, shallow focus, and handheld nature of the cinematography by Hong Kyung-Pyo (_Taegukgi Hwinallimyeo_; _Gokseong_; _Snowpiercer_) initially suggests a gritty realism, whereas the narrative operates on a far more esoteric level.\r\n\r\nOne of the most salient motifs, if not necessarily a theme unto itself, is that of disappearance, with references scattered throughout the film - Hae-mi notes that her house in Paju is gone, as is the well she fell into; Jong-su recollects how after his mother left, his father burnt her clothes; when Ben tells Jong-su about his greenhouse hobby, he states, \"_you can make it disappear as if it never even existed_\"; Hae-mi literally says she wants to disappear; when Jong-su asks Ben if it's possible Hae-mi has gone on another trip, Ben says, \"_maybe she disappeared like a puff of smoke_\". The most important scene in this sense is an early one. Explaining that she's learning pantomime, Hae-mi proceeds to mime peeling and eating a tangerine, telling Jong-su the trick isn't to pretend the tangerine is really there, but to\r\n\r\n> _forget it doesn't exist. You forget that the tangerine is not there. That's all. The important thing is that you have to really want it._\r\n\r\nThis challenge to perception is crucial not just in how Jong-su becomes convinced Hae-mi has met foul play despite the lack of evidence, it also provides a clue for the audience as to how best to parse the film itself.\r\n\r\nFrom an aesthetic point of view, especially notable is the production design by Lee's regular designer Shin Jeon-hee, with the residences of each of the main characters nicely mirroring their standing - Jung-su's farm is dilapidated, dark, dreary, just like the sullen young man himself; Hae-mi's digs are tiny, cramped, packed to the ceiling with trinkets and books, personalised in every way, just like Hae-mi herself, bursting with personality; Ben's huge apartment is spacious, full of light, vibrant, with minimalist furniture, not dissimilar to Patrick Bateman's apartment in _American Psycho_ (book and film). The use of Miles Davis's jazz score from Louise Malle's _Ascenseur pour l'\u00e9chafaud_ [_Elevator to the Gallows_] (1958) is also very telling. Used during a key scene that functions as a bifurcation between the two halves of the film (before and after Hae-Mi disappears), the fatalistic nature of Malle's film is subtly referenced, indicating that the narrative is about to take a dark turn. It's a brilliant choice by Lee and his composer, Lee Sung-hyun (aka. Mowg), and further evidence of Lee's extraordinary control of the material.\r\n\r\nOf course, for all that praise, there are a few problems. For one, it's a little too long, and there are occasions when the narrative seems somewhat desultory. I would imagine that a lot of people will dislike the ambiguity and lack of concrete answers. Personally, I loved this aspect of the film and thought Lee handled it magnificently, but it certainly isn't for everyone. A minor issue is that as protagonists go, Jong-su is extremely passive, a character to whom things happen rather than the narrative's driving force. Again, some people will dislike this aspect, but I think it's important that Jong-su is seen as passive, especially in relation to the final scene. Of that scene, several colleagues of mine found it disappointingly familiar, something seen in any number of standard genre pieces. I disagree with that, and I think the scene benefits from a comparison with how Michael Haneke often ends his films, which slowly build from a whisper before suddenly releasing a raging scream; think the murder of the family in _Funny Games_ (1997), Madij's (Maurice B\u00e9nichou) suicide in _Cach\u00e9_ (2005), or Georges (Jean-Louis Trintignant) wheeling himself into the ocean in _Happy End_ (2017). Nevertheless, I can see where the criticism is coming from, as the final scene does conform fairly neatly to the rubric for a quotidian thriller.\r\n\r\nAll in all, I found _Beoning_ to be a haunting film, one which I couldn't get out of head for days, and I'm keen to see it again. Lee's masterful control of tone is extraordinary, balancing a plethora of themes within a half-social-realist/half-magic-realist _milieu_. As good an exercise in cinematic suggestiveness as you're likely to see outside the likes of David Lynch, Terrence Malick, or Guy Maddin, Lee subtly alters mood so as to manipulate, push, prod, guide, and fool the audience, playing us as if he were a puppet master and we his playthings. The film is such that everything on screen, every word spoken, every background detail could be important. Or not. Fiercely intelligent, deeply nuanced, complexly layered, it's a film that rewards concentration. The three leads are superb, the aesthetics laudable, the script excellent. It is, simply put, the finely crafted work of a distinct and relevant _auteur_, the kind of film that could no longer be made in mainstream Hollywood."
+        },
+        "revenue": 6591038
+    },
+    {
+        "id": 547630,
+        "imdb": {
+            "imdb_id": "tt7286250",
+            "title": "Restricted Area: Baron Palace",
+            "director": "nm9222124",
+            "release_year": "2016",
+            "main_actor": "nm9222129",
+            "main_genre": "Horror"
+        },
+        "tmdb": {
+            "tmdb_id": 547630,
+            "overview": "Film team decides to make a documentary about the famous Baron Palace, but after several attempts eventually led to catastrophic failure to extraction the necessary permits to shooting inside the palace, the team members decide to break into palace & shooting inside without permits, which put them in serious problems are endless.",
+            "budget": 250000,
+            "genres": [
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 27,
+                    "name": "Horror"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/1MeuGUQ9WH4F0OnIGw28CFzqarI.jpg",
+            "production_companies": [
+                {
+                    "id": 87946,
+                    "logo_path": null,
+                    "name": "digital eye art production",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [],
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "review": null
+        },
+        "revenue": 400000
+    },
+    {
+        "id": 475557,
+        "imdb": {
+            "imdb_id": "tt7286456",
+            "title": "Joker",
+            "director": "nm0680846",
+            "release_year": "2019",
+            "main_actor": "nm0001618",
+            "main_genre": "Crime"
+        },
+        "tmdb": {
+            "tmdb_id": 475557,
+            "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+            "budget": 55000000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 53,
+                    "name": "Thriller"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+            "production_companies": [
+                {
+                    "id": 174,
+                    "logo_path": "/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+                    "name": "Warner Bros. Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 83036,
+                    "logo_path": null,
+                    "name": "Joint Effort",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 79,
+                    "logo_path": "/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
+                    "name": "Village Roadshow Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 13240,
+                    "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+                    "name": "Bron Studios",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 53152,
+                    "logo_path": "/8XHHLy8GGTuHM9JMzYjGqxB6oPa.png",
+                    "name": "Creative Wealth Media Finance",
+                    "origin_country": "CA"
+                },
+                {
+                    "id": 9993,
+                    "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+                    "name": "DC Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 128064,
+                    "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+                    "name": "DC Films",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 8.2,
+            "vote_count": 15842,
+            "review": "If you enjoy reading my Spoiler-Free reviews, please follow my blog :)\r\n\r\nObviously, Joker is one of my most anticipated movies of 2019. I mean, how couldn't it be?! Besides belonging to the superhero genre, DC has been on a streak of great films within its universe, so an isolated installment definitely excites me, especially about one of the evilest villains ever. It's by far one of the less comic-book-y flicks of the century. It doesn't follow the generic origin story formula, it avoids any cliches associated with the genre, and it's the type of movie that's becoming more and more rare nowadays. It's a character study like we haven't seen in a long time.\r\n\r\nI'll simply begin with the person that elevates the entire thing: Joaquin Phoenix. Now, if there's something I'm not going to do is compare his performance with Heath Ledger's. That's the number one mistake people are going to keep making forever. First of all, The Dark Knight and Joker couldn't be more distinct films, even if they belong to the same genre (despite Joker being unique, it's still about a famous comic-book villain). Then, despite Phoenix and Ledger portraying the same \"version\" of the clown (crazy, sadistic psychopath), the former is 90% Arthur Fleck while the latter is 100% Joker, throughout each of their movies. Finally, Phoenix is the sole protagonist of this feature, while Ledger had the best live-action Batman sharing the spotlight.\r\n\r\nIn conclusion, it's both unfair, and a bit unreasonable to compare both interpretations since their roles have a different impact on the narrative, as well as each film being entirely different. In the end, both are impressive. However, let's switch to Phoenix since he's the star of this show \u2026 He has 2019's best performance, by far! With a strong marketing campaign, I'm sure he'll get that Oscar. I hope so! It's so well-deserved. Todd Phillips and Scott Silver developed a brilliant screenplay, but Phoenix elevates it to a whole other level.\r\n\r\nThroughout the entire runtime, I felt weird. Perturbed. Even uncomfortable with what I was watching and consequently feeling. It's a dark, brutal, violent, emotionally powerful origin of a villain who I feel disturbingly empathetic towards. Phoenix makes the story work due to its remarkably captivating display of someone who's mentally ill. Arthur Fleck slowly becoming crazier is due to how society behaves and not due to some chemical pool that transforms his skin white and hair green (nothing wrong with this, but I know which origin story I prefer). \"The world is getting crazier out there\", and it becomes excruciatingly painful to deal with it, especially when so much is going on with Arthur\u2019s personal life, and most of it he doesn't even realize because he tries to hide everything behind a smile.\r\n\r\nIt's a screenplay filled with narrative twists that not only pack a punch of surprise but leave you feeling extremely upset. The last act is one of the best in the last few years. If the second act is an enormous build-up, the last one is a terrific payoff. I can't remember the last movie I saw where I loved 100% every single narrative decision. I wouldn't do any of the big moments differently. There are so many excellent references hidden in plain sight that comic-book fans (and fans of the TDK trilogy as well) will love just like I did. In the ending, there's one pivotal moment in particular that serves as the absolute climax \u2026 I got chills all over my body. They couldn't have done that scene more perfect. I only have one tiny nitpick with the way some scenes feel repetitive since they neither move the plot forward or give us anything new. Some of these still help to create tension, some feel like they're just\u2026 there.\r\n\r\nA Best Picture and Best Actor nominations seem to be on its way, but these are not the only achievements that deserve to be recognized. The original score by Hildur Gu\u00f0nad\u00f3ttir is incredibly addictive, so much that I'm listening to it while writing this review. It definitely helps to generate tremendous build-up, and it elevates the sinister environment of Gotham City. Lawrence Sher's cinematography is utterly stunning. The underexposure of some scenes is glorious. Sher paints the screen with so many gorgeous shots, especially with his close-ups on Phoenix, where the latter is able to shine. Jeff Groth is also impeccable in the editing room. There are several long takes with Phoenix just giving his all and letting all his emotions out (or keeping them all contained), which is always something I deeply appreciate since it helps with the flow of the narrative.\r\n\r\nRegarding the film's controversy surrounding its messages and the incentive to violence, I really don't know what to say. It's ridiculous. I remember those times when going into the movie theater was a surreal experience. It was the number one place for people to forget about their lives, jobs, everything. Joker is a fictional story! It's the origin of one of the worst psychopaths in the history of comic-books and cinema. If people expected to leave the theater \"happy\" or \"joyful\", then at least one of the film's message is right: society really is getting crazier. Have people forgotten who Joker is? What could you possibly expect from his origin story?!\r\n\r\nNowadays, no one knows how to behave (social media is the primary source for spreading hate). No one respects the fellow citizen or even the world itself. More and more people only look at their own bellies. Political agendas are everywhere. New extreme movements are created every other year. Social hypersensibility is exponentially growing. The same way some people will hate this movie for not being able (or simply not wanting) to accept that they feel empathy towards a murderer, people all around the world behave like their actions don't reflect on another person's life and on their own planet. If people get ruthlessly violent because they watched Joker, how can someone complain that the film's message is bad when it's eventually true?\r\n\r\nAll in all, Joker is one of the best movies of the year, and it's definitely on my Top3 at the date of this review. Joaquin Phoenix delivers my favorite male performance of 2019, by elevating a script about the origin of one of the evilest villains ever. The way he gradually becomes more insane is worthy of study, but it's how he's able to make the audience create empathy towards a psychopath that leaves me disturbingly captivated. Todd Phillips produces a character-study filled with an astonishingly tense build-up and one of the most chill-inducing payoffs of the last few years. With every single narrative decision nailed perfectly, Hildur Gu\u00f0nad\u00f3ttir's score and Lawrence Sher's cinematography stand out. The lack of restraint in showing the unmerciful violence (physical and mental) that society inflicts on one another is what makes us feel unsettled. Because we know it's mostly true, and we refuse to accept it. It's not a film about the Joker. It's a very realistic portrayal of someone (anyone!) who can become someone like him. And it's disturbingly brilliant!\r\n\r\nPS: Robert DeNiro (Murray Franklin) and Zazie Beetz (Sophie Dumond) are also great. Phoenix's performance is so mesmerizing that I almost forgot there were other actors in the movie.\r\n\r\nRating: A"
+        },
+        "revenue": 1074251311
+    },
+    {
+        "id": 508935,
+        "imdb": {
+            "imdb_id": "tt7294150",
+            "title": "Ba Bai",
+            "director": "nm1299690",
+            "release_year": "2020",
+            "main_actor": "nm2167323",
+            "main_genre": "Action"
+        },
+        "tmdb": {
+            "tmdb_id": 508935,
+            "overview": "In 1937, eight hundred Chinese soldiers fight under siege from a warehouse in the middle of the Shanghai battlefield, completely surrounded by the Japanese army.",
+            "budget": 80000000,
+            "genres": [
+                {
+                    "id": 10752,
+                    "name": "War"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2tuJiQQUJNZgEmBgBfNVaYvAnPT.jpg",
+            "production_companies": [
+                {
+                    "id": 112270,
+                    "logo_path": null,
+                    "name": "Beijing Diqi Yinxiang Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 39649,
+                    "logo_path": null,
+                    "name": "Huayi Brothers Media",
+                    "origin_country": "CN"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CN",
+                    "name": "China"
+                }
+            ],
+            "vote_average": 7.1,
+            "vote_count": 17,
+            "review": null
+        },
+        "revenue": 460699653
+    },
+    {
+        "id": 473234,
+        "imdb": {
+            "imdb_id": "tt7294534",
+            "title": "Arjun Reddy",
+            "director": "nm9227039",
+            "release_year": "2017",
+            "main_actor": "nm4797922",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 473234,
+            "overview": "When his girlfriend is forced to marry another man, a troubled young surgeon begins to self-destruct.",
+            "budget": 780000,
+            "genres": [
+                {
+                    "id": 10749,
+                    "name": "Romance"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 28,
+                    "name": "Action"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/mTxbUREJ42WbLekdrW0VoZmgG8E.jpg",
+            "production_companies": [
+                {
+                    "id": 94245,
+                    "logo_path": null,
+                    "name": "Bhadrakali Pictures",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 7.3,
+            "vote_count": 57,
+            "review": null
+        },
+        "revenue": 8000000
+    },
+    {
+        "id": 461649,
+        "imdb": {
+            "imdb_id": "tt7329858",
+            "title": "Pari",
+            "director": "nm2583101",
+            "release_year": "2018",
+            "main_actor": "nm3087728",
+            "main_genre": "Fantasy"
+        },
+        "tmdb": {
+            "tmdb_id": 461649,
+            "overview": "Arnab tries to help Ruksahana, who is found under mysterious circumstances in a house. He lets her stay at his home until he discovers something strange about her.",
+            "budget": 2600000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                },
+                {
+                    "id": 9648,
+                    "name": "Mystery"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/togwv0TGqXkIA2YuYIY9VDLEkdF.jpg",
+            "production_companies": [
+                {
+                    "id": 80879,
+                    "logo_path": null,
+                    "name": "Clean Slate Films",
+                    "origin_country": "IN"
+                },
+                {
+                    "id": 91689,
+                    "logo_path": null,
+                    "name": "KriArj Entertainment",
+                    "origin_country": ""
+                },
+                {
+                    "id": 104531,
+                    "logo_path": null,
+                    "name": "KYTA Productions",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "IN",
+                    "name": "India"
+                }
+            ],
+            "vote_average": 6.4,
+            "vote_count": 27,
+            "review": null
+        },
+        "revenue": 6000000
+    },
+    {
+        "id": 474335,
+        "imdb": {
+            "imdb_id": "tt7334528",
+            "title": "Uncle Drew",
+            "director": "nm0831690",
+            "release_year": "2018",
+            "main_actor": "nm4489994",
+            "main_genre": "Comedy"
+        },
+        "tmdb": {
+            "tmdb_id": 474335,
+            "overview": "Uncle Drew recruits a squad of older basketball players to return to the court to compete in a tournament.",
+            "budget": 19000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/cDjAlFbpvjuxH4gFD02fqlyk6qL.jpg",
+            "production_companies": [
+                {
+                    "id": 1632,
+                    "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+                    "name": "Lionsgate",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.7,
+            "vote_count": 350,
+            "review": null
+        },
+        "revenue": 17665000
+    },
+    {
+        "id": 521777,
+        "imdb": {
+            "imdb_id": "tt7343762",
+            "title": "Good Boys",
+            "director": "nm1969144",
+            "release_year": "2019",
+            "main_actor": "nm5016878",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 521777,
+            "overview": "A group of young boys on the cusp of becoming teenagers embark on an epic quest to fix their broken drone before their parents get home.",
+            "budget": 20000000,
+            "genres": [
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/tximyCXMEnWIIyOy9STkOduUprG.jpg",
+            "production_companies": [
+                {
+                    "id": 17393,
+                    "logo_path": "/k28sCof6kheeOicLqL6EXX2GHov.png",
+                    "name": "Good Universe",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 16615,
+                    "logo_path": "/dbxHaOtibTKvP6dUMRYdwUOULgY.png",
+                    "name": "Point Grey Pictures",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.8,
+            "vote_count": 1100,
+            "review": "walking into the theater i didnt know what to expect from this movie except two things one to atleast laugh a little and two to be in aww by the shocking content but however what i personally didnt expect was to attend the absolute funniest movie ive seen all year long i laughed out loud nonstop i loved the characters as well this definetly isnt for everyone kids included or anyone offended by sex humor but if you can take it i highly recommend seeing this comedy blockbuster"
+        },
+        "revenue": 72457330
+    },
+    {
+        "id": 487558,
+        "imdb": {
+            "imdb_id": "tt7349662",
+            "title": "BlacKkKlansman",
+            "director": "nm0000490",
+            "release_year": "2018",
+            "main_actor": "nm0913475",
+            "main_genre": "Biography"
+        },
+        "tmdb": {
+            "tmdb_id": 487558,
+            "overview": "Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.",
+            "budget": 15000000,
+            "genres": [
+                {
+                    "id": 80,
+                    "name": "Crime"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                },
+                {
+                    "id": 36,
+                    "name": "History"
+                },
+                {
+                    "id": 35,
+                    "name": "Comedy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/z8tKeTOfZBLsuWsTh2nxWTR5ykN.jpg",
+            "production_companies": [
+                {
+                    "id": 3172,
+                    "logo_path": "/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+                    "name": "Blumhouse Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 72725,
+                    "logo_path": null,
+                    "name": "QC Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 923,
+                    "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+                    "name": "Legendary Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 88934,
+                    "logo_path": "/5Be96V9WXa7jJInSDPqDOqMBA0o.png",
+                    "name": "Monkeypaw Productions",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 4319,
+                    "logo_path": null,
+                    "name": "40 Acres & A Mule Filmworks",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 7.6,
+            "vote_count": 5255,
+            "review": "The way _BlacKkKlansman_ ends, felt in terms of formula almost as if I was supposed to have just seen some unsubtle propaganda, which seemed a very unusual note to go out on. It did sort of make me step back a bit, but it absolutely did not temper my enjoyment of the movie. I was engaged from the word go, and everybody in it is **so good**.\r\n\r\n_Final rating:\u2605\u2605\u2605\u00bd - I really liked it. Would strongly recommend you give it your time._"
+        },
+        "revenue": 48686605
+    },
+    {
+        "id": 474350,
+        "imdb": {
+            "imdb_id": "tt7349950",
+            "title": "It Chapter Two",
+            "director": "nm0615592",
+            "release_year": "2019",
+            "main_actor": "nm1567113",
+            "main_genre": "Drama"
+        },
+        "tmdb": {
+            "tmdb_id": 474350,
+            "overview": "27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.",
+            "budget": 79000000,
+            "genres": [
+                {
+                    "id": 27,
+                    "name": "Horror"
+                },
+                {
+                    "id": 14,
+                    "name": "Fantasy"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+            "production_companies": [
+                {
+                    "id": 2723,
+                    "logo_path": null,
+                    "name": "Lin Pictures",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 12,
+                    "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+                    "name": "New Line Cinema",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 829,
+                    "logo_path": "/mzpAmEQ5P1gFvdRoNyCk9q8ngiv.png",
+                    "name": "Vertigo Entertainment",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 87671,
+                    "logo_path": "/kEEGB5Z2XLYeR3AMt3Qds7vMnvM.png",
+                    "name": "KatzSmith Productions",
+                    "origin_country": "US"
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "CA",
+                    "name": "Canada"
+                },
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 5422,
+            "review": "\u2018It Chapter 2\u2019 isn\u2019t as stable or as refined a film as its predecessor, and while it feels lacking by comparison, it\u2019s still far better than most studio horror films. It\u2019s epic, ambitious, crazy, witty and unafraid to go for the heart as well as the throat. As a whole, this adaptation of maybe Stephen King\u2019s greatest work feels singular in the landscape of modern horror cinema: two films built on strong interconnected relationships spread over decades, as sentimental as they are vicious, and executed on the scale of a fantasy epic. They also may be amongst the best adaptations of King\u2019s work, understanding what makes his writing (and this novel in particular) so horrifying and so arresting, the human horror amongst the fantastical. Andy Muschietti aimed big with \u2018It\u2019, and even in the moments its reach exceeds its grasp, you\u2019re still so glad it reached so high in the first place.\r\n- Daniel Lammin\r\n\r\nRead Daniel's full article...\r\nhttps://www.maketheswitch.com.au/article/review-it-chapter-2-the-ambitious-conclusion-to-the-beloved-horror-epic"
+        },
+        "revenue": 473093228
+    },
+    {
+        "id": 476968,
+        "imdb": {
+            "imdb_id": "tt7388562",
+            "title": "Paul, Apostle of Christ",
+            "director": "nm1358366",
+            "release_year": "2018",
+            "main_actor": "nm0001029",
+            "main_genre": "Adventure"
+        },
+        "tmdb": {
+            "tmdb_id": 476968,
+            "overview": "Risking his life, Luke ventures to Rome to visit Paul -- the apostle who's bound in chains and held captive in Nero's darkest and bleakest prison cell. Haunted by the shadows of his past misdeeds, Paul wonders if he's been forgotten as he awaits his grisly execution. Before Paul's death, Luke resolves to write another book that details the birth of what will come to be known as the church.",
+            "budget": 5000000,
+            "genres": [
+                {
+                    "id": 36,
+                    "name": "History"
+                },
+                {
+                    "id": 18,
+                    "name": "Drama"
+                }
+            ],
+            "poster": "https://image.tmdb.org/t/p/original/2NUXG94dGMKYgJL1BkJGKynMb3l.jpg",
+            "production_companies": [
+                {
+                    "id": 81520,
+                    "logo_path": null,
+                    "name": "Outside Da Box",
+                    "origin_country": ""
+                },
+                {
+                    "id": 10156,
+                    "logo_path": "/bWjWWQfiyZh9AkGYCkx1NcVdSvn.png",
+                    "name": "Affirm Films",
+                    "origin_country": "US"
+                },
+                {
+                    "id": 105388,
+                    "logo_path": null,
+                    "name": "ODB Films",
+                    "origin_country": ""
+                }
+            ],
+            "production_countries": [
+                {
+                    "iso_3166_1": "US",
+                    "name": "United States of America"
+                }
+            ],
+            "vote_average": 6.9,
+            "vote_count": 155,
+            "review": null
+        },
+        "revenue": 22525668
+    }
+]
