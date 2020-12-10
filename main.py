@@ -53,6 +53,10 @@ def main():
     evaluator = Evaluator(args, model, test_loader, criterion)
     evaluator.evaluate('Test-BestValAcc')
 
+    model.load_state_dict(torch.load(os.path.join(args.weight_dir, 'last_checkpoint.pt'), map_location=args.device))
+    evaluator = Evaluator(args, model, test_loader, criterion)
+    evaluator.evaluate('Test-BestValAcc')
+
     if args.show_example:
         evaluator.predict_example()
 

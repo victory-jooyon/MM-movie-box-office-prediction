@@ -19,6 +19,7 @@ class Evaluator:
         self.model.eval()
         pbar = tqdm(self.loader, total=len(self.loader), desc=mode)
         total_loss, total_acc, n_data = 0, 0, 0
+        tp, fp, fn = 0, 0, 0
         for i, data in enumerate(pbar):
             # Load data
             poster, overview, success, imdb = data
@@ -30,15 +31,26 @@ class Evaluator:
             # Forward model & Get loss
             with torch.no_grad():
                 pred_success = self.model(overview, poster, imdb)
-                loss = self.criterion(pred_success, success)
 
+            loss = self.criterion(pred_success, success)
             total_acc += torch.eq(torch.argmax(pred_success, dim=1), success).to(torch.float32).sum().item()
             total_loss += loss.item()
             n_data += poster.shape[0]
 
+            if self.args.num_classes == 2:
+                tp_tmp = success[torch.eq(torch.argmax(pred_success, dim=1), success)].sum().item()
+                tp += tp_tmp
+                fp += torch.argmax(pred_success, dim=1).sum().item() - tp
+                fn += (1 - success)[torch.ne(torch.argmax(pred_success, dim=1), success)].sum().item()
+
         avg_loss = float(total_loss) / n_data
         avg_acc = total_acc / n_data
         print(f'{mode}: Average Loss: {avg_loss:.6f} | Average Acc: {avg_acc:.6f}')
+        if self.args.num_classes == 2:
+            precision = float(tp) / (tp + fp)
+            recall = float(tp) / (tp + fn)
+            f1 = 2. / ((1. / precision) + (1. / recall))
+            print(f'Binary Label - Precision: {precision} | Recall: {recall} | F1 Score: {f1}')
         return avg_loss, avg_acc
 
     def predict_example(self):
