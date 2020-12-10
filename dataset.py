@@ -49,6 +49,7 @@ class MovieDataset(Dataset):
                 if j == num_classes - 1 or profit < thres[j]:
                     success = j
                     data_split[j].append((id, poster, overview, imdb_text, profit, success))
+                    break
 
         # Aggregate data
         n_data = min(*[len(d) for d in data_split])

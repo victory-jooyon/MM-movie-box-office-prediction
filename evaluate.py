@@ -40,7 +40,7 @@ class Evaluator:
             if self.args.num_classes == 2:
                 tp_tmp = success[torch.eq(torch.argmax(pred_success, dim=1), success)].sum().item()
                 tp += tp_tmp
-                fp += torch.argmax(pred_success, dim=1).sum().item() - tp
+                fp += torch.argmax(pred_success, dim=1).sum().item() - tp_tmp
                 fn += (1 - success)[torch.ne(torch.argmax(pred_success, dim=1), success)].sum().item()
 
         avg_loss = float(total_loss) / n_data

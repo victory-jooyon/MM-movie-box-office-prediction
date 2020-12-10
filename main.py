@@ -21,15 +21,15 @@ def main():
     args = parse_args()
 
     # Load dataset
-    train_loader = DataLoader(MovieDataset(split='train', seed=args.seed), batch_size=args.batch_size,
+    train_loader = DataLoader(MovieDataset(split='train', seed=args.seed, num_classes=args.num_classes), batch_size=args.batch_size,
                               shuffle=True, num_workers=args.num_workers)
-    valid_loader = DataLoader(MovieDataset(split='valid', seed=args.seed), batch_size=32,
+    valid_loader = DataLoader(MovieDataset(split='valid', seed=args.seed, num_classes=args.num_classes), batch_size=32,
                               shuffle=False, num_workers=args.num_workers)
-    test_loader = DataLoader(MovieDataset(split='test', seed=args.seed), batch_size=32,
+    test_loader = DataLoader(MovieDataset(split='test', seed=args.seed, num_classes=args.num_classes), batch_size=32,
                              shuffle=False, num_workers=args.num_workers)
 
     # Load model
-    model = MultimodalPredictionModel(ablation=args.ablation).to(args.device)
+    model = MultimodalPredictionModel(ablation=args.ablation, num_classes=args.num_classes).to(args.device)
     model = nn.DataParallel(model)
 
     if args.resume is not None:
@@ -55,7 +55,7 @@ def main():
 
     model.load_state_dict(torch.load(os.path.join(args.weight_dir, 'last_checkpoint.pt'), map_location=args.device))
     evaluator = Evaluator(args, model, test_loader, criterion)
-    evaluator.evaluate('Test-BestValAcc')
+    evaluator.evaluate('Test-Last')
 
     if args.show_example:
         evaluator.predict_example()
