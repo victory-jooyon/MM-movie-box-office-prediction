@@ -111,7 +111,7 @@ class Evaluator:
 
             print(f'Evaluate with example {example["title"]}:\n'
                   f'Loss: {loss.item():.4f}\n'
-                  f'Predicted Success: {pred_success.tolist()}\n'
+                  f'Predicted Success: {torch.softmax(pred_success, dim=1).tolist()}\n'
                   f'Real success: {success[0].item()}: Profit: {profit}\n\n')
         print('Evaluation Finished')
 
