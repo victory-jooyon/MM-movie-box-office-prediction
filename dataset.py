@@ -13,8 +13,9 @@ from transformers import BertTokenizer
 
 
 class MovieDataset(Dataset):
-    def __init__(self, split='train', seed=0, num_classes=2, thres=(0,)):
+    def __init__(self, args, split='train', seed=0, num_classes=2, thres=(0,)):
         super(Dataset, self).__init__()
+        self.args = args
         # Read data from json
         with open('./data/json/crawled_data/crawled_data_all.json', 'r', encoding='utf-8') as f:
             movie_data = json.load(f)
@@ -32,13 +33,32 @@ class MovieDataset(Dataset):
             overview = data['tmdb']['overview']
 
             # Build imdb text
-            imdb = []
-            for key in ['release_year', 'main_genre', 'director', 'main_actor']:
-                if key in data['imdb']:
-                    imdb.append(data['imdb'][key])
+            if self.args.aug == 'mlp':
+                try:
+                    release_year = int(data['imdb']['release_year'])
+                except:
+                    release_year = -1
+                if len(data['tmdb']['genres']) != 0:
+                    main_genre = int(data['tmdb']['genres'][0]['id'])
                 else:
-                    imdb.append(' ')
-            imdb_text = "year is {}, genre is {}, director is {}, actor is {}".format(*imdb)
+                    main_genre = -1
+                try:
+                    director = int(data['imdb']['director'][2:])
+                except:
+                    director = -1
+                try:
+                    actor = int(data['imdb']['main_actor'][2:])
+                except:
+                    actor = -1
+                imdb_out = [release_year, main_genre, director, actor]
+            else:
+                imdb = []
+                for key in ['release_year', 'main_genre', 'director', 'main_actor']:
+                    if key in data['imdb']:
+                        imdb.append(data['imdb'][key])
+                    else:
+                        imdb.append(' ')
+                imdb_out = "year is {}, genre is {}, director is {}, actor is {}".format(*imdb)
 
             # Label profit
             revenue = float(data['revenue'])
@@ -48,7 +68,7 @@ class MovieDataset(Dataset):
             for j in range(num_classes):
                 if j == num_classes - 1 or profit < thres[j]:
                     success = j
-                    data_split[j].append((id, poster, overview, imdb_text, profit, success))
+                    data_split[j].append((id, poster, overview, imdb_out, profit, success))
                     break
 
         # Aggregate data
@@ -93,7 +113,7 @@ class MovieDataset(Dataset):
 
     def __getitem__(self, idx):
         # Get data
-        movie_id, url, overview, imdb_text, profit, success = self.data[idx]
+        movie_id, url, overview, imdb_out, profit, success = self.data[idx]
 
         # Preprocess data
         res = requests.get(url, stream=True)
@@ -101,7 +121,10 @@ class MovieDataset(Dataset):
         image = self.image_process(image)
 
         overview = self.get_tokenized(overview)
-        imdb = self.get_tokenized(imdb_text)
+        if self.args.aug == 'mlp':
+            imdb = torch.tensor(imdb_out, dtype=torch.float)
+        else:
+            imdb = self.get_tokenized(imdb_out)
 
         success = torch.tensor(success, dtype=torch.long)
 

@@ -26,7 +26,10 @@ class Evaluator:
             poster, success = poster.to(self.args.device), success.to(self.args.device)
             for key in overview.keys():
                 overview[key] = overview[key].to(self.args.device)
-                imdb[key] = imdb[key].to(self.args.device)
+                if self.args.aug == 'mlp':
+                    imdb = imdb.to(self.args.device)
+                else:
+                    imdb[key] = imdb[key].to(self.args.device)
 
             # Forward model & Get loss
             with torch.no_grad():
@@ -44,7 +47,7 @@ class Evaluator:
 
         avg_loss = float(total_loss) / n_data
         avg_acc = total_acc / n_data
-        print(f'{mode}: Average Loss: {avg_loss:.6f} | Average Acc: {avg_acc:.6f}')
+
         if self.args.num_classes == 2:
             try:
                 precision = float(tp) / (tp + fp)

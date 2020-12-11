@@ -4,11 +4,14 @@ from transformers import BertTokenizer, BertModel
 
 
 class TMDBFeatureExtractor(nn.Module):
-    def __init__(self, feature_size):
+    def __init__(self, feature_size, augmode):
         super(TMDBFeatureExtractor, self).__init__()
         self.feature_extractor = BertModel.from_pretrained('bert-base-uncased', output_hidden_states=True)
         for param in self.feature_extractor.parameters():
-            param.requires_grad = False
+            if augmode == 'allow-grad':
+                param.requires_grad = True
+            else:
+                param.requires_grad = False
 
     def forward(self, x):
         outputs = self.feature_extractor(**x)
