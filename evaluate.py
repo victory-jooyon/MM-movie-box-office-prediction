@@ -38,18 +38,26 @@ class Evaluator:
             n_data += poster.shape[0]
 
             if self.args.num_classes == 2:
-                tp_tmp = success[torch.eq(torch.argmax(pred_success, dim=1), success)].sum().item()
-                tp += tp_tmp
-                fp += torch.argmax(pred_success, dim=1).sum().item() - tp_tmp
+                tp += success[torch.eq(torch.argmax(pred_success, dim=1), success)].sum().item()
+                fp += success[torch.ne(torch.argmax(pred_success, dim=1), success)].sum().item()
                 fn += (1 - success)[torch.ne(torch.argmax(pred_success, dim=1), success)].sum().item()
 
         avg_loss = float(total_loss) / n_data
         avg_acc = total_acc / n_data
         print(f'{mode}: Average Loss: {avg_loss:.6f} | Average Acc: {avg_acc:.6f}')
         if self.args.num_classes == 2:
-            precision = float(tp) / (tp + fp)
-            recall = float(tp) / (tp + fn)
-            f1 = 2. / ((1. / precision) + (1. / recall))
+            try:
+                precision = float(tp) / (tp + fp)
+            except ZeroDivisionError:
+                precision = 0
+            try:
+                recall = float(tp) / (tp + fn)
+            except ZeroDivisionError:
+                recall = 0
+            try:
+                f1 = 2. / ((1. / precision) + (1. / recall))
+            except ZeroDivisionError:
+                f1 = 0
             print(f'Binary Label - Precision: {precision} | Recall: {recall} | F1 Score: {f1}')
         return avg_loss, avg_acc
 
@@ -86,18 +94,25 @@ class Evaluator:
                    f"director is {example['director']}, actor is {example['main_actor']}"
             imdb = get_tokenized(imdb, device=self.args.device)
 
-            # Preprocess revenue
-            revenue = torch.tensor([example['revenue']], dtype=torch.float32, device=self.args.device).unsqueeze(0)
-            revenue = (revenue - revenue_mean) / revenue_std
+            # Preprocess revenue/budget
+            revenue = example['revenue']
+            budget = example['budget']
+            profit = float(revenue - budget) / budget
+            success = 0
+            for thres in range(self.args.num_classes):
+                if thres == self.args.num_classes - 1 or profit < thres:
+                    success = thres
+                    break
+            success = torch.tensor([success], dtype=torch.long, device=self.args.device)
 
             with torch.no_grad():
-                pred_revenue = self.model(overview, poster, imdb)
-                loss = self.criterion(pred_revenue, revenue)
+                pred_success = self.model(overview, poster, imdb)
+                loss = self.criterion(pred_success, success)
 
             print(f'Evaluate with example {example["title"]}:\n'
                   f'Loss: {loss.item():.4f}\n'
-                  f'Predicted Revenue: {int((pred_revenue.item() * revenue_std) + revenue_mean)}\n'
-                  f'Real Revenue: {int(example["revenue"])}\n\n')
+                  f'Predicted Success: {pred_success.tolist()}\n'
+                  f'Real success: {success[0].item()}: Profit: {profit}\n\n')
         print('Evaluation Finished')
 
     example = [
@@ -114,6 +129,7 @@ class Evaluator:
             'main_actor': 'Robert Downey Jr.',
             'director': 'Anthony Russo, Joe Russo',
             'revenue': 2797800564,
+            'budget': 356000000,
         },
         {
             'id': 150540,
@@ -129,6 +145,7 @@ class Evaluator:
             "main_actor": "Amy Poehler",
             'release_year': 2015,
             'revenue': 857611174,
+            'budget': 175000000,
         },
         {
             'id': 109445,
@@ -144,6 +161,7 @@ class Evaluator:
             'director': 'Chris Buck, Jennifer Lee',
             'main_actor': 'Chris Bell',
             'revenue': 1274219009,
+            'budget': 150000000,
         },
         {
             'id': 546554,
@@ -159,6 +177,7 @@ class Evaluator:
             'director': 'Rian Johnson',
             'main_actor': 'Daniel Craig',
             'revenue': 309232797,
+            'budget': 40000000,
         },
         {
             'id': 138,
@@ -173,5 +192,38 @@ class Evaluator:
             "release_year": "2001",
             "main_actor": "George Clooney",
             'revenue': 450717150,
+            'budget': 85000000,
+        },
+        {
+            'id': 18438,
+            'title': 'Castaway on the moon 1',
+            'poster': 'https://image.tmdb.org/t/p/w1280/wVDuDqn4ZPIhfdr7gyS2dKE0XPl.jpg',
+            'overview': 'Mr. Kim is jobless, lost in debt and has been dumped by his girlfriend. He decides to end it '
+                        'all by jumping into the Han River - only to find himself washed up on a small, '
+                        'mid-river island. He soon abandons thoughts of suicide or rescue and begins a new life as a '
+                        'castaway. His antics catch the attention of a young woman whose apartment overlooks the '
+                        'river. Her discovery changes both their lives.',
+            'genre': 'Drama, Comedy, Romance',
+            'director': 'Ha-jun Lee',
+            'release_year': '2009',
+            'main_actor': 'Jae-yeong Jeong',
+            'revenue': 1,
+            'budget': 1
+        },
+        {
+            'id': 18438,
+            'title': 'Castaway on the moon 2',
+            'poster': 'https://image.tmdb.org/t/p/w1280/wtwksluLuJmvP9buD0vJBbaa0M0.jpg',
+            'overview': 'Mr. Kim is jobless, lost in debt and has been dumped by his girlfriend. He decides to end it '
+                        'all by jumping into the Han River - only to find himself washed up on a small, '
+                        'mid-river island. He soon abandons thoughts of suicide or rescue and begins a new life as a '
+                        'castaway. His antics catch the attention of a young woman whose apartment overlooks the '
+                        'river. Her discovery changes both their lives.',
+            'genre': 'Drama, Comedy, Romance',
+            'director': 'Ha-jun Lee',
+            'release_year': '2009',
+            'main_actor': 'Jae-yeong Jeong',
+            'revenue': 1,
+            'budget': 1
         }
     ]

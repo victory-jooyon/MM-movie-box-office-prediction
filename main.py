@@ -67,9 +67,9 @@ def main():
 def parse_args():
     parser = argparse.ArgumentParser('Multimodal box office prediction')
     parser.add_argument('--epochs', default=10, type=int, help='Total epochs to train')
-    parser.add_argument('--batch_size', default=4, type=int, help='Batch size')
+    parser.add_argument('--batch_size', default=16, type=int, help='Batch size')
     parser.add_argument('--valid_interval', default=1, type=int, help='Validation interval')
-    parser.add_argument('--lr', default=0.0001, type=float, help='Train learning rate')
+    parser.add_argument('--lr', default=0.0005, type=float, help='Train learning rate')
     parser.add_argument('--num_workers', default=4, type=int, help='Number of workers for loader')
     parser.add_argument('--ablation', default=None, type=str, choices=['poster', 'tmdb', 'imdb', None],
                         help='Where to use single feature for prediction')
@@ -90,6 +90,8 @@ def parse_args():
     else:
         args.weight_dir = os.path.join(args.weight_dir, 'main')
     os.makedirs(args.weight_dir, exist_ok=True)
+
+    print(args)
 
     return args
 
