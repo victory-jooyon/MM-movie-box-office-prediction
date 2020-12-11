@@ -54,6 +54,9 @@ class Trainer:
                     best_acc = valid_acc
                     print(f'Best Acc Checkpoint Saved at {epoch}')
 
+                if self.args.show_example:
+                    self.test_evaluator.predict_example()
+
         print('Train end!')
 
 
