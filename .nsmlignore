@@ -1,0 +1,6 @@
+data/json/tmdb_data.json
+data/json/validated_data.json
+data/json/preprocessed_data.json
+data/json/data.json
+data/raw/json/
+data/json/crawled_data/partial_data/

@@ -11,6 +11,11 @@ from network.network import MultimodalPredictionModel
 from dataset import MovieDataset
 from trainer import Trainer
 
+try:
+    import nsml
+    USE_NSML = True
+except:
+    USE_NSML = False
 
 def main():
     t0 = time.time()
@@ -47,21 +52,17 @@ def parse_args():
     parser.add_argument('--epochs', default=10, type=int, help='Total epochs to train')
     parser.add_argument('--batch_size', default=16, type=int, help='Batch size')
     parser.add_argument('--valid_interval', default=1, type=int, help='Validation interval')
-    parser.add_argument('--lr', default=0.0005, type=float, help='Train learning rate')
+    parser.add_argument('--lr', default=5e-04, type=float, help='Train learning rate')
     parser.add_argument('--num_workers', default=4, type=int, help='Number of workers for loader')
     parser.add_argument('--ablation', default=None, type=str, choices=['poster', 'tmdb', 'imdb', None],
                         help='Where to use single feature for prediction')
-    parser.add_argument('--device', default='cuda:0', type=str, help='Training device: cpu/cuda/cuda:0,1,...')
     parser.add_argument('--seed', default=1, type=int, help='Dataset shuffle seed')
     parser.add_argument('--num_classes', default=2, type=int, help='Number of classes')
-
-    parser.add_argument('--weight_dir', default='./weight', type=str, help='Weight save/load directory')
-    parser.add_argument('--resume', default=None, type=str, choices=['best', 'last', None],
-                        help='Where to resume')
     parser.add_argument('--show_example', action='store_true', help='Whether to show example')
 
     args, _ = parser.parse_known_args()
-    args.device = torch.device(args.device if torch.cuda.is_available() else 'cpu')
+    args.device = torch.device("cuda" if torch.cuda.is_available() else 'cpu')
+    args.USE_NSML = USE_NSML
 
     print(args)
 
