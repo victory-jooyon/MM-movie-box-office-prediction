@@ -33,6 +33,22 @@ pool-vec:
 	$(NSML) "--seed 3 --aug pool-vec"
 	$(NSML) "--seed 4 --aug pool-vec"
 
+pool-max:
+	$(NSML) "--seed 52 --aug pool-max"
+	$(NSML) "--seed 0 --aug pool-max"
+	$(NSML) "--seed 1 --aug pool-max"
+	$(NSML) "--seed 2 --aug pool-max"
+	$(NSML) "--seed 3 --aug pool-max"
+	$(NSML) "--seed 4 --aug pool-max"
+
+max-only:
+	$(NSML) "--seed 52 --aug max-only"
+	$(NSML) "--seed 0 --aug max-only"
+	$(NSML) "--seed 1 --aug max-only"
+	$(NSML) "--seed 2 --aug max-only"
+	$(NSML) "--seed 3 --aug max-only"
+	$(NSML) "--seed 4 --aug max-only"
+
 mlp:
 	$(NSML) "--seed 0 --aug mlp"
 	$(NSML) "--seed 0 --aug mlp --ablation imdb"

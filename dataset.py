@@ -33,7 +33,7 @@ class MovieDataset(Dataset):
             overview = data['tmdb']['overview']
 
             # Build imdb text
-            if self.args.aug == 'mlp':
+            if self.args.aug in ['mlp', 'pool-max']:
                 try:
                     release_year = int(data['imdb']['release_year'])
                 except:
@@ -121,7 +121,7 @@ class MovieDataset(Dataset):
         image = self.image_process(image)
 
         overview = self.get_tokenized(overview)
-        if self.args.aug == 'mlp':
+        if self.args.aug in ['mlp', 'pool-max']:
             imdb = torch.tensor(imdb_out, dtype=torch.float)
         else:
             imdb = self.get_tokenized(imdb_out)

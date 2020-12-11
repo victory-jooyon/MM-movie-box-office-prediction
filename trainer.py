@@ -31,7 +31,7 @@ class Trainer:
                 poster, true_success = poster.to(self.args.device), true_success.to(self.args.device)
                 for key in overview.keys():
                     overview[key] = overview[key].to(self.args.device)
-                    if self.args.aug == 'mlp':
+                    if self.args.aug == 'mlp' or self.args.aug == 'pool-max':
                         imdb = imdb.to(self.args.device)
                     else:
                         imdb[key] = imdb[key].to(self.args.device)

@@ -62,7 +62,7 @@ def parse_args():
     parser.add_argument('--num_classes', default=2, type=int, help='Number of classes')
     parser.add_argument('--show_example', action='store_true', help='Whether to show example')
 
-    parser.add_argument('--aug', type=str, choices=['pool-vec', 'normal', 'allow-grad', 'more-layer', 'mlp'])
+    parser.add_argument('--aug', type=str, choices=['pool-vec', 'normal', 'allow-grad', 'more-layer', 'mlp', 'pool-max', 'max-only'])
     args, _ = parser.parse_known_args()
     args.device = torch.device("cuda" if torch.cuda.is_available() else 'cpu')
     args.USE_NSML = USE_NSML

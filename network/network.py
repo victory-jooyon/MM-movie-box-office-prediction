@@ -31,7 +31,10 @@ class MultimodalPredictionModel(nn.Module):
                                     nn.ReLU(),
                                     nn.Dropout(),
                                     nn.Linear(hidden_layer_size, num_classes))
-        self.pool = nn.AvgPool1d(3)
+        if self.args.aug == 'pool-vec':
+            self.pool = nn.AvgPool1d(3)
+        elif self.args.aug == 'pool-max' or self.args.aug == 'max-only':
+            self.pool = nn.MaxPool1d(3)
 
     def forward(self, tmdb_tok, poster_input, imdb_tok):
         # [feature_size]
@@ -42,7 +45,7 @@ class MultimodalPredictionModel(nn.Module):
         # [feature_size * 3]
         if self.ablation is None:
             total_feature = torch.cat((tmdb_feature, poster_feature, imdb_feature), dim=1)
-            if self.args.aug == 'pool-vec':
+            if self.args.aug == 'pool-vec' or self.args.aug == 'pool-max' or self.args.aug == 'max-only':
                 total_feature = self.pool(total_feature.unsqueeze(0)).squeeze(0)
         elif self.ablation == 'poster':
             total_feature = poster_feature

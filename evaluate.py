@@ -26,7 +26,7 @@ class Evaluator:
             poster, success = poster.to(self.args.device), success.to(self.args.device)
             for key in overview.keys():
                 overview[key] = overview[key].to(self.args.device)
-                if self.args.aug == 'mlp':
+                if self.args.aug in ['mlp', 'pool-max']:
                     imdb = imdb.to(self.args.device)
                 else:
                     imdb[key] = imdb[key].to(self.args.device)
