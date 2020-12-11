@@ -2,20 +2,19 @@ import os
 from tqdm import tqdm
 
 import torch
-from torch.utils.tensorboard import SummaryWriter
 
 import evaluate
 
 
 class Trainer:
-    def __init__(self, args, model, train_loader, valid_loader, criterion, optimizer):
+    def __init__(self, args, model, train_loader, valid_loader, criterion, optimizer, test_loader):
         self.args = args
         self.model = model
         self.train_loader = train_loader
         self.criterion = criterion
         self.optimizer = optimizer
         self.validation = evaluate.Evaluator(args, model, valid_loader, criterion)
-        self.writer = SummaryWriter(log_dir='./logs')
+        self.test_evaluator = evaluate.Evaluator(args, model, test_loader, criterion)
 
     def train(self):
         best_loss, best_acc = float('inf'), 0
@@ -44,24 +43,17 @@ class Trainer:
                 total_loss += loss.item()
                 total_data += true_success.shape[0]
 
-            self.writer.add_scalar('Loss/train', float(total_loss) / total_data, epoch)
-
             # Validate for some interval
             if epoch % self.args.valid_interval == 0:
                 valid_loss, valid_acc = self.validation.evaluate(f'Epoch {epoch} validation')
+                self.test_evaluator.evaluate(f'Epoch {epoch} test')
                 if valid_loss < best_loss:
                     best_loss = valid_loss
-                    torch.save(self.model.state_dict(), os.path.join(self.args.weight_dir, 'best_checkpoint_loss.pt'))
                     print(f'Best Loss Checkpoint Saved at {epoch}')
                 if valid_acc > best_acc:
                     best_acc = valid_acc
-                    torch.save(self.model.state_dict(), os.path.join(self.args.weight_dir, 'best_checkpoint_acc.pt'))
                     print(f'Best Acc Checkpoint Saved at {epoch}')
-                self.writer.add_scalar('Loss/valid', valid_loss, epoch)
-                self.writer.add_scalar('Acc/valid', valid_acc, epoch)
 
-        torch.save(self.model.state_dict(), os.path.join(self.args.weight_dir, 'last_checkpoint.pt'))
-        self.writer.close()
         print('Train end!')
 
 

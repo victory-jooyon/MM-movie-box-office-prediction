@@ -1,5 +1,4 @@
 import os
-import shutil
 import argparse
 import time
 
@@ -11,7 +10,6 @@ from torch.utils.data import DataLoader
 from network.network import MultimodalPredictionModel
 from dataset import MovieDataset
 from trainer import Trainer
-from evaluate import Evaluator
 
 
 def main():
@@ -32,33 +30,13 @@ def main():
     model = MultimodalPredictionModel(ablation=args.ablation, num_classes=args.num_classes).to(args.device)
     model = nn.DataParallel(model)
 
-    if args.resume is not None:
-        model.load_state_dict(torch.load(os.path.join(args.weight_dir, args.resume + '.pt'), map_location=args.device))
-
     # Load criterion & optimizer
     criterion = nn.CrossEntropyLoss()
     optimizer = optim.Adam(model.parameters(), lr=args.lr, weight_decay=1E-4)
 
     # Run train
-    shutil.rmtree('./logs')
-    trainer = Trainer(args, model, train_loader, valid_loader, criterion, optimizer)
+    trainer = Trainer(args, model, train_loader, valid_loader, criterion, optimizer, test_loader)
     trainer.train()
-
-    # Run test
-    model.load_state_dict(torch.load(os.path.join(args.weight_dir, 'best_checkpoint_loss.pt'), map_location=args.device))
-    evaluator = Evaluator(args, model, test_loader, criterion)
-    evaluator.evaluate('Test-BestValLoss')
-
-    model.load_state_dict(torch.load(os.path.join(args.weight_dir, 'best_checkpoint_acc.pt'), map_location=args.device))
-    evaluator = Evaluator(args, model, test_loader, criterion)
-    evaluator.evaluate('Test-BestValAcc')
-
-    model.load_state_dict(torch.load(os.path.join(args.weight_dir, 'last_checkpoint.pt'), map_location=args.device))
-    evaluator = Evaluator(args, model, test_loader, criterion)
-    evaluator.evaluate('Test-Last')
-
-    if args.show_example:
-        evaluator.predict_example()
 
     print(f'Entire pipeline Finished\n'
           f'Time elapsed: {time.time() - t0:.4f}')
@@ -84,12 +62,6 @@ def parse_args():
 
     args, _ = parser.parse_known_args()
     args.device = torch.device(args.device if torch.cuda.is_available() else 'cpu')
-
-    if args.ablation is not None:
-        args.weight_dir = os.path.join(args.weight_dir, args.ablation)
-    else:
-        args.weight_dir = os.path.join(args.weight_dir, 'main')
-    os.makedirs(args.weight_dir, exist_ok=True)
 
     print(args)
 
