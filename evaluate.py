@@ -33,25 +33,26 @@ class Evaluator:
                 pred_success = self.model(overview, poster, imdb)
 
             loss = self.criterion(pred_success, success)
-            total_acc += torch.eq(torch.argmax(pred_success, dim=1), success).to(torch.float32).sum().item()
+            prediction = torch.argmax(pred_success, dim=1)
+            total_acc += torch.eq(prediction, success).to(torch.float32).sum().item()
             total_loss += loss.item()
             n_data += poster.shape[0]
 
             if self.args.num_classes == 2:
-                tp += success[torch.eq(torch.argmax(pred_success, dim=1), success)].sum().item()
-                fp += success[torch.ne(torch.argmax(pred_success, dim=1), success)].sum().item()
-                fn += (1 - success)[torch.ne(torch.argmax(pred_success, dim=1), success)].sum().item()
+                tp += success[torch.eq(prediction, success)].sum().item()
+                fp += prediction[torch.ne(prediction, success)].sum().item()
+                fn += (1 - prediction)[torch.ne(prediction, success)].sum().item()
 
         avg_loss = float(total_loss) / n_data
         avg_acc = total_acc / n_data
         print(f'{mode}: Average Loss: {avg_loss:.6f} | Average Acc: {avg_acc:.6f}')
         if self.args.num_classes == 2:
             try:
-                precision = float(tp) / (tp + fp)
+                precision = float(tp) / float(tp + fp)
             except ZeroDivisionError:
                 precision = 0
             try:
-                recall = float(tp) / (tp + fn)
+                recall = float(tp) / float(tp + fn)
             except ZeroDivisionError:
                 recall = 0
             try:
