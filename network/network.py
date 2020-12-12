@@ -15,7 +15,7 @@ class MultimodalPredictionModel(nn.Module):
         self.ablation = ablation
 
         fc_size = feature_size * 3 if ablation is None else feature_size
-        if self.ablation is None and self.args.aug == 'pool-vec':
+        if self.ablation is None and (self.args.aug == 'pool-vec' or self.args.aug == 'max-only'):
             fc_size = feature_size
 
         if self.args.aug == 'more-layer':

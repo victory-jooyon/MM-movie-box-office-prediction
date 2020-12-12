@@ -1,6 +1,6 @@
 NSML = nsml run -e main.py --memory 12G --shm-size 1G -g 1 -c 5 --gpu-model P40 -a
 SEED = 4
-AUG = mlp
+AUG = max-only
 
 # normal pool-vec allow-grad more-layer
 OPTIONS = --SEED $(SEED) --aug $(AUG)
@@ -21,17 +21,17 @@ imdb:
 	$(NSML) "$(OPTIONS) --ablation imdb"
 
 normal:
-	$(NSML) "--seed $(SEED) --aug normal"
-	$(NSML) "--seed $(SEED) --aug normal --ablation imdb"
-	$(NSML) "--seed $(SEED) --aug normal --ablation poster"
-	$(NSML) "--seed $(SEED) --aug normal --ablation tmdb"
+	$(NSML) "--seed $(SEED) --aug normal --num_classes 3"
+	$(NSML) "--seed $(SEED) --aug normal --ablation imdb --num_classes 3"
+	$(NSML) "--seed $(SEED) --aug normal --ablation poster --num_classes 3"
+	$(NSML) "--seed $(SEED) --aug normal --ablation tmdb --num_classes 3"
 
 pool-vec:
-	$(NSML) "--seed 0 --aug pool-vec"
-	$(NSML) "--seed 1 --aug pool-vec"
-	$(NSML) "--seed 2 --aug pool-vec"
-	$(NSML) "--seed 3 --aug pool-vec"
-	$(NSML) "--seed 4 --aug pool-vec"
+	$(NSML) "--seed 0 --aug pool-vec --num_classes 3"
+	$(NSML) "--seed 1 --aug pool-vec --num_classes 3"
+	$(NSML) "--seed 2 --aug pool-vec --num_classes 3"
+	$(NSML) "--seed 3 --aug pool-vec --num_classes 3"
+	$(NSML) "--seed 4 --aug pool-vec --num_classes 3"
 
 pool-max:
 	$(NSML) "--seed 52 --aug pool-max"
@@ -42,12 +42,12 @@ pool-max:
 	$(NSML) "--seed 4 --aug pool-max"
 
 max-only:
-	$(NSML) "--seed 52 --aug max-only"
-	$(NSML) "--seed 0 --aug max-only"
-	$(NSML) "--seed 1 --aug max-only"
-	$(NSML) "--seed 2 --aug max-only"
-	$(NSML) "--seed 3 --aug max-only"
-	$(NSML) "--seed 4 --aug max-only"
+	$(NSML) "--seed 52 --aug max-only --num_classes 3"
+	$(NSML) "--seed 0 --aug max-only --num_classes 3"
+	$(NSML) "--seed 1 --aug max-only --num_classes 3"
+	$(NSML) "--seed 2 --aug max-only --num_classes 3"
+	$(NSML) "--seed 3 --aug max-only --num_classes 3"
+	$(NSML) "--seed 4 --aug max-only --num_classes 3"
 
 mlp:
 	$(NSML) "--seed 0 --aug mlp"
