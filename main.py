@@ -8,6 +8,8 @@ import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import DataLoader
 
+from transformers import set_seed
+
 from network.network import MultimodalPredictionModel
 from dataset import MovieDataset
 from trainer import Trainer
@@ -90,6 +92,7 @@ def parse_args():
     else:
         args.weight_dir = os.path.join(args.weight_dir, 'main')
     os.makedirs(args.weight_dir, exist_ok=True)
+    set_seed(args.seed)
 
     print(args)
 
