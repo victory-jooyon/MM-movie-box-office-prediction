@@ -74,7 +74,7 @@ def parse_args():
     parser.add_argument('--ablation', default=None, type=str, choices=['poster', 'tmdb', 'imdb', None],
                         help='Where to use single feature for prediction')
     parser.add_argument('--device', default='cuda:0', type=str, help='Training device: cpu/cuda/cuda:0,1,...')
-    parser.add_argument('--seed', default=1, type=int, help='Dataset shuffle seed')
+    parser.add_argument('--seed', default=3, type=int, help='Dataset shuffle seed')
     parser.add_argument('--num_classes', default=2, type=int, help='Number of classes')
 
     parser.add_argument('--weight_dir', default='./weight', type=str, help='Weight save/load directory')

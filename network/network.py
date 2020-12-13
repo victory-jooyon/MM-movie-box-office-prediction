@@ -13,8 +13,8 @@ class MultimodalPredictionModel(nn.Module):
         self.imdb = IMDBFeatureExtractor(feature_size)
         self.ablation = ablation
 
-        fc_size = feature_size * 3 if ablation is None else feature_size
-        self.fc = nn.Sequential(nn.Linear(fc_size, hidden_layer_size),
+        self.pool = nn.AvgPool1d(3)
+        self.fc = nn.Sequential(nn.Linear(feature_size, hidden_layer_size),
                                 nn.ReLU(),
                                 nn.Dropout(),
                                 nn.Linear(hidden_layer_size, num_classes))
@@ -28,6 +28,7 @@ class MultimodalPredictionModel(nn.Module):
         # [feature_size * 3]
         if self.ablation is None:
             total_feature = torch.cat((tmdb_feature, poster_feature, imdb_feature), dim=1)
+            total_feature = self.pool(total_feature.unsqueeze(0)).squeeze(0)
         elif self.ablation == 'poster':
             total_feature = poster_feature
         elif self.ablation == 'tmdb':
